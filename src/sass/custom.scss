@@ -1,0 +1,5 @@
+//用户自定义颜色
+$nlc_color:#036;
+$nlc_color_light:color.scale($color, $whiteness: ($whitens*0.2)*1%);
+$nlc_color_dark:color.scale($color, $whiteness: ($whitens*0.1)*1%);
+$color_range:50,100,200,300,400,500,600,700,800,900;

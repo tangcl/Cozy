@@ -1,0 +1,1 @@
+(()=>{var n=function(){function n(){this.names="hello",console.log("constructor")}return n.prototype.print=function(){return this.names},n}();window.obj=new n})();

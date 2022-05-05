@@ -1,0 +1,76 @@
+@for $i from 1 through 100{
+    .w-#{$i}-100{
+        min-width: $i*1%;
+        width: $i*1% !important;
+        $max:($i * 3/2)*1%;
+        @if $max>100%{
+            max-width:100%;
+        }@else{
+            max-width:$max;
+        };
+    }
+}
+
+@for $i from 1 through 100{
+    .w-#{$i}rem{
+        min-width: $i*1rem;
+        width: $i*1rem !important;
+        $max:($i * 3/2)*1rem;
+        @if $max>100rem{
+            max-width:100rem;
+        }@else{
+            max-width:$max;
+        };
+    }
+}
+
+@for $i from 1 through 100{
+    .w-#{$i}px{
+        min-width: $i*1px;
+        width: $i*1px !important;
+        $max:($i * 3/2)*1px;
+        @if $max>100px{
+            max-width:100px;
+        }@else{
+            max-width:$max;
+        };
+    }
+}
+
+
+@for $i from 1 through 100{
+    .padding-#{$i}-px{
+        padding: $i*1px;
+    }
+}
+
+@for $i from 1 through 100{
+    .padding-#{$i}rem{
+        padding: $i*1rem;
+    }
+}
+
+@for $i from 1 through 100{
+    .h-#{$i}-100{
+        min-height: $i * 1/2 *1%;
+        height: $i*1%;
+        max-height: $i*1%;
+    }
+}
+
+@for $i from 1 through 100{
+    .h-#{$i}rem{
+        min-height: $i * 1 / 2 * 1rem;
+        height: $i*1rem;
+        max-height: $i*1.1rem;
+    }
+}
+
+@for $i from 1 through 100{
+    .h-#{$i}px{
+        min-height: $i*1/2*1px;
+        height: $i*1px;
+        max-height: $i*1.2px;
+    }
+}
+

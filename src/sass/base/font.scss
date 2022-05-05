@@ -1,0 +1,223 @@
+@use "sass:math";
+$fontsize:16px;
+//定义方向：
+.font-position-left{
+    text-align: left;
+}
+
+.font-position-center{
+    text-align: center;
+}
+.font-position-right{
+    text-align: right;
+}
+
+//定义中级应用大小
+$font-size-range:100,200,300,400,500,600,700,800,900;
+@each $size in $font-size-range{
+    @if $size < 400{
+        $divide: (400 - $size) / 100 * 0.1;
+        .font-size-#{$size}{
+            font-size: (1 - $divide) * 1rem;
+            line-height: (1 - $divide) * 1rem * 1.5;
+        }
+    }
+    @if $size > 400{
+        $divide: ($size - 400) / 100 *0.1;
+        .font-size-#{$size}{
+            font-size: (1 + $divide) * 1rem;
+            line-height: (1 + $divide) * 1rem *1.5;
+        }
+    }
+    @if $size == 400{
+        .font-size-#{$size}{
+            font-size: $fontsize;
+            line-height: $fontsize * 1.5;
+        }
+        .font-size{
+            font-size: $fontsize;
+            line-height: $fontsize * 1.5;
+        }
+    }
+}
+
+
+
+$letter-space: 100,200,300,400,500,600,700,800,900;
+@each $letter in $letter-space{
+    @if $letter < 400{
+        $letterns : (400 - $letter) /100 * 0.01rem;
+        .font-space-#{$letter}{
+            letter-spacing: 0-$letterns;
+        }        
+    }
+    @if $letter == 400{
+        .font-space-400{
+                letter-spacing: 0;
+        }
+        .font-space{
+            letter-spacing: 0;
+        }        
+    }
+    @if $letter > 400{
+        $letterns : ($letter - 400) /100 * 0.1rem;
+            .font-space-#{$letter}{
+                letter-spacing: $letterns;
+        }        
+    }
+} 
+
+  //定义三种字体，并提供自定义字体方案
+  @mixin font-family-sans{
+      //非衬线字体,html,body会根本使用此字体，而其他字体需要视情况选择使用其他类。
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+  .font-family-sans{
+    //非衬线字体,html,body会根本使用此字体，而其他字体需要视情况选择使用其他类。
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+  @mixin font-family-serif{
+      //衬线字体
+      font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+  .font-family-serif{
+    //衬线字体
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    }
+    @mixin font-family-monospace{
+        //等宽字体
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+  .font-family-monospace{
+      //等宽字体
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+  .font-family-customer{
+      //自定义字体
+  }
+
+//定义font-weight
+//font-weight 
+$font-weight-range:100,200,300,400,500,600,700,800,900;
+@each $font-weight in $font-weight-range{
+    .font-weight-#{$font-weight} {
+        font-weight: $font-weight;
+    }
+    @if $font-weight == 400{
+        .font-weight {
+            font-weight: $font-weight;
+        }   
+    } 
+}
+
+//自定义样式及类
+
+//斜体文本
+i, cite, em, var, address, dfn {
+    font-style: italic;
+}
+.i, .cite, .em, .var, .address, .dfn {
+    font-style: italic;
+}
+
+//代码：
+code{
+    @include font-family-monospace;
+}
+
+.code{
+    @include font-family-monospace;
+}
+
+s, strike, del {
+    text-decoration: line-through;
+}
+.s, .strike, .del {
+    text-decoration: line-through;
+}
+
+em,.em{
+    font-style: italic;
+    font-weight:900;
+}
+strong,.strong{
+
+    font-weight:900;
+}
+
+
+u, ins,.u, .ins {
+    text-decoration: underline;
+}
+
+
+.font-primary{
+    @extend .font-size;
+    @extend .font-space;
+    @extend .font-family-sans;
+    @extend .font-weight;
+    //无特殊字体符号.
+}
+.font-secondary{
+    @extend .font-size-300;
+    @extend .font-space-300;
+    @extend .font-family-monospace;
+    @extend .font-weight-300;
+    //无特殊字体符号.
+}
+.font-adorn{
+    //无特殊字体符号.
+    @extend .font-size-400;
+    @extend .font-space-400;
+    @extend .font-family-sans;
+    @extend .font-weight-400;
+    font-style: italic;
+}
+
+
+
+.font-info{
+    @extend .font-size-400;
+    @extend .font-space-400;
+    @extend .font-family-serif;
+    @extend .font-weight-400;
+    //无特殊字体符号.
+    font-style: italic;
+}
+.font-warning{
+    @extend .font-size-400;
+    @extend .font-space-400;
+    @extend .font-family-serif;
+    @extend .font-weight-400;
+    //无特殊字体符号.
+    font-style: italic;
+    text-decoration: underline;
+    &::before{
+        content: "\26F0";
+    }
+}
+
+.font-error{
+    @extend .font-size-400;
+    @extend .font-space-400;
+    @extend .font-family-serif;
+    @extend .font-weight-400;
+    //无特殊字体符号.
+    font-style: italic;
+    text-decoration: line-through;
+    &::before{
+        content: "\2716";
+    }
+}
+
+.font-success {
+    @extend .font-size-400;
+    @extend .font-space-400;
+    @extend .font-family-monospace;
+    @extend .font-weight-400;
+    //无特殊字体符号.
+    font-style: italic;
+    &::before{
+        content: "\2714";
+    }
+}
