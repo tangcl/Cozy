@@ -1,5 +1,5 @@
 @use "sass:color";
-//基础色定义,每种颜色获得的是透明度为50%的hsl颜色，饱和度都100%的颜色.
+//基础色定义,每种颜色获得的是透明度为50%的hsl颜色，饱和度都100%的颜色.颜色单位同font单位保持一致，使用自定义100-900单位
 $red:#cc0000;
 $yellow: #cccc00;
 $green: #00cc00;
@@ -27,65 +27,10 @@ $colors: (
   "white":      $white,
   "black":      $black,
 );
-$color_range:50,100,200,300,400,500,600,700,800,900;
+// $color_range:1,2,3,4,500,600,700,800,900;
 //默认色定义:
 $background:$white;
 $textColor: $black;
-
-//扩展色:(0代表黑色)50 100,200,300,400,500,600,700,800,900 (1000代表白色)
-@each $key, $color in $colors {
-    @each $range in $color_range {
-        //生成颜色相关匹配色。
-        
-
-        @if $range  < 400{
-            $whitens: 400-$range;
-            $co:color.scale($color, $whiteness: ($whitens*0.2)*1%);
-            .bg-#{$key}-#{$range} {
-                background-color: $co !important;
-            }
-            .text-#{$key}-#{$range}{
-                color: $co  !important;
-            }
-            .border-#{$key}-#{$range}{
-                border-color: co;
-            }
-        }
-        @if $range > 400{
-            $blackns: $range - 400;
-            .bg-#{$key}-#{$range} {
-                background-color: color.scale($color, $blackness: $blackns*0.2*1%)  !important;
-            }
-            .text-#{$key}-#{$range}{
-                color: color.scale($color, $blackness: $blackns*0.2*1%)  !important;
-            }
-            .border-#{$key}-#{$range}{
-                border-color: color.scale($color, $blackness: $blackns*0.2*1%);
-            }
-        }
-        @if $range == 400 {
-            .bg-#{$key}-#{$range} {
-                background-color: $color  !important;
-            }
-            .text-#{$key}-#{$range}{
-                color: $color  !important;
-            }
-            .border-#{$key}-#{$range}{
-                border-color: $color !important;
-            }
-
-            .bg-#{$key} {
-                background-color: $color  !important;
-            }
-            .text-#{$key}{
-                color: $color  !important;
-            }
-            .border-#{$key}{
-                border-color: $color !important;
-            }
-        }
-    }
-}
 
 //定义语义化颜色."primary"，按钮色， seconday,链接色
 $semantic_range:(
@@ -97,61 +42,5 @@ $semantic_range:(
     "error":$red,
     "success":$green
 );
-@each $key, $color in $semantic_range {
-    @each $range in $color_range {
-        //生成颜色相关匹配色。
-        @if $range  < 400{
-            $whitens: 400-$range;
-            .color-#{$key}-#{$range} {
-                background-color: color.scale($color, $whiteness: ($whitens*0.2)*1%);
-                color:$black;
-                &:hover{
-                    background-color: color.scale($color, $whiteness: ($whitens*0.15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $whiteness: ($whitens*0.1)*1%);
-                }
-            }
-        }
-        @if $range > 400{
-            $blackns: $range - 400;
-            .color-#{$key}-#{$range} {
-                background-color: color.scale($color, $blackness: $blackns*0.2*1%);
-                color:$white;
-                &:hover{
-                    background-color: color.scale($color, $blackness: ($blackns*0.15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $blackness: ($blackns*0.1)*1%);
-                }
-            }
-            
-        }
-        @if $range == 400 {
-            $blackns: $range - 400;
-            .color-#{$key}-#{$range} {
-                background-color: $color;
-                color:$white;
-                &:hover{
-                    background-color: color.scale($color, $blackness: ($blackns*0.15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $blackness: ($blackns*0.1)*1%);
-                }
-            }
-            .color-#{$key} {
-                background-color: $color;
-                color:$white;
-                border-color: $gray;
-                &:hover{
-                    background-color: color.scale($color, $blackness: ($blackns*0.15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $blackness: ($blackns*0.1)*1%);
-                }
-            }
-            
-        }
-    }
-}
 
+//定义了基本颜色，将一个容器的元素进行拆分为文本（包括文本字体，大小，间距等，font）/盒子周边（包括border，shadow，padding）

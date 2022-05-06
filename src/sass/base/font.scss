@@ -1,5 +1,7 @@
-@use "sass:math";
-$fontsize:16px;
+@use "sass:color";
+@import "./color";
+
+$fontsize: 16px;
 //定义方向：
 .font-position-left{
     text-align: left;
@@ -151,6 +153,66 @@ u, ins,.u, .ins {
 }
 
 
+@each $key, $color in $colors {
+    @for $range from 1 to 10 {
+        //生成颜色相关匹配色。
+        @if $range  < 4{
+            $whitens: 4-$range;
+            $co:color.scale($color, $whiteness: ($whitens*30)*1%, $blackness: -($whitens*30)*1%);
+            .font-#{$key}-#{$range}{
+                color: $co  !important;
+            }
+
+        }
+        @if $range > 4{
+            $blackns: $range - 4;
+            .font-#{$key}-#{$range}{
+                color: color.scale($color, $blackness: $blackns*20*1%)  !important;
+            }
+        }
+        @if $range == 4 {
+            .font-#{$key}-#{$range}{
+                color: $color  !important;
+            }
+            .font-#{$key}{
+                color: $color  !important;
+            }
+            
+        }
+    }
+}
+
+@each $key, $color in $semantic_range {
+    @for $range from 0 to 10 {
+        //生成颜色相关匹配色。
+        @if $range  < 4{
+            $whitens: 4-$range;
+            .font-#{$key}-#{$range} {
+                color: color.scale($color, $whiteness: ($whitens*20)*1%);
+            }
+        }
+        @if $range > 4{
+            $blackns: $range - 4;
+            .font-#{$key}-#{$range} {
+                color: color.scale($color, $blackness: $blackns*20*1%);
+                
+            }
+            
+        }
+        @if $range == 4 {
+            $blackns: $range - 4;
+            .font-#{$key}-#{$range} {
+                color: $color;
+            }
+            .font-#{$key} {
+                color: $color;
+            }
+            
+        }
+    }
+}
+
+
 .font-primary{
     @extend .font-size;
     @extend .font-space;
@@ -192,9 +254,6 @@ u, ins,.u, .ins {
     //无特殊字体符号.
     font-style: italic;
     text-decoration: underline;
-    &::before{
-        content: "\26F0";
-    }
 }
 
 .font-error{
@@ -205,9 +264,6 @@ u, ins,.u, .ins {
     //无特殊字体符号.
     font-style: italic;
     text-decoration: line-through;
-    &::before{
-        content: "\2716";
-    }
 }
 
 .font-success {
@@ -217,7 +273,4 @@ u, ins,.u, .ins {
     @extend .font-weight-400;
     //无特殊字体符号.
     font-style: italic;
-    &::before{
-        content: "\2714";
-    }
 }

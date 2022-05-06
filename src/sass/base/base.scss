@@ -8,6 +8,9 @@
         }@else{
             max-width:$max;
         };
+    };
+    .min-w-#{$i}px{
+        min-width: $i * 1px !important;
     }
 }
 
@@ -38,17 +41,6 @@
 }
 
 
-@for $i from 1 through 100{
-    .padding-#{$i}-px{
-        padding: $i*1px;
-    }
-}
-
-@for $i from 1 through 100{
-    .padding-#{$i}rem{
-        padding: $i*1rem;
-    }
-}
 
 @for $i from 1 through 100{
     .h-#{$i}-100{

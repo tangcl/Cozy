@@ -1,4 +1,3 @@
-@charset "UTF-8";
 .font-position-left {
   text-align: left;
 }
@@ -190,6 +189,794 @@ u, ins, .u, .ins {
   text-decoration: underline;
 }
 
+.font-blue-1 {
+  color: lavender !important;
+}
+
+.font-blue-2 {
+  color: #9999eb !important;
+}
+
+.font-blue-3 {
+  color: #4d4ddb !important;
+}
+
+.font-blue-4 {
+  color: #0000cc !important;
+}
+
+.font-blue {
+  color: #0000cc !important;
+}
+
+.font-blue-5 {
+  color: #0000a3 !important;
+}
+
+.font-blue-6 {
+  color: #00007a !important;
+}
+
+.font-blue-7 {
+  color: #000052 !important;
+}
+
+.font-blue-8 {
+  color: #000029 !important;
+}
+
+.font-blue-9 {
+  color: black !important;
+}
+
+.font-indigo-1 {
+  color: #f1e6fa !important;
+}
+
+.font-indigo-2 {
+  color: #c999eb !important;
+}
+
+.font-indigo-3 {
+  color: #a04ddb !important;
+}
+
+.font-indigo-4 {
+  color: #7700cc !important;
+}
+
+.font-indigo {
+  color: #7700cc !important;
+}
+
+.font-indigo-5 {
+  color: #5f00a3 !important;
+}
+
+.font-indigo-6 {
+  color: #47007a !important;
+}
+
+.font-indigo-7 {
+  color: #300052 !important;
+}
+
+.font-indigo-8 {
+  color: #180029 !important;
+}
+
+.font-indigo-9 {
+  color: black !important;
+}
+
+.font-purple-1 {
+  color: #fae6fa !important;
+}
+
+.font-purple-2 {
+  color: #eb99eb !important;
+}
+
+.font-purple-3 {
+  color: #db4ddb !important;
+}
+
+.font-purple-4 {
+  color: #cc00cc !important;
+}
+
+.font-purple {
+  color: #cc00cc !important;
+}
+
+.font-purple-5 {
+  color: #a300a3 !important;
+}
+
+.font-purple-6 {
+  color: #7a007a !important;
+}
+
+.font-purple-7 {
+  color: #520052 !important;
+}
+
+.font-purple-8 {
+  color: #290029 !important;
+}
+
+.font-purple-9 {
+  color: black !important;
+}
+
+.font-pink-1 {
+  color: #fae6e9 !important;
+}
+
+.font-pink-2 {
+  color: #eb99a7 !important;
+}
+
+.font-pink-3 {
+  color: #db4d64 !important;
+}
+
+.font-pink-4 {
+  color: #cc0022 !important;
+}
+
+.font-pink {
+  color: #cc0022 !important;
+}
+
+.font-pink-5 {
+  color: #a3001b !important;
+}
+
+.font-pink-6 {
+  color: #7a0014 !important;
+}
+
+.font-pink-7 {
+  color: #52000e !important;
+}
+
+.font-pink-8 {
+  color: #290007 !important;
+}
+
+.font-pink-9 {
+  color: black !important;
+}
+
+.font-red-1 {
+  color: #fae6e6 !important;
+}
+
+.font-red-2 {
+  color: #eb9999 !important;
+}
+
+.font-red-3 {
+  color: #db4d4d !important;
+}
+
+.font-red-4 {
+  color: #cc0000 !important;
+}
+
+.font-red {
+  color: #cc0000 !important;
+}
+
+.font-red-5 {
+  color: #a30000 !important;
+}
+
+.font-red-6 {
+  color: #7a0000 !important;
+}
+
+.font-red-7 {
+  color: #520000 !important;
+}
+
+.font-red-8 {
+  color: #290000 !important;
+}
+
+.font-red-9 {
+  color: black !important;
+}
+
+.font-orange-1 {
+  color: #faf3e6 !important;
+}
+
+.font-orange-2 {
+  color: #ebce99 !important;
+}
+
+.font-orange-3 {
+  color: #dbaa4d !important;
+}
+
+.font-orange-4 {
+  color: #cc8500 !important;
+}
+
+.font-orange {
+  color: #cc8500 !important;
+}
+
+.font-orange-5 {
+  color: #a36a00 !important;
+}
+
+.font-orange-6 {
+  color: #7a5000 !important;
+}
+
+.font-orange-7 {
+  color: #523500 !important;
+}
+
+.font-orange-8 {
+  color: #291b00 !important;
+}
+
+.font-orange-9 {
+  color: black !important;
+}
+
+.font-yellow-1 {
+  color: #fafae6 !important;
+}
+
+.font-yellow-2 {
+  color: #ebeb99 !important;
+}
+
+.font-yellow-3 {
+  color: #dbdb4d !important;
+}
+
+.font-yellow-4 {
+  color: #cccc00 !important;
+}
+
+.font-yellow {
+  color: #cccc00 !important;
+}
+
+.font-yellow-5 {
+  color: #a3a300 !important;
+}
+
+.font-yellow-6 {
+  color: #7a7a00 !important;
+}
+
+.font-yellow-7 {
+  color: #525200 !important;
+}
+
+.font-yellow-8 {
+  color: #292900 !important;
+}
+
+.font-yellow-9 {
+  color: black !important;
+}
+
+.font-green-1 {
+  color: #e6fae6 !important;
+}
+
+.font-green-2 {
+  color: #99eb99 !important;
+}
+
+.font-green-3 {
+  color: #4ddb4d !important;
+}
+
+.font-green-4 {
+  color: #00cc00 !important;
+}
+
+.font-green {
+  color: #00cc00 !important;
+}
+
+.font-green-5 {
+  color: #00a300 !important;
+}
+
+.font-green-6 {
+  color: #007a00 !important;
+}
+
+.font-green-7 {
+  color: #005200 !important;
+}
+
+.font-green-8 {
+  color: #002900 !important;
+}
+
+.font-green-9 {
+  color: black !important;
+}
+
+.font-cyan-1 {
+  color: #e6fafa !important;
+}
+
+.font-cyan-2 {
+  color: #99ebeb !important;
+}
+
+.font-cyan-3 {
+  color: #4ddbdb !important;
+}
+
+.font-cyan-4 {
+  color: #00cccc !important;
+}
+
+.font-cyan {
+  color: #00cccc !important;
+}
+
+.font-cyan-5 {
+  color: #00a3a3 !important;
+}
+
+.font-cyan-6 {
+  color: #007a7a !important;
+}
+
+.font-cyan-7 {
+  color: #005252 !important;
+}
+
+.font-cyan-8 {
+  color: #002929 !important;
+}
+
+.font-cyan-9 {
+  color: black !important;
+}
+
+.font-gray-1 {
+  color: #f0f0f0 !important;
+}
+
+.font-gray-2 {
+  color: #c2c2c2 !important;
+}
+
+.font-gray-3 {
+  color: #949494 !important;
+}
+
+.font-gray-4 {
+  color: #666666 !important;
+}
+
+.font-gray {
+  color: #666666 !important;
+}
+
+.font-gray-5 {
+  color: #5e5e5e !important;
+}
+
+.font-gray-6 {
+  color: #585858 !important;
+}
+
+.font-gray-7 {
+  color: #525252 !important;
+}
+
+.font-gray-8 {
+  color: #4d4d4d !important;
+}
+
+.font-gray-9 {
+  color: #494949 !important;
+}
+
+.font-white-1 {
+  color: white !important;
+}
+
+.font-white-2 {
+  color: white !important;
+}
+
+.font-white-3 {
+  color: white !important;
+}
+
+.font-white-4 {
+  color: white !important;
+}
+
+.font-white {
+  color: white !important;
+}
+
+.font-white-5 {
+  color: #d5d5d5 !important;
+}
+
+.font-white-6 {
+  color: #b6b6b6 !important;
+}
+
+.font-white-7 {
+  color: #9f9f9f !important;
+}
+
+.font-white-8 {
+  color: #8e8e8e !important;
+}
+
+.font-white-9 {
+  color: gray !important;
+}
+
+.font-black-1 {
+  color: #e6e6e6 !important;
+}
+
+.font-black-2 {
+  color: #999999 !important;
+}
+
+.font-black-3 {
+  color: #4d4d4d !important;
+}
+
+.font-black-4 {
+  color: black !important;
+}
+
+.font-black {
+  color: black !important;
+}
+
+.font-black-5 {
+  color: black !important;
+}
+
+.font-black-6 {
+  color: black !important;
+}
+
+.font-black-7 {
+  color: black !important;
+}
+
+.font-black-8 {
+  color: black !important;
+}
+
+.font-black-9 {
+  color: black !important;
+}
+
+.font-primary-0 {
+  color: #cccccc;
+}
+
+.font-primary-1 {
+  color: #9999cc;
+}
+
+.font-primary-2 {
+  color: #6666cc;
+}
+
+.font-primary-3 {
+  color: #3333cc;
+}
+
+.font-primary-4 {
+  color: #0000cc;
+}
+
+.font-primary {
+  color: #0000cc;
+}
+
+.font-primary-5 {
+  color: #0000a3;
+}
+
+.font-primary-6 {
+  color: #00007a;
+}
+
+.font-primary-7 {
+  color: #000052;
+}
+
+.font-primary-8 {
+  color: #000029;
+}
+
+.font-primary-9 {
+  color: black;
+}
+
+.font-seconday-0 {
+  color: #cccccc;
+}
+
+.font-seconday-1 {
+  color: #cc99cc;
+}
+
+.font-seconday-2 {
+  color: #cc66cc;
+}
+
+.font-seconday-3 {
+  color: #cc33cc;
+}
+
+.font-seconday-4 {
+  color: #cc00cc;
+}
+
+.font-seconday {
+  color: #cc00cc;
+}
+
+.font-seconday-5 {
+  color: #a300a3;
+}
+
+.font-seconday-6 {
+  color: #7a007a;
+}
+
+.font-seconday-7 {
+  color: #520052;
+}
+
+.font-seconday-8 {
+  color: #290029;
+}
+
+.font-seconday-9 {
+  color: black;
+}
+
+.font-adorn-0 {
+  color: #cccccc;
+}
+
+.font-adorn-1 {
+  color: #cc99a2;
+}
+
+.font-adorn-2 {
+  color: #cc6677;
+}
+
+.font-adorn-3 {
+  color: #cc334d;
+}
+
+.font-adorn-4 {
+  color: #cc0022;
+}
+
+.font-adorn {
+  color: #cc0022;
+}
+
+.font-adorn-5 {
+  color: #a3001b;
+}
+
+.font-adorn-6 {
+  color: #7a0014;
+}
+
+.font-adorn-7 {
+  color: #52000e;
+}
+
+.font-adorn-8 {
+  color: #290007;
+}
+
+.font-adorn-9 {
+  color: black;
+}
+
+.font-info-0 {
+  color: #cccccc;
+}
+
+.font-info-1 {
+  color: #b799cc;
+}
+
+.font-info-2 {
+  color: #a266cc;
+}
+
+.font-info-3 {
+  color: #8c33cc;
+}
+
+.font-info-4 {
+  color: #7700cc;
+}
+
+.font-info {
+  color: #7700cc;
+}
+
+.font-info-5 {
+  color: #5f00a3;
+}
+
+.font-info-6 {
+  color: #47007a;
+}
+
+.font-info-7 {
+  color: #300052;
+}
+
+.font-info-8 {
+  color: #180029;
+}
+
+.font-info-9 {
+  color: black;
+}
+
+.font-warning-0 {
+  color: #cccccc;
+}
+
+.font-warning-1 {
+  color: #ccba99;
+}
+
+.font-warning-2 {
+  color: #cca966;
+}
+
+.font-warning-3 {
+  color: #cc9733;
+}
+
+.font-warning-4 {
+  color: #cc8500;
+}
+
+.font-warning {
+  color: #cc8500;
+}
+
+.font-warning-5 {
+  color: #a36a00;
+}
+
+.font-warning-6 {
+  color: #7a5000;
+}
+
+.font-warning-7 {
+  color: #523500;
+}
+
+.font-warning-8 {
+  color: #291b00;
+}
+
+.font-warning-9 {
+  color: black;
+}
+
+.font-error-0 {
+  color: #cccccc;
+}
+
+.font-error-1 {
+  color: #cc9999;
+}
+
+.font-error-2 {
+  color: #cc6666;
+}
+
+.font-error-3 {
+  color: #cc3333;
+}
+
+.font-error-4 {
+  color: #cc0000;
+}
+
+.font-error {
+  color: #cc0000;
+}
+
+.font-error-5 {
+  color: #a30000;
+}
+
+.font-error-6 {
+  color: #7a0000;
+}
+
+.font-error-7 {
+  color: #520000;
+}
+
+.font-error-8 {
+  color: #290000;
+}
+
+.font-error-9 {
+  color: black;
+}
+
+.font-success-0 {
+  color: #cccccc;
+}
+
+.font-success-1 {
+  color: #99cc99;
+}
+
+.font-success-2 {
+  color: #66cc66;
+}
+
+.font-success-3 {
+  color: #33cc33;
+}
+
+.font-success-4 {
+  color: #00cc00;
+}
+
+.font-success {
+  color: #00cc00;
+}
+
+.font-success-5 {
+  color: #00a300;
+}
+
+.font-success-6 {
+  color: #007a00;
+}
+
+.font-success-7 {
+  color: #005200;
+}
+
+.font-success-8 {
+  color: #002900;
+}
+
+.font-success-9 {
+  color: black;
+}
+
 .font-adorn {
   font-style: italic;
 }
@@ -202,23 +989,14 @@ u, ins, .u, .ins {
   font-style: italic;
   text-decoration: underline;
 }
-.font-warning::before {
-  content: "⛰";
-}
 
 .font-error {
   font-style: italic;
   text-decoration: line-through;
 }
-.font-error::before {
-  content: "✖";
-}
 
 .font-success {
   font-style: italic;
-}
-.font-success::before {
-  content: "✔";
 }
 
 /*# sourceMappingURL=font.css.map */

@@ -1,8 +1,13 @@
 @use "sass:color";
 @use "sass:math";
 $fontsize:16px;
+*{
+    box-sizing: border-box;
+    background-color: transparent;
+}
 @import 'base/base';
 @import 'base/color';
 @import 'base/font';
-@import 'layout/container';
+@import 'base/box';
 @import 'components/button';
+@import 'layout/container';

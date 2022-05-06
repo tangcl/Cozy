@@ -1,0 +1,191 @@
+//盒子模型，将盒子相关信息进行定义，包括padding, border, shadow, 盒子模型的相关单位使用 px像素单位。
+//border 属性：width
+@use "sass:color";
+@import "./color";
+
+@for $i from 1 to 100{
+    .border-w-#{$i}px{
+        border-width:$i * 1px;
+    }
+}
+
+@each $key, $color in $colors {
+    .border-left-#{$key} {
+        border-left-color: $color;
+    }
+    .border-top-#{$key} {
+        border-left-color: $color;
+    }
+    .border-right-#{$key} {
+        border-left-color: $color;
+    }
+    .border-bottom-#{$key} {
+        border-left-color: $color;
+    }
+    .border-#{$key} {
+        border-left-color: $color;
+    }
+}
+
+.border-style-solid{
+    border-style: solid;
+}
+
+.border-style-dotted{
+    border-style: dotted;
+}
+
+.border-none{
+    border:none;
+}
+
+//padding
+@for $i from 1 to 100{
+    .padding-top-#{$i}px{
+        padding-top: $i * 1px;
+    }
+    .padding-left-#{$i}px{
+        padding-left: $i * 1px;
+    }
+    .padding-right-#{$i}px{
+        padding-right: $i * 1px;
+    }
+    .padding-bottom-#{$i}px{
+        padding-bottom: $i * 1px;
+    }
+    .padding-#{$i}px{
+        padding: $i * 1px;
+    }
+}
+
+//shadow
+@for $i from 1 to 100{
+    .box-shadow-#{$i}px {
+        box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px $gray;
+    }
+}
+
+//clear margin
+.margin-clear{
+    margin:none !important;
+}
+
+//radius
+@for $i from 1 to 100{
+    .border-radius-#{$i}px {
+        border-radius: $i*1px;
+    }
+}
+
+@for $i from 1 to 100{
+    .radius-cicle-#{$i}px{
+        width: $i * 1px !important;
+        height: $i * 1px !important;
+        border-radius: 50% !important;
+        overflow: hidden;
+    }
+}
+
+
+@each $key, $color in $colors {
+    @for $range from 1 to 10 {
+        //生成颜色相关匹配色。
+        @if $range  < 4{
+            $whitens: 4-$range;
+            $co:color.scale($color, $whiteness: ($whitens*30)*1%, $blackness: -($whitens*30)*1%);
+            .bg-#{$key}-#{$range} {
+                background-color: $co !important;
+            }
+            .border-#{$key}-#{$range}{
+                border-color: co;
+            }
+        }
+        @if $range > 4{
+            $blackns: $range - 4;
+            .bg-#{$key}-#{$range} {
+                background-color: color.scale($color, $blackness: $blackns*20*1%)  !important;
+            }
+            .border-#{$key}-#{$range}{
+                border-color: color.scale($color, $blackness: $blackns*20*1%);
+            }
+        }
+        @if $range == 4 {
+            .bg-#{$key}-#{$range} {
+                background-color: $color  !important;
+            }
+            .border-#{$key}-#{$range}{
+                border-color: $color !important;
+            }
+            .bg-#{$key} {
+                background-color: $color  !important;
+            }
+            .text-#{$key}{
+                color: $color  !important;
+            }
+            .border-#{$key}{
+                border-color: $color !important;
+            }
+        }
+    }
+}
+
+
+@each $key, $color in $semantic_range {
+    @for $range from 0 to 10 {
+        //生成颜色相关匹配色。
+        @if $range  < 4{
+            $whitens: 4-$range;
+            .bg-#{$key}-#{$range} {
+                background-color: color.scale($color, $whiteness: ($whitens*20)*1%);
+                color:$black;
+                &:hover{
+                    background-color: color.scale($color, $whiteness: ($whitens*15)*1%);
+                }
+                &:active{
+                    background-color: color.scale($color, $whiteness: ($whitens*10)*1%);
+                }
+            }
+        }
+        @if $range > 4{
+            $blackns: $range - 4;
+            .bg-#{$key}-#{$range} {
+                background-color: color.scale($color, $blackness: $blackns*20*1%);
+                color:$white;
+                &:hover{
+                    background-color: color.scale($color, $blackness: ($blackns*15)*1%);
+                }
+                &:active{
+                    background-color: color.scale($color, $blackness: ($blackns*10)*1%);
+                }
+            }
+            
+        }
+        @if $range == 4 {
+            $blackns: $range - 4;
+            .bg-#{$key}-#{$range} {
+                background-color: $color;
+                color:$white;
+                &:hover{
+                    background-color: color.scale($color, $blackness: ($blackns*15)*1%);
+                }
+                &:active{
+                    background-color: color.scale($color, $blackness: ($blackns*10)*1%);
+                }
+            }
+            .bg-#{$key} {
+                background-color: $color;
+                color:$white;
+                border-color: $gray;
+                &:hover{
+                    background-color: color.scale($color, $blackness: ($blackns*15)*1%);
+                }
+                &:active{
+                    background-color: color.scale($color, $blackness: ($blackns*10)*1%);
+                }
+            }
+            
+        }
+    }
+}
+
+
