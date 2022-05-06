@@ -1,31 +1,19 @@
-.font-position-left {
-  text-align: left;
-}
-
-.font-position-center {
-  text-align: center;
-}
-
-.font-position-right {
-  text-align: right;
-}
-
-.font-size-100 {
+.font-size-1 {
   font-size: 0.7rem;
   line-height: 1.05rem;
 }
 
-.font-size-200 {
+.font-size-2 {
   font-size: 0.8rem;
   line-height: 1.2rem;
 }
 
-.font-size-300, .font-secondary {
+.font-size-3, .font-secondary {
   font-size: 0.9rem;
   line-height: 1.35rem;
 }
 
-.font-size-400, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
+.font-size-4, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
   font-size: 16px;
   line-height: 24px;
 }
@@ -35,44 +23,44 @@
   line-height: 24px;
 }
 
-.font-size-500 {
+.font-size-5 {
   font-size: 1.1rem;
   line-height: 1.65rem;
 }
 
-.font-size-600 {
+.font-size-6 {
   font-size: 1.2rem;
   line-height: 1.8rem;
 }
 
-.font-size-700 {
+.font-size-7 {
   font-size: 1.3rem;
   line-height: 1.95rem;
 }
 
-.font-size-800 {
+.font-size-8 {
   font-size: 1.4rem;
   line-height: 2.1rem;
 }
 
-.font-size-900 {
+.font-size-9 {
   font-size: 1.5rem;
   line-height: 2.25rem;
 }
 
-.font-space-100 {
+.font-space-1 {
   letter-spacing: -0.03rem;
 }
 
-.font-space-200 {
+.font-space-2 {
   letter-spacing: -0.02rem;
 }
 
-.font-space-300, .font-secondary {
+.font-space-3, .font-secondary {
   letter-spacing: -0.01rem;
 }
 
-.font-space-400, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
+.font-space-4, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
   letter-spacing: 0;
 }
 
@@ -80,23 +68,23 @@
   letter-spacing: 0;
 }
 
-.font-space-500 {
+.font-space-5 {
   letter-spacing: 0.1rem;
 }
 
-.font-space-600 {
+.font-space-6 {
   letter-spacing: 0.2rem;
 }
 
-.font-space-700 {
+.font-space-7 {
   letter-spacing: 0.3rem;
 }
 
-.font-space-800 {
+.font-space-8 {
   letter-spacing: 0.4rem;
 }
 
-.font-space-900 {
+.font-space-9 {
   letter-spacing: 0.5rem;
 }
 
@@ -112,19 +100,23 @@
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.font-weight-100 {
+.font-weight-0 {
+  font-weight: 0;
+}
+
+.font-weight-1 {
   font-weight: 100;
 }
 
-.font-weight-200 {
+.font-weight-2 {
   font-weight: 200;
 }
 
-.font-weight-300, .font-secondary {
+.font-weight-3, .font-secondary {
   font-weight: 300;
 }
 
-.font-weight-400, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
+.font-weight-4, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
   font-weight: 400;
 }
 
@@ -132,24 +124,20 @@
   font-weight: 400;
 }
 
-.font-weight-500 {
+.font-weight-5 {
   font-weight: 500;
 }
 
-.font-weight-600 {
+.font-weight-6 {
   font-weight: 600;
 }
 
-.font-weight-700 {
+.font-weight-7 {
   font-weight: 700;
 }
 
-.font-weight-800 {
+.font-weight-8 {
   font-weight: 800;
-}
-
-.font-weight-900 {
-  font-weight: 900;
 }
 
 i, cite, em, var, address, dfn {
@@ -977,6 +965,46 @@ u, ins, .u, .ins {
   color: black;
 }
 
+.font-opcity-1 {
+  opacity: 0.1 !important;
+}
+
+.font-opcity-2 {
+  opacity: 0.2 !important;
+}
+
+.font-opcity-3 {
+  opacity: 0.3 !important;
+}
+
+.font-opcity-4 {
+  opacity: 0.4 !important;
+}
+
+.font-opcity-5 {
+  opacity: 0.5 !important;
+}
+
+.font-opcity-6 {
+  opacity: 0.6 !important;
+}
+
+.font-opcity-7 {
+  opacity: 0.7 !important;
+}
+
+.font-opcity-8 {
+  opacity: 0.8 !important;
+}
+
+.font-opcity-9 {
+  opacity: 0.9 !important;
+}
+
+.font-opcity-none {
+  opacity: 1 !important;
+}
+
 .font-adorn {
   font-style: italic;
 }
@@ -997,6 +1025,12 @@ u, ins, .u, .ins {
 
 .font-success {
   font-style: italic;
+}
+
+.font-more {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 /*# sourceMappingURL=font.css.map */

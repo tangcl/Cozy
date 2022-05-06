@@ -1,5 +1,5 @@
 @for $i from 1 through 100{
-    .w-#{$i}-100{
+    .width-#{$i}-100{
         min-width: $i*1%;
         width: $i*1% !important;
         $max:($i * 3/2)*1%;
@@ -9,13 +9,13 @@
             max-width:$max;
         };
     };
-    .min-w-#{$i}px{
+    .min-width-#{$i}px{
         min-width: $i * 1px !important;
     }
 }
 
 @for $i from 1 through 100{
-    .w-#{$i}rem{
+    .width-#{$i}rem{
         min-width: $i*1rem;
         width: $i*1rem !important;
         $max:($i * 3/2)*1rem;
@@ -28,7 +28,7 @@
 }
 
 @for $i from 1 through 100{
-    .w-#{$i}px{
+    .width-#{$i}px{
         min-width: $i*1px;
         width: $i*1px !important;
         $max:($i * 3/2)*1px;
@@ -43,7 +43,7 @@
 
 
 @for $i from 1 through 100{
-    .h-#{$i}-100{
+    .height-#{$i}-100{
         min-height: $i * 1/2 *1%;
         height: $i*1%;
         max-height: $i*1%;
@@ -51,7 +51,7 @@
 }
 
 @for $i from 1 through 100{
-    .h-#{$i}rem{
+    .height-#{$i}rem{
         min-height: $i * 1 / 2 * 1rem;
         height: $i*1rem;
         max-height: $i*1.1rem;
@@ -59,7 +59,7 @@
 }
 
 @for $i from 1 through 100{
-    .h-#{$i}px{
+    .height-#{$i}px{
         min-height: $i*1/2*1px;
         height: $i*1px;
         max-height: $i*1.2px;

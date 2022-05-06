@@ -3,35 +3,26 @@
 
 $fontsize: 16px;
 //定义方向：
-.font-position-left{
-    text-align: left;
-}
 
-.font-position-center{
-    text-align: center;
-}
-.font-position-right{
-    text-align: right;
-}
 
 //定义中级应用大小
 $font-size-range:100,200,300,400,500,600,700,800,900;
-@each $size in $font-size-range{
-    @if $size < 400{
-        $divide: (400 - $size) / 100 * 0.1;
+@for $size from 1 to 10{
+    @if $size < 4{
+        $divide: (4 - $size) * 0.1;
         .font-size-#{$size}{
             font-size: (1 - $divide) * 1rem;
             line-height: (1 - $divide) * 1rem * 1.5;
         }
     }
-    @if $size > 400{
-        $divide: ($size - 400) / 100 *0.1;
+    @if $size > 4{
+        $divide: ($size - 4) * 0.1;
         .font-size-#{$size}{
             font-size: (1 + $divide) * 1rem;
             line-height: (1 + $divide) * 1rem *1.5;
         }
     }
-    @if $size == 400{
+    @if $size == 4{
         .font-size-#{$size}{
             font-size: $fontsize;
             line-height: $fontsize * 1.5;
@@ -46,23 +37,23 @@ $font-size-range:100,200,300,400,500,600,700,800,900;
 
 
 $letter-space: 100,200,300,400,500,600,700,800,900;
-@each $letter in $letter-space{
-    @if $letter < 400{
-        $letterns : (400 - $letter) /100 * 0.01rem;
+@for $letter from 1 to 10 {
+    @if $letter < 4{
+        $letterns : (4 - $letter) * 0.01rem;
         .font-space-#{$letter}{
             letter-spacing: 0-$letterns;
         }        
     }
-    @if $letter == 400{
-        .font-space-400{
+    @if $letter == 4{
+        .font-space-4{
                 letter-spacing: 0;
         }
         .font-space{
             letter-spacing: 0;
         }        
     }
-    @if $letter > 400{
-        $letterns : ($letter - 400) /100 * 0.1rem;
+    @if $letter > 4{
+        $letterns : ($letter - 4) * 0.1rem;
             .font-space-#{$letter}{
                 letter-spacing: $letterns;
         }        
@@ -100,14 +91,14 @@ $letter-space: 100,200,300,400,500,600,700,800,900;
 
 //定义font-weight
 //font-weight 
-$font-weight-range:100,200,300,400,500,600,700,800,900;
-@each $font-weight in $font-weight-range{
+
+@for $font-weight from 0 to 9{
     .font-weight-#{$font-weight} {
-        font-weight: $font-weight;
+        font-weight: $font-weight * 100;
     }
-    @if $font-weight == 400{
+    @if $font-weight == 4{
         .font-weight {
-            font-weight: $font-weight;
+            font-weight: $font-weight * 100;
         }   
     } 
 }
@@ -143,7 +134,6 @@ em,.em{
     font-weight:900;
 }
 strong,.strong{
-
     font-weight:900;
 }
 
@@ -212,6 +202,15 @@ u, ins,.u, .ins {
     }
 }
 
+@for $i from 1 to 10{
+    .font-opcity-#{$i}{
+        opacity: $i*0.1 !important;
+    }
+}
+.font-opcity-none{
+    opacity:1 !important;
+}
+
 
 .font-primary{
     @extend .font-size;
@@ -221,56 +220,62 @@ u, ins,.u, .ins {
     //无特殊字体符号.
 }
 .font-secondary{
-    @extend .font-size-300;
-    @extend .font-space-300;
+    @extend .font-size-3;
+    @extend .font-space-3;
     @extend .font-family-monospace;
-    @extend .font-weight-300;
+    @extend .font-weight-3;
     //无特殊字体符号.
 }
 .font-adorn{
     //无特殊字体符号.
-    @extend .font-size-400;
-    @extend .font-space-400;
+    @extend .font-size-4;
+    @extend .font-space-4;
     @extend .font-family-sans;
-    @extend .font-weight-400;
+    @extend .font-weight-4;
     font-style: italic;
 }
 
 
 
 .font-info{
-    @extend .font-size-400;
-    @extend .font-space-400;
+    @extend .font-size-4;
+    @extend .font-space-4;
     @extend .font-family-serif;
-    @extend .font-weight-400;
+    @extend .font-weight-4;
     //无特殊字体符号.
     font-style: italic;
 }
 .font-warning{
-    @extend .font-size-400;
-    @extend .font-space-400;
+    @extend .font-size-4;
+    @extend .font-space-4;
     @extend .font-family-serif;
-    @extend .font-weight-400;
+    @extend .font-weight-4;
     //无特殊字体符号.
     font-style: italic;
     text-decoration: underline;
 }
 
 .font-error{
-    @extend .font-size-400;
-    @extend .font-space-400;
+    @extend .font-size-4;
+    @extend .font-space-4;
     @extend .font-family-serif;
-    @extend .font-weight-400;
+    @extend .font-weight-4;
     //无特殊字体符号.
     font-style: italic;
     text-decoration: line-through;
 }
 
 .font-success {
-    @extend .font-size-400;
-    @extend .font-space-400;
+    @extend .font-size-4;
+    @extend .font-space-4;
     @extend .font-family-monospace;
-    @extend .font-weight-400;
+    @extend .font-weight-4;
     //无特殊字体符号.
     font-style: italic;
+}
+
+.font-more {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
 }

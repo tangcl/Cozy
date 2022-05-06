@@ -4,25 +4,22 @@
 @import "./color";
 
 @for $i from 1 to 100{
-    .border-w-#{$i}px{
+    .border-width-#{$i}px{
         border-width:$i * 1px;
     }
 }
 
 @each $key, $color in $colors {
-    .border-left-#{$key} {
+    .border-left-color-#{$key} {
         border-left-color: $color;
     }
-    .border-top-#{$key} {
+    .border-top-color-#{$key} {
         border-left-color: $color;
     }
-    .border-right-#{$key} {
+    .border-right-color-#{$key} {
         border-left-color: $color;
     }
-    .border-bottom-#{$key} {
-        border-left-color: $color;
-    }
-    .border-#{$key} {
+    .border-bottom-color-#{$key} {
         border-left-color: $color;
     }
 }
@@ -77,12 +74,18 @@
     }
 }
 
-@for $i from 1 to 100{
-    .radius-cicle-#{$i}px{
-        width: $i * 1px !important;
-        height: $i * 1px !important;
+@for $i from 1 to 10{
+    .radius-cicle-#{$i}{
+        width: $i*1rem !important;
+        height: $i*1rem !important;
+        border: 1px solid transparent;
+        font-size: $i/2 * 1rem !important;
+        line-height: $i *1rem !important;
+        text-align: center;
         border-radius: 50% !important;
         overflow: hidden;
+        white-space: nowrap;
+        box-sizing: content-box;
     }
 }
 
@@ -97,16 +100,41 @@
                 background-color: $co !important;
             }
             .border-#{$key}-#{$range}{
-                border-color: co;
+                border-color: $co;
+            }
+            .border-left-#{$key}-#{$range} {
+                border-left-color: $co;
+            }
+            .border-top-#{$key}-#{$range} {
+                border-left-color: $co;
+            }
+            .border-right-#{$key}-#{$range} {
+                border-left-color: $co;
+            }
+            .border-bottom-#{$key}-#{$range} {
+                border-left-color: $co;
             }
         }
         @if $range > 4{
             $blackns: $range - 4;
+            $co: color.scale($color, $blackness: $blackns*20*1%);
             .bg-#{$key}-#{$range} {
-                background-color: color.scale($color, $blackness: $blackns*20*1%)  !important;
+                background-color: $co  !important;
             }
             .border-#{$key}-#{$range}{
-                border-color: color.scale($color, $blackness: $blackns*20*1%);
+                border-color: $co;
+            }
+            .border-left-#{$key}-#{$range} {
+                border-left-color: $co;
+            }
+            .border-top-#{$key}-#{$range} {
+                border-left-color: $co;
+            }
+            .border-right-#{$key}-#{$range} {
+                border-left-color: $co;
+            }
+            .border-bottom-#{$key}-#{$range} {
+                border-left-color: $co;
             }
         }
         @if $range == 4 {
@@ -137,26 +165,12 @@
             $whitens: 4-$range;
             .bg-#{$key}-#{$range} {
                 background-color: color.scale($color, $whiteness: ($whitens*20)*1%);
-                color:$black;
-                &:hover{
-                    background-color: color.scale($color, $whiteness: ($whitens*15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $whiteness: ($whitens*10)*1%);
-                }
             }
         }
         @if $range > 4{
             $blackns: $range - 4;
             .bg-#{$key}-#{$range} {
                 background-color: color.scale($color, $blackness: $blackns*20*1%);
-                color:$white;
-                &:hover{
-                    background-color: color.scale($color, $blackness: ($blackns*15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $blackness: ($blackns*10)*1%);
-                }
             }
             
         }
@@ -164,26 +178,10 @@
             $blackns: $range - 4;
             .bg-#{$key}-#{$range} {
                 background-color: $color;
-                color:$white;
-                &:hover{
-                    background-color: color.scale($color, $blackness: ($blackns*15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $blackness: ($blackns*10)*1%);
-                }
             }
             .bg-#{$key} {
                 background-color: $color;
-                color:$white;
-                border-color: $gray;
-                &:hover{
-                    background-color: color.scale($color, $blackness: ($blackns*15)*1%);
-                }
-                &:active{
-                    background-color: color.scale($color, $blackness: ($blackns*10)*1%);
-                }
-            }
-            
+            }            
         }
     }
 }
