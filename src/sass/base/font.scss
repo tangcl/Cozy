@@ -6,7 +6,6 @@ $fontsize: 16px;
 
 
 //定义中级应用大小
-$font-size-range:100,200,300,400,500,600,700,800,900;
 @for $size from 1 to 10{
     @if $size < 4{
         $divide: (4 - $size) * 0.1;
@@ -34,9 +33,6 @@ $font-size-range:100,200,300,400,500,600,700,800,900;
     }
 }
 
-
-
-$letter-space: 100,200,300,400,500,600,700,800,900;
 @for $letter from 1 to 10 {
     @if $letter < 4{
         $letterns : (4 - $letter) * 0.01rem;
@@ -173,13 +169,14 @@ u, ins,.u, .ins {
 }
 
 @each $key, $color in $semantic_range {
-    @for $range from 0 to 10 {
+    @for $range from 1 to 10 {
         //生成颜色相关匹配色。
         @if $range  < 4{
             $whitens: 4-$range;
             .font-#{$key}-#{$range} {
                 color: color.scale($color, $whiteness: ($whitens*20)*1%);
             }
+            
         }
         @if $range > 4{
             $blackns: $range - 4;
@@ -211,71 +208,3 @@ u, ins,.u, .ins {
     opacity:1 !important;
 }
 
-
-.font-primary{
-    @extend .font-size;
-    @extend .font-space;
-    @extend .font-family-sans;
-    @extend .font-weight;
-    //无特殊字体符号.
-}
-.font-secondary{
-    @extend .font-size-3;
-    @extend .font-space-3;
-    @extend .font-family-monospace;
-    @extend .font-weight-3;
-    //无特殊字体符号.
-}
-.font-adorn{
-    //无特殊字体符号.
-    @extend .font-size-4;
-    @extend .font-space-4;
-    @extend .font-family-sans;
-    @extend .font-weight-4;
-    font-style: italic;
-}
-
-
-
-.font-info{
-    @extend .font-size-4;
-    @extend .font-space-4;
-    @extend .font-family-serif;
-    @extend .font-weight-4;
-    //无特殊字体符号.
-    font-style: italic;
-}
-.font-warning{
-    @extend .font-size-4;
-    @extend .font-space-4;
-    @extend .font-family-serif;
-    @extend .font-weight-4;
-    //无特殊字体符号.
-    font-style: italic;
-    text-decoration: underline;
-}
-
-.font-error{
-    @extend .font-size-4;
-    @extend .font-space-4;
-    @extend .font-family-serif;
-    @extend .font-weight-4;
-    //无特殊字体符号.
-    font-style: italic;
-    text-decoration: line-through;
-}
-
-.font-success {
-    @extend .font-size-4;
-    @extend .font-space-4;
-    @extend .font-family-monospace;
-    @extend .font-weight-4;
-    //无特殊字体符号.
-    font-style: italic;
-}
-
-.font-more {
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-}

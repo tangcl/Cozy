@@ -8,12 +8,6 @@ html, body {
   -ms-overflow-style: none;
 }
 
-body::-webkit-scrollbar {
-  width: 0px;
-  background: transparent;
-  /* Disable scrollbar Chrome/Safari/Webkit */
-}
-
 .x-container {
   border: none;
   box-sizing: border-box;
@@ -116,7 +110,7 @@ body::-webkit-scrollbar {
   align-items: flex-end;
 }
 
-.ellipsis-1 {
+.ellipsis {
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;

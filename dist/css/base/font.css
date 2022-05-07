@@ -8,17 +8,17 @@
   line-height: 1.2rem;
 }
 
-.font-size-3, .font-secondary {
+.font-size-3 {
   font-size: 0.9rem;
   line-height: 1.35rem;
 }
 
-.font-size-4, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
+.font-size-4 {
   font-size: 16px;
   line-height: 24px;
 }
 
-.font-size, .font-primary {
+.font-size {
   font-size: 16px;
   line-height: 24px;
 }
@@ -56,15 +56,15 @@
   letter-spacing: -0.02rem;
 }
 
-.font-space-3, .font-secondary {
+.font-space-3 {
   letter-spacing: -0.01rem;
 }
 
-.font-space-4, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
+.font-space-4 {
   letter-spacing: 0;
 }
 
-.font-space, .font-primary {
+.font-space {
   letter-spacing: 0;
 }
 
@@ -88,15 +88,15 @@
   letter-spacing: 0.5rem;
 }
 
-.font-family-sans, .font-adorn, .font-primary {
+.font-family-sans {
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-.font-family-serif, .font-error, .font-warning, .font-info {
+.font-family-serif {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
-.font-family-monospace, .font-success, .font-secondary {
+.font-family-monospace {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
@@ -112,15 +112,15 @@
   font-weight: 200;
 }
 
-.font-weight-3, .font-secondary {
+.font-weight-3 {
   font-weight: 300;
 }
 
-.font-weight-4, .font-success, .font-error, .font-warning, .font-info, .font-adorn {
+.font-weight-4 {
   font-weight: 400;
 }
 
-.font-weight, .font-primary {
+.font-weight {
   font-weight: 400;
 }
 
@@ -297,43 +297,43 @@ u, ins, .u, .ins {
   color: black !important;
 }
 
-.font-pink-1 {
-  color: #fae6e9 !important;
+.font-turquoise-1 {
+  color: #e6fafa !important;
 }
 
-.font-pink-2 {
-  color: #eb99a7 !important;
+.font-turquoise-2 {
+  color: #99ebeb !important;
 }
 
-.font-pink-3 {
-  color: #db4d64 !important;
+.font-turquoise-3 {
+  color: #4ddbdb !important;
 }
 
-.font-pink-4 {
-  color: #cc0022 !important;
+.font-turquoise-4 {
+  color: #00cccc !important;
 }
 
-.font-pink {
-  color: #cc0022 !important;
+.font-turquoise {
+  color: #00cccc !important;
 }
 
-.font-pink-5 {
-  color: #a3001b !important;
+.font-turquoise-5 {
+  color: #00a3a3 !important;
 }
 
-.font-pink-6 {
-  color: #7a0014 !important;
+.font-turquoise-6 {
+  color: #007a7a !important;
 }
 
-.font-pink-7 {
-  color: #52000e !important;
+.font-turquoise-7 {
+  color: #005252 !important;
 }
 
-.font-pink-8 {
-  color: #290007 !important;
+.font-turquoise-8 {
+  color: #002929 !important;
 }
 
-.font-pink-9 {
+.font-turquoise-9 {
   color: black !important;
 }
 
@@ -657,10 +657,6 @@ u, ins, .u, .ins {
   color: black !important;
 }
 
-.font-primary-0 {
-  color: #cccccc;
-}
-
 .font-primary-1 {
   color: #9999cc;
 }
@@ -701,96 +697,84 @@ u, ins, .u, .ins {
   color: black;
 }
 
-.font-seconday-0 {
-  color: #cccccc;
-}
-
-.font-seconday-1 {
+.font-secondary-1 {
   color: #cc99cc;
 }
 
-.font-seconday-2 {
+.font-secondary-2 {
   color: #cc66cc;
 }
 
-.font-seconday-3 {
+.font-secondary-3 {
   color: #cc33cc;
 }
 
-.font-seconday-4 {
+.font-secondary-4 {
   color: #cc00cc;
 }
 
-.font-seconday {
+.font-secondary {
   color: #cc00cc;
 }
 
-.font-seconday-5 {
+.font-secondary-5 {
   color: #a300a3;
 }
 
-.font-seconday-6 {
+.font-secondary-6 {
   color: #7a007a;
 }
 
-.font-seconday-7 {
+.font-secondary-7 {
   color: #520052;
 }
 
-.font-seconday-8 {
+.font-secondary-8 {
   color: #290029;
 }
 
-.font-seconday-9 {
+.font-secondary-9 {
   color: black;
 }
 
-.font-adorn-0 {
-  color: #cccccc;
-}
-
 .font-adorn-1 {
-  color: #cc99a2;
+  color: #99cccc;
 }
 
 .font-adorn-2 {
-  color: #cc6677;
+  color: #66cccc;
 }
 
 .font-adorn-3 {
-  color: #cc334d;
+  color: #33cccc;
 }
 
 .font-adorn-4 {
-  color: #cc0022;
+  color: #00cccc;
 }
 
 .font-adorn {
-  color: #cc0022;
+  color: #00cccc;
 }
 
 .font-adorn-5 {
-  color: #a3001b;
+  color: #00a3a3;
 }
 
 .font-adorn-6 {
-  color: #7a0014;
+  color: #007a7a;
 }
 
 .font-adorn-7 {
-  color: #52000e;
+  color: #005252;
 }
 
 .font-adorn-8 {
-  color: #290007;
+  color: #002929;
 }
 
 .font-adorn-9 {
   color: black;
-}
-
-.font-info-0 {
-  color: #cccccc;
 }
 
 .font-info-1 {
@@ -833,10 +817,6 @@ u, ins, .u, .ins {
   color: black;
 }
 
-.font-warning-0 {
-  color: #cccccc;
-}
-
 .font-warning-1 {
   color: #ccba99;
 }
@@ -877,10 +857,6 @@ u, ins, .u, .ins {
   color: black;
 }
 
-.font-error-0 {
-  color: #cccccc;
-}
-
 .font-error-1 {
   color: #cc9999;
 }
@@ -919,10 +895,6 @@ u, ins, .u, .ins {
 
 .font-error-9 {
   color: black;
-}
-
-.font-success-0 {
-  color: #cccccc;
 }
 
 .font-success-1 {
@@ -1003,34 +975,6 @@ u, ins, .u, .ins {
 
 .font-opcity-none {
   opacity: 1 !important;
-}
-
-.font-adorn {
-  font-style: italic;
-}
-
-.font-info {
-  font-style: italic;
-}
-
-.font-warning {
-  font-style: italic;
-  text-decoration: underline;
-}
-
-.font-error {
-  font-style: italic;
-  text-decoration: line-through;
-}
-
-.font-success {
-  font-style: italic;
-}
-
-.font-more {
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  overflow: hidden;
 }
 
 /*# sourceMappingURL=font.css.map */

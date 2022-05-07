@@ -11,10 +11,10 @@ html,body{
     // overflow: hidden !important;
     @extend .font-family-sans  !optional;
 }
-body::-webkit-scrollbar {
-    width: 0px;
-    background: transparent; /* Disable scrollbar Chrome/Safari/Webkit */
-}
+// body::-webkit-scrollbar {
+    // width: 0px;
+    // background: transparent; /* Disable scrollbar Chrome/Safari/Webkit */
+// }
 .x-container{
     border:none;
     box-sizing: border-box;
@@ -114,7 +114,7 @@ body::-webkit-scrollbar {
 
 @for $i from 1 to 100{
     @if $i == 1{
-        .ellipsis-1{
+        .ellipsis{
             white-space: nowrap;
             text-overflow: ellipsis;
             overflow: hidden;

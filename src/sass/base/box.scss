@@ -3,24 +3,24 @@
 @use "sass:color";
 @import "./color";
 
-@for $i from 1 to 100{
-    .border-width-#{$i}px{
+@for $i from 1 to 10{
+    .border-width-#{$i}{
         border-width:$i * 1px;
     }
 }
 
 @each $key, $color in $colors {
     .border-left-color-#{$key} {
-        border-left-color: $color;
+        border-left-color: $color !important;
     }
     .border-top-color-#{$key} {
-        border-left-color: $color;
+        border-left-color: $color !important;
     }
     .border-right-color-#{$key} {
-        border-left-color: $color;
+        border-left-color: $color !important;
     }
     .border-bottom-color-#{$key} {
-        border-left-color: $color;
+        border-left-color: $color !important;
     }
 }
 
@@ -33,32 +33,49 @@
 }
 
 .border-none{
-    border:none;
+    border:none !important;
 }
 
 //padding
-@for $i from 1 to 100{
-    .padding-top-#{$i}px{
+@for $i from 1 to 10{
+    .padding-top-#{$i}{
         padding-top: $i * 1px;
     }
-    .padding-left-#{$i}px{
+    .padding-left-#{$i}{
         padding-left: $i * 1px;
     }
-    .padding-right-#{$i}px{
+    .padding-right-#{$i}{
         padding-right: $i * 1px;
     }
-    .padding-bottom-#{$i}px{
+    .padding-bottom-#{$i}{
         padding-bottom: $i * 1px;
     }
-    .padding-#{$i}px{
+    .padding-#{$i}{
         padding: $i * 1px;
     }
 }
 
 //shadow
-@for $i from 1 to 100{
-    .box-shadow-#{$i}px {
+@for $i from 1 to 10{
+    .box-shadow-#{$i} {
         box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px $gray;
+        &:hover{
+            box-shadow: $i * 0.05 *1px $i*0.05*1px $i*0.5px $i*0.05*1px $gray;
+        }
+        &:active{
+            box-shadow: none;
+        }
+    }
+    @if $i == 4{
+        .box-shadow {
+            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px $gray;
+            &:hover{
+                box-shadow: $i * 0.05 *1px $i*0.05*1px $i*0.5px $i*0.05*1px $gray;
+            }
+            &:active{
+                box-shadow: none;
+            }
+        }   
     }
 }
 
@@ -68,26 +85,18 @@
 }
 
 //radius
-@for $i from 1 to 100{
-    .border-radius-#{$i}px {
+@for $i from 1 to 10{
+    .border-radius-#{$i} {
         border-radius: $i*1px;
+    }
+    @if $i == 4{
+        .border-radius {
+            border-radius: $i*1px;
+        }   
     }
 }
 
-@for $i from 1 to 10{
-    .radius-cicle-#{$i}{
-        width: $i*1rem !important;
-        height: $i*1rem !important;
-        border: 1px solid transparent;
-        font-size: $i/2 * 1rem !important;
-        line-height: $i *1rem !important;
-        text-align: center;
-        border-radius: 50% !important;
-        overflow: hidden;
-        white-space: nowrap;
-        box-sizing: content-box;
-    }
-}
+
 
 
 @each $key, $color in $colors {
