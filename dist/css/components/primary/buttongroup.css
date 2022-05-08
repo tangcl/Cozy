@@ -1,0 +1,26 @@
+.btn-group-x {
+  border: none;
+  box-sizing: border-box;
+  margin: 0;
+  display: flex;
+  display: -webkit-flex;
+  background-color: white;
+}
+.btn-group-x > * {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.btn-group-y {
+  border: none;
+  box-sizing: border-box;
+  margin: 0;
+  background-color: white;
+  overflow-y: auto;
+  list-style: none;
+}
+.btn-group-y > * {
+  list-style: none;
+}
+
+/*# sourceMappingURL=buttongroup.css.map */

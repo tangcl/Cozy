@@ -2,7 +2,9 @@
 //border 属性：width
 @use "sass:color";
 @import "./color";
-
+.border-none{
+    border:none;
+}
 @for $i from 1 to 10{
     .border-width-#{$i}{
         border-width:$i * 1px;
@@ -32,27 +34,128 @@
     border-style: dotted;
 }
 
-.border-none{
-    border:none !important;
-}
 
-//padding
+
+//padding,margin
 @for $i from 1 to 10{
-    .padding-top-#{$i}{
-        padding-top: $i * 1px;
+    @if $i < 4{
+        $fontsize: 1 - (4 - $i) * 0.1;
+        .padding-top-#{$i}{
+            padding-top: $fontsize * 1rem;
+        }
+        .padding-left-#{$i}{
+            padding-left: $fontsize * 1rem;
+        }
+        .padding-right-#{$i}{
+            padding-right: $fontsize * 1rem;
+        }
+        .padding-bottom-#{$i}{
+            padding-bottom: $fontsize * 1rem;
+        }
+        .padding-#{$i}{
+            padding: $fontsize * 1rem;
+        }
+
+        .margin-top-#{$i}{
+            margin-top: $fontsize * 1rem;
+        }
+        .margin-left-#{$i}{
+            margin-left: $fontsize * 1rem;
+        }
+        .margin-right-#{$i}{
+            margin-right: $fontsize * 1rem;
+        }
+        .margin-bottom-#{$i}{
+            margin-bottom: $fontsize * 1rem;
+        }
+        .margin-#{$i}{
+            margin: $fontsize * 1rem;
+        }
     }
-    .padding-left-#{$i}{
-        padding-left: $i * 1px;
+    @if $i > 4{
+        $fontsize: 1 + ($i - 4) * 0.1;
+        .padding-top-#{$i}{
+            padding-top: $fontsize * 1rem;
+        }
+        .padding-left-#{$i}{
+            padding-left: $fontsize * 1rem;
+        }
+        .padding-right-#{$i}{
+            padding-right: $fontsize * 1rem;
+        }
+        .padding-bottom-#{$i}{
+            padding-bottom: $fontsize * 1rem;
+        }
+        .padding-#{$i}{
+            padding: $fontsize * 1rem;
+        }
+
+        .margin-top-#{$i}{
+            margin-top: $fontsize * 1rem;
+        }
+        .margin-left-#{$i}{
+            margin-left: $fontsize * 1rem;
+        }
+        .margin-right-#{$i}{
+            margin-right: $fontsize * 1rem;
+        }
+        .margin-bottom-#{$i}{
+            margin-bottom: $fontsize * 1rem;
+        }
+        .margin-#{$i}{
+            margin: $fontsize * 1rem;
+        }
     }
-    .padding-right-#{$i}{
-        padding-right: $i * 1px;
+
+    @if $i == 4{
+        .padding-top-#{$i}{
+            padding-top: 1rem;
+        }
+        .padding-left-#{$i}{
+            padding-left: 1rem;
+        }
+        .padding-right-#{$i}{
+            padding-right: 1rem;
+        }
+        .padding-bottom-#{$i}{
+            padding-bottom: 1rem;
+        }
+        .padding-#{$i}{
+            padding: 1rem;
+        }
+
+        .margin-top-#{$i}{
+            margin-top: 1rem;
+        }
+        .margin-left-#{$i}{
+            margin-left: 1rem;
+        }
+        .margin-right-#{$i}{
+            margin-right: 1rem;
+        }
+        .margin-bottom-#{$i}{
+            margin-bottom: 1rem;
+        }
+        .margin-#{$i}{
+            margin: 1rem;
+        }
     }
-    .padding-bottom-#{$i}{
-        padding-bottom: $i * 1px;
-    }
-    .padding-#{$i}{
-        padding: $i * 1px;
-    }
+    
+}
+.padding-none{
+    padding:0;
+}
+.padding-left-0{
+    padding-left:0;
+}
+.padding-top-0{
+    padding-top:0;
+}
+.padding-right-0{
+    padding-right:0;
+}
+.padding-bottom-0{
+    padding-bottom:0;
 }
 
 //shadow
@@ -115,13 +218,13 @@
                 border-left-color: $co;
             }
             .border-top-#{$key}-#{$range} {
-                border-left-color: $co;
+                border-top-color: $co;
             }
             .border-right-#{$key}-#{$range} {
-                border-left-color: $co;
+                border-right-color: $co;
             }
             .border-bottom-#{$key}-#{$range} {
-                border-left-color: $co;
+                border-bottom-color: $co;
             }
         }
         @if $range > 4{
@@ -137,13 +240,13 @@
                 border-left-color: $co;
             }
             .border-top-#{$key}-#{$range} {
-                border-left-color: $co;
+                border-top-color: $co;
             }
             .border-right-#{$key}-#{$range} {
-                border-left-color: $co;
+                border-right-color: $co;
             }
             .border-bottom-#{$key}-#{$range} {
-                border-left-color: $co;
+                border-bottom-color: $co;
             }
         }
         @if $range == 4 {
@@ -161,6 +264,19 @@
             }
             .border-#{$key}{
                 border-color: $color !important;
+            }
+
+            .border-left-#{$key}-#{$range} {
+                border-left-color: $color;
+            }
+            .border-top-#{$key}-#{$range} {
+                border-top-color: $color;
+            }
+            .border-right-#{$key}-#{$range} {
+                border-right-color: $color;
+            }
+            .border-bottom-#{$key}-#{$range} {
+                border-bottom-color: $color;
             }
         }
     }

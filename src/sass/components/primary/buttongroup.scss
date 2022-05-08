@@ -1,0 +1,27 @@
+@import "../../base/color";
+
+.btn-group-x{
+    border:none;
+    box-sizing: border-box;
+    margin:0;
+    display: flex;    
+    display: -webkit-flex;
+    background-color: white;
+    &>*{
+        width:100%;
+        box-sizing: border-box;
+    }
+}
+//此btn-group 具有自动找宽能力，定义好父级元素的总体宽度，子button将平均分配宽度。
+
+.btn-group-y{
+    border:none;
+    box-sizing: border-box;
+    margin:0;
+    background-color: white;
+    overflow-y: auto;
+    list-style: none;
+    &>*{
+        list-style: none;
+    }
+}
