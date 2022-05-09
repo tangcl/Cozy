@@ -161,22 +161,22 @@
 //shadow
 @for $i from 1 to 10{
     .box-shadow-#{$i} {
-        box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px $gray;
-        &:hover{
-            box-shadow: $i * 0.05 *1px $i*0.05*1px $i*0.5px $i*0.05*1px $gray;
-        }
+        box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
+        // &:hover{
+        //     box-shadow: $i * 0.05 *1px $i*0.05*1px $i*0.5px $i*0.05*1px rgba(0, 0, 0, 0.25);
+        // }
         &:active{
-            box-shadow: none;
+            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
         }
     }
     @if $i == 4{
         .box-shadow {
-            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px $gray;
-            &:hover{
-                box-shadow: $i * 0.05 *1px $i*0.05*1px $i*0.5px $i*0.05*1px $gray;
-            }
+            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
+            // &:hover{
+            //     box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
+            // }
             &:active{
-                box-shadow: none;
+                box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
             }
         }   
     }
