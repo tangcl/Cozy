@@ -1,7 +1,7 @@
 declare class Obj {
     names: string;
     constructor();
-    print(): string;
+    print(): void;
 }
 interface Window {
     obj: Obj;
