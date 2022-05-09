@@ -2,7 +2,7 @@ button {
   text-decoration: none;
   position: relative;
   box-sizing: border-box;
-  border: 1px solid transparent;
+  border: 0px solid transparent;
   text-align: center;
   user-select: none;
   -moz-user-select: none;
@@ -533,6 +533,21 @@ button[disabled]:hover {
   background-color: white;
   color: #00cc00;
   border: 1px solid #00cc00;
+}
+
+.active-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20px;
+  height: 100%;
+}
+
+.hover {
+  background-color: transparent;
+}
+.hover:hover {
+  background-color: blue;
 }
 
 /*# sourceMappingURL=button.css.map */

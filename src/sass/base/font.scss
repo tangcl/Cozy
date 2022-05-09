@@ -6,7 +6,7 @@ $fontsize: 16px;
 
 
 //定义中级应用大小
-@for $size from 1 to 10{
+@for $size from 0 to 10{
     @if $size < 4{
         $divide: (4 - $size) * 0.1;
         .font-size-#{$size}{
@@ -33,7 +33,7 @@ $fontsize: 16px;
     }
 }
 
-@for $letter from 1 to 10 {
+@for $letter from 0 to 10 {
     @if $letter < 4{
         $letterns : (4 - $letter) * 0.01rem;
         .font-space-#{$letter}{
@@ -89,12 +89,18 @@ $fontsize: 16px;
 //font-weight 
 
 @for $font-weight from 0 to 9{
-    .font-weight-#{$font-weight} {
-        font-weight: $font-weight * 100;
+    @if $font-weight == 0{
+        .font-weight-#{$font-weight} {
+            font-weight: 100 !important;
+        }    
+    }@else{
+        .font-weight-#{$font-weight} {
+            font-weight: $font-weight * 100 !important;
+        }
     }
     @if $font-weight == 4{
         .font-weight {
-            font-weight: $font-weight * 100;
+            font-weight: $font-weight * 100 !important;
         }   
     } 
 }

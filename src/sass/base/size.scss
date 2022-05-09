@@ -1,8 +1,9 @@
-@for $i from 1 through 100{
+@for $i from 0 through 100{
     .width-#{$i}-100{
         min-width: $i*1%;
         width: $i*1% !important;
         $max:($i * 3/2)*1%;
+        overflow-x: hidden;
         @if $max>100%{
             max-width:100%;
         }@else{
@@ -14,11 +15,12 @@
     }
 }
 
-@for $i from 1 through 100{
+@for $i from 0 through 100{
     .width-#{$i}rem{
         min-width: $i*1rem;
         width: $i*1rem !important;
         $max:($i * 3/2)*1rem;
+        overflow-x: hidden;
         @if $max>100rem{
             max-width:100rem;
         }@else{
@@ -27,11 +29,12 @@
     }
 }
 
-@for $i from 1 through 100{
+@for $i from 0 through 100{
     .width-#{$i}px{
         min-width: $i*1px;
         width: $i*1px !important;
         $max:($i * 3/2)*1px;
+        overflow-x: hidden;
         @if $max>100px{
             max-width:100px;
         }@else{
@@ -42,7 +45,7 @@
 
 
 
-@for $i from 1 through 100{
+@for $i from 0 through 100{
     .height-#{$i}-100{
         min-height: $i * 1/2 *1%;
         height: $i*1%;
@@ -50,7 +53,7 @@
     }
 }
 
-@for $i from 1 through 100{
+@for $i from 0 through 100{
     .height-#{$i}rem{
         min-height: $i * 1 / 2 * 1rem;
         height: $i*1rem;
@@ -58,7 +61,7 @@
     }
 }
 
-@for $i from 1 through 100{
+@for $i from 0 through 100{
     .height-#{$i}px{
         min-height: $i*1/2*1px;
         height: $i*1px;

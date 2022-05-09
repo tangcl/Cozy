@@ -5,24 +5,21 @@
 .border-none{
     border:none;
 }
-@for $i from 1 to 10{
+@for $i from 0 to 10{
     .border-width-#{$i}{
-        border-width:$i * 1px;
+        border-width:$i * 1px !important;
     }
-}
-
-@each $key, $color in $colors {
-    .border-left-color-#{$key} {
-        border-left-color: $color !important;
+    .border-left-width-#{$i}{
+        border-left-width:$i * 1px !important;
     }
-    .border-top-color-#{$key} {
-        border-left-color: $color !important;
+    .border-top-width-#{$i}{
+        border-top-width:$i * 1px !important;
     }
-    .border-right-color-#{$key} {
-        border-left-color: $color !important;
+    .border-right-width-#{$i}{
+        border-right-width:$i * 1px !important;
     }
-    .border-bottom-color-#{$key} {
-        border-left-color: $color !important;
+    .border-bottom-width-#{$i}{
+        border-bottom-width:$i * 1px !important;
     }
 }
 
@@ -34,249 +31,291 @@
     border-style: dotted;
 }
 
-
-
 //padding,margin
-@for $i from 1 to 10{
+//padding默认高度单边为fontsize*0.1,width0.2
+@for $i from 0 to 10{
+    @if $i == 0{
+        .padding-top-#{$i}{
+            padding-top: none;
+        }
+        .padding-left-#{$i}{
+            padding-left: none;
+        }
+        .padding-right-#{$i}{
+            padding-right: none;
+        }
+        .padding-bottom-#{$i}{
+            padding-bottom: none;
+        }
+        .padding-#{$i}{
+            padding: none;
+        }
+
+        .margin-top-#{$i}{
+            margin-top: none;
+        }
+        .margin-left-#{$i}{
+            margin-left: none;
+        }
+        .margin-right-#{$i}{
+            margin-right: none;
+        }
+        .margin-bottom-#{$i}{
+            margin-bottom: none;
+        }
+        .margin-#{$i}{
+            margin: none;
+        }
+    }
     @if $i < 4{
         $fontsize: 1 - (4 - $i) * 0.1;
         .padding-top-#{$i}{
-            padding-top: $fontsize * 1rem;
+            padding-top: $fontsize * 0.1rem;
         }
         .padding-left-#{$i}{
-            padding-left: $fontsize * 1rem;
+            padding-left: $fontsize * 0.2rem;
         }
         .padding-right-#{$i}{
-            padding-right: $fontsize * 1rem;
+            padding-right: $fontsize * 0.2rem;
         }
         .padding-bottom-#{$i}{
-            padding-bottom: $fontsize * 1rem;
+            padding-bottom: $fontsize * 0.1rem;
         }
         .padding-#{$i}{
-            padding: $fontsize * 1rem;
+            padding: $fontsize * 0.1rem $fontsize * 0.2rem;
         }
 
         .margin-top-#{$i}{
-            margin-top: $fontsize * 1rem;
+            margin-top: $fontsize * 0.1rem;
         }
         .margin-left-#{$i}{
-            margin-left: $fontsize * 1rem;
+            margin-left: $fontsize * 0.2rem;
         }
         .margin-right-#{$i}{
-            margin-right: $fontsize * 1rem;
+            margin-right: $fontsize * 0.2rem;
         }
         .margin-bottom-#{$i}{
-            margin-bottom: $fontsize * 1rem;
+            margin-bottom: $fontsize * 0.1rem;
         }
         .margin-#{$i}{
-            margin: $fontsize * 1rem;
+            margin: $fontsize * 0.1rem $fontsize * 0.2rem;
         }
     }
+    
+    @if $i == 4{
+        .padding-top-#{$i}{
+            padding-top: 0.1rem;
+        }
+        .padding-left-#{$i}{
+            padding-left: 0.2rem;
+        }
+        .padding-right-#{$i}{
+            padding-right: 0.2rem;
+        }
+        .padding-bottom-#{$i}{
+            padding-bottom: 0.1rem;
+        }
+        .padding-#{$i}{
+            padding: 0.1rem 0.2rem;
+        }
+
+        .margin-top-#{$i}{
+            margin-top: 0.1rem;
+        }
+        .margin-left-#{$i}{
+            margin-left: 0.2rem;
+        }
+        .margin-right-#{$i}{
+            margin-right: 0.2rem;
+        }
+        .margin-bottom-#{$i}{
+            margin-bottom: 0.1rem;
+        }
+        .margin-#{$i}{
+            margin: 0.1rem 0.2rem;
+        }
+    }
+
     @if $i > 4{
         $fontsize: 1 + ($i - 4) * 0.1;
         .padding-top-#{$i}{
-            padding-top: $fontsize * 1rem;
+            padding-top: $fontsize * 0.1rem;
         }
         .padding-left-#{$i}{
-            padding-left: $fontsize * 1rem;
+            padding-left: $fontsize * 0.2rem;
         }
         .padding-right-#{$i}{
-            padding-right: $fontsize * 1rem;
+            padding-right: $fontsize * 0.2rem;
         }
         .padding-bottom-#{$i}{
-            padding-bottom: $fontsize * 1rem;
+            padding-bottom: $fontsize * 0.1rem;
         }
         .padding-#{$i}{
-            padding: $fontsize * 1rem;
+            padding: $fontsize * 0.1rem $fontsize * 0.2rem;
         }
 
         .margin-top-#{$i}{
-            margin-top: $fontsize * 1rem;
+            margin-top: $fontsize * 0.1rem;
         }
         .margin-left-#{$i}{
-            margin-left: $fontsize * 1rem;
+            margin-left: $fontsize * 0.2rem;
         }
         .margin-right-#{$i}{
-            margin-right: $fontsize * 1rem;
+            margin-right: $fontsize * 0.2rem;
         }
         .margin-bottom-#{$i}{
-            margin-bottom: $fontsize * 1rem;
+            margin-bottom: $fontsize * 0.1rem;
         }
         .margin-#{$i}{
-            margin: $fontsize * 1rem;
-        }
-    }
-
-    @if $i == 4{
-        .padding-top-#{$i}{
-            padding-top: 1rem;
-        }
-        .padding-left-#{$i}{
-            padding-left: 1rem;
-        }
-        .padding-right-#{$i}{
-            padding-right: 1rem;
-        }
-        .padding-bottom-#{$i}{
-            padding-bottom: 1rem;
-        }
-        .padding-#{$i}{
-            padding: 1rem;
-        }
-
-        .margin-top-#{$i}{
-            margin-top: 1rem;
-        }
-        .margin-left-#{$i}{
-            margin-left: 1rem;
-        }
-        .margin-right-#{$i}{
-            margin-right: 1rem;
-        }
-        .margin-bottom-#{$i}{
-            margin-bottom: 1rem;
-        }
-        .margin-#{$i}{
-            margin: 1rem;
+            margin: $fontsize * 0.1rem $fontsize * 0.2rem;
         }
     }
     
 }
-.padding-none{
-    padding:0;
-}
-.padding-left-0{
-    padding-left:0;
-}
-.padding-top-0{
-    padding-top:0;
-}
-.padding-right-0{
-    padding-right:0;
-}
-.padding-bottom-0{
-    padding-bottom:0;
-}
 
 //shadow
-@for $i from 1 to 10{
-    .box-shadow-#{$i} {
-        box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
-        // &:hover{
-        //     box-shadow: $i * 0.05 *1px $i*0.05*1px $i*0.5px $i*0.05*1px rgba(0, 0, 0, 0.25);
-        // }
-        &:active{
-            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
-        }
-    }
-    @if $i == 4{
+@for $i from 0 to 10{
+    @if $i == 0{
+        .box-shadow-#{$i} {
+            box-shadow: none;
+        }    
+    }@else if $i == 4{
         .box-shadow {
             box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
-            // &:hover{
-            //     box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
-            // }
             &:active{
                 box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
             }
-        }   
+        }
+        .box-shadow-#{$i} {
+            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
+            &:active{
+                box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
+            }
+        }
+    }@else{
+        .box-shadow-#{$i} {
+            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
+            &:active{
+                box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
+            }
+        }
     }
-}
-
-//clear margin
-.margin-clear{
-    margin:none !important;
 }
 
 //radius
-@for $i from 1 to 10{
-    .border-radius-#{$i} {
-        border-radius: $i*1px;
-    }
-    @if $i == 4{
+@for $i from 0 to 10{
+    @if $i == 0{
+        .border-radius-#{$i} {
+            border-radius: none;
+        }
+    }@else if $i == 4{
         .border-radius {
             border-radius: $i*1px;
-        }   
+        }
+        .border-radius-#{$i} {
+            border-radius: $i*1px;
+        }
+    }@else{
+        .border-radius-#{$i} {
+            border-radius: $i*1px;
+        }
     }
+    
 }
 
 
 
 
-@each $key, $color in $colors {
+@each $key, $color in $semantic_range {
     @for $range from 1 to 10 {
         //生成颜色相关匹配色。
         @if $range  < 4{
             $whitens: 4-$range;
             $co:color.scale($color, $whiteness: ($whitens*30)*1%, $blackness: -($whitens*30)*1%);
-            .bg-#{$key}-#{$range} {
+            .#{$key}-bg-#{$range} {
                 background-color: $co !important;
             }
-            .border-#{$key}-#{$range}{
+            .#{$key}-border-#{$range}{
                 border-color: $co;
+                border-width: 1px;
             }
-            .border-left-#{$key}-#{$range} {
+            .#{$key}-border-left-#{$range} {
                 border-left-color: $co;
+                border-left-width: 1px;
             }
-            .border-top-#{$key}-#{$range} {
+            .#{$key}-border-top-#{$range} {
                 border-top-color: $co;
+                border-top-width: 1px;
             }
-            .border-right-#{$key}-#{$range} {
+            .#{$key}-border-right-#{$range} {
                 border-right-color: $co;
+                border-right-width: 1px;
             }
-            .border-bottom-#{$key}-#{$range} {
+            .#{$key}-border-bottom-#{$range} {
                 border-bottom-color: $co;
+                border-bottom-width: 1px;
             }
         }
         @if $range > 4{
             $blackns: $range - 4;
             $co: color.scale($color, $blackness: $blackns*20*1%);
-            .bg-#{$key}-#{$range} {
+            .#{$key}-bg-#{$range} {
                 background-color: $co  !important;
             }
-            .border-#{$key}-#{$range}{
+            .#{$key}-border-#{$range}{
                 border-color: $co;
+                border-width: 1px;
             }
-            .border-left-#{$key}-#{$range} {
+            .#{$key}-border-left-#{$range} {
                 border-left-color: $co;
+                border-left-width: 1px;
             }
-            .border-top-#{$key}-#{$range} {
+            .#{$key}-border-top-#{$range} {
                 border-top-color: $co;
+                border-top-width: 1px;
             }
-            .border-right-#{$key}-#{$range} {
+            .#{$key}-border-right-#{$range} {
                 border-right-color: $co;
+                border-right-width: 1px;
             }
-            .border-bottom-#{$key}-#{$range} {
+            .#{$key}-border-bottom-#{$range} {
                 border-bottom-color: $co;
+                border-bottom-width: 1px;
             }
         }
         @if $range == 4 {
-            .bg-#{$key}-#{$range} {
+            .#{$key}-bg-#{$range} {
                 background-color: $color  !important;
             }
-            .border-#{$key}-#{$range}{
-                border-color: $color !important;
-            }
-            .bg-#{$key} {
+            
+            .#{$key}-bg {
                 background-color: $color  !important;
+                
             }
-            .text-#{$key}{
-                color: $color  !important;
-            }
-            .border-#{$key}{
+            .#{$key}-border-#{$range}{
                 border-color: $color !important;
+                border-width: 1px;
+            }
+            .#{$key}-border{
+                border-color: $color !important;
+                border-width: 1px;
             }
 
-            .border-left-#{$key}-#{$range} {
+            .#{$key}-border-left-#{$range} {
                 border-left-color: $color;
+                border-left-width: 1px;
             }
-            .border-top-#{$key}-#{$range} {
+            .#{$key}-border-top-#{$range} {
                 border-top-color: $color;
+                border-top-width: 1px;
             }
-            .border-right-#{$key}-#{$range} {
+            .#{$key}-border-right-#{$range} {
                 border-right-color: $color;
+                border-right-width: 1px;
             }
-            .border-bottom-#{$key}-#{$range} {
+            .#{$key}-border-bottom-#{$range} {
                 border-bottom-color: $color;
+                border-bottom-width: 1px;
             }
         }
     }
@@ -288,23 +327,23 @@
         //生成颜色相关匹配色。
         @if $range  < 4{
             $whitens: 4-$range;
-            .bg-#{$key}-#{$range} {
+            .#{$key}-bg-#{$range} {
                 background-color: color.scale($color, $whiteness: ($whitens*20)*1%);
             }
         }
         @if $range > 4{
             $blackns: $range - 4;
-            .bg-#{$key}-#{$range} {
+            .#{$key}-bg-#{$range} {
                 background-color: color.scale($color, $blackness: $blackns*20*1%);
             }
             
         }
         @if $range == 4 {
             $blackns: $range - 4;
-            .bg-#{$key}-#{$range} {
+            .#{$key}-bg-#{$range} {
                 background-color: $color;
             }
-            .bg-#{$key} {
+            .#{$key}-bg {
                 background-color: $color;
             }            
         }
