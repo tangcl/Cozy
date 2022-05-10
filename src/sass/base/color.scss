@@ -14,18 +14,21 @@ $black: black;
 $white: white;
 
 $colors: (
+  //系统色
+  "white":      $white,
+  "black":      $black,
+
+  //主题色
   "blue":       $blue,
   "indigo":     $indigo,
   "purple":     $purple,
-  "turquoise":  $turquoise,
-  "red":        $red,
-  "orange":     $orange,
-  "yellow":     $yellow,
-  "green":      $green,
-  "cyan":       $cyan,
+  
+  //info色
   "gray":       $gray,
-  "white":      $white,
-  "black":      $black,
+  //street light色
+  "red":        $red,
+  "green":      $green,
+  "yellow":     $yellow,
 );
 // $color_range:1,2,3,4,500,600,700,800,900;
 //默认色定义:
@@ -34,13 +37,30 @@ $textColor: $black;
 
 //定义语义化颜色."primary"，按钮色， seconday,链接色
 $semantic_range:(
-    "primary":$blue,
+    "primary":$indigo,
     "secondary":$purple,
-    "adorn":$turquoise, 
-    "info":$indigo,
-    "warning":$orange,
+    "adorn":$indigo, 
+
+    "info":$gray,
+    
+    "warning":$yellow,
     "error":$red,
     "success":$green
 );
 
-//定义了基本颜色，将一个容器的元素进行拆分为文本（包括文本字体，大小，间距等，font）/盒子周边（包括border，shadow，padding）
+$topic_range:(
+    "primary":$blue,
+    "secondary":$purple,
+    "adorn":$turquoise, 
+);
+
+$message_range:(
+    "gray":$gray,
+    "warning":$yellow,
+    "error":$red, 
+    "success":$green, 
+);
+
+%background-white {
+    background-color: white;
+  }

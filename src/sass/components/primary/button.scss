@@ -219,14 +219,14 @@ $white-black:("white": $white,"black":$black);
     }
 }
 
-@each $key, $color in $semantic_range {
-    .btn-#{$key} {
+@each $key, $color in $topic_range {
+    .#{$key}-btn {
         background-color: $color;
         color: $white;
         // border: 1px solid transparent;
     }
     //反向色
-    .btn-#{$key}-inverse {
+    .#{$key}-btn-inverse {
         background-color: $white;
         color: $color;
         border: 1px solid $color;

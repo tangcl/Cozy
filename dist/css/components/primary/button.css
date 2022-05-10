@@ -458,81 +458,37 @@ button[disabled]:hover {
   border-end-end-radius: 2rem;
 }
 
-.btn-primary {
+.primary-btn {
   background-color: #0000cc;
   color: white;
 }
 
-.btn-primary-inverse {
+.primary-btn-inverse {
   background-color: white;
   color: #0000cc;
   border: 1px solid #0000cc;
 }
 
-.btn-secondary {
+.secondary-btn {
   background-color: #cc00cc;
   color: white;
 }
 
-.btn-secondary-inverse {
+.secondary-btn-inverse {
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
 
-.btn-adorn {
+.adorn-btn {
   background-color: #00cccc;
   color: white;
 }
 
-.btn-adorn-inverse {
+.adorn-btn-inverse {
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
-}
-
-.btn-info {
-  background-color: #7700cc;
-  color: white;
-}
-
-.btn-info-inverse {
-  background-color: white;
-  color: #7700cc;
-  border: 1px solid #7700cc;
-}
-
-.btn-warning {
-  background-color: #cc8500;
-  color: white;
-}
-
-.btn-warning-inverse {
-  background-color: white;
-  color: #cc8500;
-  border: 1px solid #cc8500;
-}
-
-.btn-error {
-  background-color: #cc0000;
-  color: white;
-}
-
-.btn-error-inverse {
-  background-color: white;
-  color: #cc0000;
-  border: 1px solid #cc0000;
-}
-
-.btn-success {
-  background-color: #00cc00;
-  color: white;
-}
-
-.btn-success-inverse {
-  background-color: white;
-  color: #00cc00;
-  border: 1px solid #00cc00;
 }
 
 .active-right {

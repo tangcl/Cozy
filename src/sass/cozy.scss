@@ -9,9 +9,11 @@ $fontsize:16px;
 @import 'base/size';
 @import 'base/color';
 
-
 @import 'components/primary/button';
 @import 'components/primary/buttongroup';
+@import 'components/primary/table';
+
+// @import 'components/primary/table';
 @import 'layout/container';
 @import 'base/box';
 @import 'base/font';

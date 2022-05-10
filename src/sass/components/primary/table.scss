@@ -1,0 +1,15 @@
+table,tbody{
+    // display: flex;
+    width: 100%;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;
+}
+
+.table_header{
+    @extend .text-align-center;
+    @extend .height-4 ;
+    @extend .primary-bg;
+    @extend .font-white-4;
+    @extend .box-shadow-1;
+}

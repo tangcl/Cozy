@@ -2,7 +2,7 @@
     .width-#{$i}-100{
         min-width: $i*1%;
         width: $i*1% !important;
-        $max:($i * 3/2)*1%;
+        $max:($i * 1.5)*1%;
         overflow-x: hidden;
         @if $max>100%{
             max-width:100%;
@@ -19,7 +19,7 @@
     .width-#{$i}rem{
         min-width: $i*1rem;
         width: $i*1rem !important;
-        $max:($i * 3/2)*1rem;
+        $max:($i * 1.5)*1rem;
         overflow-x: hidden;
         @if $max>100rem{
             max-width:100rem;
@@ -33,7 +33,7 @@
     .width-#{$i}px{
         min-width: $i*1px;
         width: $i*1px !important;
-        $max:($i * 3/2)*1px;
+        $max:($i * 1.5)*1px;
         overflow-x: hidden;
         @if $max>100px{
             max-width:100px;
@@ -43,11 +43,9 @@
     }
 }
 
-
-
 @for $i from 0 through 100{
     .height-#{$i}-100{
-        min-height: $i * 1/2 *1%;
+        min-height: $i * 0.5 *1%;
         height: $i*1%;
         max-height: $i*1%;
     }
@@ -55,7 +53,7 @@
 
 @for $i from 0 through 100{
     .height-#{$i}rem{
-        min-height: $i * 1 / 2 * 1rem;
+        min-height: $i * 0.5 * 1rem;
         height: $i*1rem;
         max-height: $i*1.1rem;
     }
@@ -63,9 +61,80 @@
 
 @for $i from 0 through 100{
     .height-#{$i}px{
-        min-height: $i*1/2*1px;
+        min-height: $i*0.5*1px;
         height: $i*1px;
         max-height: $i*1.2px;
     }
 }
 
+@for $i from 0 to 10{
+    @if $i < 4{
+        $divide: (4 - $i) * 0.1;
+        .height-#{$i} {
+            font-size: (1 - $divide) * 1rem;
+            line-height: (1 - $divide) * 1rem * 1.5;
+            min-height: (1 - $divide) * 2rem;
+            height: (1 - $divide) * 2rem; //div是font的2倍
+            max-height: (1 - $divide) * 2rem * 1.5;
+            padding: (1 - $divide) * 0.5rem (1 - $divide) * 1rem;
+        }
+    }
+    @if $i == 4{
+        .height-#{$i} {
+            font-size: 1rem;
+            line-height: 1rem * 1.5;
+            min-height: 2rem;
+            height: 2rem; //div是font的2倍
+            max-height: 2rem * 1.5;
+            padding: 0.5/2rem 0.5rem;
+        }
+    }
+    @if $i > 4{
+        $divide: ($i - 4) * 0.1;
+        .height-#{$i} {
+            font-size: (1 + $divide) * 1rem;
+            line-height: (1 + $divide) * 1rem *1.5;
+            min-height: (1 + $divide) * 2rem;
+            height: (1 + $divide) * 2rem; //div是font的2倍
+            max-height: (1 + $divide) * 2rem * 1.5;
+            padding: (1 + $divide) * 0.5rem (1 + $divide) * 1rem;
+        }
+    }
+    
+}
+
+@for $i from 0 to 10{
+    @if $i < 4{
+        $divide: (4 - $i) * 0.1;
+        .width-#{$i} {
+            font-size: (1 - $divide) * 1rem;
+            line-height: (1 - $divide) * 1rem * 1.5;
+            min-width: (1 - $divide) * 2rem;
+            width: (1 - $divide) * 2rem; //div是font的2倍
+            max-width: (1 - $divide) * 2rem * 1.5;
+            padding: (1 - $divide) * 0.5rem (1 - $divide) * 1rem;
+        }
+    }
+    @if $i == 4{
+        .width-#{$i} {
+            font-size: 1rem;
+            line-height: 1rem * 1.5;
+            min-width: 2rem;
+            width: 2rem; //div是font的2倍
+            max-width: 2rem * 1.5;
+            padding: 0.5/2rem 0.5rem;
+        }
+    }
+    @if $i > 4{
+        $divide: ($i - 4) * 0.1;
+        .width-#{$i} {
+            font-size: (1 + $divide) * 1rem;
+            line-height: (1 + $divide) * 1rem *1.5;
+            min-width: (1 + $divide) * 2rem;
+            width: (1 + $divide) * 2rem; //div是font的2倍
+            max-width: (1 + $divide) * 2rem * 1.5;
+            padding: (1 + $divide) * 0.5rem (1 + $divide) * 1rem;
+        }
+    }
+    
+}

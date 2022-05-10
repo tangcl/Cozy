@@ -186,6 +186,86 @@ u, ins, .u, .ins {
   text-decoration: underline;
 }
 
+.font-white-1 {
+  color: white !important;
+}
+
+.font-white-2 {
+  color: white !important;
+}
+
+.font-white-3 {
+  color: white !important;
+}
+
+.font-white-4 {
+  color: white !important;
+}
+
+.font-white {
+  color: white !important;
+}
+
+.font-white-5 {
+  color: #d5d5d5 !important;
+}
+
+.font-white-6 {
+  color: #b6b6b6 !important;
+}
+
+.font-white-7 {
+  color: #9f9f9f !important;
+}
+
+.font-white-8 {
+  color: #8e8e8e !important;
+}
+
+.font-white-9 {
+  color: gray !important;
+}
+
+.font-black-1 {
+  color: #e6e6e6 !important;
+}
+
+.font-black-2 {
+  color: #999999 !important;
+}
+
+.font-black-3 {
+  color: #4d4d4d !important;
+}
+
+.font-black-4 {
+  color: black !important;
+}
+
+.font-black {
+  color: black !important;
+}
+
+.font-black-5 {
+  color: black !important;
+}
+
+.font-black-6 {
+  color: black !important;
+}
+
+.font-black-7 {
+  color: black !important;
+}
+
+.font-black-8 {
+  color: black !important;
+}
+
+.font-black-9 {
+  color: black !important;
+}
+
 .font-blue-1 {
   color: lavender !important;
 }
@@ -306,44 +386,44 @@ u, ins, .u, .ins {
   color: black !important;
 }
 
-.font-turquoise-1 {
-  color: #e6fafa !important;
+.font-gray-1 {
+  color: #f0f0f0 !important;
 }
 
-.font-turquoise-2 {
-  color: #99ebeb !important;
+.font-gray-2 {
+  color: #c2c2c2 !important;
 }
 
-.font-turquoise-3 {
-  color: #4ddbdb !important;
+.font-gray-3 {
+  color: #949494 !important;
 }
 
-.font-turquoise-4 {
-  color: #00cccc !important;
+.font-gray-4 {
+  color: #666666 !important;
 }
 
-.font-turquoise {
-  color: #00cccc !important;
+.font-gray {
+  color: #666666 !important;
 }
 
-.font-turquoise-5 {
-  color: #00a3a3 !important;
+.font-gray-5 {
+  color: #5e5e5e !important;
 }
 
-.font-turquoise-6 {
-  color: #007a7a !important;
+.font-gray-6 {
+  color: #585858 !important;
 }
 
-.font-turquoise-7 {
-  color: #005252 !important;
+.font-gray-7 {
+  color: #525252 !important;
 }
 
-.font-turquoise-8 {
-  color: #002929 !important;
+.font-gray-8 {
+  color: #4d4d4d !important;
 }
 
-.font-turquoise-9 {
-  color: black !important;
+.font-gray-9 {
+  color: #494949 !important;
 }
 
 .font-red-1 {
@@ -383,86 +463,6 @@ u, ins, .u, .ins {
 }
 
 .font-red-9 {
-  color: black !important;
-}
-
-.font-orange-1 {
-  color: #faf3e6 !important;
-}
-
-.font-orange-2 {
-  color: #ebce99 !important;
-}
-
-.font-orange-3 {
-  color: #dbaa4d !important;
-}
-
-.font-orange-4 {
-  color: #cc8500 !important;
-}
-
-.font-orange {
-  color: #cc8500 !important;
-}
-
-.font-orange-5 {
-  color: #a36a00 !important;
-}
-
-.font-orange-6 {
-  color: #7a5000 !important;
-}
-
-.font-orange-7 {
-  color: #523500 !important;
-}
-
-.font-orange-8 {
-  color: #291b00 !important;
-}
-
-.font-orange-9 {
-  color: black !important;
-}
-
-.font-yellow-1 {
-  color: #fafae6 !important;
-}
-
-.font-yellow-2 {
-  color: #ebeb99 !important;
-}
-
-.font-yellow-3 {
-  color: #dbdb4d !important;
-}
-
-.font-yellow-4 {
-  color: #cccc00 !important;
-}
-
-.font-yellow {
-  color: #cccc00 !important;
-}
-
-.font-yellow-5 {
-  color: #a3a300 !important;
-}
-
-.font-yellow-6 {
-  color: #7a7a00 !important;
-}
-
-.font-yellow-7 {
-  color: #525200 !important;
-}
-
-.font-yellow-8 {
-  color: #292900 !important;
-}
-
-.font-yellow-9 {
   color: black !important;
 }
 
@@ -506,200 +506,80 @@ u, ins, .u, .ins {
   color: black !important;
 }
 
-.font-cyan-1 {
-  color: #e6fafa !important;
+.font-yellow-1 {
+  color: #fafae6 !important;
 }
 
-.font-cyan-2 {
-  color: #99ebeb !important;
+.font-yellow-2 {
+  color: #ebeb99 !important;
 }
 
-.font-cyan-3 {
-  color: #4ddbdb !important;
+.font-yellow-3 {
+  color: #dbdb4d !important;
 }
 
-.font-cyan-4 {
-  color: #00cccc !important;
+.font-yellow-4 {
+  color: #cccc00 !important;
 }
 
-.font-cyan {
-  color: #00cccc !important;
+.font-yellow {
+  color: #cccc00 !important;
 }
 
-.font-cyan-5 {
-  color: #00a3a3 !important;
+.font-yellow-5 {
+  color: #a3a300 !important;
 }
 
-.font-cyan-6 {
-  color: #007a7a !important;
+.font-yellow-6 {
+  color: #7a7a00 !important;
 }
 
-.font-cyan-7 {
-  color: #005252 !important;
+.font-yellow-7 {
+  color: #525200 !important;
 }
 
-.font-cyan-8 {
-  color: #002929 !important;
+.font-yellow-8 {
+  color: #292900 !important;
 }
 
-.font-cyan-9 {
-  color: black !important;
-}
-
-.font-gray-1 {
-  color: #f0f0f0 !important;
-}
-
-.font-gray-2 {
-  color: #c2c2c2 !important;
-}
-
-.font-gray-3 {
-  color: #949494 !important;
-}
-
-.font-gray-4 {
-  color: #666666 !important;
-}
-
-.font-gray {
-  color: #666666 !important;
-}
-
-.font-gray-5 {
-  color: #5e5e5e !important;
-}
-
-.font-gray-6 {
-  color: #585858 !important;
-}
-
-.font-gray-7 {
-  color: #525252 !important;
-}
-
-.font-gray-8 {
-  color: #4d4d4d !important;
-}
-
-.font-gray-9 {
-  color: #494949 !important;
-}
-
-.font-white-1 {
-  color: white !important;
-}
-
-.font-white-2 {
-  color: white !important;
-}
-
-.font-white-3 {
-  color: white !important;
-}
-
-.font-white-4 {
-  color: white !important;
-}
-
-.font-white {
-  color: white !important;
-}
-
-.font-white-5 {
-  color: #d5d5d5 !important;
-}
-
-.font-white-6 {
-  color: #b6b6b6 !important;
-}
-
-.font-white-7 {
-  color: #9f9f9f !important;
-}
-
-.font-white-8 {
-  color: #8e8e8e !important;
-}
-
-.font-white-9 {
-  color: gray !important;
-}
-
-.font-black-1 {
-  color: #e6e6e6 !important;
-}
-
-.font-black-2 {
-  color: #999999 !important;
-}
-
-.font-black-3 {
-  color: #4d4d4d !important;
-}
-
-.font-black-4 {
-  color: black !important;
-}
-
-.font-black {
-  color: black !important;
-}
-
-.font-black-5 {
-  color: black !important;
-}
-
-.font-black-6 {
-  color: black !important;
-}
-
-.font-black-7 {
-  color: black !important;
-}
-
-.font-black-8 {
-  color: black !important;
-}
-
-.font-black-9 {
+.font-yellow-9 {
   color: black !important;
 }
 
 .font-primary-1 {
-  color: #9999cc;
+  color: #b799cc;
 }
 
 .font-primary-2 {
-  color: #6666cc;
+  color: #a266cc;
 }
 
 .font-primary-3 {
-  color: #3333cc;
+  color: #8c33cc;
 }
 
 .font-primary-4 {
-  color: #0000cc;
+  color: #7700cc;
 }
 
 .font-primary {
-  color: #0000cc;
+  color: #7700cc;
 }
 
 .font-primary-5 {
-  color: #0000a3;
+  color: #5f00a3;
 }
 
 .font-primary-6 {
-  color: #00007a;
+  color: #47007a;
 }
 
 .font-primary-7 {
-  color: #000052;
+  color: #300052;
 }
 
 .font-primary-8 {
-  color: #000029;
+  color: #180029;
 }
 
 .font-primary-9 {
@@ -747,39 +627,39 @@ u, ins, .u, .ins {
 }
 
 .font-adorn-1 {
-  color: #99cccc;
+  color: #b799cc;
 }
 
 .font-adorn-2 {
-  color: #66cccc;
+  color: #a266cc;
 }
 
 .font-adorn-3 {
-  color: #33cccc;
+  color: #8c33cc;
 }
 
 .font-adorn-4 {
-  color: #00cccc;
+  color: #7700cc;
 }
 
 .font-adorn {
-  color: #00cccc;
+  color: #7700cc;
 }
 
 .font-adorn-5 {
-  color: #00a3a3;
+  color: #5f00a3;
 }
 
 .font-adorn-6 {
-  color: #007a7a;
+  color: #47007a;
 }
 
 .font-adorn-7 {
-  color: #005252;
+  color: #300052;
 }
 
 .font-adorn-8 {
-  color: #002929;
+  color: #180029;
 }
 
 .font-adorn-9 {
@@ -787,79 +667,79 @@ u, ins, .u, .ins {
 }
 
 .font-info-1 {
-  color: #b799cc;
+  color: #8f8f8f;
 }
 
 .font-info-2 {
-  color: #a266cc;
+  color: #848484;
 }
 
 .font-info-3 {
-  color: #8c33cc;
+  color: #767676;
 }
 
 .font-info-4 {
-  color: #7700cc;
+  color: #666666;
 }
 
 .font-info {
-  color: #7700cc;
+  color: #666666;
 }
 
 .font-info-5 {
-  color: #5f00a3;
+  color: #5e5e5e;
 }
 
 .font-info-6 {
-  color: #47007a;
+  color: #585858;
 }
 
 .font-info-7 {
-  color: #300052;
+  color: #525252;
 }
 
 .font-info-8 {
-  color: #180029;
+  color: #4d4d4d;
 }
 
 .font-info-9 {
-  color: black;
+  color: #494949;
 }
 
 .font-warning-1 {
-  color: #ccba99;
+  color: #cccc99;
 }
 
 .font-warning-2 {
-  color: #cca966;
+  color: #cccc66;
 }
 
 .font-warning-3 {
-  color: #cc9733;
+  color: #cccc33;
 }
 
 .font-warning-4 {
-  color: #cc8500;
+  color: #cccc00;
 }
 
 .font-warning {
-  color: #cc8500;
+  color: #cccc00;
 }
 
 .font-warning-5 {
-  color: #a36a00;
+  color: #a3a300;
 }
 
 .font-warning-6 {
-  color: #7a5000;
+  color: #7a7a00;
 }
 
 .font-warning-7 {
-  color: #523500;
+  color: #525200;
 }
 
 .font-warning-8 {
-  color: #291b00;
+  color: #292900;
 }
 
 .font-warning-9 {
