@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="../../../css/index.css">
+        <style>
+                body{
+                    padding:2rem;
+                }
+            </style>
+            <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+            <script>
+                function clickload(){
+                    console.log("开始调用");
+                    let observer = new MutationObserver(mutationRecords => {
+  console.log(mutationRecords); // console.log(the changes)
+});
+var elem = $("#elem")[0];
+// 观察除了特性之外的所有变动
+observer.observe(elem, {
+  childList: true, // 观察直接子节点
+  subtree: true, // 及其更低的后代节点
+  characterDataOldValue: true, // 将旧的数据传递给回调
+  attributes:true,
+});
+                }
+            
+            </script>
+    </head>
+    <body>
+        <input type="radio" name="elem" id="elem"/><label for="elem">选中</label>
+        <!-- <div contentEditable id="elem">Click and <b>edit</b>, please</div> -->
+        <button onclick="clickload()">调用</button>
+<!--引用jqery-->
+</body>
+</html>

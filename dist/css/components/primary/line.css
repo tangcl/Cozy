@@ -1,0 +1,17 @@
+.line {
+  border-top: 1px solid #aaa;
+  position: relative;
+  display: flex;
+  height: 2rem;
+  font-size: 1rem;
+}
+.line > span {
+  position: absolute;
+  display: block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  top: calc(-50% + 0.25rem);
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=line.css.map */

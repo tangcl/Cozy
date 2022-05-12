@@ -6,6 +6,8 @@ class Obj{
   print(){
     let container = document.getElementById("box");
     container.setAttribute("style", "background-color:yellow");
+
+    
   }
 }
 interface Window{
