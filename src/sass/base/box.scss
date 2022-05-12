@@ -2,6 +2,7 @@
 //border 属性：width
 @use "sass:color";
 @import "./color";
+$fontsize:16px;
 .border-none{
     border:none;
 }

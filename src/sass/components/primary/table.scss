@@ -1,15 +1,43 @@
-table,tbody{
-    // display: flex;
+// table,tbody{
+//     // display: flex;
+    
+// }
+
+@import "../../base/box";
+@import "../../base/font";
+@import "../../base/size";
+
+.table-primary{
     width: 100%;
     margin:0;
     padding:0;
     border-collapse: collapse;
-}
 
-.table_header{
-    @extend .text-align-center;
-    @extend .height-4 ;
-    @extend .primary-bg;
-    @extend .font-white-4;
-    @extend .box-shadow-1;
+    @extend .primary-border;
+    &>thead{
+        @extend .text-align-left;
+        @extend .height-4 ;
+        @extend .primary-bg;
+        @extend .font-white-4;
+        @extend .box-shadow-1;
+        &>tr>th{
+            border:1px solid gray;
+        }
+    }
+    
+    &>tbody{
+        @extend .font-size;
+        @extend .primary-border;
+        &>tr{
+            @extend .primary-border;
+        }
+    }
+    &>tr{
+        @extend .font-size;
+        @extend .primary-border;
+        &>tr{
+            @extend .primary-border;
+        }
+    }
+
 }

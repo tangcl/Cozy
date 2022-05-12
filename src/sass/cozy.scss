@@ -6,18 +6,19 @@ $fontsize:16px;
     box-sizing: border-box;
     background-color: transparent;
 }
-@import 'base/size';
-@import 'base/color';
-
 @import 'components/primary/button';
 @import 'components/primary/buttongroup';
-@import 'components/primary/table';
+// @import 'components/primary/table';
 @import 'components/primary/line';
 @import 'components/primary/radio';
 @import 'components/primary/input';
+
+@import 'base/size';
+@import 'base/color';
 
 // @import 'components/primary/table';
 @import 'layout/container';
 @import 'base/box';
 @import 'base/font';
 @import 'base/icon';
+
