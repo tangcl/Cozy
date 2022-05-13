@@ -1,17 +1,56 @@
-.line {
-  border-top: 1px solid #aaa;
+.line-left {
+  border-top: 1px solid #666666;
   position: relative;
   display: flex;
-  height: 2rem;
+  height: 1rem;
   font-size: 1rem;
+  margin: 0.2rem;
 }
-.line > span {
+.line-left > span {
+  position: absolute;
+  display: block;
+  left: 2em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  top: calc(-100% + 0.25rem);
+  background-color: white;
+}
+
+.line-center {
+  border-top: 1px solid #666666;
+  position: relative;
+  display: flex;
+  height: 1rem;
+  font-size: 1rem;
+  align-items: center;
+  justify-content: center;
+  margin: 0.2rem;
+}
+.line-center > span {
   position: absolute;
   display: block;
   padding-left: 1rem;
   padding-right: 1rem;
-  top: calc(-50% + 0.25rem);
-  background-color: #fff;
+  top: calc(-100% + 0.25rem);
+  background-color: white;
+}
+
+.line-right {
+  border-top: 1px solid;
+  position: relative;
+  display: flex;
+  height: 1rem;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+.line-right > span {
+  position: absolute;
+  display: block;
+  right: 2em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  top: calc(-100% + 0.25rem);
+  background-color: white;
 }
 
 /*# sourceMappingURL=line.css.map */

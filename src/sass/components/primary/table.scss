@@ -18,30 +18,32 @@
         @extend .primary-border;
         &>thead{
             @extend .text-align-left;
-            @extend .height-#{$i + 1}-rem;
+            @extend .height-#{$i}-rem;
             @extend .primary-bg;
             @extend .font-white-#{$i};
             @extend .box-shadow-1;
+            
+            &>tr>th:not(:first-child),&>tr>th:not(:last-child){
+                border-right:1px solid gray;
+                border-left:1px solid gray;
+            }
             &>tr>th{
-                border:1px solid gray;
+                padding:.25em .5rem;
             }
         }
         
         &>tbody{
             @extend .font-size-#{$i};
-            @extend .primary-border;
-            &>tr{
-                @extend .primary-border;
+            // @extend .primary-border;
+            &>tr:not(:first-child){
+                @extend .primary-border-top-4;
+            }
+            &>tr>td{
+                padding:.25em .5rem;
+            }
+            &>tr>td:not(:first-child){
+                @extend .primary-border-left-4;
             }
         }
-        &>tr{
-            @extend .font-size-#{$i};
-            @extend .primary-border;
-            @extend .height-#{$i+1}-rem;
-            &>tr{
-                @extend .primary-border;
-            }
-        }
-    
     }
 }

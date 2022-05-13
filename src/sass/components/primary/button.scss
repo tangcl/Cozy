@@ -80,70 +80,77 @@ button {
 
 @for $i from 1 to 10{
     $divide: ($i - 4) * 0.1; 
-    $width: (1 + $divide) * 1rem*2;
+    $font-size:(1 + $divide) * 1rem;
+    $height: $font-size * 2;
     .btn-size-#{$i}{
         // width: $width !important;
-        height: $width !important;
-        font-size: (1 + $divide) * 1rem;
-        line-height: (1 + $divide) * 1rem *1.2;
+        height: $height !important;
+        font-size: $font-size;
+        line-height: 1.2em;
         padding: $i*0.05rem $i*0.1rem; 
     }
     .btn-cicle-#{$i}{
-        width: $width !important;
-        height: $width !important;
-        padding: calc((($width - (1 + $divide) * 1rem))/2 - 2px) !important;
-        font-size: (1 + $divide) * 1rem;
-        line-height: (1 + $divide) * 1rem;
+        width: $height !important;
+        height: $height !important;
+        padding: calc(0.5em * 0.5 - 2px) !important;
+        font-size: $font-size;
+        line-height: 1.5rem;
+        padding: calc(0.5em * 0.5 - 2px) !important;
         text-align: center;
-        border-radius: $width*2 !important;
+        border-radius: 4em !important;
+        border: 1px solid $gray;
     }
     .btn-square-#{$i}{
-        width: $width !important;
-        height: $width !important;
-        font-size: (1 + $divide) * 1rem;
-        line-height: (1 + $divide) * 1rem *1.2;
-        padding: calc((($width - (1 + $divide) * 1rem))/2 - 2px) !important;
+        width: $height !important;
+        height: $height !important;
+        font-size: $font-size;
+        line-height: 1.5em;
+        padding: calc(0.5em * 0.5 - 2px) !important;
         text-align: center;
     }
     .btn-leftpill-#{$i}{
-        font-size: (1 + $divide) * 1rem;
-        line-height: (1 + $divide) * 1rem * 1.5; 
-        padding: $i*0.1rem $i*0.2rem;
-        border-top-left-radius: 2rem;
-        border-end-start-radius: 2rem;
+        font-size: $font-size;
+        line-height: 1.5em;
+        height: $height; 
+        padding: calc(0.5em * 0.5 - 2px) !important;
+        border-top-left-radius: 4em;
+        border-end-start-radius: 4em;
     }
     .btn-rightpill-#{$i}{
-        font-size: (1 - $divide) * 1rem;
-        line-height: (1 - $divide) * 1rem * 1.5; 
-        padding: $i*0.1rem $i*0.2rem;
-        border-top-right-radius: 2rem;
-        border-end-end-radius: 2rem;
+        font-size: $font-size;
+        line-height: 1.5em; 
+        height: $height; 
+        padding: calc(0.5em * 0.5 - 2px) !important;
+        border-top-right-radius: 4em;
+        border-end-end-radius: 4em;
     }
     @if $i == 4{
         $divide: ($i - 4) * 0.1; 
         $width: (1 + $divide) * 1rem*2;
         .btn-size{
             // width: $width !important;
-            height: $width !important;
-            font-size: (1 + $divide) * 1rem;
-            line-height: (1 + $divide) * 1rem *1.2;
+            height: $height !important;
+            font-size: $font-size;
+            line-height: 1.2em;
             padding: $i*0.05rem $i*0.1rem; 
         }
         .btn-cicle{
-            width: $width !important;
-            height: $width !important;
-            padding: calc((($width - (1 + $divide) * 1rem))/2 - 2px) !important;
-            font-size: (1 + $divide) * 1rem;
-            line-height: (1 + $divide) * 1rem;
+            width: $height !important;
+            height: $height !important;
+            padding: calc(0.5em * 0.5 - 2px) !important;
+            font-size: $font-size;
+            line-height: 1.5rem;
+            padding: calc(0.5em * 0.5 - 2px) !important;
             text-align: center;
-            border-radius: $width*2 !important;
+            border-radius: 4em !important;
+            border: 1px solid $gray;
         }
         .btn-square{
-            width: $width !important;
-            height: $width !important;
-            font-size: (1 + $divide) * 1rem;
-            line-height: (1 + $divide) * 1rem *1.2;
-            padding: calc((($width - (1 + $divide) * 1rem))/2 - 2px) !important;
+            width: $height !important;
+            height: $height !important;
+            font-size: $font-size;
+            line-height: 1.5em;
+            padding: calc(0.5em * 0.5 - 2px) !important;
             text-align: center;
         }
     }

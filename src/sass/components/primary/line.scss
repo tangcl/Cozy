@@ -1,15 +1,53 @@
-.line{
-    border-top:1px solid #aaa;
+@import "../../base/color";
+.line-left{
+    border-top:1px solid $gray;
     position:relative;
     display: flex;
-    height:2rem;
+    height:1rem;
     font-size: 1rem;
+    margin: .2rem;
+    &>span{
+        position:absolute;
+        display: block;
+        left: 2em;
+        padding-left:1rem;
+        padding-right:1rem;
+        top:calc(-100% + 0.25rem);
+        background-color: $background;
+    }
+}
+.line-center{
+    border-top:1px solid $gray;
+    position:relative;
+    display: flex;
+    height:1rem;
+    font-size: 1rem;
+    align-items:center;
+    justify-content: center;
+    margin: .2rem;
     &>span{
         position:absolute;
         display: block;
         padding-left:1rem;
         padding-right:1rem;
-        top:calc(-50% + 0.25rem);
-        background-color: #fff;
+        top:calc(-100% + 0.25rem);
+        background-color: $background;
+    }
+}
+.line-right{
+    border-top:1px solid ;
+    position:relative;
+    display: flex;
+    height:1rem;
+    font-size: 1rem;
+    margin: .2rem;
+    &>span{
+        position:absolute;
+        display: block;
+        right: 2em;
+        padding-left:1rem;
+        padding-right:1rem;
+        top:calc(-100% + 0.25rem);
+        background-color: $background;
     }
 }
