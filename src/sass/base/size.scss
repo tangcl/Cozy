@@ -52,7 +52,7 @@
 }
 
 @for $i from 0 through 100{
-    .height-#{$i}rem{
+    .height-#{$i}-rem{
         min-height: $i * 0.5 * 1rem;
         height: $i*1rem;
         max-height: $i*1.1rem;
@@ -60,7 +60,7 @@
 }
 
 @for $i from 0 through 100{
-    .height-#{$i}px{
+    .height-#{$i}-px{
         min-height: $i*0.5*1px;
         height: $i*1px;
         max-height: $i*1.2px;
