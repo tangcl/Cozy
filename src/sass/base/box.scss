@@ -6,25 +6,6 @@ $fontsize:16px;
 .border-none{
     border:none;
 }
-@for $i from 0 to 10{
-    .border-width-#{$i}{
-        border-width:$i * 1px !important;
-    }
-    .border-left-width-#{$i}{
-        border-left-width:$i * 1px !important;
-    }
-    .border-top-width-#{$i}{
-        border-top-width:$i * 1px !important;
-    }
-    .border-right-width-#{$i}{
-        border-right-width:$i * 1px !important;
-    }
-    .border-bottom-width-#{$i}{
-        border-bottom-width:$i * 1px !important;
-    }
-}
-
-
 
 .border-style-solid{
     border-style: solid;
@@ -34,43 +15,11 @@ $fontsize:16px;
     border-style: dotted;
 }
 
-//padding,margin
-//padding默认高度单边为fontsize*0.1,width0.2
-@for $i from 0 to 10{
-    @if $i == 0{
-        .padding-top-#{$i}{
-            padding-top: none;
-        }
-        .padding-left-#{$i}{
-            padding-left: none;
-        }
-        .padding-right-#{$i}{
-            padding-right: none;
-        }
-        .padding-bottom-#{$i}{
-            padding-bottom: none;
-        }
-        .padding-#{$i}{
-            padding: none;
-        }
+//基础属性
 
-        .margin-top-#{$i}{
-            margin-top: none;
-        }
-        .margin-left-#{$i}{
-            margin-left: none;
-        }
-        .margin-right-#{$i}{
-            margin-right: none;
-        }
-        .margin-bottom-#{$i}{
-            margin-bottom: none;
-        }
-        .margin-#{$i}{
-            margin: none;
-        }
-    }
-    @if $i < 4{
+@for $i from 1 to 10{
+    @if $i <= 4{
+        
         $fontsize: 1 - (4 - $i) * 0.1;
         .padding-top-#{$i}{
             padding-top: $fontsize * 0.1rem;
@@ -103,41 +52,9 @@ $fontsize:16px;
         .margin-#{$i}{
             margin: $fontsize * 0.1rem * $i $fontsize * 0.2rem * $i;
         }
+        
     }
     
-    @if $i == 4{
-        .padding-top-#{$i}{
-            padding-top: 0.1rem;
-        }
-        .padding-left-#{$i}{
-            padding-left: 0.2rem;
-        }
-        .padding-right-#{$i}{
-            padding-right: 0.2rem;
-        }
-        .padding-bottom-#{$i}{
-            padding-bottom: 0.1rem;
-        }
-        .padding-#{$i}{
-            padding: 0.1rem 0.2rem;
-        }
-
-        .margin-top-#{$i}{
-            margin-top: $fontsize * 0.1rem * $i;
-        }
-        .margin-left-#{$i}{
-            margin-left: $fontsize * 0.2rem * $i;
-        }
-        .margin-right-#{$i}{
-            margin-right: $fontsize * 0.2rem * $i;
-        }
-        .margin-bottom-#{$i}{
-            margin-bottom: $fontsize * 0.1rem * $i;
-        }
-        .margin-#{$i}{
-            margin: $fontsize * 0.1rem * $i $fontsize * 0.2rem * $i;
-        }
-    }
 
     @if $i > 4{
         $fontsize: 1 + ($i - 4) * 0.1;
@@ -173,61 +90,31 @@ $fontsize:16px;
             margin: $fontsize * 0.1rem * $i $fontsize * 0.2rem * $i;
         }
     }
-    
 }
 
 //shadow
-@for $i from 0 to 10{
-    @if $i == 0{
-        .box-shadow-#{$i} {
-            box-shadow: none;
-        }    
-    }@else if $i == 4{
+@for $i from 1 to 10{
+    .box-shadow-#{$i} {
+        box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
+        &:active{
+            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
+        }
+    }
+    .border-radius-#{$i} {
+        border-radius: $i*1px;
+    }
+    @if $i == 4{
         .box-shadow {
             box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
             &:active{
                 box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
             }
-        }
-        .box-shadow-#{$i} {
-            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
-            &:active{
-                box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
-            }
-        }
-    }@else{
-        .box-shadow-#{$i} {
-            box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.2);
-            &:active{
-                box-shadow: $i * 0.1 *1px $i*0.1*1px $i*1px $i*0.1*1px rgba(0, 0, 0, 0.1);
-            }
-        }
-    }
-}
-
-//radius
-@for $i from 0 to 10{
-    @if $i == 0{
-        .border-radius-#{$i} {
-            border-radius: none;
-        }
-    }@else if $i == 4{
+        }        
         .border-radius {
             border-radius: $i*1px;
         }
-        .border-radius-#{$i} {
-            border-radius: $i*1px;
-        }
-    }@else{
-        .border-radius-#{$i} {
-            border-radius: $i*1px;
-        }
     }
-    
 }
-
-
-
 
 @each $key, $color in $semantic_range {
     @for $range from 1 to 10 {
@@ -262,6 +149,7 @@ $fontsize:16px;
                 border-bottom-width: 1px;
                 border-bottom-style: solid;
             }
+            
         }
         @if $range > 4{
             $blackns: $range - 4;
@@ -332,34 +220,3 @@ $fontsize:16px;
         }
     }
 }
-
-
-@each $key, $color in $semantic_range {
-    @for $range from 0 to 10 {
-        //生成颜色相关匹配色。
-        @if $range  < 4{
-            $whitens: 4-$range;
-            .#{$key}-bg-#{$range} {
-                background-color: color.scale($color, $whiteness: ($whitens*20)*1%);
-            }
-        }
-        @if $range > 4{
-            $blackns: $range - 4;
-            .#{$key}-bg-#{$range} {
-                background-color: color.scale($color, $blackness: $blackns*20*1%);
-            }
-            
-        }
-        @if $range == 4 {
-            $blackns: $range - 4;
-            .#{$key}-bg-#{$range} {
-                background-color: $color;
-            }
-            .#{$key}-bg {
-                background-color: $color;
-            }            
-        }
-    }
-}
-
-

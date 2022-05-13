@@ -4,40 +4,44 @@
 // }
 
 @import "../../base/box";
-@import "../../base/font";
+
 @import "../../base/size";
+@import "../../base/font";
 
-.table-primary{
-    width: 100%;
-    margin:0;
-    padding:0;
-    border-collapse: collapse;
-
-    @extend .primary-border;
-    &>thead{
-        @extend .text-align-left;
-        @extend .height-4 ;
-        @extend .primary-bg;
-        @extend .font-white-4;
-        @extend .box-shadow-1;
-        &>tr>th{
-            border:1px solid gray;
-        }
-    }
+@for $i from 0 to 10{
+    .table-primary-#{$i}{
+        width: 100%;
+        margin:0;
+        padding:0;
+        border-collapse: collapse;
     
-    &>tbody{
-        @extend .font-size;
         @extend .primary-border;
-        &>tr{
-            @extend .primary-border;
+        &>thead{
+            @extend .text-align-left;
+            @extend .height-#{$i};
+            @extend .primary-bg;
+            @extend .font-white-#{$i};
+            @extend .box-shadow-1;
+            &>tr>th{
+                border:1px solid gray;
+            }
         }
-    }
-    &>tr{
-        @extend .font-size;
-        @extend .primary-border;
-        &>tr{
+        
+        &>tbody{
+            @extend .font-size-#{$i};
             @extend .primary-border;
+            &>tr{
+                @extend .primary-border;
+            }
         }
+        &>tr{
+            @extend .font-size-#{$i};
+            @extend .primary-border;
+            @extend .height-#{$i};
+            &>tr{
+                @extend .primary-border;
+            }
+        }
+    
     }
-
 }

@@ -2,110 +2,32 @@
 @import "./color";
 
 $fontsize: 16px;
-//定义方向：
-
-
-//定义中级应用大小
-@for $size from 0 to 10{
-    @if $size < 4{
-        $divide: (4 - $size) * 0.1;
-        .font-size-#{$size}{
-            font-size: (1 - $divide) * 1rem;
-            line-height: (1 - $divide) * 1rem * 1.5;
-        }
-    }
-    @if $size > 4{
-        $divide: ($size - 4) * 0.1;
-        .font-size-#{$size}{
-            font-size: (1 + $divide) * 1rem;
-            line-height: (1 + $divide) * 1rem *1.5;
-        }
-    }
-    @if $size == 4{
-        .font-size-#{$size}{
-            font-size: $fontsize;
-            line-height: $fontsize * 1.5;
-        }
-        .font-size{
-            font-size: $fontsize;
-            line-height: $fontsize * 1.5;
-        }
-    }
-}
-
-@for $letter from 0 to 10 {
-    @if $letter < 4{
-        $letterns : (4 - $letter) * 0.01rem;
-        .font-space-#{$letter}{
-            letter-spacing: 0-$letterns;
-        }        
-    }
-    @if $letter == 4{
-        .font-space-4{
-                letter-spacing: 0;
-        }
-        .font-space{
-            letter-spacing: 0;
-        }        
-    }
-    @if $letter > 4{
-        $letterns : ($letter - 4) * 0.1rem;
-            .font-space-#{$letter}{
-                letter-spacing: $letterns;
-        }        
-    }
-} 
-
   //定义三种字体，并提供自定义字体方案
   @mixin font-family-sans{
-      //非衬线字体,html,body会根本使用此字体，而其他字体需要视情况选择使用其他类。
-      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  }
-  .font-family-sans{
     //非衬线字体,html,body会根本使用此字体，而其他字体需要视情况选择使用其他类。
     font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  }
-  @mixin font-family-serif{
-      //衬线字体
-      font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  }
-  .font-family-serif{
+}
+.font-family-sans{
+  //非衬线字体,html,body会根本使用此字体，而其他字体需要视情况选择使用其他类。
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+@mixin font-family-serif{
     //衬线字体
     font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-    }
-    @mixin font-family-monospace{
-        //等宽字体
-        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    }
-  .font-family-monospace{
+}
+.font-family-serif{
+  //衬线字体
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+  @mixin font-family-monospace{
       //等宽字体
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
-  .font-family-customer{
-      //自定义字体
-  }
-
-//定义font-weight
-//font-weight 
-
-@for $font-weight from 0 to 9{
-    @if $font-weight == 0{
-        .font-weight-#{$font-weight} {
-            font-weight: 100 !important;
-        }    
-    }@else{
-        .font-weight-#{$font-weight} {
-            font-weight: $font-weight * 100 !important;
-        }
-    }
-    @if $font-weight == 4{
-        .font-weight {
-            font-weight: $font-weight * 100 !important;
-        }   
-    } 
+.font-family-monospace{
+    //等宽字体
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-//自定义样式及类
 
 //斜体文本
 i, cite, em, var, address, dfn {
@@ -145,6 +67,44 @@ u, ins,.u, .ins {
 }
 
 
+
+@for $size from 1 to 10{
+    $divide: (4 - $size) * 0.1;
+    .font-size-#{$size}{
+        font-size: (1 - $divide) * 1rem;
+        line-height: (1 - $divide) * 1rem * 1.5;
+    }
+    @if $size == 4{
+        .font-size{
+            font-size: $fontsize;
+            line-height: $fontsize * 1.5;
+        }
+    }
+}
+
+@for $letter from 1 to 10 {
+    $letterns : ($letter - 4) * 0.1rem;
+        .font-space-#{$letter}{
+            letter-spacing: $letterns;
+    }
+    @if $letter == 4{
+        .font-space{
+            letter-spacing: 0;
+        }        
+    }
+} 
+//定义字体粗细
+@for $font-weight from 1 to 9{
+    .font-weight-#{$font-weight} {
+        font-weight: $font-weight * 100 !important;
+    }
+    @if $font-weight == 4{
+        .font-weight {
+            font-weight: $font-weight * 100 !important;
+        }   
+    } 
+}
+//定义字体颜色级别
 @each $key, $color in $colors {
     @for $range from 1 to 10 {
         //生成颜色相关匹配色。
@@ -154,7 +114,6 @@ u, ins,.u, .ins {
             .font-#{$key}-#{$range}{
                 color: $co  !important;
             }
-
         }
         @if $range > 4{
             $blackns: $range - 4;
@@ -180,17 +139,14 @@ u, ins,.u, .ins {
         @if $range  < 4{
             $whitens: 4-$range;
             .font-#{$key}-#{$range} {
-                color: color.scale($color, $whiteness: ($whitens*20)*1%);
+                color: color.scale($color, $whiteness: ($whitens*20)*1%, );
             }
-            
         }
         @if $range > 4{
             $blackns: $range - 4;
             .font-#{$key}-#{$range} {
-                color: color.scale($color, $blackness: $blackns*20*1%);
-                
+                color: color.scale($color, $blackness: $blackns*20*1%);   
             }
-            
         }
         @if $range == 4 {
             $blackns: $range - 4;
@@ -200,7 +156,6 @@ u, ins,.u, .ins {
             .font-#{$key} {
                 color: $color;
             }
-            
         }
     }
 }

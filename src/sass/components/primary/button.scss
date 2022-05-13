@@ -1,4 +1,5 @@
 @import "../../base/color";
+@import "../../base/box";
 button {
     text-decoration: none;
     position: relative;
@@ -220,17 +221,37 @@ $white-black:("white": $white,"black":$black);
 }
 
 @each $key, $color in $topic_range {
-    .#{$key}-btn {
-        background-color: $color;
-        color: $white;
-        // border: 1px solid transparent;
+    @for $i from 1 to 10{
+        .#{$key}-btn-#{$i} {
+            @extend .#{$key}-bg;
+            color: $white;
+            border: 1px solid transparent;
+            @extend .btn-size-#{$i};
+        }
+        //反向色
+        .#{$key}-btn-inverse-#{$i} {
+            background-color: $white;
+            color: $color;
+            border: 1px solid $color;
+            @extend .btn-size-#{$i};
+        }
+        @if $i == 4{
+            .#{$key}-btn {
+                @extend .#{$key}-bg;
+                color: $white;
+                border: 1px solid transparent;
+                @extend .btn-size-#{$i};
+            }
+            //反向色
+            .#{$key}-btn-inverse {
+                background-color: $white;
+                color: $color;
+                border: 1px solid $color;
+                @extend .btn-size-#{$i};
+            }   
+        }
     }
-    //反向色
-    .#{$key}-btn-inverse {
-        background-color: $white;
-        color: $color;
-        border: 1px solid $color;
-    } 
+     
 }
 
 .active-right {
