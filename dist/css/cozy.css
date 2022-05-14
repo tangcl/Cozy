@@ -1887,7 +1887,7 @@
   max-height: 0em;
 }
 
-.height-1-rem, .table-adorn-9 > thead, .table-adorn-8 > thead, .table-adorn-7 > thead, .table-adorn-6 > thead, .table-adorn-5 > thead, .table-adorn-4 > thead, .table-adorn-3 > thead, .table-adorn-2 > thead, .table-adorn-1 > thead, .table-secondary-9 > thead, .table-secondary-8 > thead, .table-secondary-7 > thead, .table-secondary-6 > thead, .table-secondary-5 > thead, .table-secondary-4 > thead, .table-secondary-3 > thead, .table-secondary-2 > thead, .table-secondary-1 > thead, .table-primary-9 > thead, .table-primary-8 > thead, .table-primary-7 > thead, .table-primary-6 > thead, .table-primary-5 > thead, .table-primary-4 > thead, .table-primary-3 > thead, .table-primary-2 > thead, .table-primary-1 > thead {
+.height-1-rem {
   min-height: 0.5rem;
   height: 1rem;
   max-height: 1.1rem;
@@ -6672,22 +6672,22 @@ u, ins, .u, .ins {
   text-decoration: underline;
 }
 
-.font-size-1, .table-adorn-1 > tbody, .table-secondary-1 > tbody, .table-primary-1 > tbody {
+.font-size-1, .table-adorn-1 > tbody, .table-adorn-1 > thead, .table-secondary-1 > tbody, .table-secondary-1 > thead, .table-primary-1 > tbody, .table-primary-1 > thead {
   font-size: 0.7rem;
   line-height: 1.6em;
 }
 
-.font-size-2, .table-adorn-2 > tbody, .table-secondary-2 > tbody, .table-primary-2 > tbody {
+.font-size-2, .table-adorn-2 > tbody, .table-adorn-2 > thead, .table-secondary-2 > tbody, .table-secondary-2 > thead, .table-primary-2 > tbody, .table-primary-2 > thead {
   font-size: 0.8rem;
   line-height: 1.6em;
 }
 
-.font-size-3, .table-adorn-3 > tbody, .table-secondary-3 > tbody, .table-primary-3 > tbody {
+.font-size-3, .table-adorn-3 > tbody, .table-adorn-3 > thead, .table-secondary-3 > tbody, .table-secondary-3 > thead, .table-primary-3 > tbody, .table-primary-3 > thead {
   font-size: 0.9rem;
   line-height: 1.6em;
 }
 
-.font-size-4, .table-adorn-4 > tbody, .table-secondary-4 > tbody, .table-primary-4 > tbody {
+.font-size-4, .table-adorn-4 > tbody, .table-adorn-4 > thead, .table-secondary-4 > tbody, .table-secondary-4 > thead, .table-primary-4 > tbody, .table-primary-4 > thead {
   font-size: 1rem;
   line-height: 1.6em;
 }
@@ -6697,27 +6697,27 @@ u, ins, .u, .ins {
   line-height: 1.6em;
 }
 
-.font-size-5, .table-adorn-5 > tbody, .table-secondary-5 > tbody, .table-primary-5 > tbody {
+.font-size-5, .table-adorn-5 > tbody, .table-adorn-5 > thead, .table-secondary-5 > tbody, .table-secondary-5 > thead, .table-primary-5 > tbody, .table-primary-5 > thead {
   font-size: 1.1rem;
   line-height: 1.6em;
 }
 
-.font-size-6, .table-adorn-6 > tbody, .table-secondary-6 > tbody, .table-primary-6 > tbody {
+.font-size-6, .table-adorn-6 > tbody, .table-adorn-6 > thead, .table-secondary-6 > tbody, .table-secondary-6 > thead, .table-primary-6 > tbody, .table-primary-6 > thead {
   font-size: 1.2rem;
   line-height: 1.6em;
 }
 
-.font-size-7, .table-adorn-7 > tbody, .table-secondary-7 > tbody, .table-primary-7 > tbody {
+.font-size-7, .table-adorn-7 > tbody, .table-adorn-7 > thead, .table-secondary-7 > tbody, .table-secondary-7 > thead, .table-primary-7 > tbody, .table-primary-7 > thead {
   font-size: 1.3rem;
   line-height: 1.6em;
 }
 
-.font-size-8, .table-adorn-8 > tbody, .table-secondary-8 > tbody, .table-primary-8 > tbody {
+.font-size-8, .table-adorn-8 > tbody, .table-adorn-8 > thead, .table-secondary-8 > tbody, .table-secondary-8 > thead, .table-primary-8 > tbody, .table-primary-8 > thead {
   font-size: 1.4rem;
   line-height: 1.6em;
 }
 
-.font-size-9, .table-adorn-9 > tbody, .table-secondary-9 > tbody, .table-primary-9 > tbody {
+.font-size-9, .table-adorn-9 > tbody, .table-adorn-9 > thead, .table-secondary-9 > tbody, .table-secondary-9 > thead, .table-primary-9 > tbody, .table-primary-9 > thead {
   font-size: 1.5rem;
   line-height: 1.6em;
 }
@@ -15237,7 +15237,7 @@ button[disabled]:hover {
   max-height: 0em;
 }
 
-.height-1-rem, .table-adorn-9 > thead, .table-adorn-8 > thead, .table-adorn-7 > thead, .table-adorn-6 > thead, .table-adorn-5 > thead, .table-adorn-4 > thead, .table-adorn-3 > thead, .table-adorn-2 > thead, .table-adorn-1 > thead, .table-secondary-9 > thead, .table-secondary-8 > thead, .table-secondary-7 > thead, .table-secondary-6 > thead, .table-secondary-5 > thead, .table-secondary-4 > thead, .table-secondary-3 > thead, .table-secondary-2 > thead, .table-secondary-1 > thead, .table-primary-9 > thead, .table-primary-8 > thead, .table-primary-7 > thead, .table-primary-6 > thead, .table-primary-5 > thead, .table-primary-4 > thead, .table-primary-3 > thead, .table-primary-2 > thead, .table-primary-1 > thead {
+.height-1-rem {
   min-height: 0.5rem;
   height: 1rem;
   max-height: 1.1rem;
@@ -16486,22 +16486,22 @@ u, ins, .u, .ins {
   text-decoration: underline;
 }
 
-.font-size-1, .table-adorn-1 > tbody, .table-secondary-1 > tbody, .table-primary-1 > tbody {
+.font-size-1, .table-adorn-1 > tbody, .table-adorn-1 > thead, .table-secondary-1 > tbody, .table-secondary-1 > thead, .table-primary-1 > tbody, .table-primary-1 > thead {
   font-size: 0.7rem;
   line-height: 1.6em;
 }
 
-.font-size-2, .table-adorn-2 > tbody, .table-secondary-2 > tbody, .table-primary-2 > tbody {
+.font-size-2, .table-adorn-2 > tbody, .table-adorn-2 > thead, .table-secondary-2 > tbody, .table-secondary-2 > thead, .table-primary-2 > tbody, .table-primary-2 > thead {
   font-size: 0.8rem;
   line-height: 1.6em;
 }
 
-.font-size-3, .table-adorn-3 > tbody, .table-secondary-3 > tbody, .table-primary-3 > tbody {
+.font-size-3, .table-adorn-3 > tbody, .table-adorn-3 > thead, .table-secondary-3 > tbody, .table-secondary-3 > thead, .table-primary-3 > tbody, .table-primary-3 > thead {
   font-size: 0.9rem;
   line-height: 1.6em;
 }
 
-.font-size-4, .table-adorn-4 > tbody, .table-secondary-4 > tbody, .table-primary-4 > tbody {
+.font-size-4, .table-adorn-4 > tbody, .table-adorn-4 > thead, .table-secondary-4 > tbody, .table-secondary-4 > thead, .table-primary-4 > tbody, .table-primary-4 > thead {
   font-size: 1rem;
   line-height: 1.6em;
 }
@@ -16511,27 +16511,27 @@ u, ins, .u, .ins {
   line-height: 1.6em;
 }
 
-.font-size-5, .table-adorn-5 > tbody, .table-secondary-5 > tbody, .table-primary-5 > tbody {
+.font-size-5, .table-adorn-5 > tbody, .table-adorn-5 > thead, .table-secondary-5 > tbody, .table-secondary-5 > thead, .table-primary-5 > tbody, .table-primary-5 > thead {
   font-size: 1.1rem;
   line-height: 1.6em;
 }
 
-.font-size-6, .table-adorn-6 > tbody, .table-secondary-6 > tbody, .table-primary-6 > tbody {
+.font-size-6, .table-adorn-6 > tbody, .table-adorn-6 > thead, .table-secondary-6 > tbody, .table-secondary-6 > thead, .table-primary-6 > tbody, .table-primary-6 > thead {
   font-size: 1.2rem;
   line-height: 1.6em;
 }
 
-.font-size-7, .table-adorn-7 > tbody, .table-secondary-7 > tbody, .table-primary-7 > tbody {
+.font-size-7, .table-adorn-7 > tbody, .table-adorn-7 > thead, .table-secondary-7 > tbody, .table-secondary-7 > thead, .table-primary-7 > tbody, .table-primary-7 > thead {
   font-size: 1.3rem;
   line-height: 1.6em;
 }
 
-.font-size-8, .table-adorn-8 > tbody, .table-secondary-8 > tbody, .table-primary-8 > tbody {
+.font-size-8, .table-adorn-8 > tbody, .table-adorn-8 > thead, .table-secondary-8 > tbody, .table-secondary-8 > thead, .table-primary-8 > tbody, .table-primary-8 > thead {
   font-size: 1.4rem;
   line-height: 1.6em;
 }
 
-.font-size-9, .table-adorn-9 > tbody, .table-secondary-9 > tbody, .table-primary-9 > tbody {
+.font-size-9, .table-adorn-9 > tbody, .table-adorn-9 > thead, .table-secondary-9 > tbody, .table-secondary-9 > thead, .table-primary-9 > tbody, .table-primary-9 > thead {
   font-size: 1.5rem;
   line-height: 1.6em;
 }

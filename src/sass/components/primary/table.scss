@@ -18,8 +18,8 @@
             @extend .#{$k}-border-1;
             &>thead{
                 @extend .text-align-left;
-                @extend .height-1-rem;
                 @extend .#{$k}-bg;
+                @extend .font-size-#{$i};
                 @extend .font-white-#{$i};
                 @extend .box-shadow-1;
                 @extend .#{$k}-border-top-4;
