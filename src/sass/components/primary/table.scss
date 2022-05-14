@@ -8,42 +8,49 @@
 @import "../../base/size";
 @import "../../base/font";
 
-@for $i from 1 to 10{
-    .table-primary-#{$i}{
-        width: 100%;
-        margin:0;
-        padding:0;
-        border-collapse: collapse;
-    
-        @extend .primary-border;
-        &>thead{
-            @extend .text-align-left;
-            @extend .height-#{$i}-rem;
-            @extend .primary-bg;
-            @extend .font-white-#{$i};
-            @extend .box-shadow-1;
+@each $k, $v in $topic_range{
+    @for $i from 1 to 10{
+        .table-#{$k}-#{$i}{
+            width: 100%;
+            margin:0;
+            padding:0;
+            border-collapse: collapse;        
+            @extend .#{$k}-border-1;
+            &>thead{
+                @extend .text-align-left;
+                @extend .height-1-rem;
+                @extend .#{$k}-bg;
+                @extend .font-white-#{$i};
+                @extend .box-shadow-1;
+                @extend .#{$k}-border-top-4;
+                @extend .#{$k}-border-left-4;
+                @extend .#{$k}-border-right-4;
+                
+                &>tr>th:not(:first-child) {
+                    border-left:1px solid $white;
+                }
+                
+                &>tr>th{
+                    padding:.25em .5rem;
+                }
+            }
             
-            &>tr>th:not(:first-child),&>tr>th:not(:last-child){
-                border-right:1px solid gray;
-                border-left:1px solid gray;
+            &>tbody{
+                padding-top:4px;
+                @extend .font-size-#{$i};
+                // @extend .#{$k}-border;
+                &>tr:not(:first-child){
+                    @extend .#{$k}-border-top-1;
+                }
+                &>tr>td{
+                    padding:.25em .5rem;
+                }
+                &>tr>td:not(:first-child){
+                    // background-color:red;
+                    @extend .#{$k}-border-left-1;
+                }
             }
-            &>tr>th{
-                padding:.25em .5rem;
-            }
-        }
-        
-        &>tbody{
-            @extend .font-size-#{$i};
-            // @extend .primary-border;
-            &>tr:not(:first-child){
-                @extend .primary-border-top-4;
-            }
-            &>tr>td{
-                padding:.25em .5rem;
-            }
-            &>tr>td:not(:first-child){
-                @extend .primary-border-left-4;
-            }
-        }
+        }    
     }
 }
+

@@ -15,7 +15,7 @@
     }
 }
 
-@for $i from 0 through 100{
+@for $i from 0 through 10{
     .width-#{$i}-rem{
         min-width: $i*1rem;
         width: $i*1rem !important;
@@ -27,16 +27,13 @@
             max-width:$max;
         };
     }
-}
-
-@for $i from 0 through 100{
-    .width-#{$i}-px{
-        min-width: $i*1px;
-        width: $i*1px !important;
-        $max:($i * 1.5)*1px;
+    .width-#{$i}-rem{
+        min-width: $i*1em;
+        width: $i*1rem !important;
+        $max:($i * 1.5)*1em;
         overflow-x: hidden;
-        @if $max>100px{
-            max-width:100px;
+        @if $max>100em{
+            max-width:100em;
         }@else{
             max-width:$max;
         };
@@ -57,12 +54,10 @@
         height: $i*1rem;
         max-height: $i*1.1rem;
     }
-}
-
-@for $i from 0 through 100{
-    .height-#{$i}-px{
-        min-height: $i*0.5*1px;
-        height: $i*1px;
-        max-height: $i*1.2px;
+    .height-#{$i}-em{
+        min-height: $i * 0.5 * 1em;
+        height: $i*1em;
+        max-height: $i*1.1em;
     }
 }
+

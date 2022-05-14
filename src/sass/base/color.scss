@@ -32,20 +32,27 @@ $colors: (
 );
 // $color_range:1,2,3,4,500,600,700,800,900;
 //默认色定义:
-$background:$white;
+$background: $white;
 $textColor: $black;
 
+$primary: $indigo;
+$secondary: $purple;
+$adorn: $turquoise; 
+$info: $gray;
+$warning: $yellow;
+$error:$red;
+$success:$green;
 //定义语义化颜色."primary"，按钮色， seconday,链接色
 $semantic_range:(
-    "primary":$indigo,
-    "secondary":$purple,
+    "primary": $primary,
+    "secondary":$secondary,
     "adorn":$turquoise, 
 
-    "info":$gray,
+    "info":$info,
     
-    "warning":$yellow,
-    "error":$red,
-    "success":$green
+    "warning":$warning,
+    "error":$error,
+    "success":$success
 );
 
 $topic_range:(
