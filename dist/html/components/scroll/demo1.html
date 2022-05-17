@@ -11,19 +11,31 @@
             </style>
     </head>
     <body>
-        <div style="height:30rem;position:relative;overflow: hidden;">
-            <div id="full" style="height:100%;width:100%;background-color:red;position:absolute;top:0;transition: all 2s;">
-                <div style="height:100%;width:100%;background-color:green;">1</div>
-                <div style="height:100%;width:100%;background-color:blue;">2</div>
-                <div style="height:100%;width:100%;background-color:yellow;">3</div>
+        <div>
+            <div class="x-rotation">
+                <div id="full" style="height:100%;width:100%;background-color:red;position:absolute;top:0;transition: all 0.1s;">  
+                    <div style="height:100%;width:100%;background-color:green;">1</div>
+                    <div style="height:100%;width:100%;background-color:blue;">2</div>
+                    <div style="height:100%;width:100%;background-color:yellow;">3</div>
+                </div>
             </div>
-        </div>    
-        <button onclick="check2()">切换2</button>
+            <div style="position:absolute;z-index:10;top:0;">
+                <button onclick="check1()">切换1</button>
+                <button onclick="check2()">切换2</button>
+                <button onclick="check3()">切换3</button>            
+            </div>    
+        </div>
     </body>
     
     <script>
+        function check1(){
+            document.getElementById("full").setAttribute("style","height:100%;width:100%;background-color:red;position:absolute;top:0;transition: all .5s;");
+        }
         function check2(){
-            document.getElementById("full").setAttribute("style","height:100%;width:100%;background-color:red;position:absolute;top:-100%;transition: all 2s;");
+            document.getElementById("full").setAttribute("style","height:100%;width:100%;background-color:red;position:absolute;top:-100%;transition: all .5s;");
+        }
+        function check3(){
+            document.getElementById("full").setAttribute("style","height:100%;width:100%;background-color:red;position:absolute;top:-200%;transition: all .5s;");
         }
     </script>
 </html>
