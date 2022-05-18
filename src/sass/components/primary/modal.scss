@@ -3,7 +3,9 @@
     display: flex;
     display: -webkit-flex;
     flex-direction: column;
-    padding:.5rem;
+    justify-content: flex-start;
+    align-content: top;
+    padding:.25rem;
     &>header{
         
         padding-bottom: .5rem;
@@ -40,7 +42,7 @@
 }
 
 .show-modal{
-    display: flex;
+    display: flex !important;
     animation: show-modal 1s;
 }
 @keyframes show-modal {
@@ -52,7 +54,7 @@
     }
 }
 
-@keyframes left-keyframes {
+@keyframes modal-keyframe {
     0%{
         width:0%;
     }
@@ -60,6 +62,16 @@
         width:100%;
     }
 }
+
+@keyframes modal-height {
+    0%{
+        height:0%;
+    }
+    100%{
+        height:auto;
+    }
+}
+
 .modal-left{
     position:absolute;
     z-index:10;
@@ -70,19 +82,47 @@
     display: none;
     justify-content: left;
     align-items:center;
-    animation: modal-keyframes 10s;
+    // animation: modal-keyframes 10s;
     &>.modal-content{
         box-shadow: 1px 1px 10px 0px $gray;
         background-color: $background;
-        animation: left-keyframes 10s;
+        animation: modal-keyframe 1s;
     }
 }
 
 
-.test\+1{
-    color:red;
+.modal-right{
+    position:absolute;
+    z-index:10;
+    top:0;
+    height:100%;
+    width:100%;
+    background-color:rgba(0,0,0,0.3);
+    display: none;
+    justify-content: right;
+    align-items:center;
+    // animation: modal-keyframes 10s;
+    &>.modal-content{
+        box-shadow: 1px 1px 10px 0px $gray;
+        background-color: $background;
+        animation: modal-keyframe 1s;
+    }
 }
 
-.test2{
-    @extend .test\+1;
+.modal-bottom{
+    position:absolute;
+    z-index:10;
+    top:0;
+    height:100%;
+    width:100%;
+    background-color:rgba(0,0,0,0.3);
+    display: none;
+    justify-content: center;
+    align-items:flex-end;
+    // animation: modal-keyframes 10s;
+    &>.modal-content{
+        box-shadow: 1px 1px 10px 0px $gray;
+        background-color: $background;
+        animation: modal-height 1s;
+    }
 }

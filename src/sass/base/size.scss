@@ -10,7 +10,7 @@
     }
 }
 
-@for $i from 0 through 10{
+@for $i from 0 through 100{
     .width-#{$i}-rem{
         min-width: $i*1rem;
         width: $i*1rem;
@@ -22,7 +22,7 @@
             max-width:$max;
         };
     }
-    .width-#{$i}-rem{
+    .width-#{$i}-em{
         min-width: $i*1em;
         width: $i*1rem !important;
         $max:($i * 1.5)*1em;

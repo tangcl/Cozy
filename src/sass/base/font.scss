@@ -72,12 +72,12 @@ u, ins,.u, .ins {
     $divide: (4 - $size) * 0.1;
     .font-size-#{$size}{
         font-size: (1 - $divide) * 1rem;
-        line-height: 1.6em;;
+        line-height: 1.5em;;
     }
     @if $size == 4{
         .font-size{
             font-size: $fontsize;
-            line-height: 1.6em;
+            line-height: 1.5em;
         }
     }
 }

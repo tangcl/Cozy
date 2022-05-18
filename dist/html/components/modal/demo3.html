@@ -7,13 +7,25 @@
         
     </head>
     <body>
-        dsfdsfdsfdsfds
-        <div class="modal-right">
-            <div class="width-30-100 height-100-100 primary-bg">hello world</div>
+        <button class="primary-btn" onclick="alert()">点击modal</button>
+        <div id="modal-right" class="modal-right">
+            
+            <div id="modal-content" class="modal-content width-20-100 height-100-100">
+                hello
+            </div>
         </div>
     </body>
     
     <script>
-        
+        function alert(){
+            document.getElementById("modal-right").classList.add("show-modal");
+        }
+        document.getElementById("modal-right").addEventListener("click",function(e){
+            e.stopPropagation();
+            document.getElementById("modal-right").classList.remove("show-modal");
+        })
+        document.getElementById("modal-content").addEventListener("click",function(e){
+            e.stopPropagation()
+        })
     </script>
 </html>
