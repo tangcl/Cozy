@@ -1,14 +1,9 @@
 @for $i from 0 through 100{
     .width-#{$i}-100{
-        min-width: $i*1%;
-        width: $i*1% !important;
-        $max:($i * 1.5)*1%;
+        min-width: 1rem;
+        width: $i*1%;
+        max-width: $i*1%;
         overflow-x: hidden;
-        @if $max>100%{
-            max-width:100%;
-        }@else{
-            max-width:$max;
-        };
     };
     .min-width-#{$i}px{
         min-width: $i * 1px !important;
@@ -18,7 +13,7 @@
 @for $i from 0 through 10{
     .width-#{$i}-rem{
         min-width: $i*1rem;
-        width: $i*1rem !important;
+        width: $i*1rem;
         $max:($i * 1.5)*1rem;
         overflow-x: hidden;
         @if $max>100rem{

@@ -5,10 +5,10 @@
 }
 
 .width-0-100 {
-  min-width: 0%;
-  width: 0% !important;
-  overflow-x: hidden;
+  min-width: 1rem;
+  width: 0%;
   max-width: 0%;
+  overflow-x: hidden;
 }
 
 .min-width-0px {
@@ -16,10 +16,10 @@
 }
 
 .width-1-100 {
-  min-width: 1%;
-  width: 1% !important;
+  min-width: 1rem;
+  width: 1%;
+  max-width: 1%;
   overflow-x: hidden;
-  max-width: 1.5%;
 }
 
 .min-width-1px {
@@ -27,10 +27,10 @@
 }
 
 .width-2-100 {
-  min-width: 2%;
-  width: 2% !important;
+  min-width: 1rem;
+  width: 2%;
+  max-width: 2%;
   overflow-x: hidden;
-  max-width: 3%;
 }
 
 .min-width-2px {
@@ -38,10 +38,10 @@
 }
 
 .width-3-100 {
-  min-width: 3%;
-  width: 3% !important;
+  min-width: 1rem;
+  width: 3%;
+  max-width: 3%;
   overflow-x: hidden;
-  max-width: 4.5%;
 }
 
 .min-width-3px {
@@ -49,10 +49,10 @@
 }
 
 .width-4-100 {
-  min-width: 4%;
-  width: 4% !important;
+  min-width: 1rem;
+  width: 4%;
+  max-width: 4%;
   overflow-x: hidden;
-  max-width: 6%;
 }
 
 .min-width-4px {
@@ -60,10 +60,10 @@
 }
 
 .width-5-100 {
-  min-width: 5%;
-  width: 5% !important;
+  min-width: 1rem;
+  width: 5%;
+  max-width: 5%;
   overflow-x: hidden;
-  max-width: 7.5%;
 }
 
 .min-width-5px {
@@ -71,10 +71,10 @@
 }
 
 .width-6-100 {
-  min-width: 6%;
-  width: 6% !important;
+  min-width: 1rem;
+  width: 6%;
+  max-width: 6%;
   overflow-x: hidden;
-  max-width: 9%;
 }
 
 .min-width-6px {
@@ -82,10 +82,10 @@
 }
 
 .width-7-100 {
-  min-width: 7%;
-  width: 7% !important;
+  min-width: 1rem;
+  width: 7%;
+  max-width: 7%;
   overflow-x: hidden;
-  max-width: 10.5%;
 }
 
 .min-width-7px {
@@ -93,10 +93,10 @@
 }
 
 .width-8-100 {
-  min-width: 8%;
-  width: 8% !important;
+  min-width: 1rem;
+  width: 8%;
+  max-width: 8%;
   overflow-x: hidden;
-  max-width: 12%;
 }
 
 .min-width-8px {
@@ -104,10 +104,10 @@
 }
 
 .width-9-100 {
-  min-width: 9%;
-  width: 9% !important;
+  min-width: 1rem;
+  width: 9%;
+  max-width: 9%;
   overflow-x: hidden;
-  max-width: 13.5%;
 }
 
 .min-width-9px {
@@ -115,10 +115,10 @@
 }
 
 .width-10-100 {
-  min-width: 10%;
-  width: 10% !important;
+  min-width: 1rem;
+  width: 10%;
+  max-width: 10%;
   overflow-x: hidden;
-  max-width: 15%;
 }
 
 .min-width-10px {
@@ -126,10 +126,10 @@
 }
 
 .width-11-100 {
-  min-width: 11%;
-  width: 11% !important;
+  min-width: 1rem;
+  width: 11%;
+  max-width: 11%;
   overflow-x: hidden;
-  max-width: 16.5%;
 }
 
 .min-width-11px {
@@ -137,10 +137,10 @@
 }
 
 .width-12-100 {
-  min-width: 12%;
-  width: 12% !important;
+  min-width: 1rem;
+  width: 12%;
+  max-width: 12%;
   overflow-x: hidden;
-  max-width: 18%;
 }
 
 .min-width-12px {
@@ -148,10 +148,10 @@
 }
 
 .width-13-100 {
-  min-width: 13%;
-  width: 13% !important;
+  min-width: 1rem;
+  width: 13%;
+  max-width: 13%;
   overflow-x: hidden;
-  max-width: 19.5%;
 }
 
 .min-width-13px {
@@ -159,10 +159,10 @@
 }
 
 .width-14-100 {
-  min-width: 14%;
-  width: 14% !important;
+  min-width: 1rem;
+  width: 14%;
+  max-width: 14%;
   overflow-x: hidden;
-  max-width: 21%;
 }
 
 .min-width-14px {
@@ -170,10 +170,10 @@
 }
 
 .width-15-100 {
-  min-width: 15%;
-  width: 15% !important;
+  min-width: 1rem;
+  width: 15%;
+  max-width: 15%;
   overflow-x: hidden;
-  max-width: 22.5%;
 }
 
 .min-width-15px {
@@ -181,10 +181,10 @@
 }
 
 .width-16-100 {
-  min-width: 16%;
-  width: 16% !important;
+  min-width: 1rem;
+  width: 16%;
+  max-width: 16%;
   overflow-x: hidden;
-  max-width: 24%;
 }
 
 .min-width-16px {
@@ -192,10 +192,10 @@
 }
 
 .width-17-100 {
-  min-width: 17%;
-  width: 17% !important;
+  min-width: 1rem;
+  width: 17%;
+  max-width: 17%;
   overflow-x: hidden;
-  max-width: 25.5%;
 }
 
 .min-width-17px {
@@ -203,10 +203,10 @@
 }
 
 .width-18-100 {
-  min-width: 18%;
-  width: 18% !important;
+  min-width: 1rem;
+  width: 18%;
+  max-width: 18%;
   overflow-x: hidden;
-  max-width: 27%;
 }
 
 .min-width-18px {
@@ -214,10 +214,10 @@
 }
 
 .width-19-100 {
-  min-width: 19%;
-  width: 19% !important;
+  min-width: 1rem;
+  width: 19%;
+  max-width: 19%;
   overflow-x: hidden;
-  max-width: 28.5%;
 }
 
 .min-width-19px {
@@ -225,10 +225,10 @@
 }
 
 .width-20-100 {
-  min-width: 20%;
-  width: 20% !important;
+  min-width: 1rem;
+  width: 20%;
+  max-width: 20%;
   overflow-x: hidden;
-  max-width: 30%;
 }
 
 .min-width-20px {
@@ -236,10 +236,10 @@
 }
 
 .width-21-100 {
-  min-width: 21%;
-  width: 21% !important;
+  min-width: 1rem;
+  width: 21%;
+  max-width: 21%;
   overflow-x: hidden;
-  max-width: 31.5%;
 }
 
 .min-width-21px {
@@ -247,10 +247,10 @@
 }
 
 .width-22-100 {
-  min-width: 22%;
-  width: 22% !important;
+  min-width: 1rem;
+  width: 22%;
+  max-width: 22%;
   overflow-x: hidden;
-  max-width: 33%;
 }
 
 .min-width-22px {
@@ -258,10 +258,10 @@
 }
 
 .width-23-100 {
-  min-width: 23%;
-  width: 23% !important;
+  min-width: 1rem;
+  width: 23%;
+  max-width: 23%;
   overflow-x: hidden;
-  max-width: 34.5%;
 }
 
 .min-width-23px {
@@ -269,10 +269,10 @@
 }
 
 .width-24-100 {
-  min-width: 24%;
-  width: 24% !important;
+  min-width: 1rem;
+  width: 24%;
+  max-width: 24%;
   overflow-x: hidden;
-  max-width: 36%;
 }
 
 .min-width-24px {
@@ -280,10 +280,10 @@
 }
 
 .width-25-100 {
-  min-width: 25%;
-  width: 25% !important;
+  min-width: 1rem;
+  width: 25%;
+  max-width: 25%;
   overflow-x: hidden;
-  max-width: 37.5%;
 }
 
 .min-width-25px {
@@ -291,10 +291,10 @@
 }
 
 .width-26-100 {
-  min-width: 26%;
-  width: 26% !important;
+  min-width: 1rem;
+  width: 26%;
+  max-width: 26%;
   overflow-x: hidden;
-  max-width: 39%;
 }
 
 .min-width-26px {
@@ -302,10 +302,10 @@
 }
 
 .width-27-100 {
-  min-width: 27%;
-  width: 27% !important;
+  min-width: 1rem;
+  width: 27%;
+  max-width: 27%;
   overflow-x: hidden;
-  max-width: 40.5%;
 }
 
 .min-width-27px {
@@ -313,10 +313,10 @@
 }
 
 .width-28-100 {
-  min-width: 28%;
-  width: 28% !important;
+  min-width: 1rem;
+  width: 28%;
+  max-width: 28%;
   overflow-x: hidden;
-  max-width: 42%;
 }
 
 .min-width-28px {
@@ -324,10 +324,10 @@
 }
 
 .width-29-100 {
-  min-width: 29%;
-  width: 29% !important;
+  min-width: 1rem;
+  width: 29%;
+  max-width: 29%;
   overflow-x: hidden;
-  max-width: 43.5%;
 }
 
 .min-width-29px {
@@ -335,10 +335,10 @@
 }
 
 .width-30-100 {
-  min-width: 30%;
-  width: 30% !important;
+  min-width: 1rem;
+  width: 30%;
+  max-width: 30%;
   overflow-x: hidden;
-  max-width: 45%;
 }
 
 .min-width-30px {
@@ -346,10 +346,10 @@
 }
 
 .width-31-100 {
-  min-width: 31%;
-  width: 31% !important;
+  min-width: 1rem;
+  width: 31%;
+  max-width: 31%;
   overflow-x: hidden;
-  max-width: 46.5%;
 }
 
 .min-width-31px {
@@ -357,10 +357,10 @@
 }
 
 .width-32-100 {
-  min-width: 32%;
-  width: 32% !important;
+  min-width: 1rem;
+  width: 32%;
+  max-width: 32%;
   overflow-x: hidden;
-  max-width: 48%;
 }
 
 .min-width-32px {
@@ -368,10 +368,10 @@
 }
 
 .width-33-100 {
-  min-width: 33%;
-  width: 33% !important;
+  min-width: 1rem;
+  width: 33%;
+  max-width: 33%;
   overflow-x: hidden;
-  max-width: 49.5%;
 }
 
 .min-width-33px {
@@ -379,10 +379,10 @@
 }
 
 .width-34-100 {
-  min-width: 34%;
-  width: 34% !important;
+  min-width: 1rem;
+  width: 34%;
+  max-width: 34%;
   overflow-x: hidden;
-  max-width: 51%;
 }
 
 .min-width-34px {
@@ -390,10 +390,10 @@
 }
 
 .width-35-100 {
-  min-width: 35%;
-  width: 35% !important;
+  min-width: 1rem;
+  width: 35%;
+  max-width: 35%;
   overflow-x: hidden;
-  max-width: 52.5%;
 }
 
 .min-width-35px {
@@ -401,10 +401,10 @@
 }
 
 .width-36-100 {
-  min-width: 36%;
-  width: 36% !important;
+  min-width: 1rem;
+  width: 36%;
+  max-width: 36%;
   overflow-x: hidden;
-  max-width: 54%;
 }
 
 .min-width-36px {
@@ -412,10 +412,10 @@
 }
 
 .width-37-100 {
-  min-width: 37%;
-  width: 37% !important;
+  min-width: 1rem;
+  width: 37%;
+  max-width: 37%;
   overflow-x: hidden;
-  max-width: 55.5%;
 }
 
 .min-width-37px {
@@ -423,10 +423,10 @@
 }
 
 .width-38-100 {
-  min-width: 38%;
-  width: 38% !important;
+  min-width: 1rem;
+  width: 38%;
+  max-width: 38%;
   overflow-x: hidden;
-  max-width: 57%;
 }
 
 .min-width-38px {
@@ -434,10 +434,10 @@
 }
 
 .width-39-100 {
-  min-width: 39%;
-  width: 39% !important;
+  min-width: 1rem;
+  width: 39%;
+  max-width: 39%;
   overflow-x: hidden;
-  max-width: 58.5%;
 }
 
 .min-width-39px {
@@ -445,10 +445,10 @@
 }
 
 .width-40-100 {
-  min-width: 40%;
-  width: 40% !important;
+  min-width: 1rem;
+  width: 40%;
+  max-width: 40%;
   overflow-x: hidden;
-  max-width: 60%;
 }
 
 .min-width-40px {
@@ -456,10 +456,10 @@
 }
 
 .width-41-100 {
-  min-width: 41%;
-  width: 41% !important;
+  min-width: 1rem;
+  width: 41%;
+  max-width: 41%;
   overflow-x: hidden;
-  max-width: 61.5%;
 }
 
 .min-width-41px {
@@ -467,10 +467,10 @@
 }
 
 .width-42-100 {
-  min-width: 42%;
-  width: 42% !important;
+  min-width: 1rem;
+  width: 42%;
+  max-width: 42%;
   overflow-x: hidden;
-  max-width: 63%;
 }
 
 .min-width-42px {
@@ -478,10 +478,10 @@
 }
 
 .width-43-100 {
-  min-width: 43%;
-  width: 43% !important;
+  min-width: 1rem;
+  width: 43%;
+  max-width: 43%;
   overflow-x: hidden;
-  max-width: 64.5%;
 }
 
 .min-width-43px {
@@ -489,10 +489,10 @@
 }
 
 .width-44-100 {
-  min-width: 44%;
-  width: 44% !important;
+  min-width: 1rem;
+  width: 44%;
+  max-width: 44%;
   overflow-x: hidden;
-  max-width: 66%;
 }
 
 .min-width-44px {
@@ -500,10 +500,10 @@
 }
 
 .width-45-100 {
-  min-width: 45%;
-  width: 45% !important;
+  min-width: 1rem;
+  width: 45%;
+  max-width: 45%;
   overflow-x: hidden;
-  max-width: 67.5%;
 }
 
 .min-width-45px {
@@ -511,10 +511,10 @@
 }
 
 .width-46-100 {
-  min-width: 46%;
-  width: 46% !important;
+  min-width: 1rem;
+  width: 46%;
+  max-width: 46%;
   overflow-x: hidden;
-  max-width: 69%;
 }
 
 .min-width-46px {
@@ -522,10 +522,10 @@
 }
 
 .width-47-100 {
-  min-width: 47%;
-  width: 47% !important;
+  min-width: 1rem;
+  width: 47%;
+  max-width: 47%;
   overflow-x: hidden;
-  max-width: 70.5%;
 }
 
 .min-width-47px {
@@ -533,10 +533,10 @@
 }
 
 .width-48-100 {
-  min-width: 48%;
-  width: 48% !important;
+  min-width: 1rem;
+  width: 48%;
+  max-width: 48%;
   overflow-x: hidden;
-  max-width: 72%;
 }
 
 .min-width-48px {
@@ -544,10 +544,10 @@
 }
 
 .width-49-100 {
-  min-width: 49%;
-  width: 49% !important;
+  min-width: 1rem;
+  width: 49%;
+  max-width: 49%;
   overflow-x: hidden;
-  max-width: 73.5%;
 }
 
 .min-width-49px {
@@ -555,10 +555,10 @@
 }
 
 .width-50-100 {
-  min-width: 50%;
-  width: 50% !important;
+  min-width: 1rem;
+  width: 50%;
+  max-width: 50%;
   overflow-x: hidden;
-  max-width: 75%;
 }
 
 .min-width-50px {
@@ -566,10 +566,10 @@
 }
 
 .width-51-100 {
-  min-width: 51%;
-  width: 51% !important;
+  min-width: 1rem;
+  width: 51%;
+  max-width: 51%;
   overflow-x: hidden;
-  max-width: 76.5%;
 }
 
 .min-width-51px {
@@ -577,10 +577,10 @@
 }
 
 .width-52-100 {
-  min-width: 52%;
-  width: 52% !important;
+  min-width: 1rem;
+  width: 52%;
+  max-width: 52%;
   overflow-x: hidden;
-  max-width: 78%;
 }
 
 .min-width-52px {
@@ -588,10 +588,10 @@
 }
 
 .width-53-100 {
-  min-width: 53%;
-  width: 53% !important;
+  min-width: 1rem;
+  width: 53%;
+  max-width: 53%;
   overflow-x: hidden;
-  max-width: 79.5%;
 }
 
 .min-width-53px {
@@ -599,10 +599,10 @@
 }
 
 .width-54-100 {
-  min-width: 54%;
-  width: 54% !important;
+  min-width: 1rem;
+  width: 54%;
+  max-width: 54%;
   overflow-x: hidden;
-  max-width: 81%;
 }
 
 .min-width-54px {
@@ -610,10 +610,10 @@
 }
 
 .width-55-100 {
-  min-width: 55%;
-  width: 55% !important;
+  min-width: 1rem;
+  width: 55%;
+  max-width: 55%;
   overflow-x: hidden;
-  max-width: 82.5%;
 }
 
 .min-width-55px {
@@ -621,10 +621,10 @@
 }
 
 .width-56-100 {
-  min-width: 56%;
-  width: 56% !important;
+  min-width: 1rem;
+  width: 56%;
+  max-width: 56%;
   overflow-x: hidden;
-  max-width: 84%;
 }
 
 .min-width-56px {
@@ -632,10 +632,10 @@
 }
 
 .width-57-100 {
-  min-width: 57%;
-  width: 57% !important;
+  min-width: 1rem;
+  width: 57%;
+  max-width: 57%;
   overflow-x: hidden;
-  max-width: 85.5%;
 }
 
 .min-width-57px {
@@ -643,10 +643,10 @@
 }
 
 .width-58-100 {
-  min-width: 58%;
-  width: 58% !important;
+  min-width: 1rem;
+  width: 58%;
+  max-width: 58%;
   overflow-x: hidden;
-  max-width: 87%;
 }
 
 .min-width-58px {
@@ -654,10 +654,10 @@
 }
 
 .width-59-100 {
-  min-width: 59%;
-  width: 59% !important;
+  min-width: 1rem;
+  width: 59%;
+  max-width: 59%;
   overflow-x: hidden;
-  max-width: 88.5%;
 }
 
 .min-width-59px {
@@ -665,10 +665,10 @@
 }
 
 .width-60-100 {
-  min-width: 60%;
-  width: 60% !important;
+  min-width: 1rem;
+  width: 60%;
+  max-width: 60%;
   overflow-x: hidden;
-  max-width: 90%;
 }
 
 .min-width-60px {
@@ -676,10 +676,10 @@
 }
 
 .width-61-100 {
-  min-width: 61%;
-  width: 61% !important;
+  min-width: 1rem;
+  width: 61%;
+  max-width: 61%;
   overflow-x: hidden;
-  max-width: 91.5%;
 }
 
 .min-width-61px {
@@ -687,10 +687,10 @@
 }
 
 .width-62-100 {
-  min-width: 62%;
-  width: 62% !important;
+  min-width: 1rem;
+  width: 62%;
+  max-width: 62%;
   overflow-x: hidden;
-  max-width: 93%;
 }
 
 .min-width-62px {
@@ -698,10 +698,10 @@
 }
 
 .width-63-100 {
-  min-width: 63%;
-  width: 63% !important;
+  min-width: 1rem;
+  width: 63%;
+  max-width: 63%;
   overflow-x: hidden;
-  max-width: 94.5%;
 }
 
 .min-width-63px {
@@ -709,10 +709,10 @@
 }
 
 .width-64-100 {
-  min-width: 64%;
-  width: 64% !important;
+  min-width: 1rem;
+  width: 64%;
+  max-width: 64%;
   overflow-x: hidden;
-  max-width: 96%;
 }
 
 .min-width-64px {
@@ -720,10 +720,10 @@
 }
 
 .width-65-100 {
-  min-width: 65%;
-  width: 65% !important;
+  min-width: 1rem;
+  width: 65%;
+  max-width: 65%;
   overflow-x: hidden;
-  max-width: 97.5%;
 }
 
 .min-width-65px {
@@ -731,10 +731,10 @@
 }
 
 .width-66-100 {
-  min-width: 66%;
-  width: 66% !important;
+  min-width: 1rem;
+  width: 66%;
+  max-width: 66%;
   overflow-x: hidden;
-  max-width: 99%;
 }
 
 .min-width-66px {
@@ -742,10 +742,10 @@
 }
 
 .width-67-100 {
-  min-width: 67%;
-  width: 67% !important;
+  min-width: 1rem;
+  width: 67%;
+  max-width: 67%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-67px {
@@ -753,10 +753,10 @@
 }
 
 .width-68-100 {
-  min-width: 68%;
-  width: 68% !important;
+  min-width: 1rem;
+  width: 68%;
+  max-width: 68%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-68px {
@@ -764,10 +764,10 @@
 }
 
 .width-69-100 {
-  min-width: 69%;
-  width: 69% !important;
+  min-width: 1rem;
+  width: 69%;
+  max-width: 69%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-69px {
@@ -775,10 +775,10 @@
 }
 
 .width-70-100 {
-  min-width: 70%;
-  width: 70% !important;
+  min-width: 1rem;
+  width: 70%;
+  max-width: 70%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-70px {
@@ -786,10 +786,10 @@
 }
 
 .width-71-100 {
-  min-width: 71%;
-  width: 71% !important;
+  min-width: 1rem;
+  width: 71%;
+  max-width: 71%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-71px {
@@ -797,10 +797,10 @@
 }
 
 .width-72-100 {
-  min-width: 72%;
-  width: 72% !important;
+  min-width: 1rem;
+  width: 72%;
+  max-width: 72%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-72px {
@@ -808,10 +808,10 @@
 }
 
 .width-73-100 {
-  min-width: 73%;
-  width: 73% !important;
+  min-width: 1rem;
+  width: 73%;
+  max-width: 73%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-73px {
@@ -819,10 +819,10 @@
 }
 
 .width-74-100 {
-  min-width: 74%;
-  width: 74% !important;
+  min-width: 1rem;
+  width: 74%;
+  max-width: 74%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-74px {
@@ -830,10 +830,10 @@
 }
 
 .width-75-100 {
-  min-width: 75%;
-  width: 75% !important;
+  min-width: 1rem;
+  width: 75%;
+  max-width: 75%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-75px {
@@ -841,10 +841,10 @@
 }
 
 .width-76-100 {
-  min-width: 76%;
-  width: 76% !important;
+  min-width: 1rem;
+  width: 76%;
+  max-width: 76%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-76px {
@@ -852,10 +852,10 @@
 }
 
 .width-77-100 {
-  min-width: 77%;
-  width: 77% !important;
+  min-width: 1rem;
+  width: 77%;
+  max-width: 77%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-77px {
@@ -863,10 +863,10 @@
 }
 
 .width-78-100 {
-  min-width: 78%;
-  width: 78% !important;
+  min-width: 1rem;
+  width: 78%;
+  max-width: 78%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-78px {
@@ -874,10 +874,10 @@
 }
 
 .width-79-100 {
-  min-width: 79%;
-  width: 79% !important;
+  min-width: 1rem;
+  width: 79%;
+  max-width: 79%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-79px {
@@ -885,10 +885,10 @@
 }
 
 .width-80-100 {
-  min-width: 80%;
-  width: 80% !important;
+  min-width: 1rem;
+  width: 80%;
+  max-width: 80%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-80px {
@@ -896,10 +896,10 @@
 }
 
 .width-81-100 {
-  min-width: 81%;
-  width: 81% !important;
+  min-width: 1rem;
+  width: 81%;
+  max-width: 81%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-81px {
@@ -907,10 +907,10 @@
 }
 
 .width-82-100 {
-  min-width: 82%;
-  width: 82% !important;
+  min-width: 1rem;
+  width: 82%;
+  max-width: 82%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-82px {
@@ -918,10 +918,10 @@
 }
 
 .width-83-100 {
-  min-width: 83%;
-  width: 83% !important;
+  min-width: 1rem;
+  width: 83%;
+  max-width: 83%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-83px {
@@ -929,10 +929,10 @@
 }
 
 .width-84-100 {
-  min-width: 84%;
-  width: 84% !important;
+  min-width: 1rem;
+  width: 84%;
+  max-width: 84%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-84px {
@@ -940,10 +940,10 @@
 }
 
 .width-85-100 {
-  min-width: 85%;
-  width: 85% !important;
+  min-width: 1rem;
+  width: 85%;
+  max-width: 85%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-85px {
@@ -951,10 +951,10 @@
 }
 
 .width-86-100 {
-  min-width: 86%;
-  width: 86% !important;
+  min-width: 1rem;
+  width: 86%;
+  max-width: 86%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-86px {
@@ -962,10 +962,10 @@
 }
 
 .width-87-100 {
-  min-width: 87%;
-  width: 87% !important;
+  min-width: 1rem;
+  width: 87%;
+  max-width: 87%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-87px {
@@ -973,10 +973,10 @@
 }
 
 .width-88-100 {
-  min-width: 88%;
-  width: 88% !important;
+  min-width: 1rem;
+  width: 88%;
+  max-width: 88%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-88px {
@@ -984,10 +984,10 @@
 }
 
 .width-89-100 {
-  min-width: 89%;
-  width: 89% !important;
+  min-width: 1rem;
+  width: 89%;
+  max-width: 89%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-89px {
@@ -995,10 +995,10 @@
 }
 
 .width-90-100 {
-  min-width: 90%;
-  width: 90% !important;
+  min-width: 1rem;
+  width: 90%;
+  max-width: 90%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-90px {
@@ -1006,10 +1006,10 @@
 }
 
 .width-91-100 {
-  min-width: 91%;
-  width: 91% !important;
+  min-width: 1rem;
+  width: 91%;
+  max-width: 91%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-91px {
@@ -1017,10 +1017,10 @@
 }
 
 .width-92-100 {
-  min-width: 92%;
-  width: 92% !important;
+  min-width: 1rem;
+  width: 92%;
+  max-width: 92%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-92px {
@@ -1028,10 +1028,10 @@
 }
 
 .width-93-100 {
-  min-width: 93%;
-  width: 93% !important;
+  min-width: 1rem;
+  width: 93%;
+  max-width: 93%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-93px {
@@ -1039,10 +1039,10 @@
 }
 
 .width-94-100 {
-  min-width: 94%;
-  width: 94% !important;
+  min-width: 1rem;
+  width: 94%;
+  max-width: 94%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-94px {
@@ -1050,10 +1050,10 @@
 }
 
 .width-95-100 {
-  min-width: 95%;
-  width: 95% !important;
+  min-width: 1rem;
+  width: 95%;
+  max-width: 95%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-95px {
@@ -1061,10 +1061,10 @@
 }
 
 .width-96-100 {
-  min-width: 96%;
-  width: 96% !important;
+  min-width: 1rem;
+  width: 96%;
+  max-width: 96%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-96px {
@@ -1072,10 +1072,10 @@
 }
 
 .width-97-100 {
-  min-width: 97%;
-  width: 97% !important;
+  min-width: 1rem;
+  width: 97%;
+  max-width: 97%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-97px {
@@ -1083,10 +1083,10 @@
 }
 
 .width-98-100 {
-  min-width: 98%;
-  width: 98% !important;
+  min-width: 1rem;
+  width: 98%;
+  max-width: 98%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-98px {
@@ -1094,10 +1094,10 @@
 }
 
 .width-99-100 {
-  min-width: 99%;
-  width: 99% !important;
+  min-width: 1rem;
+  width: 99%;
+  max-width: 99%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-99px {
@@ -1105,10 +1105,10 @@
 }
 
 .width-100-100 {
-  min-width: 100%;
-  width: 100% !important;
-  overflow-x: hidden;
+  min-width: 1rem;
+  width: 100%;
   max-width: 100%;
+  overflow-x: hidden;
 }
 
 .min-width-100px {
@@ -1117,7 +1117,7 @@
 
 .width-0-rem {
   min-width: 0rem;
-  width: 0rem !important;
+  width: 0rem;
   overflow-x: hidden;
   max-width: 0rem;
 }
@@ -1131,7 +1131,7 @@
 
 .width-1-rem {
   min-width: 1rem;
-  width: 1rem !important;
+  width: 1rem;
   overflow-x: hidden;
   max-width: 1.5rem;
 }
@@ -1145,7 +1145,7 @@
 
 .width-2-rem {
   min-width: 2rem;
-  width: 2rem !important;
+  width: 2rem;
   overflow-x: hidden;
   max-width: 3rem;
 }
@@ -1159,7 +1159,7 @@
 
 .width-3-rem {
   min-width: 3rem;
-  width: 3rem !important;
+  width: 3rem;
   overflow-x: hidden;
   max-width: 4.5rem;
 }
@@ -1173,7 +1173,7 @@
 
 .width-4-rem {
   min-width: 4rem;
-  width: 4rem !important;
+  width: 4rem;
   overflow-x: hidden;
   max-width: 6rem;
 }
@@ -1187,7 +1187,7 @@
 
 .width-5-rem {
   min-width: 5rem;
-  width: 5rem !important;
+  width: 5rem;
   overflow-x: hidden;
   max-width: 7.5rem;
 }
@@ -1201,7 +1201,7 @@
 
 .width-6-rem {
   min-width: 6rem;
-  width: 6rem !important;
+  width: 6rem;
   overflow-x: hidden;
   max-width: 9rem;
 }
@@ -1215,7 +1215,7 @@
 
 .width-7-rem {
   min-width: 7rem;
-  width: 7rem !important;
+  width: 7rem;
   overflow-x: hidden;
   max-width: 10.5rem;
 }
@@ -1229,7 +1229,7 @@
 
 .width-8-rem {
   min-width: 8rem;
-  width: 8rem !important;
+  width: 8rem;
   overflow-x: hidden;
   max-width: 12rem;
 }
@@ -1243,7 +1243,7 @@
 
 .width-9-rem {
   min-width: 9rem;
-  width: 9rem !important;
+  width: 9rem;
   overflow-x: hidden;
   max-width: 13.5rem;
 }
@@ -1257,7 +1257,7 @@
 
 .width-10-rem {
   min-width: 10rem;
-  width: 10rem !important;
+  width: 10rem;
   overflow-x: hidden;
   max-width: 15rem;
 }
@@ -13355,10 +13355,10 @@ button[disabled]:hover {
 }
 
 .width-0-100 {
-  min-width: 0%;
-  width: 0% !important;
-  overflow-x: hidden;
+  min-width: 1rem;
+  width: 0%;
   max-width: 0%;
+  overflow-x: hidden;
 }
 
 .min-width-0px {
@@ -13366,10 +13366,10 @@ button[disabled]:hover {
 }
 
 .width-1-100 {
-  min-width: 1%;
-  width: 1% !important;
+  min-width: 1rem;
+  width: 1%;
+  max-width: 1%;
   overflow-x: hidden;
-  max-width: 1.5%;
 }
 
 .min-width-1px {
@@ -13377,10 +13377,10 @@ button[disabled]:hover {
 }
 
 .width-2-100 {
-  min-width: 2%;
-  width: 2% !important;
+  min-width: 1rem;
+  width: 2%;
+  max-width: 2%;
   overflow-x: hidden;
-  max-width: 3%;
 }
 
 .min-width-2px {
@@ -13388,10 +13388,10 @@ button[disabled]:hover {
 }
 
 .width-3-100 {
-  min-width: 3%;
-  width: 3% !important;
+  min-width: 1rem;
+  width: 3%;
+  max-width: 3%;
   overflow-x: hidden;
-  max-width: 4.5%;
 }
 
 .min-width-3px {
@@ -13399,10 +13399,10 @@ button[disabled]:hover {
 }
 
 .width-4-100 {
-  min-width: 4%;
-  width: 4% !important;
+  min-width: 1rem;
+  width: 4%;
+  max-width: 4%;
   overflow-x: hidden;
-  max-width: 6%;
 }
 
 .min-width-4px {
@@ -13410,10 +13410,10 @@ button[disabled]:hover {
 }
 
 .width-5-100 {
-  min-width: 5%;
-  width: 5% !important;
+  min-width: 1rem;
+  width: 5%;
+  max-width: 5%;
   overflow-x: hidden;
-  max-width: 7.5%;
 }
 
 .min-width-5px {
@@ -13421,10 +13421,10 @@ button[disabled]:hover {
 }
 
 .width-6-100 {
-  min-width: 6%;
-  width: 6% !important;
+  min-width: 1rem;
+  width: 6%;
+  max-width: 6%;
   overflow-x: hidden;
-  max-width: 9%;
 }
 
 .min-width-6px {
@@ -13432,10 +13432,10 @@ button[disabled]:hover {
 }
 
 .width-7-100 {
-  min-width: 7%;
-  width: 7% !important;
+  min-width: 1rem;
+  width: 7%;
+  max-width: 7%;
   overflow-x: hidden;
-  max-width: 10.5%;
 }
 
 .min-width-7px {
@@ -13443,10 +13443,10 @@ button[disabled]:hover {
 }
 
 .width-8-100 {
-  min-width: 8%;
-  width: 8% !important;
+  min-width: 1rem;
+  width: 8%;
+  max-width: 8%;
   overflow-x: hidden;
-  max-width: 12%;
 }
 
 .min-width-8px {
@@ -13454,10 +13454,10 @@ button[disabled]:hover {
 }
 
 .width-9-100 {
-  min-width: 9%;
-  width: 9% !important;
+  min-width: 1rem;
+  width: 9%;
+  max-width: 9%;
   overflow-x: hidden;
-  max-width: 13.5%;
 }
 
 .min-width-9px {
@@ -13465,10 +13465,10 @@ button[disabled]:hover {
 }
 
 .width-10-100 {
-  min-width: 10%;
-  width: 10% !important;
+  min-width: 1rem;
+  width: 10%;
+  max-width: 10%;
   overflow-x: hidden;
-  max-width: 15%;
 }
 
 .min-width-10px {
@@ -13476,10 +13476,10 @@ button[disabled]:hover {
 }
 
 .width-11-100 {
-  min-width: 11%;
-  width: 11% !important;
+  min-width: 1rem;
+  width: 11%;
+  max-width: 11%;
   overflow-x: hidden;
-  max-width: 16.5%;
 }
 
 .min-width-11px {
@@ -13487,10 +13487,10 @@ button[disabled]:hover {
 }
 
 .width-12-100 {
-  min-width: 12%;
-  width: 12% !important;
+  min-width: 1rem;
+  width: 12%;
+  max-width: 12%;
   overflow-x: hidden;
-  max-width: 18%;
 }
 
 .min-width-12px {
@@ -13498,10 +13498,10 @@ button[disabled]:hover {
 }
 
 .width-13-100 {
-  min-width: 13%;
-  width: 13% !important;
+  min-width: 1rem;
+  width: 13%;
+  max-width: 13%;
   overflow-x: hidden;
-  max-width: 19.5%;
 }
 
 .min-width-13px {
@@ -13509,10 +13509,10 @@ button[disabled]:hover {
 }
 
 .width-14-100 {
-  min-width: 14%;
-  width: 14% !important;
+  min-width: 1rem;
+  width: 14%;
+  max-width: 14%;
   overflow-x: hidden;
-  max-width: 21%;
 }
 
 .min-width-14px {
@@ -13520,10 +13520,10 @@ button[disabled]:hover {
 }
 
 .width-15-100 {
-  min-width: 15%;
-  width: 15% !important;
+  min-width: 1rem;
+  width: 15%;
+  max-width: 15%;
   overflow-x: hidden;
-  max-width: 22.5%;
 }
 
 .min-width-15px {
@@ -13531,10 +13531,10 @@ button[disabled]:hover {
 }
 
 .width-16-100 {
-  min-width: 16%;
-  width: 16% !important;
+  min-width: 1rem;
+  width: 16%;
+  max-width: 16%;
   overflow-x: hidden;
-  max-width: 24%;
 }
 
 .min-width-16px {
@@ -13542,10 +13542,10 @@ button[disabled]:hover {
 }
 
 .width-17-100 {
-  min-width: 17%;
-  width: 17% !important;
+  min-width: 1rem;
+  width: 17%;
+  max-width: 17%;
   overflow-x: hidden;
-  max-width: 25.5%;
 }
 
 .min-width-17px {
@@ -13553,10 +13553,10 @@ button[disabled]:hover {
 }
 
 .width-18-100 {
-  min-width: 18%;
-  width: 18% !important;
+  min-width: 1rem;
+  width: 18%;
+  max-width: 18%;
   overflow-x: hidden;
-  max-width: 27%;
 }
 
 .min-width-18px {
@@ -13564,10 +13564,10 @@ button[disabled]:hover {
 }
 
 .width-19-100 {
-  min-width: 19%;
-  width: 19% !important;
+  min-width: 1rem;
+  width: 19%;
+  max-width: 19%;
   overflow-x: hidden;
-  max-width: 28.5%;
 }
 
 .min-width-19px {
@@ -13575,10 +13575,10 @@ button[disabled]:hover {
 }
 
 .width-20-100 {
-  min-width: 20%;
-  width: 20% !important;
+  min-width: 1rem;
+  width: 20%;
+  max-width: 20%;
   overflow-x: hidden;
-  max-width: 30%;
 }
 
 .min-width-20px {
@@ -13586,10 +13586,10 @@ button[disabled]:hover {
 }
 
 .width-21-100 {
-  min-width: 21%;
-  width: 21% !important;
+  min-width: 1rem;
+  width: 21%;
+  max-width: 21%;
   overflow-x: hidden;
-  max-width: 31.5%;
 }
 
 .min-width-21px {
@@ -13597,10 +13597,10 @@ button[disabled]:hover {
 }
 
 .width-22-100 {
-  min-width: 22%;
-  width: 22% !important;
+  min-width: 1rem;
+  width: 22%;
+  max-width: 22%;
   overflow-x: hidden;
-  max-width: 33%;
 }
 
 .min-width-22px {
@@ -13608,10 +13608,10 @@ button[disabled]:hover {
 }
 
 .width-23-100 {
-  min-width: 23%;
-  width: 23% !important;
+  min-width: 1rem;
+  width: 23%;
+  max-width: 23%;
   overflow-x: hidden;
-  max-width: 34.5%;
 }
 
 .min-width-23px {
@@ -13619,10 +13619,10 @@ button[disabled]:hover {
 }
 
 .width-24-100 {
-  min-width: 24%;
-  width: 24% !important;
+  min-width: 1rem;
+  width: 24%;
+  max-width: 24%;
   overflow-x: hidden;
-  max-width: 36%;
 }
 
 .min-width-24px {
@@ -13630,10 +13630,10 @@ button[disabled]:hover {
 }
 
 .width-25-100 {
-  min-width: 25%;
-  width: 25% !important;
+  min-width: 1rem;
+  width: 25%;
+  max-width: 25%;
   overflow-x: hidden;
-  max-width: 37.5%;
 }
 
 .min-width-25px {
@@ -13641,10 +13641,10 @@ button[disabled]:hover {
 }
 
 .width-26-100 {
-  min-width: 26%;
-  width: 26% !important;
+  min-width: 1rem;
+  width: 26%;
+  max-width: 26%;
   overflow-x: hidden;
-  max-width: 39%;
 }
 
 .min-width-26px {
@@ -13652,10 +13652,10 @@ button[disabled]:hover {
 }
 
 .width-27-100 {
-  min-width: 27%;
-  width: 27% !important;
+  min-width: 1rem;
+  width: 27%;
+  max-width: 27%;
   overflow-x: hidden;
-  max-width: 40.5%;
 }
 
 .min-width-27px {
@@ -13663,10 +13663,10 @@ button[disabled]:hover {
 }
 
 .width-28-100 {
-  min-width: 28%;
-  width: 28% !important;
+  min-width: 1rem;
+  width: 28%;
+  max-width: 28%;
   overflow-x: hidden;
-  max-width: 42%;
 }
 
 .min-width-28px {
@@ -13674,10 +13674,10 @@ button[disabled]:hover {
 }
 
 .width-29-100 {
-  min-width: 29%;
-  width: 29% !important;
+  min-width: 1rem;
+  width: 29%;
+  max-width: 29%;
   overflow-x: hidden;
-  max-width: 43.5%;
 }
 
 .min-width-29px {
@@ -13685,10 +13685,10 @@ button[disabled]:hover {
 }
 
 .width-30-100 {
-  min-width: 30%;
-  width: 30% !important;
+  min-width: 1rem;
+  width: 30%;
+  max-width: 30%;
   overflow-x: hidden;
-  max-width: 45%;
 }
 
 .min-width-30px {
@@ -13696,10 +13696,10 @@ button[disabled]:hover {
 }
 
 .width-31-100 {
-  min-width: 31%;
-  width: 31% !important;
+  min-width: 1rem;
+  width: 31%;
+  max-width: 31%;
   overflow-x: hidden;
-  max-width: 46.5%;
 }
 
 .min-width-31px {
@@ -13707,10 +13707,10 @@ button[disabled]:hover {
 }
 
 .width-32-100 {
-  min-width: 32%;
-  width: 32% !important;
+  min-width: 1rem;
+  width: 32%;
+  max-width: 32%;
   overflow-x: hidden;
-  max-width: 48%;
 }
 
 .min-width-32px {
@@ -13718,10 +13718,10 @@ button[disabled]:hover {
 }
 
 .width-33-100 {
-  min-width: 33%;
-  width: 33% !important;
+  min-width: 1rem;
+  width: 33%;
+  max-width: 33%;
   overflow-x: hidden;
-  max-width: 49.5%;
 }
 
 .min-width-33px {
@@ -13729,10 +13729,10 @@ button[disabled]:hover {
 }
 
 .width-34-100 {
-  min-width: 34%;
-  width: 34% !important;
+  min-width: 1rem;
+  width: 34%;
+  max-width: 34%;
   overflow-x: hidden;
-  max-width: 51%;
 }
 
 .min-width-34px {
@@ -13740,10 +13740,10 @@ button[disabled]:hover {
 }
 
 .width-35-100 {
-  min-width: 35%;
-  width: 35% !important;
+  min-width: 1rem;
+  width: 35%;
+  max-width: 35%;
   overflow-x: hidden;
-  max-width: 52.5%;
 }
 
 .min-width-35px {
@@ -13751,10 +13751,10 @@ button[disabled]:hover {
 }
 
 .width-36-100 {
-  min-width: 36%;
-  width: 36% !important;
+  min-width: 1rem;
+  width: 36%;
+  max-width: 36%;
   overflow-x: hidden;
-  max-width: 54%;
 }
 
 .min-width-36px {
@@ -13762,10 +13762,10 @@ button[disabled]:hover {
 }
 
 .width-37-100 {
-  min-width: 37%;
-  width: 37% !important;
+  min-width: 1rem;
+  width: 37%;
+  max-width: 37%;
   overflow-x: hidden;
-  max-width: 55.5%;
 }
 
 .min-width-37px {
@@ -13773,10 +13773,10 @@ button[disabled]:hover {
 }
 
 .width-38-100 {
-  min-width: 38%;
-  width: 38% !important;
+  min-width: 1rem;
+  width: 38%;
+  max-width: 38%;
   overflow-x: hidden;
-  max-width: 57%;
 }
 
 .min-width-38px {
@@ -13784,10 +13784,10 @@ button[disabled]:hover {
 }
 
 .width-39-100 {
-  min-width: 39%;
-  width: 39% !important;
+  min-width: 1rem;
+  width: 39%;
+  max-width: 39%;
   overflow-x: hidden;
-  max-width: 58.5%;
 }
 
 .min-width-39px {
@@ -13795,10 +13795,10 @@ button[disabled]:hover {
 }
 
 .width-40-100 {
-  min-width: 40%;
-  width: 40% !important;
+  min-width: 1rem;
+  width: 40%;
+  max-width: 40%;
   overflow-x: hidden;
-  max-width: 60%;
 }
 
 .min-width-40px {
@@ -13806,10 +13806,10 @@ button[disabled]:hover {
 }
 
 .width-41-100 {
-  min-width: 41%;
-  width: 41% !important;
+  min-width: 1rem;
+  width: 41%;
+  max-width: 41%;
   overflow-x: hidden;
-  max-width: 61.5%;
 }
 
 .min-width-41px {
@@ -13817,10 +13817,10 @@ button[disabled]:hover {
 }
 
 .width-42-100 {
-  min-width: 42%;
-  width: 42% !important;
+  min-width: 1rem;
+  width: 42%;
+  max-width: 42%;
   overflow-x: hidden;
-  max-width: 63%;
 }
 
 .min-width-42px {
@@ -13828,10 +13828,10 @@ button[disabled]:hover {
 }
 
 .width-43-100 {
-  min-width: 43%;
-  width: 43% !important;
+  min-width: 1rem;
+  width: 43%;
+  max-width: 43%;
   overflow-x: hidden;
-  max-width: 64.5%;
 }
 
 .min-width-43px {
@@ -13839,10 +13839,10 @@ button[disabled]:hover {
 }
 
 .width-44-100 {
-  min-width: 44%;
-  width: 44% !important;
+  min-width: 1rem;
+  width: 44%;
+  max-width: 44%;
   overflow-x: hidden;
-  max-width: 66%;
 }
 
 .min-width-44px {
@@ -13850,10 +13850,10 @@ button[disabled]:hover {
 }
 
 .width-45-100 {
-  min-width: 45%;
-  width: 45% !important;
+  min-width: 1rem;
+  width: 45%;
+  max-width: 45%;
   overflow-x: hidden;
-  max-width: 67.5%;
 }
 
 .min-width-45px {
@@ -13861,10 +13861,10 @@ button[disabled]:hover {
 }
 
 .width-46-100 {
-  min-width: 46%;
-  width: 46% !important;
+  min-width: 1rem;
+  width: 46%;
+  max-width: 46%;
   overflow-x: hidden;
-  max-width: 69%;
 }
 
 .min-width-46px {
@@ -13872,10 +13872,10 @@ button[disabled]:hover {
 }
 
 .width-47-100 {
-  min-width: 47%;
-  width: 47% !important;
+  min-width: 1rem;
+  width: 47%;
+  max-width: 47%;
   overflow-x: hidden;
-  max-width: 70.5%;
 }
 
 .min-width-47px {
@@ -13883,10 +13883,10 @@ button[disabled]:hover {
 }
 
 .width-48-100 {
-  min-width: 48%;
-  width: 48% !important;
+  min-width: 1rem;
+  width: 48%;
+  max-width: 48%;
   overflow-x: hidden;
-  max-width: 72%;
 }
 
 .min-width-48px {
@@ -13894,10 +13894,10 @@ button[disabled]:hover {
 }
 
 .width-49-100 {
-  min-width: 49%;
-  width: 49% !important;
+  min-width: 1rem;
+  width: 49%;
+  max-width: 49%;
   overflow-x: hidden;
-  max-width: 73.5%;
 }
 
 .min-width-49px {
@@ -13905,10 +13905,10 @@ button[disabled]:hover {
 }
 
 .width-50-100 {
-  min-width: 50%;
-  width: 50% !important;
+  min-width: 1rem;
+  width: 50%;
+  max-width: 50%;
   overflow-x: hidden;
-  max-width: 75%;
 }
 
 .min-width-50px {
@@ -13916,10 +13916,10 @@ button[disabled]:hover {
 }
 
 .width-51-100 {
-  min-width: 51%;
-  width: 51% !important;
+  min-width: 1rem;
+  width: 51%;
+  max-width: 51%;
   overflow-x: hidden;
-  max-width: 76.5%;
 }
 
 .min-width-51px {
@@ -13927,10 +13927,10 @@ button[disabled]:hover {
 }
 
 .width-52-100 {
-  min-width: 52%;
-  width: 52% !important;
+  min-width: 1rem;
+  width: 52%;
+  max-width: 52%;
   overflow-x: hidden;
-  max-width: 78%;
 }
 
 .min-width-52px {
@@ -13938,10 +13938,10 @@ button[disabled]:hover {
 }
 
 .width-53-100 {
-  min-width: 53%;
-  width: 53% !important;
+  min-width: 1rem;
+  width: 53%;
+  max-width: 53%;
   overflow-x: hidden;
-  max-width: 79.5%;
 }
 
 .min-width-53px {
@@ -13949,10 +13949,10 @@ button[disabled]:hover {
 }
 
 .width-54-100 {
-  min-width: 54%;
-  width: 54% !important;
+  min-width: 1rem;
+  width: 54%;
+  max-width: 54%;
   overflow-x: hidden;
-  max-width: 81%;
 }
 
 .min-width-54px {
@@ -13960,10 +13960,10 @@ button[disabled]:hover {
 }
 
 .width-55-100 {
-  min-width: 55%;
-  width: 55% !important;
+  min-width: 1rem;
+  width: 55%;
+  max-width: 55%;
   overflow-x: hidden;
-  max-width: 82.5%;
 }
 
 .min-width-55px {
@@ -13971,10 +13971,10 @@ button[disabled]:hover {
 }
 
 .width-56-100 {
-  min-width: 56%;
-  width: 56% !important;
+  min-width: 1rem;
+  width: 56%;
+  max-width: 56%;
   overflow-x: hidden;
-  max-width: 84%;
 }
 
 .min-width-56px {
@@ -13982,10 +13982,10 @@ button[disabled]:hover {
 }
 
 .width-57-100 {
-  min-width: 57%;
-  width: 57% !important;
+  min-width: 1rem;
+  width: 57%;
+  max-width: 57%;
   overflow-x: hidden;
-  max-width: 85.5%;
 }
 
 .min-width-57px {
@@ -13993,10 +13993,10 @@ button[disabled]:hover {
 }
 
 .width-58-100 {
-  min-width: 58%;
-  width: 58% !important;
+  min-width: 1rem;
+  width: 58%;
+  max-width: 58%;
   overflow-x: hidden;
-  max-width: 87%;
 }
 
 .min-width-58px {
@@ -14004,10 +14004,10 @@ button[disabled]:hover {
 }
 
 .width-59-100 {
-  min-width: 59%;
-  width: 59% !important;
+  min-width: 1rem;
+  width: 59%;
+  max-width: 59%;
   overflow-x: hidden;
-  max-width: 88.5%;
 }
 
 .min-width-59px {
@@ -14015,10 +14015,10 @@ button[disabled]:hover {
 }
 
 .width-60-100 {
-  min-width: 60%;
-  width: 60% !important;
+  min-width: 1rem;
+  width: 60%;
+  max-width: 60%;
   overflow-x: hidden;
-  max-width: 90%;
 }
 
 .min-width-60px {
@@ -14026,10 +14026,10 @@ button[disabled]:hover {
 }
 
 .width-61-100 {
-  min-width: 61%;
-  width: 61% !important;
+  min-width: 1rem;
+  width: 61%;
+  max-width: 61%;
   overflow-x: hidden;
-  max-width: 91.5%;
 }
 
 .min-width-61px {
@@ -14037,10 +14037,10 @@ button[disabled]:hover {
 }
 
 .width-62-100 {
-  min-width: 62%;
-  width: 62% !important;
+  min-width: 1rem;
+  width: 62%;
+  max-width: 62%;
   overflow-x: hidden;
-  max-width: 93%;
 }
 
 .min-width-62px {
@@ -14048,10 +14048,10 @@ button[disabled]:hover {
 }
 
 .width-63-100 {
-  min-width: 63%;
-  width: 63% !important;
+  min-width: 1rem;
+  width: 63%;
+  max-width: 63%;
   overflow-x: hidden;
-  max-width: 94.5%;
 }
 
 .min-width-63px {
@@ -14059,10 +14059,10 @@ button[disabled]:hover {
 }
 
 .width-64-100 {
-  min-width: 64%;
-  width: 64% !important;
+  min-width: 1rem;
+  width: 64%;
+  max-width: 64%;
   overflow-x: hidden;
-  max-width: 96%;
 }
 
 .min-width-64px {
@@ -14070,10 +14070,10 @@ button[disabled]:hover {
 }
 
 .width-65-100 {
-  min-width: 65%;
-  width: 65% !important;
+  min-width: 1rem;
+  width: 65%;
+  max-width: 65%;
   overflow-x: hidden;
-  max-width: 97.5%;
 }
 
 .min-width-65px {
@@ -14081,10 +14081,10 @@ button[disabled]:hover {
 }
 
 .width-66-100 {
-  min-width: 66%;
-  width: 66% !important;
+  min-width: 1rem;
+  width: 66%;
+  max-width: 66%;
   overflow-x: hidden;
-  max-width: 99%;
 }
 
 .min-width-66px {
@@ -14092,10 +14092,10 @@ button[disabled]:hover {
 }
 
 .width-67-100 {
-  min-width: 67%;
-  width: 67% !important;
+  min-width: 1rem;
+  width: 67%;
+  max-width: 67%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-67px {
@@ -14103,10 +14103,10 @@ button[disabled]:hover {
 }
 
 .width-68-100 {
-  min-width: 68%;
-  width: 68% !important;
+  min-width: 1rem;
+  width: 68%;
+  max-width: 68%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-68px {
@@ -14114,10 +14114,10 @@ button[disabled]:hover {
 }
 
 .width-69-100 {
-  min-width: 69%;
-  width: 69% !important;
+  min-width: 1rem;
+  width: 69%;
+  max-width: 69%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-69px {
@@ -14125,10 +14125,10 @@ button[disabled]:hover {
 }
 
 .width-70-100 {
-  min-width: 70%;
-  width: 70% !important;
+  min-width: 1rem;
+  width: 70%;
+  max-width: 70%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-70px {
@@ -14136,10 +14136,10 @@ button[disabled]:hover {
 }
 
 .width-71-100 {
-  min-width: 71%;
-  width: 71% !important;
+  min-width: 1rem;
+  width: 71%;
+  max-width: 71%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-71px {
@@ -14147,10 +14147,10 @@ button[disabled]:hover {
 }
 
 .width-72-100 {
-  min-width: 72%;
-  width: 72% !important;
+  min-width: 1rem;
+  width: 72%;
+  max-width: 72%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-72px {
@@ -14158,10 +14158,10 @@ button[disabled]:hover {
 }
 
 .width-73-100 {
-  min-width: 73%;
-  width: 73% !important;
+  min-width: 1rem;
+  width: 73%;
+  max-width: 73%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-73px {
@@ -14169,10 +14169,10 @@ button[disabled]:hover {
 }
 
 .width-74-100 {
-  min-width: 74%;
-  width: 74% !important;
+  min-width: 1rem;
+  width: 74%;
+  max-width: 74%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-74px {
@@ -14180,10 +14180,10 @@ button[disabled]:hover {
 }
 
 .width-75-100 {
-  min-width: 75%;
-  width: 75% !important;
+  min-width: 1rem;
+  width: 75%;
+  max-width: 75%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-75px {
@@ -14191,10 +14191,10 @@ button[disabled]:hover {
 }
 
 .width-76-100 {
-  min-width: 76%;
-  width: 76% !important;
+  min-width: 1rem;
+  width: 76%;
+  max-width: 76%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-76px {
@@ -14202,10 +14202,10 @@ button[disabled]:hover {
 }
 
 .width-77-100 {
-  min-width: 77%;
-  width: 77% !important;
+  min-width: 1rem;
+  width: 77%;
+  max-width: 77%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-77px {
@@ -14213,10 +14213,10 @@ button[disabled]:hover {
 }
 
 .width-78-100 {
-  min-width: 78%;
-  width: 78% !important;
+  min-width: 1rem;
+  width: 78%;
+  max-width: 78%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-78px {
@@ -14224,10 +14224,10 @@ button[disabled]:hover {
 }
 
 .width-79-100 {
-  min-width: 79%;
-  width: 79% !important;
+  min-width: 1rem;
+  width: 79%;
+  max-width: 79%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-79px {
@@ -14235,10 +14235,10 @@ button[disabled]:hover {
 }
 
 .width-80-100 {
-  min-width: 80%;
-  width: 80% !important;
+  min-width: 1rem;
+  width: 80%;
+  max-width: 80%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-80px {
@@ -14246,10 +14246,10 @@ button[disabled]:hover {
 }
 
 .width-81-100 {
-  min-width: 81%;
-  width: 81% !important;
+  min-width: 1rem;
+  width: 81%;
+  max-width: 81%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-81px {
@@ -14257,10 +14257,10 @@ button[disabled]:hover {
 }
 
 .width-82-100 {
-  min-width: 82%;
-  width: 82% !important;
+  min-width: 1rem;
+  width: 82%;
+  max-width: 82%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-82px {
@@ -14268,10 +14268,10 @@ button[disabled]:hover {
 }
 
 .width-83-100 {
-  min-width: 83%;
-  width: 83% !important;
+  min-width: 1rem;
+  width: 83%;
+  max-width: 83%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-83px {
@@ -14279,10 +14279,10 @@ button[disabled]:hover {
 }
 
 .width-84-100 {
-  min-width: 84%;
-  width: 84% !important;
+  min-width: 1rem;
+  width: 84%;
+  max-width: 84%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-84px {
@@ -14290,10 +14290,10 @@ button[disabled]:hover {
 }
 
 .width-85-100 {
-  min-width: 85%;
-  width: 85% !important;
+  min-width: 1rem;
+  width: 85%;
+  max-width: 85%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-85px {
@@ -14301,10 +14301,10 @@ button[disabled]:hover {
 }
 
 .width-86-100 {
-  min-width: 86%;
-  width: 86% !important;
+  min-width: 1rem;
+  width: 86%;
+  max-width: 86%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-86px {
@@ -14312,10 +14312,10 @@ button[disabled]:hover {
 }
 
 .width-87-100 {
-  min-width: 87%;
-  width: 87% !important;
+  min-width: 1rem;
+  width: 87%;
+  max-width: 87%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-87px {
@@ -14323,10 +14323,10 @@ button[disabled]:hover {
 }
 
 .width-88-100 {
-  min-width: 88%;
-  width: 88% !important;
+  min-width: 1rem;
+  width: 88%;
+  max-width: 88%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-88px {
@@ -14334,10 +14334,10 @@ button[disabled]:hover {
 }
 
 .width-89-100 {
-  min-width: 89%;
-  width: 89% !important;
+  min-width: 1rem;
+  width: 89%;
+  max-width: 89%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-89px {
@@ -14345,10 +14345,10 @@ button[disabled]:hover {
 }
 
 .width-90-100 {
-  min-width: 90%;
-  width: 90% !important;
+  min-width: 1rem;
+  width: 90%;
+  max-width: 90%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-90px {
@@ -14356,10 +14356,10 @@ button[disabled]:hover {
 }
 
 .width-91-100 {
-  min-width: 91%;
-  width: 91% !important;
+  min-width: 1rem;
+  width: 91%;
+  max-width: 91%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-91px {
@@ -14367,10 +14367,10 @@ button[disabled]:hover {
 }
 
 .width-92-100 {
-  min-width: 92%;
-  width: 92% !important;
+  min-width: 1rem;
+  width: 92%;
+  max-width: 92%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-92px {
@@ -14378,10 +14378,10 @@ button[disabled]:hover {
 }
 
 .width-93-100 {
-  min-width: 93%;
-  width: 93% !important;
+  min-width: 1rem;
+  width: 93%;
+  max-width: 93%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-93px {
@@ -14389,10 +14389,10 @@ button[disabled]:hover {
 }
 
 .width-94-100 {
-  min-width: 94%;
-  width: 94% !important;
+  min-width: 1rem;
+  width: 94%;
+  max-width: 94%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-94px {
@@ -14400,10 +14400,10 @@ button[disabled]:hover {
 }
 
 .width-95-100 {
-  min-width: 95%;
-  width: 95% !important;
+  min-width: 1rem;
+  width: 95%;
+  max-width: 95%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-95px {
@@ -14411,10 +14411,10 @@ button[disabled]:hover {
 }
 
 .width-96-100 {
-  min-width: 96%;
-  width: 96% !important;
+  min-width: 1rem;
+  width: 96%;
+  max-width: 96%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-96px {
@@ -14422,10 +14422,10 @@ button[disabled]:hover {
 }
 
 .width-97-100 {
-  min-width: 97%;
-  width: 97% !important;
+  min-width: 1rem;
+  width: 97%;
+  max-width: 97%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-97px {
@@ -14433,10 +14433,10 @@ button[disabled]:hover {
 }
 
 .width-98-100 {
-  min-width: 98%;
-  width: 98% !important;
+  min-width: 1rem;
+  width: 98%;
+  max-width: 98%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-98px {
@@ -14444,10 +14444,10 @@ button[disabled]:hover {
 }
 
 .width-99-100 {
-  min-width: 99%;
-  width: 99% !important;
+  min-width: 1rem;
+  width: 99%;
+  max-width: 99%;
   overflow-x: hidden;
-  max-width: 100%;
 }
 
 .min-width-99px {
@@ -14455,10 +14455,10 @@ button[disabled]:hover {
 }
 
 .width-100-100 {
-  min-width: 100%;
-  width: 100% !important;
-  overflow-x: hidden;
+  min-width: 1rem;
+  width: 100%;
   max-width: 100%;
+  overflow-x: hidden;
 }
 
 .min-width-100px {
@@ -14467,7 +14467,7 @@ button[disabled]:hover {
 
 .width-0-rem {
   min-width: 0rem;
-  width: 0rem !important;
+  width: 0rem;
   overflow-x: hidden;
   max-width: 0rem;
 }
@@ -14481,7 +14481,7 @@ button[disabled]:hover {
 
 .width-1-rem {
   min-width: 1rem;
-  width: 1rem !important;
+  width: 1rem;
   overflow-x: hidden;
   max-width: 1.5rem;
 }
@@ -14495,7 +14495,7 @@ button[disabled]:hover {
 
 .width-2-rem {
   min-width: 2rem;
-  width: 2rem !important;
+  width: 2rem;
   overflow-x: hidden;
   max-width: 3rem;
 }
@@ -14509,7 +14509,7 @@ button[disabled]:hover {
 
 .width-3-rem {
   min-width: 3rem;
-  width: 3rem !important;
+  width: 3rem;
   overflow-x: hidden;
   max-width: 4.5rem;
 }
@@ -14523,7 +14523,7 @@ button[disabled]:hover {
 
 .width-4-rem {
   min-width: 4rem;
-  width: 4rem !important;
+  width: 4rem;
   overflow-x: hidden;
   max-width: 6rem;
 }
@@ -14537,7 +14537,7 @@ button[disabled]:hover {
 
 .width-5-rem {
   min-width: 5rem;
-  width: 5rem !important;
+  width: 5rem;
   overflow-x: hidden;
   max-width: 7.5rem;
 }
@@ -14551,7 +14551,7 @@ button[disabled]:hover {
 
 .width-6-rem {
   min-width: 6rem;
-  width: 6rem !important;
+  width: 6rem;
   overflow-x: hidden;
   max-width: 9rem;
 }
@@ -14565,7 +14565,7 @@ button[disabled]:hover {
 
 .width-7-rem {
   min-width: 7rem;
-  width: 7rem !important;
+  width: 7rem;
   overflow-x: hidden;
   max-width: 10.5rem;
 }
@@ -14579,7 +14579,7 @@ button[disabled]:hover {
 
 .width-8-rem {
   min-width: 8rem;
-  width: 8rem !important;
+  width: 8rem;
   overflow-x: hidden;
   max-width: 12rem;
 }
@@ -14593,7 +14593,7 @@ button[disabled]:hover {
 
 .width-9-rem {
   min-width: 9rem;
-  width: 9rem !important;
+  width: 9rem;
   overflow-x: hidden;
   max-width: 13.5rem;
 }
@@ -14607,7 +14607,7 @@ button[disabled]:hover {
 
 .width-10-rem {
   min-width: 10rem;
-  width: 10rem !important;
+  width: 10rem;
   overflow-x: hidden;
   max-width: 15rem;
 }
@@ -17813,6 +17813,27 @@ u, ins, .u, .ins {
   transition: all 1s;
 }
 
+.modal-content {
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  padding: 0.5rem;
+}
+.modal-content > header {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #aaa;
+  font-size: 1.1rem;
+}
+.modal-content > section {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.modal-content > footer {
+  padding-top: 0.5rem;
+  border-top: 1px solid #aaa;
+  font-size: 1.1rem;
+}
+
 .modal-center {
   position: absolute;
   z-index: 10;
@@ -17821,22 +17842,33 @@ u, ins, .u, .ins {
   width: 100%;
   background-color: rgba(0, 0, 0, 0.3);
   display: none;
-  top: 0;
   justify-content: center;
   align-items: center;
-  animation: center-keyframes 1s;
 }
-.modal-center > * {
-  box-shadow: 0px 0px 1px 0px #666666;
+.modal-center > .modal-content {
+  box-shadow: 1px 1px 10px 0px #666666;
   background-color: white;
 }
 
-@keyframes center-keyframes {
+.show-modal {
+  display: flex;
+  animation: show-modal 1s;
+}
+
+@keyframes show-modal {
   0% {
     opacity: 0;
   }
   100% {
     opacity: 1;
+  }
+}
+@keyframes left-keyframes {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
   }
 }
 .modal-left {
@@ -17846,21 +17878,19 @@ u, ins, .u, .ins {
   height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.3);
-  display: flex;
+  display: none;
   justify-content: left;
   align-items: center;
+  animation: modal-keyframes 10s;
+}
+.modal-left > .modal-content {
+  box-shadow: 1px 1px 10px 0px #666666;
+  background-color: white;
+  animation: left-keyframes 10s;
 }
 
-.modal-right {
-  position: absolute;
-  z-index: 10;
-  top: 0;
-  height: 100%;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.3);
-  display: flex;
-  justify-content: right;
-  align-items: center;
+.test\+1, .test2 {
+  color: red;
 }
 
 /*# sourceMappingURL=cozy.css.map */
