@@ -1,0 +1,30 @@
+@import "../../base/color";
+*[placeholder]{
+    // display: inline-block;
+    min-height: 1em;
+    vertical-align: middle;
+    cursor: wait !important;
+    background-color: $gray !important;
+    color: $gray !important;
+    border-color: $gray !important;
+    border-radius: 0;
+    animation: placeholder-key 2s ease-in-out infinite;
+    &:hover {
+        cursor: wait !important;
+        background-color: $gray !important;
+        border-color: $gray !important;
+        border-radius: 0;
+    }
+    &::before{
+        cursor: wait !important;
+        background-color: $gray !important;
+        border-color: $gray !important;
+        border-radius: 0;
+    }
+}
+// js需要添加disabled
+@keyframes placeholder-key {
+    50%{
+        opacity: .9;
+    }
+}

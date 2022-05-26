@@ -33,7 +33,7 @@
   align-items: center;
 }
 .modal-center > .modal-content {
-  box-shadow: 1px 1px 10px 0px #666666;
+  box-shadow: 1px 1px 10px 0px #bbbbbb;
   background-color: white;
 }
 
@@ -78,7 +78,7 @@
   align-items: center;
 }
 .modal-left > .modal-content {
-  box-shadow: 1px 1px 10px 0px #666666;
+  box-shadow: 1px 1px 10px 0px #bbbbbb;
   background-color: white;
   animation: modal-keyframe 1s;
 }
@@ -95,7 +95,7 @@
   align-items: center;
 }
 .modal-right > .modal-content {
-  box-shadow: 1px 1px 10px 0px #666666;
+  box-shadow: 1px 1px 10px 0px #bbbbbb;
   background-color: white;
   animation: modal-keyframe 1s;
 }
@@ -112,7 +112,7 @@
   align-items: flex-end;
 }
 .modal-bottom > .modal-content {
-  box-shadow: 1px 1px 10px 0px #666666;
+  box-shadow: 1px 1px 10px 0px #bbbbbb;
   background-color: white;
   animation: modal-height 1s;
 }

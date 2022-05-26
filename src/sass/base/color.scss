@@ -9,7 +9,7 @@ $purple: #cc00cc;
 $turquoise: #00cccc;
 $orange: #cc8500; 
 $cyan: #00cccc;
-$gray: #666666;
+$gray: #bbbbbb;
 $black: black;
 $white: white;
 
@@ -35,18 +35,24 @@ $colors: (
 $background: $white;
 $textColor: $black;
 
-$primary: $indigo;
-$secondary: $purple;
-$adorn: $turquoise; 
+$main: $indigo;
+
+$main\+1: color.scale($main, $whiteness: 10*1%, $blackness: -10*1%);
+$main\+2: color.scale($main, $whiteness: 20*1%, $blackness: -20*1%);
+$main\+3: color.scale($main, $whiteness: 30*1%, $blackness: -30*1%);
+$main\+4: color.scale($main, $whiteness: 40*1%, $blackness: -40*1%);
+
+$minor: $purple;
+$less: $turquoise; 
 $info: $gray;
 $warning: $yellow;
 $error:$red;
 $success:$green;
-//定义语义化颜色."primary"，按钮色， seconday,链接色
+//定义语义化颜色."main"，按钮色， minor,链接色
 $semantic_range:(
-    "primary": $primary,
-    "secondary":$secondary,
-    "adorn":$turquoise, 
+    "main": $main,
+    "minor": $minor,
+    "less": $less, 
 
     "info":$info,
     
@@ -56,9 +62,9 @@ $semantic_range:(
 );
 
 $topic_range:(
-    "primary":$blue,
-    "secondary":$purple,
-    "adorn":$turquoise,
+    "main":$main,
+    "minor":$minor,
+    "less":$turquoise,
 
 );
 

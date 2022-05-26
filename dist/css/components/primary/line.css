@@ -1,5 +1,5 @@
 .line-left {
-  border-top: 1px solid #666666;
+  border-top: 1px solid #bbbbbb;
   position: relative;
   display: flex;
   height: 1rem;
@@ -17,7 +17,7 @@
 }
 
 .line-center {
-  border-top: 1px solid #666666;
+  border-top: 1px solid #bbbbbb;
   position: relative;
   display: flex;
   height: 1rem;

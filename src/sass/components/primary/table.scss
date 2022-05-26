@@ -15,16 +15,16 @@
             margin:0;
             padding:0;
             border-collapse: collapse;        
-            @extend .#{$k}-border-1;
+            @extend .border-#{$k}-1;
             &>thead{
                 @extend .text-align-left;
-                @extend .#{$k}-bg;
+                @extend .bg-#{$k};
                 @extend .font-size-#{$i};
                 @extend .font-white-#{$i};
                 @extend .box-shadow-1;
-                @extend .#{$k}-border-top-4;
-                @extend .#{$k}-border-left-4;
-                @extend .#{$k}-border-right-4;
+                @extend .border-#{$k}-top-4;
+                @extend .border-#{$k}-left-4;
+                @extend .border-#{$k}-right-4;
                 
                 &>tr>th:not(:first-child) {
                     border-left:1px solid $white;
@@ -38,16 +38,16 @@
             &>tbody{
                 padding-top:4px;
                 @extend .font-size-#{$i};
-                // @extend .#{$k}-border;
+                // @extend .border-#{$k};
                 &>tr:not(:first-child){
-                    @extend .#{$k}-border-top-1;
+                    @extend .border-#{$k}-top-1;
                 }
                 &>tr>td{
                     padding:.25em .5rem;
                 }
                 &>tr>td:not(:first-child){
                     // background-color:red;
-                    @extend .#{$k}-border-left-1;
+                    @extend .border-#{$k}-left-1;
                 }
             }
         }    

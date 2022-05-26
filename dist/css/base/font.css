@@ -374,43 +374,43 @@ u, ins, .u, .ins {
 }
 
 .font-gray-1 {
-  color: #f0f0f0 !important;
+  color: #f8f8f8 !important;
 }
 
 .font-gray-2 {
-  color: #c2c2c2 !important;
+  color: #e4e4e4 !important;
 }
 
 .font-gray-3 {
-  color: #949494 !important;
+  color: #cfcfcf !important;
 }
 
 .font-gray-4 {
-  color: #666666 !important;
+  color: #bbbbbb !important;
 }
 
 .font-gray {
-  color: #666666 !important;
+  color: #bbbbbb !important;
 }
 
 .font-gray-5 {
-  color: #5e5e5e !important;
+  color: #a3a3a3 !important;
 }
 
 .font-gray-6 {
-  color: #585858 !important;
+  color: #919191 !important;
 }
 
 .font-gray-7 {
-  color: #525252 !important;
+  color: #828282 !important;
 }
 
 .font-gray-8 {
-  color: #4d4d4d !important;
+  color: #767676 !important;
 }
 
 .font-gray-9 {
-  color: #494949 !important;
+  color: #6c6c6c !important;
 }
 
 .font-red-1 {
@@ -533,164 +533,164 @@ u, ins, .u, .ins {
   color: black !important;
 }
 
-.font-primary-1 {
+.font-main-1 {
   color: #b799cc;
 }
 
-.font-primary-2 {
+.font-main-2 {
   color: #a266cc;
 }
 
-.font-primary-3 {
+.font-main-3 {
   color: #8c33cc;
 }
 
-.font-primary-4 {
+.font-main-4 {
   color: #7700cc;
 }
 
-.font-primary {
+.font-main {
   color: #7700cc;
 }
 
-.font-primary-5 {
+.font-main-5 {
   color: #5f00a3;
 }
 
-.font-primary-6 {
+.font-main-6 {
   color: #47007a;
 }
 
-.font-primary-7 {
+.font-main-7 {
   color: #300052;
 }
 
-.font-primary-8 {
+.font-main-8 {
   color: #180029;
 }
 
-.font-primary-9 {
+.font-main-9 {
   color: black;
 }
 
-.font-secondary-1 {
+.font-minor-1 {
   color: #cc99cc;
 }
 
-.font-secondary-2 {
+.font-minor-2 {
   color: #cc66cc;
 }
 
-.font-secondary-3 {
+.font-minor-3 {
   color: #cc33cc;
 }
 
-.font-secondary-4 {
+.font-minor-4 {
   color: #cc00cc;
 }
 
-.font-secondary {
+.font-minor {
   color: #cc00cc;
 }
 
-.font-secondary-5 {
+.font-minor-5 {
   color: #a300a3;
 }
 
-.font-secondary-6 {
+.font-minor-6 {
   color: #7a007a;
 }
 
-.font-secondary-7 {
+.font-minor-7 {
   color: #520052;
 }
 
-.font-secondary-8 {
+.font-minor-8 {
   color: #290029;
 }
 
-.font-secondary-9 {
+.font-minor-9 {
   color: black;
 }
 
-.font-adorn-1 {
+.font-less-1 {
   color: #99cccc;
 }
 
-.font-adorn-2 {
+.font-less-2 {
   color: #66cccc;
 }
 
-.font-adorn-3 {
+.font-less-3 {
   color: #33cccc;
 }
 
-.font-adorn-4 {
+.font-less-4 {
   color: #00cccc;
 }
 
-.font-adorn {
+.font-less {
   color: #00cccc;
 }
 
-.font-adorn-5 {
+.font-less-5 {
   color: #00a3a3;
 }
 
-.font-adorn-6 {
+.font-less-6 {
   color: #007a7a;
 }
 
-.font-adorn-7 {
+.font-less-7 {
   color: #005252;
 }
 
-.font-adorn-8 {
+.font-less-8 {
   color: #002929;
 }
 
-.font-adorn-9 {
+.font-less-9 {
   color: black;
 }
 
 .font-info-1 {
-  color: #8f8f8f;
+  color: #c4c4c4;
 }
 
 .font-info-2 {
-  color: #848484;
+  color: #c2c2c2;
 }
 
 .font-info-3 {
-  color: #767676;
+  color: #bebebe;
 }
 
 .font-info-4 {
-  color: #666666;
+  color: #bbbbbb;
 }
 
 .font-info {
-  color: #666666;
+  color: #bbbbbb;
 }
 
 .font-info-5 {
-  color: #5e5e5e;
+  color: #a3a3a3;
 }
 
 .font-info-6 {
-  color: #585858;
+  color: #919191;
 }
 
 .font-info-7 {
-  color: #525252;
+  color: #828282;
 }
 
 .font-info-8 {
-  color: #4d4d4d;
+  color: #767676;
 }
 
 .font-info-9 {
-  color: #494949;
+  color: #6c6c6c;
 }
 
 .font-warning-1 {

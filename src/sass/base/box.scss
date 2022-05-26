@@ -105,29 +105,29 @@ $fontsize:16px;
         @if $range  < 4{
             $whitens: 4-$range;
             $co:color.scale($color, $whiteness: ($whitens*30)*1%, $blackness: -($whitens*30)*1%);
-            .#{$key}-bg-#{$range} {
+            .bg-#{$key}-#{$range} {
                 background-color: $co !important;
             }
-            .#{$key}-border-#{$range}{
+            .border-#{$key}-#{$range}{
                 // border-color: $co;
                 border: 1px solid $co;
             }
-            .#{$key}-border-left-#{$range} {
+            .border-#{$key}-left-#{$range} {
                 border-left-color: $co;
                 border-left-width: 1px;
                 border-left-style: solid;
             }
-            .#{$key}-border-top-#{$range} {
+            .border-#{$key}-top-#{$range} {
                 border-top-color: $co;
                 border-top-width: 1px;
                 border-top-style: solid;
             }
-            .#{$key}-border-right-#{$range} {
+            .border-#{$key}-right-#{$range} {
                 border-right-color: $co;
                 border-right-width: 1px;
                 border-right-style: solid;
             }
-            .#{$key}-border-bottom-#{$range} {
+            .border-#{$key}-bottom-#{$range} {
                 border-bottom-color: $co;
                 border-bottom-width: 1px;
                 border-bottom-style: solid;
@@ -137,65 +137,65 @@ $fontsize:16px;
         @if $range > 4{
             $blackns: $range - 4;
             $co: color.scale($color, $blackness: $blackns*20*1%);
-            .#{$key}-bg-#{$range} {
+            .bg-#{$key}-#{$range} {
                 background-color: $co  !important;
             }
-            .#{$key}-border-#{$range}{
+            .border-#{$key}-#{$range}{
                 border: 1px solid $co;
             }
-            .#{$key}-border-left-#{$range} {
+            .border-#{$key}-left-#{$range} {
                 border-left-color: $co;
                 border-left-width: 1px;
                 border-left-style: solid;
             }
-            .#{$key}-border-top-#{$range} {
+            .border-#{$key}-top-#{$range} {
                 border-top-color: $co;
                 border-top-width: 1px;
                 border-top-style: solid;
             }
-            .#{$key}-border-right-#{$range} {
+            .border-#{$key}-right-#{$range} {
                 border-right-color: $co;
                 border-right-width: 1px;
                 border-right-style: solid;
             }
-            .#{$key}-border-bottom-#{$range} {
+            .border-#{$key}-bottom-#{$range} {
                 border-bottom-color: $co;
                 border-bottom-width: 1px;
                 border-bottom-style: solid;
             }
         }
         @if $range == 4 {
-            .#{$key}-bg-#{$range} {
+            .bg-#{$key}-#{$range} {
                 background-color: $color  !important;
             }
             
-            .#{$key}-bg {
+            .bg-#{$key} {
                 background-color: $color  !important;
                 
             }
-            .#{$key}-border-#{$range}{
+            .border-#{$key}-#{$range}{
                 border: 1px solid $color !important
             }
-            .#{$key}-border{
+            .border-#{$key}{
                 border: 1px solid $color !important;
             }
 
-            .#{$key}-border-left-#{$range} {
+            .border-#{$key}-left-#{$range} {
                 border-left-color: $color;
                 border-left-width: 1px;
                 border-left-style: solid;
             }
-            .#{$key}-border-top-#{$range} {
+            .border-#{$key}-top-#{$range} {
                 border-top-color: $color;
                 border-top-width: 1px;
                 border-top-style: solid;
             }
-            .#{$key}-border-right-#{$range} {
+            .border-#{$key}-right-#{$range} {
                 border-right-color: $color;
                 border-right-width: 1px;
                 border-right-style: solid;
             }
-            .#{$key}-border-bottom-#{$range} {
+            .border-#{$key}-bottom-#{$range} {
                 border-bottom-color: $color;
                 border-bottom-width: 1px;
                 border-bottom-style: solid;

@@ -1,0 +1,30 @@
+*[placeholder] {
+  min-height: 1em;
+  vertical-align: middle;
+  cursor: wait !important;
+  background-color: #bbbbbb !important;
+  color: #bbbbbb !important;
+  border-color: #bbbbbb !important;
+  border-radius: 0;
+  animation: placeholder-key 2s ease-in-out infinite;
+}
+*[placeholder]:hover {
+  cursor: wait !important;
+  background-color: #bbbbbb !important;
+  border-color: #bbbbbb !important;
+  border-radius: 0;
+}
+*[placeholder]::before {
+  cursor: wait !important;
+  background-color: #bbbbbb !important;
+  border-color: #bbbbbb !important;
+  border-radius: 0;
+}
+
+@keyframes placeholder-key {
+  50% {
+    opacity: 0.9;
+  }
+}
+
+/*# sourceMappingURL=placeholder.css.map */
