@@ -50,6 +50,10 @@ $error:$red;
 $success:$green;
 //定义语义化颜色."main"，按钮色， minor,链接色
 $semantic_range:(
+    "gray":$gray,
+    "white":$white,
+    "black":$black,
+
     "main": $main,
     "minor": $minor,
     "less": $less, 
@@ -66,6 +70,9 @@ $topic_range:(
     "minor":$minor,
     "less":$turquoise,
 
+    "gray":$gray,
+    "black":$black,
+    "white":$white,
 );
 
 $message_range:(

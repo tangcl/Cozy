@@ -1,3 +1,41 @@
+@import "../../base/color";
+input{
+    font-size: 1rem;
+    line-height: 1.5em;
+    border: 1px solid $gray;
+    
+    &:hover{
+        border: 1px solid $gray;
+        outline: none;
+    }
+    &:focus{
+        border: 1px solid $gray;
+        outline: none;  
+    }
+    &:focus-visible{
+        border: 1px solid $gray;
+        outline: none;  
+    }
+}
+@for $i from 1 to 10{
+    @each $key, $value in $semantic_range {
+        .input-#{$key}-#{$i}{
+            caret-color: $value;
+            border: 1px solid $value !important;
+            &:hover{
+                border: 1px solid $value;
+            }
+            &:active{
+                border: 1px solid $value;
+            }
+            &:focus-visible{
+                border: 1px solid $value;
+                outline: none;  
+            }
+        }
+    }
+}
+
 .input-group{
     // position:relative;
     height:2rem;

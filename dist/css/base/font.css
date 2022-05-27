@@ -47,23 +47,23 @@ u, ins, .u, .ins {
   text-decoration: underline;
 }
 
-.font-size-1 {
-  font-size: 0.7rem;
-  line-height: 1.5em;
-}
-
-.font-size-2 {
-  font-size: 0.8rem;
+.font-size-4 {
+  font-size: 0rem;
   line-height: 1.5em;
 }
 
 .font-size-3 {
-  font-size: 0.9rem;
+  font-size: 0.125rem;
   line-height: 1.5em;
 }
 
-.font-size-4 {
-  font-size: 1rem;
+.font-size-2 {
+  font-size: 0.25rem;
+  line-height: 1.5em;
+}
+
+.font-size-1 {
+  font-size: 0.375rem;
   line-height: 1.5em;
 }
 
@@ -72,28 +72,23 @@ u, ins, .u, .ins {
   line-height: 1.5em;
 }
 
-.font-size-5 {
-  font-size: 1.1rem;
+.font-size1 {
+  font-size: 1.375rem;
   line-height: 1.5em;
 }
 
-.font-size-6 {
-  font-size: 1.2rem;
+.font-size2 {
+  font-size: 1.25rem;
   line-height: 1.5em;
 }
 
-.font-size-7 {
-  font-size: 1.3rem;
+.font-size3 {
+  font-size: 1.125rem;
   line-height: 1.5em;
 }
 
-.font-size-8 {
-  font-size: 1.4rem;
-  line-height: 1.5em;
-}
-
-.font-size-9 {
-  font-size: 1.5rem;
+.font-size4 {
+  font-size: 1rem;
   line-height: 1.5em;
 }
 
@@ -173,19 +168,19 @@ u, ins, .u, .ins {
   font-weight: 800 !important;
 }
 
-.font-white-1 {
+.font-white1 {
   color: white !important;
 }
 
-.font-white-2 {
+.font-white2 {
   color: white !important;
 }
 
-.font-white-3 {
+.font-white3 {
   color: white !important;
 }
 
-.font-white-4 {
+.font-white4 {
   color: white !important;
 }
 
@@ -193,39 +188,39 @@ u, ins, .u, .ins {
   color: white !important;
 }
 
-.font-white-5 {
+.font-white5 {
   color: #d5d5d5 !important;
 }
 
-.font-white-6 {
+.font-white6 {
   color: #b6b6b6 !important;
 }
 
-.font-white-7 {
+.font-white7 {
   color: #9f9f9f !important;
 }
 
-.font-white-8 {
+.font-white8 {
   color: #8e8e8e !important;
 }
 
-.font-white-9 {
+.font-white9 {
   color: gray !important;
 }
 
-.font-black-1 {
+.font-black1 {
   color: #e6e6e6 !important;
 }
 
-.font-black-2 {
+.font-black2 {
   color: #999999 !important;
 }
 
-.font-black-3 {
+.font-black3 {
   color: #4d4d4d !important;
 }
 
-.font-black-4 {
+.font-black4 {
   color: black !important;
 }
 
@@ -233,39 +228,39 @@ u, ins, .u, .ins {
   color: black !important;
 }
 
-.font-black-5 {
+.font-black5 {
   color: black !important;
 }
 
-.font-black-6 {
+.font-black6 {
   color: black !important;
 }
 
-.font-black-7 {
+.font-black7 {
   color: black !important;
 }
 
-.font-black-8 {
+.font-black8 {
   color: black !important;
 }
 
-.font-black-9 {
+.font-black9 {
   color: black !important;
 }
 
-.font-blue-1 {
+.font-blue1 {
   color: lavender !important;
 }
 
-.font-blue-2 {
+.font-blue2 {
   color: #9999eb !important;
 }
 
-.font-blue-3 {
+.font-blue3 {
   color: #4d4ddb !important;
 }
 
-.font-blue-4 {
+.font-blue4 {
   color: #0000cc !important;
 }
 
@@ -273,39 +268,39 @@ u, ins, .u, .ins {
   color: #0000cc !important;
 }
 
-.font-blue-5 {
+.font-blue5 {
   color: #0000a3 !important;
 }
 
-.font-blue-6 {
+.font-blue6 {
   color: #00007a !important;
 }
 
-.font-blue-7 {
+.font-blue7 {
   color: #000052 !important;
 }
 
-.font-blue-8 {
+.font-blue8 {
   color: #000029 !important;
 }
 
-.font-blue-9 {
+.font-blue9 {
   color: black !important;
 }
 
-.font-indigo-1 {
+.font-indigo1 {
   color: #f1e6fa !important;
 }
 
-.font-indigo-2 {
+.font-indigo2 {
   color: #c999eb !important;
 }
 
-.font-indigo-3 {
+.font-indigo3 {
   color: #a04ddb !important;
 }
 
-.font-indigo-4 {
+.font-indigo4 {
   color: #7700cc !important;
 }
 
@@ -313,39 +308,39 @@ u, ins, .u, .ins {
   color: #7700cc !important;
 }
 
-.font-indigo-5 {
+.font-indigo5 {
   color: #5f00a3 !important;
 }
 
-.font-indigo-6 {
+.font-indigo6 {
   color: #47007a !important;
 }
 
-.font-indigo-7 {
+.font-indigo7 {
   color: #300052 !important;
 }
 
-.font-indigo-8 {
+.font-indigo8 {
   color: #180029 !important;
 }
 
-.font-indigo-9 {
+.font-indigo9 {
   color: black !important;
 }
 
-.font-purple-1 {
+.font-purple1 {
   color: #fae6fa !important;
 }
 
-.font-purple-2 {
+.font-purple2 {
   color: #eb99eb !important;
 }
 
-.font-purple-3 {
+.font-purple3 {
   color: #db4ddb !important;
 }
 
-.font-purple-4 {
+.font-purple4 {
   color: #cc00cc !important;
 }
 
@@ -353,39 +348,39 @@ u, ins, .u, .ins {
   color: #cc00cc !important;
 }
 
-.font-purple-5 {
+.font-purple5 {
   color: #a300a3 !important;
 }
 
-.font-purple-6 {
+.font-purple6 {
   color: #7a007a !important;
 }
 
-.font-purple-7 {
+.font-purple7 {
   color: #520052 !important;
 }
 
-.font-purple-8 {
+.font-purple8 {
   color: #290029 !important;
 }
 
-.font-purple-9 {
+.font-purple9 {
   color: black !important;
 }
 
-.font-gray-1 {
+.font-gray1 {
   color: #f8f8f8 !important;
 }
 
-.font-gray-2 {
+.font-gray2 {
   color: #e4e4e4 !important;
 }
 
-.font-gray-3 {
+.font-gray3 {
   color: #cfcfcf !important;
 }
 
-.font-gray-4 {
+.font-gray4 {
   color: #bbbbbb !important;
 }
 
@@ -393,39 +388,39 @@ u, ins, .u, .ins {
   color: #bbbbbb !important;
 }
 
-.font-gray-5 {
+.font-gray5 {
   color: #a3a3a3 !important;
 }
 
-.font-gray-6 {
+.font-gray6 {
   color: #919191 !important;
 }
 
-.font-gray-7 {
+.font-gray7 {
   color: #828282 !important;
 }
 
-.font-gray-8 {
+.font-gray8 {
   color: #767676 !important;
 }
 
-.font-gray-9 {
+.font-gray9 {
   color: #6c6c6c !important;
 }
 
-.font-red-1 {
+.font-red1 {
   color: #fae6e6 !important;
 }
 
-.font-red-2 {
+.font-red2 {
   color: #eb9999 !important;
 }
 
-.font-red-3 {
+.font-red3 {
   color: #db4d4d !important;
 }
 
-.font-red-4 {
+.font-red4 {
   color: #cc0000 !important;
 }
 
@@ -433,39 +428,39 @@ u, ins, .u, .ins {
   color: #cc0000 !important;
 }
 
-.font-red-5 {
+.font-red5 {
   color: #a30000 !important;
 }
 
-.font-red-6 {
+.font-red6 {
   color: #7a0000 !important;
 }
 
-.font-red-7 {
+.font-red7 {
   color: #520000 !important;
 }
 
-.font-red-8 {
+.font-red8 {
   color: #290000 !important;
 }
 
-.font-red-9 {
+.font-red9 {
   color: black !important;
 }
 
-.font-green-1 {
+.font-green1 {
   color: #e6fae6 !important;
 }
 
-.font-green-2 {
+.font-green2 {
   color: #99eb99 !important;
 }
 
-.font-green-3 {
+.font-green3 {
   color: #4ddb4d !important;
 }
 
-.font-green-4 {
+.font-green4 {
   color: #00cc00 !important;
 }
 
@@ -473,39 +468,39 @@ u, ins, .u, .ins {
   color: #00cc00 !important;
 }
 
-.font-green-5 {
+.font-green5 {
   color: #00a300 !important;
 }
 
-.font-green-6 {
+.font-green6 {
   color: #007a00 !important;
 }
 
-.font-green-7 {
+.font-green7 {
   color: #005200 !important;
 }
 
-.font-green-8 {
+.font-green8 {
   color: #002900 !important;
 }
 
-.font-green-9 {
+.font-green9 {
   color: black !important;
 }
 
-.font-yellow-1 {
+.font-yellow1 {
   color: #fafae6 !important;
 }
 
-.font-yellow-2 {
+.font-yellow2 {
   color: #ebeb99 !important;
 }
 
-.font-yellow-3 {
+.font-yellow3 {
   color: #dbdb4d !important;
 }
 
-.font-yellow-4 {
+.font-yellow4 {
   color: #cccc00 !important;
 }
 
@@ -513,27 +508,151 @@ u, ins, .u, .ins {
   color: #cccc00 !important;
 }
 
-.font-yellow-5 {
+.font-yellow5 {
   color: #a3a300 !important;
 }
 
-.font-yellow-6 {
+.font-yellow6 {
   color: #7a7a00 !important;
 }
 
-.font-yellow-7 {
+.font-yellow7 {
   color: #525200 !important;
 }
 
-.font-yellow-8 {
+.font-yellow8 {
   color: #292900 !important;
 }
 
-.font-yellow-9 {
+.font-yellow9 {
   color: black !important;
 }
 
-.font-main-1 {
+.font-gray-4 {
+  color: #c7c7c7;
+}
+
+.font-gray-3 {
+  color: #c4c4c4;
+}
+
+.font-gray-2 {
+  color: #c2c2c2;
+}
+
+.font-gray-1 {
+  color: #bebebe;
+}
+
+.font-gray0 {
+  color: #bbbbbb;
+}
+
+.font-gray {
+  color: #bbbbbb;
+}
+
+.font-gray1 {
+  color: #a3a3a3;
+}
+
+.font-gray2 {
+  color: #919191;
+}
+
+.font-gray3 {
+  color: #828282;
+}
+
+.font-gray4 {
+  color: #767676;
+}
+
+.font-white-4 {
+  color: white;
+}
+
+.font-white-3 {
+  color: white;
+}
+
+.font-white-2 {
+  color: white;
+}
+
+.font-white-1 {
+  color: white;
+}
+
+.font-white0 {
+  color: white;
+}
+
+.font-white {
+  color: white;
+}
+
+.font-white1 {
+  color: #d5d5d5;
+}
+
+.font-white2 {
+  color: #b6b6b6;
+}
+
+.font-white3 {
+  color: #9f9f9f;
+}
+
+.font-white4 {
+  color: #8e8e8e;
+}
+
+.font-black-4 {
+  color: #717171;
+}
+
+.font-black-3 {
+  color: #606060;
+}
+
+.font-black-2 {
+  color: #494949;
+}
+
+.font-black-1 {
+  color: #2b2b2b;
+}
+
+.font-black0 {
+  color: black;
+}
+
+.font-black {
+  color: black;
+}
+
+.font-black1 {
+  color: black;
+}
+
+.font-black2 {
+  color: black;
+}
+
+.font-black3 {
+  color: black;
+}
+
+.font-black4 {
+  color: black;
+}
+
+.font-main-4 {
+  color: #cccccc;
+}
+
+.font-main-3 {
   color: #b799cc;
 }
 
@@ -541,11 +660,11 @@ u, ins, .u, .ins {
   color: #a266cc;
 }
 
-.font-main-3 {
+.font-main-1 {
   color: #8c33cc;
 }
 
-.font-main-4 {
+.font-main0 {
   color: #7700cc;
 }
 
@@ -553,27 +672,27 @@ u, ins, .u, .ins {
   color: #7700cc;
 }
 
-.font-main-5 {
+.font-main1 {
   color: #5f00a3;
 }
 
-.font-main-6 {
+.font-main2 {
   color: #47007a;
 }
 
-.font-main-7 {
+.font-main3 {
   color: #300052;
 }
 
-.font-main-8 {
+.font-main4 {
   color: #180029;
 }
 
-.font-main-9 {
-  color: black;
+.font-minor-4 {
+  color: #cccccc;
 }
 
-.font-minor-1 {
+.font-minor-3 {
   color: #cc99cc;
 }
 
@@ -581,11 +700,11 @@ u, ins, .u, .ins {
   color: #cc66cc;
 }
 
-.font-minor-3 {
+.font-minor-1 {
   color: #cc33cc;
 }
 
-.font-minor-4 {
+.font-minor0 {
   color: #cc00cc;
 }
 
@@ -593,27 +712,27 @@ u, ins, .u, .ins {
   color: #cc00cc;
 }
 
-.font-minor-5 {
+.font-minor1 {
   color: #a300a3;
 }
 
-.font-minor-6 {
+.font-minor2 {
   color: #7a007a;
 }
 
-.font-minor-7 {
+.font-minor3 {
   color: #520052;
 }
 
-.font-minor-8 {
+.font-minor4 {
   color: #290029;
 }
 
-.font-minor-9 {
-  color: black;
+.font-less-4 {
+  color: #cccccc;
 }
 
-.font-less-1 {
+.font-less-3 {
   color: #99cccc;
 }
 
@@ -621,11 +740,11 @@ u, ins, .u, .ins {
   color: #66cccc;
 }
 
-.font-less-3 {
+.font-less-1 {
   color: #33cccc;
 }
 
-.font-less-4 {
+.font-less0 {
   color: #00cccc;
 }
 
@@ -633,27 +752,27 @@ u, ins, .u, .ins {
   color: #00cccc;
 }
 
-.font-less-5 {
+.font-less1 {
   color: #00a3a3;
 }
 
-.font-less-6 {
+.font-less2 {
   color: #007a7a;
 }
 
-.font-less-7 {
+.font-less3 {
   color: #005252;
 }
 
-.font-less-8 {
+.font-less4 {
   color: #002929;
 }
 
-.font-less-9 {
-  color: black;
+.font-info-4 {
+  color: #c7c7c7;
 }
 
-.font-info-1 {
+.font-info-3 {
   color: #c4c4c4;
 }
 
@@ -661,11 +780,11 @@ u, ins, .u, .ins {
   color: #c2c2c2;
 }
 
-.font-info-3 {
+.font-info-1 {
   color: #bebebe;
 }
 
-.font-info-4 {
+.font-info0 {
   color: #bbbbbb;
 }
 
@@ -673,27 +792,27 @@ u, ins, .u, .ins {
   color: #bbbbbb;
 }
 
-.font-info-5 {
+.font-info1 {
   color: #a3a3a3;
 }
 
-.font-info-6 {
+.font-info2 {
   color: #919191;
 }
 
-.font-info-7 {
+.font-info3 {
   color: #828282;
 }
 
-.font-info-8 {
+.font-info4 {
   color: #767676;
 }
 
-.font-info-9 {
-  color: #6c6c6c;
+.font-warning-4 {
+  color: #cccccc;
 }
 
-.font-warning-1 {
+.font-warning-3 {
   color: #cccc99;
 }
 
@@ -701,11 +820,11 @@ u, ins, .u, .ins {
   color: #cccc66;
 }
 
-.font-warning-3 {
+.font-warning-1 {
   color: #cccc33;
 }
 
-.font-warning-4 {
+.font-warning0 {
   color: #cccc00;
 }
 
@@ -713,27 +832,27 @@ u, ins, .u, .ins {
   color: #cccc00;
 }
 
-.font-warning-5 {
+.font-warning1 {
   color: #a3a300;
 }
 
-.font-warning-6 {
+.font-warning2 {
   color: #7a7a00;
 }
 
-.font-warning-7 {
+.font-warning3 {
   color: #525200;
 }
 
-.font-warning-8 {
+.font-warning4 {
   color: #292900;
 }
 
-.font-warning-9 {
-  color: black;
+.font-error-4 {
+  color: #cccccc;
 }
 
-.font-error-1 {
+.font-error-3 {
   color: #cc9999;
 }
 
@@ -741,11 +860,11 @@ u, ins, .u, .ins {
   color: #cc6666;
 }
 
-.font-error-3 {
+.font-error-1 {
   color: #cc3333;
 }
 
-.font-error-4 {
+.font-error0 {
   color: #cc0000;
 }
 
@@ -753,27 +872,27 @@ u, ins, .u, .ins {
   color: #cc0000;
 }
 
-.font-error-5 {
+.font-error1 {
   color: #a30000;
 }
 
-.font-error-6 {
+.font-error2 {
   color: #7a0000;
 }
 
-.font-error-7 {
+.font-error3 {
   color: #520000;
 }
 
-.font-error-8 {
+.font-error4 {
   color: #290000;
 }
 
-.font-error-9 {
-  color: black;
+.font-success-4 {
+  color: #cccccc;
 }
 
-.font-success-1 {
+.font-success-3 {
   color: #99cc99;
 }
 
@@ -781,11 +900,11 @@ u, ins, .u, .ins {
   color: #66cc66;
 }
 
-.font-success-3 {
+.font-success-1 {
   color: #33cc33;
 }
 
-.font-success-4 {
+.font-success0 {
   color: #00cc00;
 }
 
@@ -793,24 +912,20 @@ u, ins, .u, .ins {
   color: #00cc00;
 }
 
-.font-success-5 {
+.font-success1 {
   color: #00a300;
 }
 
-.font-success-6 {
+.font-success2 {
   color: #007a00;
 }
 
-.font-success-7 {
+.font-success3 {
   color: #005200;
 }
 
-.font-success-8 {
+.font-success4 {
   color: #002900;
-}
-
-.font-success-9 {
-  color: black;
 }
 
 .font-opcity-1 {

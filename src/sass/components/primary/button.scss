@@ -14,8 +14,14 @@ button {
     text-overflow: ellipsis;
     overflow: hidden;
     word-break: break-all;
-
-        
+    &:hover{
+        cursor:pointer;
+        background-color: rgba(0,0,0, 0.05);
+    }
+    &:active{
+        cursor:pointer;
+        background-color: rgba(0,0,0, 0.05);
+    }    
 }
 
 .btn-pill{
@@ -25,8 +31,6 @@ button {
     width:100% !important;
     border-radius: none !important;
 }
-
-
 
 @for $i from 1 to 10{
     $divide: ($i - 4) * 0.1; 
