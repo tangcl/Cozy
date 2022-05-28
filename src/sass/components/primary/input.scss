@@ -17,7 +17,7 @@ input{
         outline: none;  
     }
 }
-@for $i from 1 to 10{
+@for $i from -4 to 4{
     @each $key, $value in $semantic_range {
         .input-#{$key}-#{$i}{
             caret-color: $value;
@@ -32,6 +32,22 @@ input{
                 border: 1px solid $value;
                 outline: none;  
             }
+        }
+        @if $i == 0 {
+            .input-#{$key}{
+                caret-color: $value;
+                border: 1px solid $value !important;
+                &:hover{
+                    border: 1px solid $value;
+                }
+                &:active{
+                    border: 1px solid $value;
+                }
+                &:focus-visible{
+                    border: 1px solid $value;
+                    outline: none;  
+                }
+            }   
         }
     }
 }

@@ -10,8 +10,19 @@
   width: 100%;
   box-sizing: border-box;
 }
+.btn-group-x > :not(:last-child) {
+  width: 100%;
+  box-sizing: border-box;
+  border-right: 1px solid #bbbbbb;
+}
+.btn-group-x > :not(:last-child) {
+  width: 100%;
+  box-sizing: border-box;
+  border-left: 1px solid #bbbbbb;
+}
 
 .btn-group-y {
+  display: block;
   border: none;
   box-sizing: border-box;
   margin: 0;
@@ -20,6 +31,8 @@
   list-style: none;
 }
 .btn-group-y > * {
+  width: 100%;
+  border-top: 1px solid #bbbbbb;
   list-style: none;
 }
 

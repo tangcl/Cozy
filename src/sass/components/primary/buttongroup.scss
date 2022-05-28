@@ -11,10 +11,21 @@
         width:100%;
         box-sizing: border-box;
     }
+    &>:not(:last-child){
+        width:100%;
+        box-sizing: border-box;
+        border-right: 1px solid $gray;
+    }
+    &>:not(:last-child){
+        width:100%;
+        box-sizing: border-box;
+        border-left: 1px solid $gray;
+    }
 }
 //此btn-group 具有自动找宽能力，定义好父级元素的总体宽度，子button将平均分配宽度。
 
 .btn-group-y{
+    display: block;
     border:none;
     box-sizing: border-box;
     margin:0;
@@ -22,6 +33,8 @@
     overflow-y: auto;
     list-style: none;
     &>*{
+        width: 100%;
+        border-top:1px solid $gray;
         list-style: none;
     }
 }
