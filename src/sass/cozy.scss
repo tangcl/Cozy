@@ -6,14 +6,12 @@ $fontsize:16px;
     box-sizing: border-box;
     background-color: transparent;
 }
-
 @import 'base/size';
 @import 'base/color';
 @import 'layout/container';
-@import 'base/box';
-@import 'base/font';
-@import 'base/icon';
 
+@import 'base/font';
+@import 'base/box';
 @import 'components/primary/button';
 @import 'components/primary/buttongroup';
 @import 'components/primary/line';
@@ -24,8 +22,13 @@ $fontsize:16px;
 @import 'components/primary/modal';
 @import 'components/primary/bubble';
 @import 'components/primary/placeholder';
+@import 'components/primary/card';
 
 @import 'components/secondary/toast';
+
+@import 'base/icon';
+
+
 
 
 // @import 'components/primary/table';

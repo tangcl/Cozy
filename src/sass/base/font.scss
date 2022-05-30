@@ -70,7 +70,7 @@ u, ins,.u, .ins {
 
 
 @for $size from -4 through 4{
-    $divide: math.abs($size - 4) * 0.125;
+    $divide: math.abs($size) * 0.125;
     @if $size < 0 {
         .font-size#{$size}{
             font-size: (1 - $divide) * 1rem;
@@ -86,7 +86,7 @@ u, ins,.u, .ins {
     }
     @if $size == 0{
         .font-size{
-            font-size: $fontsize;
+            font-size: 1rem;
             line-height: 1.5em;
         }
     }

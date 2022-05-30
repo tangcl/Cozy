@@ -1,9 +1,8 @@
+//width height 不能包括复杂的min-height，否则在使用时可能会将内部阴影遮罩。
+
 @for $i from 0 through 100{
     .width-#{$i}-100{
-        min-width: 1rem;
         width: $i*1%;
-        max-width: $i*1%;
-        overflow-x: hidden;
     };
     .min-width-#{$i}px{
         min-width: $i * 1px !important;
@@ -12,47 +11,27 @@
 
 @for $i from 0 through 100{
     .width-#{$i}-rem{
-        min-width: $i*1rem;
+        
         width: $i*1rem;
-        $max:($i * 1.5)*1rem;
-        overflow-x: hidden;
-        @if $max>100rem{
-            max-width:100rem;
-        }@else{
-            max-width:$max;
-        };
+        
     }
     .width-#{$i}-em{
-        min-width: $i*1em;
         width: $i*1rem !important;
-        $max:($i * 1.5)*1em;
-        overflow-x: hidden;
-        @if $max>100em{
-            max-width:100em;
-        }@else{
-            max-width:$max;
-        };
     }
 }
 
 @for $i from 0 through 100{
     .height-#{$i}-100{
-        min-height: $i * 0.5 *1%;
         height: $i*1%;
-        max-height: $i*1%;
     }
 }
 
 @for $i from 0 through 100{
     .height-#{$i}-rem{
-        min-height: $i * 0.5 * 1rem;
         height: $i*1rem;
-        max-height: $i*1.1rem;
     }
     .height-#{$i}-em{
-        min-height: $i * 0.5 * 1em;
         height: $i*1em;
-        max-height: $i*1.1em;
     }
 }
 
