@@ -32,18 +32,18 @@ button {
     border-radius: none !important;
 }
 
-@for $i from 1 to 10{
-    $divide: ($i - 4) * 0.1; 
+@for $i from -4 through 4{
+    $divide: $i * 0.125; 
     $font-size:(1 + $divide) * 1rem;
     $height: $font-size * 2;
-    .btn-size-#{$i}{
+    .btn-size#{$i}{
         // width: $width !important;
         height: $height !important;
         font-size: $font-size;
         line-height: 1.5em;
-        padding: $i*0.05rem $i*0.1rem; 
+        padding: $font-size/4 $font-size; 
     }
-    .btn-cicle-#{$i}{
+    .btn-cicle#{$i}{
         width: $height !important;
         height: $height !important;
         padding: calc(0.5em * 0.5 - 2px) !important;
@@ -54,7 +54,7 @@ button {
         border-radius: 4em !important;
         border: 1px solid $gray;
     }
-    .btn-square-#{$i}{
+    .btn-square#{$i}{
         width: $height !important;
         height: $height !important;
         font-size: $font-size;
@@ -62,7 +62,7 @@ button {
         padding: calc(0.5em * 0.5 - 2px) !important;
         text-align: center;
     }
-    .btn-leftpill-#{$i}{
+    .btn-leftpill#{$i}{
         font-size: $font-size;
         line-height: 1.5em;
         height: $height; 
@@ -70,7 +70,7 @@ button {
         border-top-left-radius: 4em;
         border-end-start-radius: 4em;
     }
-    .btn-rightpill-#{$i}{
+    .btn-rightpill#{$i}{
         font-size: $font-size;
         line-height: 1.5em; 
         height: $height; 
@@ -78,9 +78,9 @@ button {
         border-top-right-radius: 4em;
         border-end-end-radius: 4em;
     }
-    @if $i == 4{
-        $divide: ($i - 4) * 0.1; 
-        $width: (1 + $divide) * 1rem*2;
+    @if $i == 0{
+        $divide: 0; 
+        $height: (1 + $divide) * 1rem*2;
         .btn-size{
             // width: $width !important;
             height: $height !important;
@@ -111,13 +111,13 @@ button {
 }
 
 @each $key, $color in $topic_range {
-    @for $i from 1 to 10{
+    @for $i from -4 to 4{
         .btn-#{$key}-#{$i} {
             position:relative;
             @extend .bg-#{$key};
             color: $white;
             border: 1px solid transparent;
-            @extend .btn-size-#{$i};
+            @extend .btn-size#{$i};
             &::before {
                 content: "";
                 top: -1px;
@@ -171,12 +171,12 @@ button {
             }
         }
         //反向色
-        .btn-#{$key}-inverse-#{$i} {
+        .#{$key}-btn#{$i} {
             position:relative;
             background-color: $white;
             color: $color;
             border: 1px solid $color;
-            @extend .btn-size-#{$i};
+            @extend .btn-size#{$i};
             &::before {
                 content: "";
                 top: -1px;
@@ -229,13 +229,13 @@ button {
                 }
             }
         }
-        @if $i == 4{
+        @if $i == 0{
             .btn-#{$key} {
                 position:relative;
                 @extend .bg-#{$key};
                 color: $white;
                 border: 1px solid transparent;
-                @extend .btn-size-#{$i};
+                @extend .btn-size#{$i};
                 &::before {
                     content: "";
                     top: -1px;
@@ -289,12 +289,12 @@ button {
                 }
             }
             //反向色
-            .btn-#{$key}-inverse {
+            .#{$key}-btn {
                 position:relative;
                 background-color: $white;
                 color: $color;
                 border: 1px solid $color;
-                @extend .btn-size-#{$i};
+                @extend .btn-size#{$i};
                 &::before {
                     content: "";
                     top: -1px;
@@ -353,8 +353,8 @@ button {
 }
 $white-black:("white": $white,"black":$black);
 @each $key, $color in $white-black{
-    @for $i from 1 to 10{
-        $divide: ($i - 4) * 0.1; 
+    @for $i from -4 to 4{
+        $divide: $i * 0.125; 
         $width: (1 + $divide) * 1rem*2;
         @if $key == "white"{
             .btn-#{$key}-#{$i} {
@@ -362,7 +362,7 @@ $white-black:("white": $white,"black":$black);
                 background-color: $color !important;
                 color: $black !important;
                 border: 1px solid $black;
-                @extend .btn-size-#{$i};
+                @extend .btn-size#{$i};
                 &::before {
                     content: "";
                     top: -1px;
@@ -422,7 +422,7 @@ $white-black:("white": $white,"black":$black);
                 background-color: $color !important;
                 color: $white !important;
                 border: 1px solid $black;
-                @extend .btn-size-#{$i};
+                @extend .btn-size#{$i};
                 &::before {
                     content: "";
                     top: -1px;
@@ -476,7 +476,7 @@ $white-black:("white": $white,"black":$black);
                 }
             }
         }
-        @if $i == 4{
+        @if $i == 0{
             @if $key == "white"{
                 
                 .btn-#{$key} {
@@ -484,7 +484,7 @@ $white-black:("white": $white,"black":$black);
                     background-color: $color !important;
                     color: $black !important;
                     border: 1px solid $black;
-                    @extend .btn-size-#{$i};
+                    @extend .btn-size#{$i};
                     &::before {
                         content: "";
                         top: -1px;
@@ -544,7 +544,7 @@ $white-black:("white": $white,"black":$black);
                     background-color: $color !important;
                     color: $white !important;
                     border: 1px solid $black;
-                    @extend .btn-size-#{$i};
+                    @extend .btn-size#{$i};
                     &::before {
                         content: "";
                         top: -1px;

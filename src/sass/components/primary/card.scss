@@ -12,7 +12,7 @@
     &>header{
         @extend .font-size2;
         @extend .padding2;
-        @extend .border-gray;
+        @extend .border-gray-bottom;
         display: flex;
         display: -webkit-flex;
         flex-direction: row;
@@ -30,6 +30,7 @@
     &>footer{
         @extend .font-size1;
         @extend .padding1;
+        @extend .border-gray-top;
         flex-direction: row;
         display: flex;
         display: -webkit-flex;

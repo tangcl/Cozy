@@ -415,7 +415,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -767,7 +767,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-9, .btn-main-8, .btn-main-7, .btn-main-6, .btn-main-5, .btn-main, .btn-main-4, .btn-main-3, .btn-main-2, .btn-main-1 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
   background-color: #7700cc !important;
 }
 
@@ -887,7 +887,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-9, .btn-minor-8, .btn-minor-7, .btn-minor-6, .btn-minor-5, .btn-minor, .btn-minor-4, .btn-minor-3, .btn-minor-2, .btn-minor-1 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
   background-color: #cc00cc !important;
 }
 
@@ -1007,7 +1007,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-9, .btn-less-8, .btn-less-7, .btn-less-6, .btn-less-5, .btn-less, .btn-less-4, .btn-less-3, .btn-less-2, .btn-less-1 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
   background-color: #00cccc !important;
 }
 
@@ -1615,7 +1615,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -1967,7 +1967,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-9, .btn-main-8, .btn-main-7, .btn-main-6, .btn-main-5, .btn-main, .btn-main-4, .btn-main-3, .btn-main-2, .btn-main-1 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
   background-color: #7700cc !important;
 }
 
@@ -2087,7 +2087,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-9, .btn-minor-8, .btn-minor-7, .btn-minor-6, .btn-minor-5, .btn-minor, .btn-minor-4, .btn-minor-3, .btn-minor-2, .btn-minor-1 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
   background-color: #cc00cc !important;
 }
 
@@ -2207,7 +2207,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-9, .btn-less-8, .btn-less-7, .btn-less-6, .btn-less-5, .btn-less, .btn-less-4, .btn-less-3, .btn-less-2, .btn-less-1 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
   background-color: #00cccc !important;
 }
 
@@ -2815,7 +2815,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -2823,7 +2823,7 @@
   border-top: 1px solid #bbbbbb !important;
 }
 
-.border-gray-top {
+.border-gray-top, .card > footer {
   border-top: 1px solid #bbbbbb !important;
 }
 
@@ -3167,7 +3167,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-9, .btn-main-8, .btn-main-7, .btn-main-6, .btn-main-5, .btn-main, .btn-main-4, .btn-main-3, .btn-main-2, .btn-main-1 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
   background-color: #7700cc !important;
 }
 
@@ -3287,7 +3287,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-9, .btn-minor-8, .btn-minor-7, .btn-minor-6, .btn-minor-5, .btn-minor, .btn-minor-4, .btn-minor-3, .btn-minor-2, .btn-minor-1 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
   background-color: #cc00cc !important;
 }
 
@@ -3407,7 +3407,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-9, .btn-less-8, .btn-less-7, .btn-less-6, .btn-less-5, .btn-less, .btn-less-4, .btn-less-3, .btn-less-2, .btn-less-1 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
   background-color: #00cccc !important;
 }
 
@@ -4015,7 +4015,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -4023,7 +4023,7 @@
   border-bottom: 1px solid #bbbbbb !important;
 }
 
-.border-gray-bottom {
+.border-gray-bottom, .card > header {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
@@ -4367,7 +4367,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-9, .btn-main-8, .btn-main-7, .btn-main-6, .btn-main-5, .btn-main, .btn-main-4, .btn-main-3, .btn-main-2, .btn-main-1 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
   background-color: #7700cc !important;
 }
 
@@ -4487,7 +4487,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-9, .btn-minor-8, .btn-minor-7, .btn-minor-6, .btn-minor-5, .btn-minor, .btn-minor-4, .btn-minor-3, .btn-minor-2, .btn-minor-1 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
   background-color: #cc00cc !important;
 }
 
@@ -4607,7 +4607,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-9, .btn-less-8, .btn-less-7, .btn-less-6, .btn-less-5, .btn-less, .btn-less-4, .btn-less-3, .btn-less-2, .btn-less-1 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
   background-color: #00cccc !important;
 }
 
@@ -5187,156 +5187,18 @@ button:active {
   border-radius: none !important;
 }
 
-.btn-size-1, .btn-black-1, .btn-white-1, .btn-less-inverse-1, .btn-less-1, .btn-minor-inverse-1, .btn-minor-1, .btn-main-inverse-1, .btn-main-1 {
-  height: 1.4rem !important;
-  font-size: 0.7rem;
+.btn-size-4, .btn-black--4, .btn-white--4, .less-btn-4, .btn-less--4, .minor-btn-4, .btn-minor--4, .main-btn-4, .btn-main--4 {
+  height: 1rem !important;
+  font-size: 0.5rem;
   line-height: 1.5em;
-  padding: 0.05rem 0.1rem;
-}
-
-.btn-cicle-1 {
-  width: 1.4rem !important;
-  height: 1.4rem !important;
-  padding: calc(0.25em - 2px) !important;
-  font-size: 0.7rem;
-  line-height: 1.5rem;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-  border-radius: 4em !important;
-  border: 1px solid #bbbbbb;
-}
-
-.btn-square-1 {
-  width: 1.4rem !important;
-  height: 1.4rem !important;
-  font-size: 0.7rem;
-  line-height: 1.5em;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-}
-
-.btn-leftpill-1 {
-  font-size: 0.7rem;
-  line-height: 1.5em;
-  height: 1.4rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-left-radius: 4em;
-  border-end-start-radius: 4em;
-}
-
-.btn-rightpill-1 {
-  font-size: 0.7rem;
-  line-height: 1.5em;
-  height: 1.4rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-right-radius: 4em;
-  border-end-end-radius: 4em;
-}
-
-.btn-size-2, .btn-black-2, .btn-white-2, .btn-less-inverse-2, .btn-less-2, .btn-minor-inverse-2, .btn-minor-2, .btn-main-inverse-2, .btn-main-2 {
-  height: 1.6rem !important;
-  font-size: 0.8rem;
-  line-height: 1.5em;
-  padding: 0.1rem 0.2rem;
-}
-
-.btn-cicle-2 {
-  width: 1.6rem !important;
-  height: 1.6rem !important;
-  padding: calc(0.25em - 2px) !important;
-  font-size: 0.8rem;
-  line-height: 1.5rem;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-  border-radius: 4em !important;
-  border: 1px solid #bbbbbb;
-}
-
-.btn-square-2 {
-  width: 1.6rem !important;
-  height: 1.6rem !important;
-  font-size: 0.8rem;
-  line-height: 1.5em;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-}
-
-.btn-leftpill-2 {
-  font-size: 0.8rem;
-  line-height: 1.5em;
-  height: 1.6rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-left-radius: 4em;
-  border-end-start-radius: 4em;
-}
-
-.btn-rightpill-2 {
-  font-size: 0.8rem;
-  line-height: 1.5em;
-  height: 1.6rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-right-radius: 4em;
-  border-end-end-radius: 4em;
-}
-
-.btn-size-3, .btn-black-3, .btn-white-3, .btn-less-inverse-3, .btn-less-3, .btn-minor-inverse-3, .btn-minor-3, .btn-main-inverse-3, .btn-main-3 {
-  height: 1.8rem !important;
-  font-size: 0.9rem;
-  line-height: 1.5em;
-  padding: 0.15rem 0.3rem;
-}
-
-.btn-cicle-3 {
-  width: 1.8rem !important;
-  height: 1.8rem !important;
-  padding: calc(0.25em - 2px) !important;
-  font-size: 0.9rem;
-  line-height: 1.5rem;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-  border-radius: 4em !important;
-  border: 1px solid #bbbbbb;
-}
-
-.btn-square-3 {
-  width: 1.8rem !important;
-  height: 1.8rem !important;
-  font-size: 0.9rem;
-  line-height: 1.5em;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-}
-
-.btn-leftpill-3 {
-  font-size: 0.9rem;
-  line-height: 1.5em;
-  height: 1.8rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-left-radius: 4em;
-  border-end-start-radius: 4em;
-}
-
-.btn-rightpill-3 {
-  font-size: 0.9rem;
-  line-height: 1.5em;
-  height: 1.8rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-right-radius: 4em;
-  border-end-end-radius: 4em;
-}
-
-.btn-size-4, .btn-black, .btn-black-4, .btn-white, .btn-white-4, .btn-less-inverse, .btn-less, .btn-less-inverse-4, .btn-less-4, .btn-minor-inverse, .btn-minor, .btn-minor-inverse-4, .btn-minor-4, .btn-main-inverse, .btn-main, .btn-main-inverse-4, .btn-main-4 {
-  height: 2rem !important;
-  font-size: 1rem;
-  line-height: 1.5em;
-  padding: 0.2rem 0.4rem;
+  padding: 0.125rem 0.5rem;
 }
 
 .btn-cicle-4 {
-  width: 2rem !important;
-  height: 2rem !important;
+  width: 1rem !important;
+  height: 1rem !important;
   padding: calc(0.25em - 2px) !important;
-  font-size: 1rem;
+  font-size: 0.5rem;
   line-height: 1.5rem;
   padding: calc(0.25em - 2px) !important;
   text-align: center;
@@ -5345,6 +5207,190 @@ button:active {
 }
 
 .btn-square-4 {
+  width: 1rem !important;
+  height: 1rem !important;
+  font-size: 0.5rem;
+  line-height: 1.5em;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+}
+
+.btn-leftpill-4 {
+  font-size: 0.5rem;
+  line-height: 1.5em;
+  height: 1rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-left-radius: 4em;
+  border-end-start-radius: 4em;
+}
+
+.btn-rightpill-4 {
+  font-size: 0.5rem;
+  line-height: 1.5em;
+  height: 1rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-right-radius: 4em;
+  border-end-end-radius: 4em;
+}
+
+.btn-size-3, .btn-black--3, .btn-white--3, .less-btn-3, .btn-less--3, .minor-btn-3, .btn-minor--3, .main-btn-3, .btn-main--3 {
+  height: 1.25rem !important;
+  font-size: 0.625rem;
+  line-height: 1.5em;
+  padding: 0.15625rem 0.625rem;
+}
+
+.btn-cicle-3 {
+  width: 1.25rem !important;
+  height: 1.25rem !important;
+  padding: calc(0.25em - 2px) !important;
+  font-size: 0.625rem;
+  line-height: 1.5rem;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+  border-radius: 4em !important;
+  border: 1px solid #bbbbbb;
+}
+
+.btn-square-3 {
+  width: 1.25rem !important;
+  height: 1.25rem !important;
+  font-size: 0.625rem;
+  line-height: 1.5em;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+}
+
+.btn-leftpill-3 {
+  font-size: 0.625rem;
+  line-height: 1.5em;
+  height: 1.25rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-left-radius: 4em;
+  border-end-start-radius: 4em;
+}
+
+.btn-rightpill-3 {
+  font-size: 0.625rem;
+  line-height: 1.5em;
+  height: 1.25rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-right-radius: 4em;
+  border-end-end-radius: 4em;
+}
+
+.btn-size-2, .btn-black--2, .btn-white--2, .less-btn-2, .btn-less--2, .minor-btn-2, .btn-minor--2, .main-btn-2, .btn-main--2 {
+  height: 1.5rem !important;
+  font-size: 0.75rem;
+  line-height: 1.5em;
+  padding: 0.1875rem 0.75rem;
+}
+
+.btn-cicle-2 {
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+  padding: calc(0.25em - 2px) !important;
+  font-size: 0.75rem;
+  line-height: 1.5rem;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+  border-radius: 4em !important;
+  border: 1px solid #bbbbbb;
+}
+
+.btn-square-2 {
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+  font-size: 0.75rem;
+  line-height: 1.5em;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+}
+
+.btn-leftpill-2 {
+  font-size: 0.75rem;
+  line-height: 1.5em;
+  height: 1.5rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-left-radius: 4em;
+  border-end-start-radius: 4em;
+}
+
+.btn-rightpill-2 {
+  font-size: 0.75rem;
+  line-height: 1.5em;
+  height: 1.5rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-right-radius: 4em;
+  border-end-end-radius: 4em;
+}
+
+.btn-size-1, .btn-black--1, .btn-white--1, .less-btn-1, .btn-less--1, .minor-btn-1, .btn-minor--1, .main-btn-1, .btn-main--1 {
+  height: 1.75rem !important;
+  font-size: 0.875rem;
+  line-height: 1.5em;
+  padding: 0.21875rem 0.875rem;
+}
+
+.btn-cicle-1 {
+  width: 1.75rem !important;
+  height: 1.75rem !important;
+  padding: calc(0.25em - 2px) !important;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+  border-radius: 4em !important;
+  border: 1px solid #bbbbbb;
+}
+
+.btn-square-1 {
+  width: 1.75rem !important;
+  height: 1.75rem !important;
+  font-size: 0.875rem;
+  line-height: 1.5em;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+}
+
+.btn-leftpill-1 {
+  font-size: 0.875rem;
+  line-height: 1.5em;
+  height: 1.75rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-left-radius: 4em;
+  border-end-start-radius: 4em;
+}
+
+.btn-rightpill-1 {
+  font-size: 0.875rem;
+  line-height: 1.5em;
+  height: 1.75rem;
+  padding: calc(0.25em - 2px) !important;
+  border-top-right-radius: 4em;
+  border-end-end-radius: 4em;
+}
+
+.btn-size0, .btn-black, .btn-black-0, .btn-white, .btn-white-0, .less-btn, .btn-less, .less-btn0, .btn-less-0, .minor-btn, .btn-minor, .minor-btn0, .btn-minor-0, .main-btn, .btn-main, .main-btn0, .btn-main-0 {
+  height: 2rem !important;
+  font-size: 1rem;
+  line-height: 1.5em;
+  padding: 0.25rem 1rem;
+}
+
+.btn-cicle0 {
+  width: 2rem !important;
+  height: 2rem !important;
+  padding: calc(0.25em - 2px) !important;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding: calc(0.25em - 2px) !important;
+  text-align: center;
+  border-radius: 4em !important;
+  border: 1px solid #bbbbbb;
+}
+
+.btn-square0 {
   width: 2rem !important;
   height: 2rem !important;
   font-size: 1rem;
@@ -5353,7 +5399,7 @@ button:active {
   text-align: center;
 }
 
-.btn-leftpill-4 {
+.btn-leftpill0 {
   font-size: 1rem;
   line-height: 1.5em;
   height: 2rem;
@@ -5362,7 +5408,7 @@ button:active {
   border-end-start-radius: 4em;
 }
 
-.btn-rightpill-4 {
+.btn-rightpill0 {
   font-size: 1rem;
   line-height: 1.5em;
   height: 2rem;
@@ -5375,7 +5421,7 @@ button:active {
   height: 2rem !important;
   font-size: 1rem;
   line-height: 1.5em;
-  padding: 0.2rem 0.4rem;
+  padding: 0rem 0rem;
 }
 
 .btn-cicle {
@@ -5399,18 +5445,18 @@ button:active {
   text-align: center;
 }
 
-.btn-size-5, .btn-black-5, .btn-white-5, .btn-less-inverse-5, .btn-less-5, .btn-minor-inverse-5, .btn-minor-5, .btn-main-inverse-5, .btn-main-5 {
-  height: 2.2rem !important;
-  font-size: 1.1rem;
+.btn-size1, .btn-black-1, .btn-white-1, .less-btn1, .btn-less-1, .minor-btn1, .btn-minor-1, .main-btn1, .btn-main-1 {
+  height: 2.25rem !important;
+  font-size: 1.125rem;
   line-height: 1.5em;
-  padding: 0.25rem 0.5rem;
+  padding: 0.28125rem 1.125rem;
 }
 
-.btn-cicle-5 {
-  width: 2.2rem !important;
-  height: 2.2rem !important;
+.btn-cicle1 {
+  width: 2.25rem !important;
+  height: 2.25rem !important;
   padding: calc(0.25em - 2px) !important;
-  font-size: 1.1rem;
+  font-size: 1.125rem;
   line-height: 1.5rem;
   padding: calc(0.25em - 2px) !important;
   text-align: center;
@@ -5418,45 +5464,45 @@ button:active {
   border: 1px solid #bbbbbb;
 }
 
-.btn-square-5 {
-  width: 2.2rem !important;
-  height: 2.2rem !important;
-  font-size: 1.1rem;
+.btn-square1 {
+  width: 2.25rem !important;
+  height: 2.25rem !important;
+  font-size: 1.125rem;
   line-height: 1.5em;
   padding: calc(0.25em - 2px) !important;
   text-align: center;
 }
 
-.btn-leftpill-5 {
-  font-size: 1.1rem;
+.btn-leftpill1 {
+  font-size: 1.125rem;
   line-height: 1.5em;
-  height: 2.2rem;
+  height: 2.25rem;
   padding: calc(0.25em - 2px) !important;
   border-top-left-radius: 4em;
   border-end-start-radius: 4em;
 }
 
-.btn-rightpill-5 {
-  font-size: 1.1rem;
+.btn-rightpill1 {
+  font-size: 1.125rem;
   line-height: 1.5em;
-  height: 2.2rem;
+  height: 2.25rem;
   padding: calc(0.25em - 2px) !important;
   border-top-right-radius: 4em;
   border-end-end-radius: 4em;
 }
 
-.btn-size-6, .btn-black-6, .btn-white-6, .btn-less-inverse-6, .btn-less-6, .btn-minor-inverse-6, .btn-minor-6, .btn-main-inverse-6, .btn-main-6 {
-  height: 2.4rem !important;
-  font-size: 1.2rem;
+.btn-size2, .btn-black-2, .btn-white-2, .less-btn2, .btn-less-2, .minor-btn2, .btn-minor-2, .main-btn2, .btn-main-2 {
+  height: 2.5rem !important;
+  font-size: 1.25rem;
   line-height: 1.5em;
-  padding: 0.3rem 0.6rem;
+  padding: 0.3125rem 1.25rem;
 }
 
-.btn-cicle-6 {
-  width: 2.4rem !important;
-  height: 2.4rem !important;
+.btn-cicle2 {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
   padding: calc(0.25em - 2px) !important;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   line-height: 1.5rem;
   padding: calc(0.25em - 2px) !important;
   text-align: center;
@@ -5464,45 +5510,45 @@ button:active {
   border: 1px solid #bbbbbb;
 }
 
-.btn-square-6 {
-  width: 2.4rem !important;
-  height: 2.4rem !important;
-  font-size: 1.2rem;
+.btn-square2 {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+  font-size: 1.25rem;
   line-height: 1.5em;
   padding: calc(0.25em - 2px) !important;
   text-align: center;
 }
 
-.btn-leftpill-6 {
-  font-size: 1.2rem;
+.btn-leftpill2 {
+  font-size: 1.25rem;
   line-height: 1.5em;
-  height: 2.4rem;
+  height: 2.5rem;
   padding: calc(0.25em - 2px) !important;
   border-top-left-radius: 4em;
   border-end-start-radius: 4em;
 }
 
-.btn-rightpill-6 {
-  font-size: 1.2rem;
+.btn-rightpill2 {
+  font-size: 1.25rem;
   line-height: 1.5em;
-  height: 2.4rem;
+  height: 2.5rem;
   padding: calc(0.25em - 2px) !important;
   border-top-right-radius: 4em;
   border-end-end-radius: 4em;
 }
 
-.btn-size-7, .btn-black-7, .btn-white-7, .btn-less-inverse-7, .btn-less-7, .btn-minor-inverse-7, .btn-minor-7, .btn-main-inverse-7, .btn-main-7 {
-  height: 2.6rem !important;
-  font-size: 1.3rem;
+.btn-size3, .btn-black-3, .btn-white-3, .less-btn3, .btn-less-3, .minor-btn3, .btn-minor-3, .main-btn3, .btn-main-3 {
+  height: 2.75rem !important;
+  font-size: 1.375rem;
   line-height: 1.5em;
-  padding: 0.35rem 0.7rem;
+  padding: 0.34375rem 1.375rem;
 }
 
-.btn-cicle-7 {
-  width: 2.6rem !important;
-  height: 2.6rem !important;
+.btn-cicle3 {
+  width: 2.75rem !important;
+  height: 2.75rem !important;
   padding: calc(0.25em - 2px) !important;
-  font-size: 1.3rem;
+  font-size: 1.375rem;
   line-height: 1.5rem;
   padding: calc(0.25em - 2px) !important;
   text-align: center;
@@ -5510,87 +5556,41 @@ button:active {
   border: 1px solid #bbbbbb;
 }
 
-.btn-square-7 {
-  width: 2.6rem !important;
-  height: 2.6rem !important;
-  font-size: 1.3rem;
+.btn-square3 {
+  width: 2.75rem !important;
+  height: 2.75rem !important;
+  font-size: 1.375rem;
   line-height: 1.5em;
   padding: calc(0.25em - 2px) !important;
   text-align: center;
 }
 
-.btn-leftpill-7 {
-  font-size: 1.3rem;
+.btn-leftpill3 {
+  font-size: 1.375rem;
   line-height: 1.5em;
-  height: 2.6rem;
+  height: 2.75rem;
   padding: calc(0.25em - 2px) !important;
   border-top-left-radius: 4em;
   border-end-start-radius: 4em;
 }
 
-.btn-rightpill-7 {
-  font-size: 1.3rem;
+.btn-rightpill3 {
+  font-size: 1.375rem;
   line-height: 1.5em;
-  height: 2.6rem;
+  height: 2.75rem;
   padding: calc(0.25em - 2px) !important;
   border-top-right-radius: 4em;
   border-end-end-radius: 4em;
 }
 
-.btn-size-8, .btn-black-8, .btn-white-8, .btn-less-inverse-8, .btn-less-8, .btn-minor-inverse-8, .btn-minor-8, .btn-main-inverse-8, .btn-main-8 {
-  height: 2.8rem !important;
-  font-size: 1.4rem;
-  line-height: 1.5em;
-  padding: 0.4rem 0.8rem;
-}
-
-.btn-cicle-8 {
-  width: 2.8rem !important;
-  height: 2.8rem !important;
-  padding: calc(0.25em - 2px) !important;
-  font-size: 1.4rem;
-  line-height: 1.5rem;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-  border-radius: 4em !important;
-  border: 1px solid #bbbbbb;
-}
-
-.btn-square-8 {
-  width: 2.8rem !important;
-  height: 2.8rem !important;
-  font-size: 1.4rem;
-  line-height: 1.5em;
-  padding: calc(0.25em - 2px) !important;
-  text-align: center;
-}
-
-.btn-leftpill-8 {
-  font-size: 1.4rem;
-  line-height: 1.5em;
-  height: 2.8rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-left-radius: 4em;
-  border-end-start-radius: 4em;
-}
-
-.btn-rightpill-8 {
-  font-size: 1.4rem;
-  line-height: 1.5em;
-  height: 2.8rem;
-  padding: calc(0.25em - 2px) !important;
-  border-top-right-radius: 4em;
-  border-end-end-radius: 4em;
-}
-
-.btn-size-9, .btn-black-9, .btn-white-9, .btn-less-inverse-9, .btn-less-9, .btn-minor-inverse-9, .btn-minor-9, .btn-main-inverse-9, .btn-main-9 {
+.btn-size4 {
   height: 3rem !important;
   font-size: 1.5rem;
   line-height: 1.5em;
-  padding: 0.45rem 0.9rem;
+  padding: 0.375rem 1.5rem;
 }
 
-.btn-cicle-9 {
+.btn-cicle4 {
   width: 3rem !important;
   height: 3rem !important;
   padding: calc(0.25em - 2px) !important;
@@ -5602,7 +5602,7 @@ button:active {
   border: 1px solid #bbbbbb;
 }
 
-.btn-square-9 {
+.btn-square4 {
   width: 3rem !important;
   height: 3rem !important;
   font-size: 1.5rem;
@@ -5611,7 +5611,7 @@ button:active {
   text-align: center;
 }
 
-.btn-leftpill-9 {
+.btn-leftpill4 {
   font-size: 1.5rem;
   line-height: 1.5em;
   height: 3rem;
@@ -5620,7 +5620,7 @@ button:active {
   border-end-start-radius: 4em;
 }
 
-.btn-rightpill-9 {
+.btn-rightpill4 {
   font-size: 1.5rem;
   line-height: 1.5em;
   height: 3rem;
@@ -5629,12 +5629,12 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-main-1 {
+.btn-main--4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-1::before {
+.btn-main--4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5644,7 +5644,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-1:hover::before {
+.btn-main--4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5655,7 +5655,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-1:active::before {
+.btn-main--4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5666,7 +5666,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-1[disabled]:before {
+.btn-main--4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5677,22 +5677,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-1[disabled] {
+.btn-main--4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-1[disabled]:hover {
+.btn-main--4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-1 {
+.main-btn-4 {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse-1::before {
+.main-btn-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5702,7 +5702,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse-1:hover::before {
+.main-btn-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5713,7 +5713,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse-1:active::before {
+.main-btn-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5724,7 +5724,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse-1[disabled]:before {
+.main-btn-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5735,21 +5735,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse-1[disabled] {
+.main-btn-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse-1[disabled]:hover {
+.main-btn-4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-2 {
+.btn-main--3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-2::before {
+.btn-main--3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5759,7 +5759,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-2:hover::before {
+.btn-main--3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5770,7 +5770,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-2:active::before {
+.btn-main--3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5781,7 +5781,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-2[disabled]:before {
+.btn-main--3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5792,22 +5792,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-2[disabled] {
+.btn-main--3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-2[disabled]:hover {
+.btn-main--3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-2 {
+.main-btn-3 {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse-2::before {
+.main-btn-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5817,7 +5817,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse-2:hover::before {
+.main-btn-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5828,7 +5828,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse-2:active::before {
+.main-btn-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5839,7 +5839,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse-2[disabled]:before {
+.main-btn-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5850,21 +5850,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse-2[disabled] {
+.main-btn-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse-2[disabled]:hover {
+.main-btn-3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-3 {
+.btn-main--2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-3::before {
+.btn-main--2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5874,7 +5874,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-3:hover::before {
+.btn-main--2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5885,7 +5885,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-3:active::before {
+.btn-main--2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5896,7 +5896,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-3[disabled]:before {
+.btn-main--2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5907,22 +5907,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-3[disabled] {
+.btn-main--2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-3[disabled]:hover {
+.btn-main--2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-3 {
+.main-btn-2 {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse-3::before {
+.main-btn-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5932,7 +5932,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse-3:hover::before {
+.main-btn-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5943,7 +5943,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse-3:active::before {
+.main-btn-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5954,7 +5954,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse-3[disabled]:before {
+.main-btn-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5965,21 +5965,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse-3[disabled] {
+.main-btn-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse-3[disabled]:hover {
+.main-btn-2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-4 {
+.btn-main--1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-4::before {
+.btn-main--1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5989,7 +5989,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-4:hover::before {
+.btn-main--1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6000,7 +6000,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-4:active::before {
+.btn-main--1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6011,7 +6011,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-4[disabled]:before {
+.btn-main--1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6022,22 +6022,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-4[disabled] {
+.btn-main--1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-4[disabled]:hover {
+.btn-main--1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-4 {
+.main-btn-1 {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse-4::before {
+.main-btn-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6047,7 +6047,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse-4:hover::before {
+.main-btn-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6058,7 +6058,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse-4:active::before {
+.main-btn-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6069,7 +6069,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse-4[disabled]:before {
+.main-btn-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6080,12 +6080,127 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse-4[disabled] {
+.main-btn-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse-4[disabled]:hover {
+.main-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-main-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-main-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-main-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-main-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-main-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-main-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-main-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.main-btn0 {
+  position: relative;
+  background-color: white;
+  color: #7700cc;
+  border: 1px solid #7700cc;
+}
+.main-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.main-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.main-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.main-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.main-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.main-btn0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6146,13 +6261,13 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main-inverse {
+.main-btn {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse::before {
+.main-btn::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6162,7 +6277,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse:hover::before {
+.main-btn:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6173,7 +6288,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse:active::before {
+.main-btn:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6184,7 +6299,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse[disabled]:before {
+.main-btn[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6195,21 +6310,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse[disabled] {
+.main-btn[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse[disabled]:hover {
+.main-btn[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-5 {
+.btn-main-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-5::before {
+.btn-main-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6219,7 +6334,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-5:hover::before {
+.btn-main-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6230,7 +6345,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-5:active::before {
+.btn-main-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6241,7 +6356,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-5[disabled]:before {
+.btn-main-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6252,22 +6367,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-5[disabled] {
+.btn-main-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-5[disabled]:hover {
+.btn-main-1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-5 {
+.main-btn1 {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse-5::before {
+.main-btn1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6277,7 +6392,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse-5:hover::before {
+.main-btn1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6288,7 +6403,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse-5:active::before {
+.main-btn1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6299,7 +6414,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse-5[disabled]:before {
+.main-btn1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6310,21 +6425,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse-5[disabled] {
+.main-btn1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse-5[disabled]:hover {
+.main-btn1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-6 {
+.btn-main-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-6::before {
+.btn-main-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6334,7 +6449,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-6:hover::before {
+.btn-main-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6345,7 +6460,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-6:active::before {
+.btn-main-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6356,7 +6471,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-6[disabled]:before {
+.btn-main-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6367,22 +6482,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-6[disabled] {
+.btn-main-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-6[disabled]:hover {
+.btn-main-2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-6 {
+.main-btn2 {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse-6::before {
+.main-btn2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6392,7 +6507,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse-6:hover::before {
+.main-btn2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6403,7 +6518,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse-6:active::before {
+.main-btn2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6414,7 +6529,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse-6[disabled]:before {
+.main-btn2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6425,21 +6540,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse-6[disabled] {
+.main-btn2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse-6[disabled]:hover {
+.main-btn2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-7 {
+.btn-main-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-7::before {
+.btn-main-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6449,7 +6564,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-7:hover::before {
+.btn-main-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6460,7 +6575,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-7:active::before {
+.btn-main-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6471,7 +6586,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-7[disabled]:before {
+.btn-main-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6482,22 +6597,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-7[disabled] {
+.btn-main-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-7[disabled]:hover {
+.btn-main-3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-7 {
+.main-btn3 {
   position: relative;
   background-color: white;
   color: #7700cc;
   border: 1px solid #7700cc;
 }
-.btn-main-inverse-7::before {
+.main-btn3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6507,7 +6622,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-inverse-7:hover::before {
+.main-btn3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6518,7 +6633,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-inverse-7:active::before {
+.main-btn3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6529,7 +6644,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-inverse-7[disabled]:before {
+.main-btn3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6540,21 +6655,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-inverse-7[disabled] {
+.main-btn3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-inverse-7[disabled]:hover {
+.main-btn3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-8 {
+.btn-minor--4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-8::before {
+.btn-minor--4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6564,7 +6679,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-8:hover::before {
+.btn-minor--4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6575,7 +6690,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-8:active::before {
+.btn-minor--4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6586,7 +6701,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-8[disabled]:before {
+.btn-minor--4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6597,252 +6712,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-8[disabled] {
+.btn-minor--4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-8[disabled]:hover {
+.btn-minor--4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-main-inverse-8 {
-  position: relative;
-  background-color: white;
-  color: #7700cc;
-  border: 1px solid #7700cc;
-}
-.btn-main-inverse-8::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-main-inverse-8:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-main-inverse-8:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-main-inverse-8[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-main-inverse-8[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-main-inverse-8[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-main-9 {
-  position: relative;
-  color: white;
-  border: 1px solid transparent;
-}
-.btn-main-9::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-main-9:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-main-9:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-main-9[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-main-9[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-main-9[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-main-inverse-9 {
-  position: relative;
-  background-color: white;
-  color: #7700cc;
-  border: 1px solid #7700cc;
-}
-.btn-main-inverse-9::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-main-inverse-9:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-main-inverse-9:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-main-inverse-9[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-main-inverse-9[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-main-inverse-9[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-minor-1 {
-  position: relative;
-  color: white;
-  border: 1px solid transparent;
-}
-.btn-minor-1::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-minor-1:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-minor-1:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-minor-1[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-minor-1[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-minor-1[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-minor-inverse-1 {
+.minor-btn-4 {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse-1::before {
+.minor-btn-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6852,7 +6737,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse-1:hover::before {
+.minor-btn-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6863,7 +6748,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse-1:active::before {
+.minor-btn-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6874,7 +6759,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse-1[disabled]:before {
+.minor-btn-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6885,21 +6770,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse-1[disabled] {
+.minor-btn-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse-1[disabled]:hover {
+.minor-btn-4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-2 {
+.btn-minor--3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-2::before {
+.btn-minor--3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6909,7 +6794,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-2:hover::before {
+.btn-minor--3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6920,7 +6805,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-2:active::before {
+.btn-minor--3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6931,7 +6816,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-2[disabled]:before {
+.btn-minor--3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6942,22 +6827,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-2[disabled] {
+.btn-minor--3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-2[disabled]:hover {
+.btn-minor--3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-inverse-2 {
+.minor-btn-3 {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse-2::before {
+.minor-btn-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6967,7 +6852,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse-2:hover::before {
+.minor-btn-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6978,7 +6863,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse-2:active::before {
+.minor-btn-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6989,7 +6874,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse-2[disabled]:before {
+.minor-btn-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7000,21 +6885,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse-2[disabled] {
+.minor-btn-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse-2[disabled]:hover {
+.minor-btn-3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-3 {
+.btn-minor--2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-3::before {
+.btn-minor--2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7024,7 +6909,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-3:hover::before {
+.btn-minor--2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7035,7 +6920,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-3:active::before {
+.btn-minor--2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7046,7 +6931,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-3[disabled]:before {
+.btn-minor--2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7057,22 +6942,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-3[disabled] {
+.btn-minor--2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-3[disabled]:hover {
+.btn-minor--2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-inverse-3 {
+.minor-btn-2 {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse-3::before {
+.minor-btn-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7082,7 +6967,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse-3:hover::before {
+.minor-btn-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7093,7 +6978,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse-3:active::before {
+.minor-btn-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7104,7 +6989,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse-3[disabled]:before {
+.minor-btn-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7115,21 +7000,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse-3[disabled] {
+.minor-btn-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse-3[disabled]:hover {
+.minor-btn-2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-4 {
+.btn-minor--1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-4::before {
+.btn-minor--1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7139,7 +7024,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-4:hover::before {
+.btn-minor--1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7150,7 +7035,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-4:active::before {
+.btn-minor--1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7161,7 +7046,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-4[disabled]:before {
+.btn-minor--1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7172,22 +7057,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-4[disabled] {
+.btn-minor--1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-4[disabled]:hover {
+.btn-minor--1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-inverse-4 {
+.minor-btn-1 {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse-4::before {
+.minor-btn-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7197,7 +7082,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse-4:hover::before {
+.minor-btn-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7208,7 +7093,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse-4:active::before {
+.minor-btn-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7219,7 +7104,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse-4[disabled]:before {
+.minor-btn-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7230,12 +7115,127 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse-4[disabled] {
+.minor-btn-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse-4[disabled]:hover {
+.minor-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-minor-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-minor-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-minor-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-minor-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-minor-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-minor-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-minor-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.minor-btn0 {
+  position: relative;
+  background-color: white;
+  color: #cc00cc;
+  border: 1px solid #cc00cc;
+}
+.minor-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.minor-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.minor-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.minor-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.minor-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.minor-btn0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7296,13 +7296,13 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor-inverse {
+.minor-btn {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse::before {
+.minor-btn::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7312,7 +7312,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse:hover::before {
+.minor-btn:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7323,7 +7323,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse:active::before {
+.minor-btn:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7334,7 +7334,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse[disabled]:before {
+.minor-btn[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7345,21 +7345,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse[disabled] {
+.minor-btn[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse[disabled]:hover {
+.minor-btn[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-5 {
+.btn-minor-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-5::before {
+.btn-minor-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7369,7 +7369,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-5:hover::before {
+.btn-minor-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7380,7 +7380,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-5:active::before {
+.btn-minor-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7391,7 +7391,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-5[disabled]:before {
+.btn-minor-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7402,22 +7402,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-5[disabled] {
+.btn-minor-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-5[disabled]:hover {
+.btn-minor-1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-inverse-5 {
+.minor-btn1 {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse-5::before {
+.minor-btn1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7427,7 +7427,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse-5:hover::before {
+.minor-btn1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7438,7 +7438,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse-5:active::before {
+.minor-btn1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7449,7 +7449,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse-5[disabled]:before {
+.minor-btn1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7460,21 +7460,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse-5[disabled] {
+.minor-btn1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse-5[disabled]:hover {
+.minor-btn1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-6 {
+.btn-minor-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-6::before {
+.btn-minor-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7484,7 +7484,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-6:hover::before {
+.btn-minor-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7495,7 +7495,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-6:active::before {
+.btn-minor-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7506,7 +7506,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-6[disabled]:before {
+.btn-minor-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7517,22 +7517,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-6[disabled] {
+.btn-minor-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-6[disabled]:hover {
+.btn-minor-2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-inverse-6 {
+.minor-btn2 {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse-6::before {
+.minor-btn2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7542,7 +7542,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse-6:hover::before {
+.minor-btn2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7553,7 +7553,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse-6:active::before {
+.minor-btn2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7564,7 +7564,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse-6[disabled]:before {
+.minor-btn2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7575,21 +7575,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse-6[disabled] {
+.minor-btn2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse-6[disabled]:hover {
+.minor-btn2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-7 {
+.btn-minor-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-7::before {
+.btn-minor-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7599,7 +7599,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-7:hover::before {
+.btn-minor-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7610,7 +7610,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-7:active::before {
+.btn-minor-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7621,7 +7621,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-7[disabled]:before {
+.btn-minor-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7632,22 +7632,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-7[disabled] {
+.btn-minor-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-7[disabled]:hover {
+.btn-minor-3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-inverse-7 {
+.minor-btn3 {
   position: relative;
   background-color: white;
   color: #cc00cc;
   border: 1px solid #cc00cc;
 }
-.btn-minor-inverse-7::before {
+.minor-btn3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7657,7 +7657,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-inverse-7:hover::before {
+.minor-btn3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7668,7 +7668,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-inverse-7:active::before {
+.minor-btn3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7679,7 +7679,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-inverse-7[disabled]:before {
+.minor-btn3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7690,21 +7690,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-inverse-7[disabled] {
+.minor-btn3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-inverse-7[disabled]:hover {
+.minor-btn3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-8 {
+.btn-less--4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-8::before {
+.btn-less--4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7714,7 +7714,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-8:hover::before {
+.btn-less--4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7725,7 +7725,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-8:active::before {
+.btn-less--4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7736,7 +7736,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-8[disabled]:before {
+.btn-less--4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7747,252 +7747,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-8[disabled] {
+.btn-less--4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-8[disabled]:hover {
+.btn-less--4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-minor-inverse-8 {
-  position: relative;
-  background-color: white;
-  color: #cc00cc;
-  border: 1px solid #cc00cc;
-}
-.btn-minor-inverse-8::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-minor-inverse-8:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-minor-inverse-8:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-minor-inverse-8[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-minor-inverse-8[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-minor-inverse-8[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-minor-9 {
-  position: relative;
-  color: white;
-  border: 1px solid transparent;
-}
-.btn-minor-9::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-minor-9:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-minor-9:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-minor-9[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-minor-9[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-minor-9[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-minor-inverse-9 {
-  position: relative;
-  background-color: white;
-  color: #cc00cc;
-  border: 1px solid #cc00cc;
-}
-.btn-minor-inverse-9::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-minor-inverse-9:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-minor-inverse-9:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-minor-inverse-9[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-minor-inverse-9[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-minor-inverse-9[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-less-1 {
-  position: relative;
-  color: white;
-  border: 1px solid transparent;
-}
-.btn-less-1::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-less-1:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-less-1:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-less-1[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-less-1[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-less-1[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-less-inverse-1 {
+.less-btn-4 {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse-1::before {
+.less-btn-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8002,7 +7772,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-1:hover::before {
+.less-btn-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8013,7 +7783,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-1:active::before {
+.less-btn-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8024,7 +7794,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-1[disabled]:before {
+.less-btn-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8035,21 +7805,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-1[disabled] {
+.less-btn-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-1[disabled]:hover {
+.less-btn-4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-2 {
+.btn-less--3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-2::before {
+.btn-less--3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8059,7 +7829,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-2:hover::before {
+.btn-less--3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8070,7 +7840,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-2:active::before {
+.btn-less--3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8081,7 +7851,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-2[disabled]:before {
+.btn-less--3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8092,22 +7862,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-2[disabled] {
+.btn-less--3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-2[disabled]:hover {
+.btn-less--3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-2 {
+.less-btn-3 {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse-2::before {
+.less-btn-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8117,7 +7887,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-2:hover::before {
+.less-btn-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8128,7 +7898,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-2:active::before {
+.less-btn-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8139,7 +7909,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-2[disabled]:before {
+.less-btn-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8150,21 +7920,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-2[disabled] {
+.less-btn-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-2[disabled]:hover {
+.less-btn-3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-3 {
+.btn-less--2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-3::before {
+.btn-less--2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8174,7 +7944,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-3:hover::before {
+.btn-less--2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8185,7 +7955,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-3:active::before {
+.btn-less--2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8196,7 +7966,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-3[disabled]:before {
+.btn-less--2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8207,22 +7977,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-3[disabled] {
+.btn-less--2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-3[disabled]:hover {
+.btn-less--2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-3 {
+.less-btn-2 {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse-3::before {
+.less-btn-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8232,7 +8002,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-3:hover::before {
+.less-btn-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8243,7 +8013,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-3:active::before {
+.less-btn-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8254,7 +8024,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-3[disabled]:before {
+.less-btn-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8265,21 +8035,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-3[disabled] {
+.less-btn-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-3[disabled]:hover {
+.less-btn-2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-4 {
+.btn-less--1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-4::before {
+.btn-less--1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8289,7 +8059,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-4:hover::before {
+.btn-less--1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8300,7 +8070,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-4:active::before {
+.btn-less--1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8311,7 +8081,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-4[disabled]:before {
+.btn-less--1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8322,22 +8092,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-4[disabled] {
+.btn-less--1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-4[disabled]:hover {
+.btn-less--1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-4 {
+.less-btn-1 {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse-4::before {
+.less-btn-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8347,7 +8117,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-4:hover::before {
+.less-btn-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8358,7 +8128,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-4:active::before {
+.less-btn-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8369,7 +8139,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-4[disabled]:before {
+.less-btn-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8380,12 +8150,127 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-4[disabled] {
+.less-btn-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-4[disabled]:hover {
+.less-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-less-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-less-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-less-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-less-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-less-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-less-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-less-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.less-btn0 {
+  position: relative;
+  background-color: white;
+  color: #00cccc;
+  border: 1px solid #00cccc;
+}
+.less-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.less-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.less-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.less-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.less-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.less-btn0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8446,13 +8331,13 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less-inverse {
+.less-btn {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse::before {
+.less-btn::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8462,7 +8347,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse:hover::before {
+.less-btn:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8473,7 +8358,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse:active::before {
+.less-btn:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8484,7 +8369,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse[disabled]:before {
+.less-btn[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8495,21 +8380,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse[disabled] {
+.less-btn[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse[disabled]:hover {
+.less-btn[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-5 {
+.btn-less-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-5::before {
+.btn-less-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8519,7 +8404,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-5:hover::before {
+.btn-less-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8530,7 +8415,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-5:active::before {
+.btn-less-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8541,7 +8426,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-5[disabled]:before {
+.btn-less-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8552,22 +8437,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-5[disabled] {
+.btn-less-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-5[disabled]:hover {
+.btn-less-1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-5 {
+.less-btn1 {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse-5::before {
+.less-btn1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8577,7 +8462,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-5:hover::before {
+.less-btn1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8588,7 +8473,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-5:active::before {
+.less-btn1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8599,7 +8484,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-5[disabled]:before {
+.less-btn1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8610,21 +8495,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-5[disabled] {
+.less-btn1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-5[disabled]:hover {
+.less-btn1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-6 {
+.btn-less-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-6::before {
+.btn-less-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8634,7 +8519,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-6:hover::before {
+.btn-less-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8645,7 +8530,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-6:active::before {
+.btn-less-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8656,7 +8541,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-6[disabled]:before {
+.btn-less-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8667,22 +8552,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-6[disabled] {
+.btn-less-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-6[disabled]:hover {
+.btn-less-2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-6 {
+.less-btn2 {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse-6::before {
+.less-btn2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8692,7 +8577,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-6:hover::before {
+.less-btn2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8703,7 +8588,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-6:active::before {
+.less-btn2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8714,7 +8599,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-6[disabled]:before {
+.less-btn2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8725,21 +8610,21 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-6[disabled] {
+.less-btn2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-6[disabled]:hover {
+.less-btn2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-7 {
+.btn-less-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-7::before {
+.btn-less-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8749,7 +8634,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-7:hover::before {
+.btn-less-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8760,7 +8645,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-7:active::before {
+.btn-less-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8771,7 +8656,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-7[disabled]:before {
+.btn-less-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8782,22 +8667,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-7[disabled] {
+.btn-less-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-7[disabled]:hover {
+.btn-less-3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-7 {
+.less-btn3 {
   position: relative;
   background-color: white;
   color: #00cccc;
   border: 1px solid #00cccc;
 }
-.btn-less-inverse-7::before {
+.less-btn3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8807,7 +8692,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-7:hover::before {
+.less-btn3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8818,7 +8703,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-7:active::before {
+.less-btn3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8829,7 +8714,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-7[disabled]:before {
+.less-btn3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8840,21 +8725,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-7[disabled] {
+.less-btn3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-7[disabled]:hover {
+.less-btn3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-8 {
+.btn-white--4 {
   position: relative;
-  color: white;
-  border: 1px solid transparent;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black;
 }
-.btn-less-8::before {
+.btn-white--4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8864,7 +8750,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-8:hover::before {
+.btn-white--4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8875,7 +8761,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-8:active::before {
+.btn-white--4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8886,7 +8772,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-8[disabled]:before {
+.btn-white--4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8897,22 +8783,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-8[disabled] {
+.btn-white--4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-8[disabled]:hover {
+.btn-white--4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-8 {
+.btn-white--3 {
   position: relative;
-  background-color: white;
-  color: #00cccc;
-  border: 1px solid #00cccc;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black;
 }
-.btn-less-inverse-8::before {
+.btn-white--3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8922,7 +8808,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-8:hover::before {
+.btn-white--3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8933,7 +8819,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-8:active::before {
+.btn-white--3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8944,7 +8830,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-8[disabled]:before {
+.btn-white--3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8955,21 +8841,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-8[disabled] {
+.btn-white--3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-8[disabled]:hover {
+.btn-white--3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-9 {
+.btn-white--2 {
   position: relative;
-  color: white;
-  border: 1px solid transparent;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black;
 }
-.btn-less-9::before {
+.btn-white--2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8979,7 +8866,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-9:hover::before {
+.btn-white--2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8990,7 +8877,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-9:active::before {
+.btn-white--2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9001,7 +8888,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-9[disabled]:before {
+.btn-white--2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9012,22 +8899,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-9[disabled] {
+.btn-white--2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-9[disabled]:hover {
+.btn-white--2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-less-inverse-9 {
+.btn-white--1 {
   position: relative;
-  background-color: white;
-  color: #00cccc;
-  border: 1px solid #00cccc;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black;
 }
-.btn-less-inverse-9::before {
+.btn-white--1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9037,7 +8924,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-inverse-9:hover::before {
+.btn-white--1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9048,7 +8935,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-inverse-9:active::before {
+.btn-white--1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9059,7 +8946,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-inverse-9[disabled]:before {
+.btn-white--1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9070,12 +8957,128 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-inverse-9[disabled] {
+.btn-white--1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-inverse-9[disabled]:hover {
+.btn-white--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white-0 {
+  position: relative;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black;
+}
+.btn-white-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white {
+  position: relative;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black;
+}
+.btn-white::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9253,13 +9256,13 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white-4 {
+.btn-black--4 {
   position: relative;
-  background-color: white !important;
-  color: black !important;
+  background-color: black !important;
+  color: white !important;
   border: 1px solid black;
 }
-.btn-white-4::before {
+.btn-black--4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9269,7 +9272,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-4:hover::before {
+.btn-black--4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9280,7 +9283,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-4:active::before {
+.btn-black--4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9291,7 +9294,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-4[disabled]:before {
+.btn-black--4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9302,22 +9305,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-4[disabled] {
+.btn-black--4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-4[disabled]:hover {
+.btn-black--4[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-white {
+.btn-black--3 {
   position: relative;
-  background-color: white !important;
-  color: black !important;
+  background-color: black !important;
+  color: white !important;
   border: 1px solid black;
 }
-.btn-white::before {
+.btn-black--3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9327,7 +9330,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white:hover::before {
+.btn-black--3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9338,7 +9341,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white:active::before {
+.btn-black--3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9349,7 +9352,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white[disabled]:before {
+.btn-black--3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9360,22 +9363,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white[disabled] {
+.btn-black--3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white[disabled]:hover {
+.btn-black--3[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-white-5 {
+.btn-black--2 {
   position: relative;
-  background-color: white !important;
-  color: black !important;
+  background-color: black !important;
+  color: white !important;
   border: 1px solid black;
 }
-.btn-white-5::before {
+.btn-black--2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9385,7 +9388,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-5:hover::before {
+.btn-black--2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9396,7 +9399,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-5:active::before {
+.btn-black--2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9407,7 +9410,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-5[disabled]:before {
+.btn-black--2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9418,22 +9421,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-5[disabled] {
+.btn-black--2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-5[disabled]:hover {
+.btn-black--2[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-white-6 {
+.btn-black--1 {
   position: relative;
-  background-color: white !important;
-  color: black !important;
+  background-color: black !important;
+  color: white !important;
   border: 1px solid black;
 }
-.btn-white-6::before {
+.btn-black--1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9443,7 +9446,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-6:hover::before {
+.btn-black--1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9454,7 +9457,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-6:active::before {
+.btn-black--1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9465,7 +9468,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-6[disabled]:before {
+.btn-black--1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9476,22 +9479,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-6[disabled] {
+.btn-black--1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-6[disabled]:hover {
+.btn-black--1[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-white-7 {
+.btn-black-0 {
   position: relative;
-  background-color: white !important;
-  color: black !important;
+  background-color: black !important;
+  color: white !important;
   border: 1px solid black;
 }
-.btn-white-7::before {
+.btn-black-0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9501,7 +9504,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-7:hover::before {
+.btn-black-0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9512,7 +9515,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-7:active::before {
+.btn-black-0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9523,7 +9526,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-7[disabled]:before {
+.btn-black-0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9534,22 +9537,22 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-7[disabled] {
+.btn-black-0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-7[disabled]:hover {
+.btn-black-0[disabled]:hover {
   box-shadow: none;
 }
 
-.btn-white-8 {
+.btn-black {
   position: relative;
-  background-color: white !important;
-  color: black !important;
+  background-color: black !important;
+  color: white !important;
   border: 1px solid black;
 }
-.btn-white-8::before {
+.btn-black::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9559,7 +9562,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-8:hover::before {
+.btn-black:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9570,7 +9573,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-8:active::before {
+.btn-black:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9581,7 +9584,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-8[disabled]:before {
+.btn-black[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9592,70 +9595,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-8[disabled] {
+.btn-black[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-8[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-white-9 {
-  position: relative;
-  background-color: white !important;
-  color: black !important;
-  border: 1px solid black;
-}
-.btn-white-9::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-white-9:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-white-9:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-white-9[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-white-9[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-white-9[disabled]:hover {
+.btn-black[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9830,412 +9775,6 @@ button:active {
   box-shadow: none;
 }
 .btn-black-3[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-black-4 {
-  position: relative;
-  background-color: black !important;
-  color: white !important;
-  border: 1px solid black;
-}
-.btn-black-4::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-black-4:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-black-4:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-black-4[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-black-4[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-black-4[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-black {
-  position: relative;
-  background-color: black !important;
-  color: white !important;
-  border: 1px solid black;
-}
-.btn-black::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-black:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-black:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-black[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-black[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-black[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-black-5 {
-  position: relative;
-  background-color: black !important;
-  color: white !important;
-  border: 1px solid black;
-}
-.btn-black-5::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-black-5:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-black-5:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-black-5[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-black-5[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-black-5[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-black-6 {
-  position: relative;
-  background-color: black !important;
-  color: white !important;
-  border: 1px solid black;
-}
-.btn-black-6::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-black-6:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-black-6:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-black-6[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-black-6[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-black-6[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-black-7 {
-  position: relative;
-  background-color: black !important;
-  color: white !important;
-  border: 1px solid black;
-}
-.btn-black-7::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-black-7:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-black-7:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-black-7[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-black-7[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-black-7[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-black-8 {
-  position: relative;
-  background-color: black !important;
-  color: white !important;
-  border: 1px solid black;
-}
-.btn-black-8::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-black-8:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-black-8:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-black-8[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-black-8[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-black-8[disabled]:hover {
-  box-shadow: none;
-}
-
-.btn-black-9 {
-  position: relative;
-  background-color: black !important;
-  color: white !important;
-  border: 1px solid black;
-}
-.btn-black-9::before {
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0);
-}
-.btn-black-9:hover::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.05);
-}
-.btn-black-9:active::before {
-  cursor: pointer;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.1);
-}
-.btn-black-9[disabled]:before {
-  cursor: not-allowed;
-  content: "";
-  top: -1px;
-  left: -1px;
-  position: absolute;
-  border-radius: inherit;
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.btn-black-9[disabled] {
-  cursor: not-allowed;
-  border-radius: inherit;
-  box-shadow: none;
-}
-.btn-black-9[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10747,7 +10286,7 @@ button:active {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -11099,7 +10638,7 @@ button:active {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -11219,7 +10758,7 @@ button:active {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -11339,7 +10878,7 @@ button:active {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -11947,7 +11486,7 @@ button:active {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -12299,7 +11838,7 @@ button:active {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -12419,7 +11958,7 @@ button:active {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -12539,7 +12078,7 @@ button:active {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -13147,7 +12686,7 @@ button:active {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -13155,7 +12694,7 @@ button:active {
   border-top: 1px solid #bbbbbb !important;
 }
 
-.border-gray-top {
+.border-gray-top, .card > footer {
   border-top: 1px solid #bbbbbb !important;
 }
 
@@ -13499,7 +13038,7 @@ button:active {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -13619,7 +13158,7 @@ button:active {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -13739,7 +13278,7 @@ button:active {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -14347,7 +13886,7 @@ button:active {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -14355,7 +13894,7 @@ button:active {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
-.border-gray-bottom {
+.border-gray-bottom, .card > header {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
@@ -14699,7 +14238,7 @@ button:active {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -14819,7 +14358,7 @@ button:active {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -14939,7 +14478,7 @@ button:active {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -17621,7 +17160,7 @@ input:focus-visible {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -17973,7 +17512,7 @@ input:focus-visible {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -18093,7 +17632,7 @@ input:focus-visible {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -18213,7 +17752,7 @@ input:focus-visible {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -18821,7 +18360,7 @@ input:focus-visible {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -19173,7 +18712,7 @@ input:focus-visible {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -19293,7 +18832,7 @@ input:focus-visible {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -19413,7 +18952,7 @@ input:focus-visible {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -20021,7 +19560,7 @@ input:focus-visible {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -20029,7 +19568,7 @@ input:focus-visible {
   border-top: 1px solid #bbbbbb !important;
 }
 
-.border-gray-top {
+.border-gray-top, .card > footer {
   border-top: 1px solid #bbbbbb !important;
 }
 
@@ -20373,7 +19912,7 @@ input:focus-visible {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -20493,7 +20032,7 @@ input:focus-visible {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -20613,7 +20152,7 @@ input:focus-visible {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -21221,7 +20760,7 @@ input:focus-visible {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -21229,7 +20768,7 @@ input:focus-visible {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
-.border-gray-bottom {
+.border-gray-bottom, .card > header {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
@@ -21573,7 +21112,7 @@ input:focus-visible {
   background-color: #7700cc !important;
 }
 
-.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9 {
+.bg-main, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3 {
   background-color: #7700cc !important;
 }
 
@@ -21693,7 +21232,7 @@ input:focus-visible {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9 {
+.bg-minor, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3 {
   background-color: #cc00cc !important;
 }
 
@@ -21813,7 +21352,7 @@ input:focus-visible {
   background-color: #00cccc !important;
 }
 
-.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9 {
+.bg-less, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3 {
   background-color: #00cccc !important;
 }
 
@@ -27233,7 +26772,7 @@ u, ins, .u, .ins {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -27585,7 +27124,7 @@ u, ins, .u, .ins {
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
+.bg-main, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
   background-color: #7700cc !important;
 }
 
@@ -27705,7 +27244,7 @@ u, ins, .u, .ins {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
+.bg-minor, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
   background-color: #cc00cc !important;
 }
 
@@ -27825,7 +27364,7 @@ u, ins, .u, .ins {
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
+.bg-less, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
   background-color: #00cccc !important;
 }
 
@@ -28433,7 +27972,7 @@ u, ins, .u, .ins {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -28785,7 +28324,7 @@ u, ins, .u, .ins {
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
+.bg-main, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
   background-color: #7700cc !important;
 }
 
@@ -28905,7 +28444,7 @@ u, ins, .u, .ins {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
+.bg-minor, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
   background-color: #cc00cc !important;
 }
 
@@ -29025,7 +28564,7 @@ u, ins, .u, .ins {
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
+.bg-less, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
   background-color: #00cccc !important;
 }
 
@@ -29633,7 +29172,7 @@ u, ins, .u, .ins {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -29641,7 +29180,7 @@ u, ins, .u, .ins {
   border-top: 1px solid #bbbbbb !important;
 }
 
-.border-gray-top {
+.border-gray-top, .card > footer {
   border-top: 1px solid #bbbbbb !important;
 }
 
@@ -29985,7 +29524,7 @@ u, ins, .u, .ins {
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
+.bg-main, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
   background-color: #7700cc !important;
 }
 
@@ -30105,7 +29644,7 @@ u, ins, .u, .ins {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
+.bg-minor, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
   background-color: #cc00cc !important;
 }
 
@@ -30225,7 +29764,7 @@ u, ins, .u, .ins {
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
+.bg-less, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
   background-color: #00cccc !important;
 }
 
@@ -30833,7 +30372,7 @@ u, ins, .u, .ins {
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -30841,7 +30380,7 @@ u, ins, .u, .ins {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
-.border-gray-bottom {
+.border-gray-bottom, .card > header {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
@@ -31185,7 +30724,7 @@ u, ins, .u, .ins {
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4, .btn-main, .btn-main-5, .btn-main-6, .btn-main-7, .btn-main-8, .btn-main-9, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
+.bg-main, .btn-main--4, .btn-main--3, .btn-main--2, .btn-main--1, .btn-main-0, .btn-main, .btn-main-1, .btn-main-2, .btn-main-3, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead {
   background-color: #7700cc !important;
 }
 
@@ -31305,7 +30844,7 @@ u, ins, .u, .ins {
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4, .btn-minor, .btn-minor-5, .btn-minor-6, .btn-minor-7, .btn-minor-8, .btn-minor-9, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
+.bg-minor, .btn-minor--4, .btn-minor--3, .btn-minor--2, .btn-minor--1, .btn-minor-0, .btn-minor, .btn-minor-1, .btn-minor-2, .btn-minor-3, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead {
   background-color: #cc00cc !important;
 }
 
@@ -31425,7 +30964,7 @@ u, ins, .u, .ins {
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4, .btn-less, .btn-less-5, .btn-less-6, .btn-less-7, .btn-less-8, .btn-less-9, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
+.bg-less, .btn-less--4, .btn-less--3, .btn-less--2, .btn-less--1, .btn-less-0, .btn-less, .btn-less-1, .btn-less-2, .btn-less-3, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead {
   background-color: #00cccc !important;
 }
 

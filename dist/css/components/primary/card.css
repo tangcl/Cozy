@@ -413,7 +413,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -1613,7 +1613,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -2813,7 +2813,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -2821,7 +2821,7 @@
   border-top: 1px solid #bbbbbb !important;
 }
 
-.border-gray-top {
+.border-gray-top, .card > footer {
   border-top: 1px solid #bbbbbb !important;
 }
 
@@ -4013,7 +4013,7 @@
   border: 1px solid #bbbbbb !important;
 }
 
-.border-gray, .card > header, .card {
+.border-gray, .card {
   border: 1px solid #bbbbbb !important;
 }
 
@@ -4021,7 +4021,7 @@
   border-bottom: 1px solid #bbbbbb !important;
 }
 
-.border-gray-bottom {
+.border-gray-bottom, .card > header {
   border-bottom: 1px solid #bbbbbb !important;
 }
 
