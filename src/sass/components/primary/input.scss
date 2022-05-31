@@ -1,9 +1,10 @@
 @import "../../base/color";
+@import "../../base/box";
 input{
     font-size: 1rem;
     line-height: 1.5em;
     border: 1px solid $gray;
-    
+    @extend .padding-left, .padding-right;    
     &:hover{
         border: 1px solid $gray;
         outline: none;
@@ -17,9 +18,12 @@ input{
         outline: none;  
     }
 }
-@for $i from -4 to 4{
+@for $i from -4 through 4{
     @each $key, $value in $semantic_range {
-        .input-#{$key}-#{$i}{
+        $range: $i* 0.125rem;
+        .input-#{$key}#{$i}{
+            font-size: 1rem + $range;
+            line-height: 1.5em;
             caret-color: $value;
             border: 1px solid $value !important;
             &:hover{

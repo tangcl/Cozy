@@ -33,19 +33,26 @@
                     }
                 }
                 &>tbody{
-                    padding-top:4px;
+                    padding-top:8px;
                     @extend .font-size;
                     // @extend .border-#{$k};
-                    &>tr:not(:first-child){
-                        @extend .border-#{$k};
-                    }
-                    &>tr>td{
-                        padding:.25em .5rem;
-                    }
+                    // &>tr>td{
+                    //     padding:.25em .5rem;
+                    // }
                     &>tr>td:not(:first-child){
                         // background-color:red;
-                        @extend .border-#{$k};
+                        @extend .border-gray-left-4;
                     }
+                    &>tr {
+                        @extend .border-gray-4;
+                        &:hover{
+                            @extend .bg-#{$k}-4;
+                        }
+                    }
+                    &>tr:nth-child(even){
+                        @extend .bg-gray-4;
+                    }
+                    
                 }
             }
         }@else{
@@ -76,19 +83,27 @@
                     @extend .font-size#{$i};
                     // @extend .border-#{$k};
                     &>tr:not(:first-child){
-                        @extend .border-#{$k};
+                        @extend .border-#{$k}-bottom;
                     }
                     &>tr>td{
                         padding:.25em .5rem;
                     }
-                    &>tr>td:not(:first-child){
+                    &>tr>td:first-child{
                         // background-color:red;
-                        @extend .border-#{$k};
+                        @extend .border-#{$k}-left;
+                    }
+                    &>tr {
+                        @extend .border-gray-4;
+                        &:hover{
+                            @extend .bg-#{$k}-4;
+                        }
+                    }
+                    &:nth-child(even){
+                        @extend .bg-gray;
                     }
                 }
             }
-        }
-            
+        }   
     }
 }
 

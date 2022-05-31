@@ -69,10 +69,6 @@ $topic_range:(
     "main":$main,
     "minor":$minor,
     "less":$turquoise,
-
-    "gray":$gray,
-    "black":$black,
-    "white":$white,
 );
 
 $message_range:(
@@ -82,3 +78,9 @@ $message_range:(
     "success":$green, 
 );
 
+$positions:(
+    "left": "left",
+    "right": "right",
+    "top": "top",
+    "bottom": "bottom"
+)

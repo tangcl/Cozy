@@ -14,17 +14,45 @@ $fontsize:16px;
     border-style: dotted;
 }
 //基础属性,一个格子
+
 @for $i from -4 through 4{
     $divide: math.abs(5 + $i) / 5 * 0.125;
     .padding#{$i} {
         padding: $divide * 1em $divide*2em !important;
     }
+    .padding-left#{$i} {
+        padding-left: $divide*2em !important;
+    }
+    .padding-right#{$i} {
+        padding-right: $divide*2em !important;
+    }
+    .padding-top#{$i} {
+        padding-top: $divide*1em !important;
+    }
+    .padding-bottom#{$i} {
+        padding-bottom: $divide*1em !important;
+    }
+    
     @if $i == 0 {
         .padding {
             padding: $divide * 1em $divide*2em !important;
-        }   
+        }
+        .padding-left {
+            padding-left: $divide*2em !important;
+        }
+        .padding-right {
+            padding-right: $divide*2em !important;
+        }
+        .padding-top {
+            padding-top: $divide*1em !important;
+        }
+        .padding-bottom {
+            padding-bottom: $divide*1em !important;
+        }       
     }
 }
+
+
 @for $i from -4 through 4{
     $divide: math.abs(5 + $i) / 5 * 0.125;
     .margin#{$i} {
@@ -75,43 +103,59 @@ $fontsize:16px;
 .border-radius-pill{
     border-radius: 100rem;
 }
-
-@each $key, $color in $semantic_range {
-    @for $i from -4 through 4 {
-        //生成颜色相关匹配色。
-        @if $i  < 0{
-            $co:color.scale($color, $whiteness: (math.abs($i)*20)*1%, $blackness: -(math.abs($i)*20)*1%);
-            .bg-#{$key}#{$i} {
-                background-color: $co !important;
+@each $p, $v in $positions{
+    @each $key, $color in $semantic_range {
+        @for $i from -4 through 4 {
+            //生成颜色相关匹配色。
+            @if $i  < 0{
+                $co:color.scale($color, $whiteness: (math.abs($i)*20)*1%, $blackness: -(math.abs($i)*20)*1%);
+                .bg-#{$key}#{$i} {
+                    background-color: $co !important;
+                }
+                .border-#{$key}#{$i}{
+                    // border-color: $co;
+                    border: 1px solid $co;
+                }
+                .border-#{$key}-#{$v}#{$i}{
+                    // border-color: $co;
+                    border-#{$v}: 1px solid $co;
+                }
             }
-            .border-#{$key}#{$i}{
-                // border-color: $co;
-                border: 1px solid $co;
+            @if $i > 0 {
+                $co: color.scale($color, $blackness: $i*20*1%);
+                .bg-#{$key}#{$i} {
+                    background-color: $co  !important;
+                }
+                .border-#{$key}#{$i}{
+                    border: 1px solid $co;
+                }
+                .border-#{$key}-#{$v}#{$i}{
+                    // border-color: $co;
+                    border-#{$v}: 1px solid $co;
+                }
+            }
+            @if $i == 0 {
+                .bg-#{$key}#{$i} {
+                    background-color: $color  !important;
+                }
+                .bg-#{$key} {
+                    background-color: $color  !important;
+                }
+                .border-#{$key}#{$i}{
+                    border: 1px solid $color !important;
+                }
+                .border-#{$key}{
+                    border: 1px solid $color !important;
+                }
+                .border-#{$key}-#{$v}#{$i}{
+                    // border-color: $co;
+                    border-#{$v}: 1px solid $color !important;
+                }
+                .border-#{$key}-#{$v}{
+                    // border-color: $co;
+                    border-#{$v}: 1px solid $color !important;
+                }
             }
         }
-        @if $i > 0 {
-            $co: color.scale($color, $blackness: $i*20*1%);
-            .bg-#{$key}#{$i} {
-                background-color: $co  !important;
-            }
-            .border-#{$key}#{$i}{
-                border: 1px solid $co;
-            }
-        }
-        @if $i == 0 {
-            .bg-#{$key}#{$i} {
-                background-color: $color  !important;
-            }
-            .bg-#{$key} {
-                background-color: $color  !important;
-            }
-            .border-#{$key}#{$i}{
-                border: 1px solid $color !important;
-            }
-            .border-#{$key}{
-                border: 1px solid $color !important;
-            }
-        }
-    }
+    }    
 }
-
