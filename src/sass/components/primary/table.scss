@@ -46,7 +46,7 @@
                     &>tr {
                         @extend .border-gray-4;
                         &:hover{
-                            @extend .bg-#{$k}-4;
+                            @extend .bg-#{$k}-3;
                         }
                     }
                     &>tr:nth-child(even){
@@ -95,11 +95,11 @@
                     &>tr {
                         @extend .border-gray-4;
                         &:hover{
-                            @extend .bg-#{$k}-4;
+                            @extend .bg-#{$k}-3;
                         }
                     }
                     &:nth-child(even){
-                        @extend .bg-gray;
+                        @extend .bg-gray-4;
                     }
                 }
             }
@@ -107,3 +107,52 @@
     }
 }
 
+
+
+    
+table{
+    width: 100%;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;        
+    @extend .border-gray;
+    &>thead{
+        @extend .text-align-left;
+        @extend .bg-gray;
+        @extend .font-size;
+        @extend .font-white;
+        @extend .box-shadow;
+        @extend .border-gray;
+        
+        &>tr>th:not(:first-child) {
+            border-left:1px solid $gray;
+        }
+        
+        &>tr>th{
+            padding:.25em .5rem;
+        }
+    }
+    &>tbody{
+        padding-top:8px;
+        @extend .font-size;
+        // @extend .border-#{$k};
+        // &>tr>td{
+        //     padding:.25em .5rem;
+        // }
+        &>tr>td:not(:first-child){
+            // background-color:red;
+            @extend .border-gray-left-4;
+        }
+        &>tr {
+            @extend .border-gray-4;
+            &:hover{
+                @extend .bg-gray-2;
+            }
+        }
+        &>tr:nth-child(even){
+            @extend .bg-gray-4;
+        }
+        
+    }
+}
+    

@@ -16,51 +16,76 @@ $fontsize:16px;
 //基础属性,一个格子
 
 @for $i from -4 through 4{
-    $divide: math.abs(5 + $i) / 5 * 0.125;
+    $divide: 1em + $i * 0.125;
     .padding#{$i} {
-        padding: $divide * 1em $divide*2em !important;
+        padding: $divide/2 $divide !important;
     }
     .padding-left#{$i} {
-        padding-left: $divide*2em !important;
+        padding-left: $divide !important;
     }
     .padding-right#{$i} {
-        padding-right: $divide*2em !important;
+        padding-right: $divide !important;
     }
     .padding-top#{$i} {
-        padding-top: $divide*1em !important;
+        padding-top: $divide/2 !important;
     }
     .padding-bottom#{$i} {
-        padding-bottom: $divide*1em !important;
+        padding-bottom: $divide/2 !important;
     }
     
     @if $i == 0 {
         .padding {
-            padding: $divide * 1em $divide*2em !important;
+            padding: 0.5em 1em !important;
+            
         }
         .padding-left {
-            padding-left: $divide*2em !important;
+            padding-left: 1em !important;
         }
         .padding-right {
-            padding-right: $divide*2em !important;
+            padding-right: 1em !important;
         }
         .padding-top {
-            padding-top: $divide*1em !important;
+            padding-top: 0.5em !important;
         }
         .padding-bottom {
-            padding-bottom: $divide*1em !important;
+            padding-bottom: 0.5em !important;
         }       
     }
 }
 
 
 @for $i from -4 through 4{
-    $divide: math.abs(5 + $i) / 5 * 0.125;
+    $divide: 1em + $i * 0.125;
     .margin#{$i} {
-        margin: $divide * 1em $divide*2em !important;
+        margin: $divide/2 $divide !important;
+    }
+    .margin-left#{$i} {
+        margin-left: $divide !important;
+    }
+    .margin-right#{$i} {
+        margin-right: $divide !important;
+    }
+    .margin-top#{$i} {
+        margin-top: $divide/2 !important;
+    }
+    .margin-bottom#{$i} {
+        margin-bottom: $divide/2 !important;
     }
     @if $i == 0 {
         .margin {
-            margin: $divide * 1em $divide*2em !important;
+            margin: 0.5em 1em !important;
+        }
+        .margin-left {
+            margin-left: 1em !important;
+        }
+        .margin-right {
+            margin-right: 1em !important;
+        }
+        .margin-top {
+            margin-top: 0.5em !important;
+        }
+        .margin-bottom {
+            margin-bottom: 0.5em !important;
         }   
     }
 }

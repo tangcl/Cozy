@@ -26,6 +26,7 @@ input{
             line-height: 1.5em;
             caret-color: $value;
             border: 1px solid $value !important;
+            @extend .padding-left-4, .padding-right-4;
             &:hover{
                 border: 1px solid $value;
             }
@@ -39,8 +40,11 @@ input{
         }
         @if $i == 0 {
             .input-#{$key}{
+                font-size: 1rem;
+                line-height: 1.5em;
                 caret-color: $value;
                 border: 1px solid $value !important;
+                @extend .padding-left-4, .padding-right-4;
                 &:hover{
                     border: 1px solid $value;
                 }
