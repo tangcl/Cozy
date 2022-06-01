@@ -14,11 +14,11 @@
   padding: 0.25em 0.5em !important;
 }
 
-.padding-left-4, .input-success4, .input-error4, .input-warning4, .input-info4, .input-less4, .input-minor4, .input-main4, .input-black4, .input-white4, .input-gray4, .input-success3, .input-error3, .input-warning3, .input-info3, .input-less3, .input-minor3, .input-main3, .input-black3, .input-white3, .input-gray3, .input-success2, .input-error2, .input-warning2, .input-info2, .input-less2, .input-minor2, .input-main2, .input-black2, .input-white2, .input-gray2, .input-success1, .input-error1, .input-warning1, .input-info1, .input-less1, .input-minor1, .input-main1, .input-black1, .input-white1, .input-gray1, .input-success, .input-success0, .input-error, .input-error0, .input-warning, .input-warning0, .input-info, .input-info0, .input-less, .input-less0, .input-minor, .input-minor0, .input-main, .input-main0, .input-black, .input-black0, .input-white, .input-white0, .input-gray, .input-gray0, .input-success-1, .input-error-1, .input-warning-1, .input-info-1, .input-less-1, .input-minor-1, .input-main-1, .input-black-1, .input-white-1, .input-gray-1, .input-success-2, .input-error-2, .input-warning-2, .input-info-2, .input-less-2, .input-minor-2, .input-main-2, .input-black-2, .input-white-2, .input-gray-2, .input-success-3, .input-error-3, .input-warning-3, .input-info-3, .input-less-3, .input-minor-3, .input-main-3, .input-black-3, .input-white-3, .input-gray-3, .input-success-4, .input-error-4, .input-warning-4, .input-info-4, .input-less-4, .input-minor-4, .input-main-4, .input-black-4, .input-white-4, .input-gray-4 {
+.padding-left-4, .input-success4 > input, .input-error4 > input, .input-warning4 > input, .input-info4 > input, .input-less4 > input, .input-minor4 > input, .input-main4 > input, .input-black4 > input, .input-white4 > input, .input-gray4 > input, .input-success3 > input, .input-error3 > input, .input-warning3 > input, .input-info3 > input, .input-less3 > input, .input-minor3 > input, .input-main3 > input, .input-black3 > input, .input-white3 > input, .input-gray3 > input, .input-success2 > input, .input-error2 > input, .input-warning2 > input, .input-info2 > input, .input-less2 > input, .input-minor2 > input, .input-main2 > input, .input-black2 > input, .input-white2 > input, .input-gray2 > input, .input-success1 > input, .input-error1 > input, .input-warning1 > input, .input-info1 > input, .input-less1 > input, .input-minor1 > input, .input-main1 > input, .input-black1 > input, .input-white1 > input, .input-gray1 > input, .input-success > input, .input-success0 > input, .input-error > input, .input-error0 > input, .input-warning > input, .input-warning0 > input, .input-info > input, .input-info0 > input, .input-less > input, .input-less0 > input, .input-minor > input, .input-minor0 > input, .input-main > input, .input-main0 > input, .input-black > input, .input-black0 > input, .input-white > input, .input-white0 > input, .input-gray > input, .input-gray0 > input, .input-success-1 > input, .input-error-1 > input, .input-warning-1 > input, .input-info-1 > input, .input-less-1 > input, .input-minor-1 > input, .input-main-1 > input, .input-black-1 > input, .input-white-1 > input, .input-gray-1 > input, .input-success-2 > input, .input-error-2 > input, .input-warning-2 > input, .input-info-2 > input, .input-less-2 > input, .input-minor-2 > input, .input-main-2 > input, .input-black-2 > input, .input-white-2 > input, .input-gray-2 > input, .input-success-3 > input, .input-error-3 > input, .input-warning-3 > input, .input-info-3 > input, .input-less-3 > input, .input-minor-3 > input, .input-main-3 > input, .input-black-3 > input, .input-white-3 > input, .input-gray-3 > input, .input-success-4 > input, .input-error-4 > input, .input-warning-4 > input, .input-info-4 > input, .input-less-4 > input, .input-minor-4 > input, .input-main-4 > input, .input-black-4 > input, .input-white-4 > input, .input-gray-4 > input, input {
   padding-left: 0.5em !important;
 }
 
-.padding-right-4, .input-success4, .input-error4, .input-warning4, .input-info4, .input-less4, .input-minor4, .input-main4, .input-black4, .input-white4, .input-gray4, .input-success3, .input-error3, .input-warning3, .input-info3, .input-less3, .input-minor3, .input-main3, .input-black3, .input-white3, .input-gray3, .input-success2, .input-error2, .input-warning2, .input-info2, .input-less2, .input-minor2, .input-main2, .input-black2, .input-white2, .input-gray2, .input-success1, .input-error1, .input-warning1, .input-info1, .input-less1, .input-minor1, .input-main1, .input-black1, .input-white1, .input-gray1, .input-success, .input-success0, .input-error, .input-error0, .input-warning, .input-warning0, .input-info, .input-info0, .input-less, .input-less0, .input-minor, .input-minor0, .input-main, .input-main0, .input-black, .input-black0, .input-white, .input-white0, .input-gray, .input-gray0, .input-success-1, .input-error-1, .input-warning-1, .input-info-1, .input-less-1, .input-minor-1, .input-main-1, .input-black-1, .input-white-1, .input-gray-1, .input-success-2, .input-error-2, .input-warning-2, .input-info-2, .input-less-2, .input-minor-2, .input-main-2, .input-black-2, .input-white-2, .input-gray-2, .input-success-3, .input-error-3, .input-warning-3, .input-info-3, .input-less-3, .input-minor-3, .input-main-3, .input-black-3, .input-white-3, .input-gray-3, .input-success-4, .input-error-4, .input-warning-4, .input-info-4, .input-less-4, .input-minor-4, .input-main-4, .input-black-4, .input-white-4, .input-gray-4 {
+.padding-right-4, .input-success4 > input, .input-error4 > input, .input-warning4 > input, .input-info4 > input, .input-less4 > input, .input-minor4 > input, .input-main4 > input, .input-black4 > input, .input-white4 > input, .input-gray4 > input, .input-success3 > input, .input-error3 > input, .input-warning3 > input, .input-info3 > input, .input-less3 > input, .input-minor3 > input, .input-main3 > input, .input-black3 > input, .input-white3 > input, .input-gray3 > input, .input-success2 > input, .input-error2 > input, .input-warning2 > input, .input-info2 > input, .input-less2 > input, .input-minor2 > input, .input-main2 > input, .input-black2 > input, .input-white2 > input, .input-gray2 > input, .input-success1 > input, .input-error1 > input, .input-warning1 > input, .input-info1 > input, .input-less1 > input, .input-minor1 > input, .input-main1 > input, .input-black1 > input, .input-white1 > input, .input-gray1 > input, .input-success > input, .input-success0 > input, .input-error > input, .input-error0 > input, .input-warning > input, .input-warning0 > input, .input-info > input, .input-info0 > input, .input-less > input, .input-less0 > input, .input-minor > input, .input-minor0 > input, .input-main > input, .input-main0 > input, .input-black > input, .input-black0 > input, .input-white > input, .input-white0 > input, .input-gray > input, .input-gray0 > input, .input-success-1 > input, .input-error-1 > input, .input-warning-1 > input, .input-info-1 > input, .input-less-1 > input, .input-minor-1 > input, .input-main-1 > input, .input-black-1 > input, .input-white-1 > input, .input-gray-1 > input, .input-success-2 > input, .input-error-2 > input, .input-warning-2 > input, .input-info-2 > input, .input-less-2 > input, .input-minor-2 > input, .input-main-2 > input, .input-black-2 > input, .input-white-2 > input, .input-gray-2 > input, .input-success-3 > input, .input-error-3 > input, .input-warning-3 > input, .input-info-3 > input, .input-less-3 > input, .input-minor-3 > input, .input-main-3 > input, .input-black-3 > input, .input-white-3 > input, .input-gray-3 > input, .input-success-4 > input, .input-error-4 > input, .input-warning-4 > input, .input-info-4 > input, .input-less-4 > input, .input-minor-4 > input, .input-main-4 > input, .input-black-4 > input, .input-white-4 > input, .input-gray-4 > input, input {
   padding-right: 0.5em !important;
 }
 
@@ -114,11 +114,11 @@
   padding: 0.5em 1em !important;
 }
 
-.padding-left, input {
+.padding-left {
   padding-left: 1em !important;
 }
 
-.padding-right, input {
+.padding-right {
   padding-right: 1em !important;
 }
 
@@ -513,7 +513,7 @@
   border-radius: 100rem;
 }
 
-.bg-gray-4 {
+.bg-gray-4, .input-success > header, .input-error > header, .input-warning > header, .input-info > header, .input-less > header, .input-minor > header, .input-main > header, .input-black > header, .input-white > header, .input-gray > header {
   background-color: #f1f1f1 !important;
 }
 
@@ -1713,7 +1713,7 @@
   border-left: 1px solid #002900;
 }
 
-.bg-gray-4 {
+.bg-gray-4, .input-success > header, .input-error > header, .input-warning > header, .input-info > header, .input-less > header, .input-minor > header, .input-main > header, .input-black > header, .input-white > header, .input-gray > header {
   background-color: #f1f1f1 !important;
 }
 
@@ -2913,7 +2913,7 @@
   border-right: 1px solid #002900;
 }
 
-.bg-gray-4 {
+.bg-gray-4, .input-success > header, .input-error > header, .input-warning > header, .input-info > header, .input-less > header, .input-minor > header, .input-main > header, .input-black > header, .input-white > header, .input-gray > header {
   background-color: #f1f1f1 !important;
 }
 
@@ -4113,7 +4113,7 @@
   border-top: 1px solid #002900;
 }
 
-.bg-gray-4 {
+.bg-gray-4, .input-success > header, .input-error > header, .input-warning > header, .input-info > header, .input-less > header, .input-minor > header, .input-main > header, .input-black > header, .input-white > header, .input-gray > header {
   background-color: #f1f1f1 !important;
 }
 
@@ -5316,17 +5316,23 @@
 input {
   font-size: 1rem;
   line-height: 1.5em;
-  border: 1px solid #bbbbbb;
+  height: 2em;
+  border: 1px solid transparent;
+  outline: none;
 }
-input:hover {
+
+.input {
+  border: 1px solid #bbbbbb !important;
+}
+.input:hover {
   border: 1px solid #bbbbbb;
   outline: none;
 }
-input:focus {
+.input:focus {
   border: 1px solid #bbbbbb;
   outline: none;
 }
-input:focus-visible {
+.input:focus-visible {
   border: 1px solid #bbbbbb;
   outline: none;
 }
@@ -5334,8 +5340,36 @@ input:focus-visible {
 .input-gray-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray-4:hover {
   border: 1px solid #bbbbbb;
@@ -5351,8 +5385,36 @@ input:focus-visible {
 .input-white-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white-4:hover {
   border: 1px solid white;
@@ -5368,8 +5430,36 @@ input:focus-visible {
 .input-black-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black-4:hover {
   border: 1px solid black;
@@ -5385,8 +5475,36 @@ input:focus-visible {
 .input-main-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main-4:hover {
   border: 1px solid #7700cc;
@@ -5402,8 +5520,36 @@ input:focus-visible {
 .input-minor-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor-4:hover {
   border: 1px solid #cc00cc;
@@ -5419,8 +5565,36 @@ input:focus-visible {
 .input-less-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less-4:hover {
   border: 1px solid #00cccc;
@@ -5436,8 +5610,36 @@ input:focus-visible {
 .input-info-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info-4:hover {
   border: 1px solid #bbbbbb;
@@ -5453,8 +5655,36 @@ input:focus-visible {
 .input-warning-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning-4:hover {
   border: 1px solid #cccc00;
@@ -5470,8 +5700,36 @@ input:focus-visible {
 .input-error-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error-4:hover {
   border: 1px solid #cc0000;
@@ -5487,8 +5745,36 @@ input:focus-visible {
 .input-success-4 {
   font-size: 0.5rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success-4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success-4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success-4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success-4:hover {
   border: 1px solid #00cc00;
@@ -5504,8 +5790,36 @@ input:focus-visible {
 .input-gray-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray-3:hover {
   border: 1px solid #bbbbbb;
@@ -5521,8 +5835,36 @@ input:focus-visible {
 .input-white-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white-3:hover {
   border: 1px solid white;
@@ -5538,8 +5880,36 @@ input:focus-visible {
 .input-black-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black-3:hover {
   border: 1px solid black;
@@ -5555,8 +5925,36 @@ input:focus-visible {
 .input-main-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main-3:hover {
   border: 1px solid #7700cc;
@@ -5572,8 +5970,36 @@ input:focus-visible {
 .input-minor-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor-3:hover {
   border: 1px solid #cc00cc;
@@ -5589,8 +6015,36 @@ input:focus-visible {
 .input-less-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less-3:hover {
   border: 1px solid #00cccc;
@@ -5606,8 +6060,36 @@ input:focus-visible {
 .input-info-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info-3:hover {
   border: 1px solid #bbbbbb;
@@ -5623,8 +6105,36 @@ input:focus-visible {
 .input-warning-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning-3:hover {
   border: 1px solid #cccc00;
@@ -5640,8 +6150,36 @@ input:focus-visible {
 .input-error-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error-3:hover {
   border: 1px solid #cc0000;
@@ -5657,8 +6195,36 @@ input:focus-visible {
 .input-success-3 {
   font-size: 0.625rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success-3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success-3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success-3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success-3:hover {
   border: 1px solid #00cc00;
@@ -5674,8 +6240,36 @@ input:focus-visible {
 .input-gray-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray-2:hover {
   border: 1px solid #bbbbbb;
@@ -5691,8 +6285,36 @@ input:focus-visible {
 .input-white-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white-2:hover {
   border: 1px solid white;
@@ -5708,8 +6330,36 @@ input:focus-visible {
 .input-black-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black-2:hover {
   border: 1px solid black;
@@ -5725,8 +6375,36 @@ input:focus-visible {
 .input-main-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main-2:hover {
   border: 1px solid #7700cc;
@@ -5742,8 +6420,36 @@ input:focus-visible {
 .input-minor-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor-2:hover {
   border: 1px solid #cc00cc;
@@ -5759,8 +6465,36 @@ input:focus-visible {
 .input-less-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less-2:hover {
   border: 1px solid #00cccc;
@@ -5776,8 +6510,36 @@ input:focus-visible {
 .input-info-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info-2:hover {
   border: 1px solid #bbbbbb;
@@ -5793,8 +6555,36 @@ input:focus-visible {
 .input-warning-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning-2:hover {
   border: 1px solid #cccc00;
@@ -5810,8 +6600,36 @@ input:focus-visible {
 .input-error-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error-2:hover {
   border: 1px solid #cc0000;
@@ -5827,8 +6645,36 @@ input:focus-visible {
 .input-success-2 {
   font-size: 0.75rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success-2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success-2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success-2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success-2:hover {
   border: 1px solid #00cc00;
@@ -5844,8 +6690,36 @@ input:focus-visible {
 .input-gray-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray-1:hover {
   border: 1px solid #bbbbbb;
@@ -5861,8 +6735,36 @@ input:focus-visible {
 .input-white-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white-1:hover {
   border: 1px solid white;
@@ -5878,8 +6780,36 @@ input:focus-visible {
 .input-black-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black-1:hover {
   border: 1px solid black;
@@ -5895,8 +6825,36 @@ input:focus-visible {
 .input-main-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main-1:hover {
   border: 1px solid #7700cc;
@@ -5912,8 +6870,36 @@ input:focus-visible {
 .input-minor-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor-1:hover {
   border: 1px solid #cc00cc;
@@ -5929,8 +6915,36 @@ input:focus-visible {
 .input-less-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less-1:hover {
   border: 1px solid #00cccc;
@@ -5946,8 +6960,36 @@ input:focus-visible {
 .input-info-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info-1:hover {
   border: 1px solid #bbbbbb;
@@ -5963,8 +7005,36 @@ input:focus-visible {
 .input-warning-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning-1:hover {
   border: 1px solid #cccc00;
@@ -5980,8 +7050,36 @@ input:focus-visible {
 .input-error-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error-1:hover {
   border: 1px solid #cc0000;
@@ -5997,8 +7095,36 @@ input:focus-visible {
 .input-success-1 {
   font-size: 0.875rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success-1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success-1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success-1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success-1:hover {
   border: 1px solid #00cc00;
@@ -6014,8 +7140,36 @@ input:focus-visible {
 .input-gray0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray0:hover {
   border: 1px solid #bbbbbb;
@@ -6031,8 +7185,35 @@ input:focus-visible {
 .input-gray {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray:hover {
   border: 1px solid #bbbbbb;
@@ -6048,8 +7229,36 @@ input:focus-visible {
 .input-white0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white0 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white0:hover {
   border: 1px solid white;
@@ -6065,8 +7274,35 @@ input:focus-visible {
 .input-white {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white:hover {
   border: 1px solid white;
@@ -6082,8 +7318,36 @@ input:focus-visible {
 .input-black0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black0 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black0:hover {
   border: 1px solid black;
@@ -6099,8 +7363,35 @@ input:focus-visible {
 .input-black {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black:hover {
   border: 1px solid black;
@@ -6116,8 +7407,36 @@ input:focus-visible {
 .input-main0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main0:hover {
   border: 1px solid #7700cc;
@@ -6133,8 +7452,35 @@ input:focus-visible {
 .input-main {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main:hover {
   border: 1px solid #7700cc;
@@ -6150,8 +7496,36 @@ input:focus-visible {
 .input-minor0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor0:hover {
   border: 1px solid #cc00cc;
@@ -6167,8 +7541,35 @@ input:focus-visible {
 .input-minor {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor:hover {
   border: 1px solid #cc00cc;
@@ -6184,8 +7585,36 @@ input:focus-visible {
 .input-less0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less0:hover {
   border: 1px solid #00cccc;
@@ -6201,8 +7630,35 @@ input:focus-visible {
 .input-less {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less:hover {
   border: 1px solid #00cccc;
@@ -6218,8 +7674,36 @@ input:focus-visible {
 .input-info0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info0:hover {
   border: 1px solid #bbbbbb;
@@ -6235,8 +7719,35 @@ input:focus-visible {
 .input-info {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info:hover {
   border: 1px solid #bbbbbb;
@@ -6252,8 +7763,36 @@ input:focus-visible {
 .input-warning0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning0:hover {
   border: 1px solid #cccc00;
@@ -6269,8 +7808,35 @@ input:focus-visible {
 .input-warning {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning:hover {
   border: 1px solid #cccc00;
@@ -6286,8 +7852,36 @@ input:focus-visible {
 .input-error0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error0:hover {
   border: 1px solid #cc0000;
@@ -6303,8 +7897,35 @@ input:focus-visible {
 .input-error {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error:hover {
   border: 1px solid #cc0000;
@@ -6320,8 +7941,36 @@ input:focus-visible {
 .input-success0 {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success0 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success0 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success0 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success0:hover {
   border: 1px solid #00cc00;
@@ -6337,8 +7986,35 @@ input:focus-visible {
 .input-success {
   font-size: 1rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success > header {
+  font-size: inherit;
+  line-height: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success > footer {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success:hover {
   border: 1px solid #00cc00;
@@ -6354,8 +8030,36 @@ input:focus-visible {
 .input-gray1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray1:hover {
   border: 1px solid #bbbbbb;
@@ -6371,8 +8075,36 @@ input:focus-visible {
 .input-white1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white1 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white1:hover {
   border: 1px solid white;
@@ -6388,8 +8120,36 @@ input:focus-visible {
 .input-black1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black1 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black1:hover {
   border: 1px solid black;
@@ -6405,8 +8165,36 @@ input:focus-visible {
 .input-main1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main1:hover {
   border: 1px solid #7700cc;
@@ -6422,8 +8210,36 @@ input:focus-visible {
 .input-minor1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor1:hover {
   border: 1px solid #cc00cc;
@@ -6439,8 +8255,36 @@ input:focus-visible {
 .input-less1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less1:hover {
   border: 1px solid #00cccc;
@@ -6456,8 +8300,36 @@ input:focus-visible {
 .input-info1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info1:hover {
   border: 1px solid #bbbbbb;
@@ -6473,8 +8345,36 @@ input:focus-visible {
 .input-warning1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning1:hover {
   border: 1px solid #cccc00;
@@ -6490,8 +8390,36 @@ input:focus-visible {
 .input-error1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error1:hover {
   border: 1px solid #cc0000;
@@ -6507,8 +8435,36 @@ input:focus-visible {
 .input-success1 {
   font-size: 1.125rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success1 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success1 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success1 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success1:hover {
   border: 1px solid #00cc00;
@@ -6524,8 +8480,36 @@ input:focus-visible {
 .input-gray2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray2:hover {
   border: 1px solid #bbbbbb;
@@ -6541,8 +8525,36 @@ input:focus-visible {
 .input-white2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white2 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white2:hover {
   border: 1px solid white;
@@ -6558,8 +8570,36 @@ input:focus-visible {
 .input-black2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black2 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black2:hover {
   border: 1px solid black;
@@ -6575,8 +8615,36 @@ input:focus-visible {
 .input-main2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main2:hover {
   border: 1px solid #7700cc;
@@ -6592,8 +8660,36 @@ input:focus-visible {
 .input-minor2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor2:hover {
   border: 1px solid #cc00cc;
@@ -6609,8 +8705,36 @@ input:focus-visible {
 .input-less2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less2:hover {
   border: 1px solid #00cccc;
@@ -6626,8 +8750,36 @@ input:focus-visible {
 .input-info2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info2:hover {
   border: 1px solid #bbbbbb;
@@ -6643,8 +8795,36 @@ input:focus-visible {
 .input-warning2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning2:hover {
   border: 1px solid #cccc00;
@@ -6660,8 +8840,36 @@ input:focus-visible {
 .input-error2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error2:hover {
   border: 1px solid #cc0000;
@@ -6677,8 +8885,36 @@ input:focus-visible {
 .input-success2 {
   font-size: 1.25rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success2 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success2 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success2 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success2:hover {
   border: 1px solid #00cc00;
@@ -6694,8 +8930,36 @@ input:focus-visible {
 .input-gray3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray3:hover {
   border: 1px solid #bbbbbb;
@@ -6711,8 +8975,36 @@ input:focus-visible {
 .input-white3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white3 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white3:hover {
   border: 1px solid white;
@@ -6728,8 +9020,36 @@ input:focus-visible {
 .input-black3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black3 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black3:hover {
   border: 1px solid black;
@@ -6745,8 +9065,36 @@ input:focus-visible {
 .input-main3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main3:hover {
   border: 1px solid #7700cc;
@@ -6762,8 +9110,36 @@ input:focus-visible {
 .input-minor3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor3:hover {
   border: 1px solid #cc00cc;
@@ -6779,8 +9155,36 @@ input:focus-visible {
 .input-less3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less3:hover {
   border: 1px solid #00cccc;
@@ -6796,8 +9200,36 @@ input:focus-visible {
 .input-info3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info3:hover {
   border: 1px solid #bbbbbb;
@@ -6813,8 +9245,36 @@ input:focus-visible {
 .input-warning3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning3:hover {
   border: 1px solid #cccc00;
@@ -6830,8 +9290,36 @@ input:focus-visible {
 .input-error3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error3:hover {
   border: 1px solid #cc0000;
@@ -6847,8 +9335,36 @@ input:focus-visible {
 .input-success3 {
   font-size: 1.375rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success3 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success3 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success3 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success3:hover {
   border: 1px solid #00cc00;
@@ -6864,8 +9380,36 @@ input:focus-visible {
 .input-gray4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-gray4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-gray4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-gray4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-gray4:hover {
   border: 1px solid #bbbbbb;
@@ -6881,8 +9425,36 @@ input:focus-visible {
 .input-white4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: white;
   border: 1px solid white !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-white4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: white;
+}
+.input-white4 > input {
+  width: 100%;
+  border: none;
+  caret-color: white;
+}
+.input-white4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
 }
 .input-white4:hover {
   border: 1px solid white;
@@ -6898,8 +9470,36 @@ input:focus-visible {
 .input-black4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: black;
   border: 1px solid black !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-black4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: black;
+}
+.input-black4 > input {
+  width: 100%;
+  border: none;
+  caret-color: black;
+}
+.input-black4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: black;
 }
 .input-black4:hover {
   border: 1px solid black;
@@ -6915,8 +9515,36 @@ input:focus-visible {
 .input-main4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #7700cc;
   border: 1px solid #7700cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-main4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #7700cc;
+}
+.input-main4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #7700cc;
+}
+.input-main4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #7700cc;
 }
 .input-main4:hover {
   border: 1px solid #7700cc;
@@ -6932,8 +9560,36 @@ input:focus-visible {
 .input-minor4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #cc00cc;
   border: 1px solid #cc00cc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-minor4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc00cc;
+}
+.input-minor4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc00cc;
+}
+.input-minor4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc00cc;
 }
 .input-minor4:hover {
   border: 1px solid #cc00cc;
@@ -6949,8 +9605,36 @@ input:focus-visible {
 .input-less4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #00cccc;
   border: 1px solid #00cccc !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-less4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cccc;
+}
+.input-less4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cccc;
+}
+.input-less4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cccc;
 }
 .input-less4:hover {
   border: 1px solid #00cccc;
@@ -6966,8 +9650,36 @@ input:focus-visible {
 .input-info4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #bbbbbb;
   border: 1px solid #bbbbbb !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-info4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #bbbbbb;
+}
+.input-info4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #bbbbbb;
+}
+.input-info4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #bbbbbb;
 }
 .input-info4:hover {
   border: 1px solid #bbbbbb;
@@ -6983,8 +9695,36 @@ input:focus-visible {
 .input-warning4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #cccc00;
   border: 1px solid #cccc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-warning4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cccc00;
+}
+.input-warning4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cccc00;
+}
+.input-warning4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cccc00;
 }
 .input-warning4:hover {
   border: 1px solid #cccc00;
@@ -7000,8 +9740,36 @@ input:focus-visible {
 .input-error4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #cc0000;
   border: 1px solid #cc0000 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-error4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #cc0000;
+}
+.input-error4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #cc0000;
+}
+.input-error4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #cc0000;
 }
 .input-error4:hover {
   border: 1px solid #cc0000;
@@ -7017,8 +9785,36 @@ input:focus-visible {
 .input-success4 {
   font-size: 1.5rem;
   line-height: 1.5em;
-  caret-color: #00cc00;
   border: 1px solid #00cc00 !important;
+  display: flex;
+  display: webkit-flex;
+}
+.input-success4 > :first-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 0.25em;
+  color: #00cc00;
+}
+.input-success4 > input {
+  width: 100%;
+  border: none;
+  caret-color: #00cc00;
+}
+.input-success4 > :last-child {
+  font-size: inherit;
+  line-height: 1.5em;
+  padding: 0.25em;
+  width: 1.5em;
+  display: flex;
+  display: webkit-flex;
+  align-items: center;
+  flex-direction: row;
+  color: #00cc00;
 }
 .input-success4:hover {
   border: 1px solid #00cc00;
@@ -7029,27 +9825,6 @@ input:focus-visible {
 .input-success4:focus-visible {
   border: 1px solid #00cc00;
   outline: none;
-}
-
-.input-group {
-  height: 2rem;
-  font-size: 1rem;
-  line-height: 1.5rem;
-  position: relative;
-  border: 1px solid #aaa;
-}
-.input-group > :first-child {
-  width: 100%;
-  height: 2rem;
-  font-size: 1rem;
-  padding-right: 2rem;
-}
-.input-group > :last-child {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 2rem;
-  height: 2rem;
 }
 
 /*# sourceMappingURL=input.css.map */

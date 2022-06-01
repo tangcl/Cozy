@@ -3,8 +3,14 @@
 input{
     font-size: 1rem;
     line-height: 1.5em;
-    border: 1px solid $gray;
-    @extend .padding-left, .padding-right;    
+    height: 2em;
+    // border: 1px solid $gray;
+    border: 1px solid transparent;
+    outline: none;
+    @extend .padding-left-4, .padding-right-4;   
+}
+.input{
+    border: 1px solid $gray !important;
     &:hover{
         border: 1px solid $gray;
         outline: none;
@@ -18,15 +24,46 @@ input{
         outline: none;  
     }
 }
+
 @for $i from -4 through 4{
     @each $key, $value in $semantic_range {
         $range: $i* 0.125rem;
         .input-#{$key}#{$i}{
+            // position:relative;
             font-size: 1rem + $range;
-            line-height: 1.5em;
-            caret-color: $value;
+            line-height: 1.5em;            
             border: 1px solid $value !important;
-            @extend .padding-left-4, .padding-right-4;
+            display: flex;
+            display: webkit-flex;
+            &>:first-child{
+                font-size:inherit;
+                line-height:1.5em;
+                width: 1.5em;
+                display: flex;
+                display: webkit-flex;
+                align-items: center;
+                flex-direction: row;
+                padding: 0.25em;
+                color: $value;
+            }
+            &>input{
+                width: 100%;
+                border: none;
+                caret-color: $value;
+                @extend .padding-left-4, .padding-right-4;
+                
+            }
+            &>:last-child{
+                font-size:inherit;
+                line-height:1.5em;
+                padding: 0.25em;
+                width: 1.5em;
+                display: flex;
+                display: webkit-flex;
+                align-items: center;
+                flex-direction: row;
+                color: $value;
+            }
             &:hover{
                 border: 1px solid $value;
             }
@@ -38,13 +75,44 @@ input{
                 outline: none;  
             }
         }
+
         @if $i == 0 {
             .input-#{$key}{
+                // position:relative;
                 font-size: 1rem;
-                line-height: 1.5em;
-                caret-color: $value;
+                line-height: 1.5em;            
                 border: 1px solid $value !important;
-                @extend .padding-left-4, .padding-right-4;
+                display: flex;
+                display: webkit-flex;
+                &>header{
+                    font-size:inherit;
+                    line-height:1.5em;
+                    display: flex;
+                    display: webkit-flex;
+                    align-items: center;
+                    flex-direction: row;
+                    padding: 0.25em;
+                    color: $value;
+                    @extend .bg-gray-4;
+                }
+                &>input{
+                    width: 100%;
+                    border: none;
+                    caret-color: $value;
+                    @extend .padding-left-4, .padding-right-4;
+                    
+                }
+                &>footer{
+                    font-size:inherit;
+                    line-height:1.5em;
+                    padding: 0.25em;
+                    width: 1.5em;
+                    display: flex;
+                    display: webkit-flex;
+                    align-items: center;
+                    flex-direction: row;
+                    color: $value;
+                }
                 &:hover{
                     border: 1px solid $value;
                 }
@@ -55,32 +123,8 @@ input{
                     border: 1px solid $value;
                     outline: none;  
                 }
-            }   
+            }
         }
     }
 }
 
-.input-group{
-    // position:relative;
-    height:2rem;
-    font-size: 1rem;
-    line-height: 1.5rem;
-    position: relative;
-    border: 1px solid #aaa;
-   
-    &>:first-child{
-        width: 100%;
-        height: 2rem;
-        font-size:1rem;
-        // border:none;
-        padding-right:2rem;
-        
-    }
-    &>:last-child{
-        position:absolute;
-        top:0;
-        right:0;
-        width:2rem;
-        height:2rem;
-    }
-}
