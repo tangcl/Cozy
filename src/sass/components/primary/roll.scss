@@ -4,18 +4,19 @@
     overflow: hidden;
     height: 100%;
     width: inherit;
+    white-space:nowrap;
 }
-
+//需要大量js
 
 
 .x-rotation>div{
     // position:absolute;
-    height:100%;
-    width:400%; //width:sum(num) + 1 * inherit;
-    background-color:red;
-    display: flex;
-    &>*{
-        // float:left;
+    height:inherit;
+
+    float:left;
+    
+    &>div{
+        float:left;
         width: 100%;
         height: 100%;
     }

@@ -7,4 +7,12 @@
   background-size: 100% 100%;
 }
 
+.check-icon {
+  display: inline-block;
+  width: 1.2rem;
+  height: 1.2rem;
+  background-image: url(./icon/校验_check.svg);
+  background-size: 100% 100%;
+}
+
 /*# sourceMappingURL=icon.css.map */
