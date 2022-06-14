@@ -9,7 +9,7 @@
                     padding:2rem;
                 }
             </style>
-            <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+            <!-- <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
             <script>
                 function clickload(){
                     console.log("开始调用");
@@ -26,12 +26,54 @@ observer.observe(elem, {
 });
                 }
             
-            </script>
+            </script> -->
     </head>
     <body>
-        <label for="elem">选中</label><input type="radio" name="elem" id="elem"/>
-        <!-- <div contentEditable id="elem">Click and <b>edit</b>, please</div> -->
-        <button onclick="clickload()">调用</button>
+        
+        <div class="radio_main">
+            <input type="radio" name="elem" id="elem"/><label for="elem">选中</label>
+        </div>    
+        
+        
+        <div class="radio_main">
+        <input type="radio" name="elem" id="elem"/><label for="elem">选中</label>
+
+        <input type="radio" name="elem" id="elem2"/><label for="elem2">选中</label>
+        <input type="radio" name="elem" id="elem3"/><label for="elem3">选中</label>
+        <input type="radio" name="elem" id="elem4"/><label for="elem4">选中</label>
+        </div>
+        <div class="radio_minor">
+            <input type="radio" name="elem" id="elem11"/><label for="elem11">选中</label>
+    
+            <input type="radio" name="elem" id="elem22"/><label for="elem22">选中</label>
+            <input type="radio" name="elem" id="elem33"/><label for="elem33">选中</label>
+            <input type="radio" name="elem" id="elem44"/><label for="elem44">选中</label>
+        </div>
+        <div class="radio_less">
+            <input type="radio" name="elem" id="elem111"/><label for="elem111">选中</label>
+    
+            <input type="radio" name="elem" id="elem222"/><label for="elem222">选中</label>
+            <input type="radio" name="elem" id="elem333"/><label for="elem333">选中</label>
+            <input type="radio" name="elem" id="elem444"/><label for="elem444">选中</label>
+        </div>
+        <div class="radio_success">
+            <input type="radio" name="elem" id="elem1111"/><label for="elem1111">选中</label>
+    
+            <input type="radio" name="elem" id="elem2222"/><label for="elem2222">选中</label>
+            <input type="radio" name="elem" id="elem3333"/><label for="elem3333">选中</label>
+            <input type="radio" name="elem" id="elem4444"/><label for="elem4444">选中</label>
+        </div>
+        <div class="radio_error">
+            <input type="radio" name="elem" id="elem11111"/><label for="elem11111">选中</label>
+    
+            <input type="radio" name="elem" id="elem22222"/><label for="elem22222">选中</label>
+            <input type="radio" name="elem" id="elem33333"/><label for="elem33333">选中</label>
+            <input type="radio" name="elem" id="elem44444"/><label for="elem44444">选中</label>
+        </div>
+
+        <input type="radio" name="aa" style="clear:left;" /><input type="radio" name="aa"/><input type="radio" name="aa"/>
+        <br />
+        
 <!--引用jqery-->
 </body>
 </html>

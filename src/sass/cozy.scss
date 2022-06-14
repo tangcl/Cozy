@@ -3,8 +3,9 @@
 //css类的定义位置，将会影响代码的优先级顺序，即一些基本的css定义到最后，可以让用户进行自定义。
 $fontsize:16px;
 *{
-    box-sizing: border-box;
+    box-sizing: content-box;
     background-color: transparent;
+    min-height: auto;
 }
 @import 'base/size';
 @import 'base/color';

@@ -1,7 +1,8 @@
 @charset "UTF-8";
 * {
-  box-sizing: border-box;
+  box-sizing: content-box;
   background-color: transparent;
+  min-height: auto;
 }
 
 .width-0-100 {
