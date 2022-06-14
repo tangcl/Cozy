@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="../../../css/index.css">
+        <style>
+                body{
+                    padding:2rem;
+                }
+            </style>
+            <!-- <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+            <script>
+                function clickload(){
+                    console.log("开始调用");
+                    let observer = new MutationObserver(mutationRecords => {
+  console.log(mutationRecords); // console.log(the changes)
+});
+var elem = $("#elem")[0];
+// 观察除了特性之外的所有变动
+observer.observe(elem, {
+  childList: true, // 观察直接子节点
+  subtree: true, // 及其更低的后代节点
+  characterDataOldValue: true, // 将旧的数据传递给回调
+  attributes:true,
+});
+                }
+            
+            </script> -->
+    </head>
+    <body>
+        
+        <div class="checkbox_main">
+            <input type="checkbox" name="elem" id="elem"/><label for="elem">选中</label>
+        </div>    
+        
+        
+        <div class="checkbox_main">
+        <input type="checkbox" name="elem" id="elem"/><label for="elem">选中</label>
+
+        <input type="checkbox" name="elem" id="elem2"/><label for="elem2">选中</label>
+        <input type="checkbox" name="elem" id="elem3"/><label for="elem3">选中</label>
+        <input type="checkbox" name="elem" id="elem4"/><label for="elem4">选中</label>
+        </div>
+        <div class="checkbox_minor">
+            <input type="checkbox" name="elem" id="elem11"/><label for="elem11">选中</label>
+    
+            <input type="checkbox" name="elem" id="elem22"/><label for="elem22">选中</label>
+            <input type="checkbox" name="elem" id="elem33"/><label for="elem33">选中</label>
+            <input type="checkbox" name="elem" id="elem44"/><label for="elem44">选中</label>
+        </div>
+        <div class="checkbox_less">
+            <input type="checkbox" name="elem" id="elem111"/><label for="elem111">选中</label>
+    
+            <input type="checkbox" name="elem" id="elem222"/><label for="elem222">选中</label>
+            <input type="checkbox" name="elem" id="elem333"/><label for="elem333">选中</label>
+            <input type="checkbox" name="elem" id="elem444"/><label for="elem444">选中</label>
+        </div>
+        <div class="checkbox_success">
+            <input type="checkbox" name="elem" id="elem1111"/><label for="elem1111">选中</label>
+    
+            <input type="checkbox" name="elem" id="elem2222"/><label for="elem2222">选中</label>
+            <input type="checkbox" name="elem" id="elem3333"/><label for="elem3333">选中</label>
+            <input type="checkbox" name="elem" id="elem4444"/><label for="elem4444">选中</label>
+        </div>
+        <div class="checkbox_error">
+            <input type="checkbox" name="elem" id="elem11111"/><label for="elem11111">选中</label>
+    
+            <input type="checkbox" name="elem" id="elem22222"/><label for="elem22222">选中</label>
+            <input type="checkbox" name="elem" id="elem33333"/><label for="elem33333">选中</label>
+            <input type="checkbox" name="elem" id="elem44444"/><label for="elem44444">选中</label>
+        </div>
+
+        <input type="checkbox" name="aa" style="clear:left;" /><input type="checkbox" name="aa"/><input type="checkbox" name="aa"/>
+        <br />
+        
+<!--引用jqery-->
+</body>
+</html>

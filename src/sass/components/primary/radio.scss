@@ -51,6 +51,53 @@ label {
     }
 }
 
+@each $key, $color in $semantic_range {
+    .checkbox_#{$key} {
+        align-items: center;
+        display: flex;
+        height: 2rem;
+        width: 100%;
+        float:left;
+        clear: right;
+        &>input[type=checkbox]{
+            -webkit-appearance: none;
+            appearance: none;
+            height:1rem;
+            padding:0;
+            border: 1px solid $gray;
+            box-sizing: content-box;
+            display: block;
+            align-content: center;
+            
+        }
+        &>input[type="checkbox"]:checked {
+            outline: none;
+            position: relative;
+            background-size:100% 100%;
+            border: 1px solid $color;
+            font-size: 1rem;
+            background-color: $color;
+            &::before{
+                position: absolute;
+                left:0;
+                top: 0;
+                margin: 0;
+                padding:0;
+                width: 100%;
+                height: 100%;
+                content: "";
+                background:url(./icon/校验_check.svg);
+                background-position: center center;
+                color: #fff;
+            }
+        }
+        
+        &>input[type="checkbox"]:not(:checked) {
+            // transform: scale(1);
+            background:transparent;
+        }
+    }
+}
 
   
 
