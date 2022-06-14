@@ -22,6 +22,9 @@ label {
             align-content: center;
             
         }
+        &>input[type=radio]:hover{
+            border-color: $color;
+        }
         &>input[type="radio"]:checked {
             outline: none;
             position: relative;
@@ -69,6 +72,9 @@ label {
             display: block;
             align-content: center;
             
+        }
+        &>input[type=checkbox]:hover{
+            border-color: $color;
         }
         &>input[type="checkbox"]:checked {
             outline: none;

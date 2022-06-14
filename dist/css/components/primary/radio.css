@@ -22,6 +22,9 @@ label {
   display: block;
   align-content: center;
 }
+.radio_gray > input[type=radio]:hover {
+  border-color: #bbbbbb;
+}
 .radio_gray > input[type=radio]:checked {
   outline: none;
   position: relative;
@@ -64,6 +67,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.radio_white > input[type=radio]:hover {
+  border-color: white;
 }
 .radio_white > input[type=radio]:checked {
   outline: none;
@@ -108,6 +114,9 @@ label {
   display: block;
   align-content: center;
 }
+.radio_black > input[type=radio]:hover {
+  border-color: black;
+}
 .radio_black > input[type=radio]:checked {
   outline: none;
   position: relative;
@@ -150,6 +159,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.radio_main > input[type=radio]:hover {
+  border-color: #7700cc;
 }
 .radio_main > input[type=radio]:checked {
   outline: none;
@@ -194,6 +206,9 @@ label {
   display: block;
   align-content: center;
 }
+.radio_minor > input[type=radio]:hover {
+  border-color: #cc00cc;
+}
 .radio_minor > input[type=radio]:checked {
   outline: none;
   position: relative;
@@ -236,6 +251,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.radio_less > input[type=radio]:hover {
+  border-color: #00cccc;
 }
 .radio_less > input[type=radio]:checked {
   outline: none;
@@ -280,6 +298,9 @@ label {
   display: block;
   align-content: center;
 }
+.radio_info > input[type=radio]:hover {
+  border-color: #bbbbbb;
+}
 .radio_info > input[type=radio]:checked {
   outline: none;
   position: relative;
@@ -322,6 +343,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.radio_warning > input[type=radio]:hover {
+  border-color: #cccc00;
 }
 .radio_warning > input[type=radio]:checked {
   outline: none;
@@ -366,6 +390,9 @@ label {
   display: block;
   align-content: center;
 }
+.radio_error > input[type=radio]:hover {
+  border-color: #cc0000;
+}
 .radio_error > input[type=radio]:checked {
   outline: none;
   position: relative;
@@ -408,6 +435,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.radio_success > input[type=radio]:hover {
+  border-color: #00cc00;
 }
 .radio_success > input[type=radio]:checked {
   outline: none;
@@ -452,6 +482,9 @@ label {
   display: block;
   align-content: center;
 }
+.checkbox_gray > input[type=checkbox]:hover {
+  border-color: #bbbbbb;
+}
 .checkbox_gray > input[type=checkbox]:checked {
   outline: none;
   position: relative;
@@ -494,6 +527,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.checkbox_white > input[type=checkbox]:hover {
+  border-color: white;
 }
 .checkbox_white > input[type=checkbox]:checked {
   outline: none;
@@ -538,6 +574,9 @@ label {
   display: block;
   align-content: center;
 }
+.checkbox_black > input[type=checkbox]:hover {
+  border-color: black;
+}
 .checkbox_black > input[type=checkbox]:checked {
   outline: none;
   position: relative;
@@ -580,6 +619,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.checkbox_main > input[type=checkbox]:hover {
+  border-color: #7700cc;
 }
 .checkbox_main > input[type=checkbox]:checked {
   outline: none;
@@ -624,6 +666,9 @@ label {
   display: block;
   align-content: center;
 }
+.checkbox_minor > input[type=checkbox]:hover {
+  border-color: #cc00cc;
+}
 .checkbox_minor > input[type=checkbox]:checked {
   outline: none;
   position: relative;
@@ -666,6 +711,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.checkbox_less > input[type=checkbox]:hover {
+  border-color: #00cccc;
 }
 .checkbox_less > input[type=checkbox]:checked {
   outline: none;
@@ -710,6 +758,9 @@ label {
   display: block;
   align-content: center;
 }
+.checkbox_info > input[type=checkbox]:hover {
+  border-color: #bbbbbb;
+}
 .checkbox_info > input[type=checkbox]:checked {
   outline: none;
   position: relative;
@@ -752,6 +803,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.checkbox_warning > input[type=checkbox]:hover {
+  border-color: #cccc00;
 }
 .checkbox_warning > input[type=checkbox]:checked {
   outline: none;
@@ -796,6 +850,9 @@ label {
   display: block;
   align-content: center;
 }
+.checkbox_error > input[type=checkbox]:hover {
+  border-color: #cc0000;
+}
 .checkbox_error > input[type=checkbox]:checked {
   outline: none;
   position: relative;
@@ -838,6 +895,9 @@ label {
   box-sizing: content-box;
   display: block;
   align-content: center;
+}
+.checkbox_success > input[type=checkbox]:hover {
+  border-color: #00cc00;
 }
 .checkbox_success > input[type=checkbox]:checked {
   outline: none;
