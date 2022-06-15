@@ -1,5 +1,5 @@
 @import "../../base/color";
-*[placeholder]{
+p[placeholder], li[placeholder], image[placeholder], svg[placeholder]{
     // display: inline-block;
     min-height: 1em;
     vertical-align: middle;

@@ -5320,21 +5320,20 @@ input {
   border: 1px solid transparent;
   outline: none;
 }
+input:hover[disabled] {
+  cursor: not-allowed;
+}
 
-.input {
-  border: 1px solid #bbbbbb !important;
+.input-circle {
+  border-radius: 10rem;
 }
-.input:hover {
-  border: 1px solid #bbbbbb;
-  outline: none;
+.input-circle > header {
+  padding-left: 1px;
+  border-radius: 10rem 0 0 10rem;
 }
-.input:focus {
-  border: 1px solid #bbbbbb;
-  outline: none;
-}
-.input:focus-visible {
-  border: 1px solid #bbbbbb;
-  outline: none;
+.input-circle > footer {
+  padding-right: 1px;
+  border-radius: 0 10rem 10rem 0;
 }
 
 .input-gray-4 {
@@ -7194,6 +7193,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7283,6 +7283,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7372,6 +7373,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7461,6 +7463,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7550,6 +7553,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7639,6 +7643,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7728,6 +7733,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7817,6 +7823,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7906,6 +7913,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -7995,6 +8003,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;

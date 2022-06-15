@@ -1,4 +1,4 @@
-*[placeholder] {
+p[placeholder], li[placeholder], image[placeholder], svg[placeholder] {
   min-height: 1em;
   vertical-align: middle;
   cursor: wait !important;
@@ -8,13 +8,13 @@
   border-radius: 0;
   animation: placeholder-key 2s ease-in-out infinite;
 }
-*[placeholder]:hover {
+p[placeholder]:hover, li[placeholder]:hover, image[placeholder]:hover, svg[placeholder]:hover {
   cursor: wait !important;
   background-color: #bbbbbb !important;
   border-color: #bbbbbb !important;
   border-radius: 0;
 }
-*[placeholder]::before {
+p[placeholder]::before, li[placeholder]::before, image[placeholder]::before, svg[placeholder]::before {
   cursor: wait !important;
   background-color: #bbbbbb !important;
   border-color: #bbbbbb !important;

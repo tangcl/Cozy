@@ -29299,21 +29299,20 @@ input {
   border: 1px solid transparent;
   outline: none;
 }
+input:hover[disabled] {
+  cursor: not-allowed;
+}
 
-.input {
-  border: 1px solid #bbbbbb !important;
+.input-circle {
+  border-radius: 10rem;
 }
-.input:hover {
-  border: 1px solid #bbbbbb;
-  outline: none;
+.input-circle > header {
+  padding-left: 1px;
+  border-radius: 10rem 0 0 10rem;
 }
-.input:focus {
-  border: 1px solid #bbbbbb;
-  outline: none;
-}
-.input:focus-visible {
-  border: 1px solid #bbbbbb;
-  outline: none;
+.input-circle > footer {
+  padding-right: 1px;
+  border-radius: 0 10rem 10rem 0;
 }
 
 .input-gray-4 {
@@ -31173,6 +31172,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31262,6 +31262,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31351,6 +31352,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31440,6 +31442,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31529,6 +31532,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31618,6 +31622,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31707,6 +31712,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31796,6 +31802,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31885,6 +31892,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -31974,6 +31982,7 @@ input {
   line-height: 1.5em;
   display: flex;
   display: webkit-flex;
+  width: auto !important;
   align-items: center;
   flex-direction: row;
   padding: 0.25em;
@@ -44718,7 +44727,7 @@ table > tbody {
   animation: modal-height 1s;
 }
 
-*[placeholder] {
+p[placeholder], li[placeholder], image[placeholder], svg[placeholder] {
   min-height: 1em;
   vertical-align: middle;
   cursor: wait !important;
@@ -44728,13 +44737,13 @@ table > tbody {
   border-radius: 0;
   animation: placeholder-key 2s ease-in-out infinite;
 }
-*[placeholder]:hover {
+p[placeholder]:hover, li[placeholder]:hover, image[placeholder]:hover, svg[placeholder]:hover {
   cursor: wait !important;
   background-color: #bbbbbb !important;
   border-color: #bbbbbb !important;
   border-radius: 0;
 }
-*[placeholder]::before {
+p[placeholder]::before, li[placeholder]::before, image[placeholder]::before, svg[placeholder]::before {
   cursor: wait !important;
   background-color: #bbbbbb !important;
   border-color: #bbbbbb !important;

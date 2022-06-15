@@ -7,21 +7,39 @@ input{
     // border: 1px solid $gray;
     border: 1px solid transparent;
     outline: none;
-    @extend .padding-left-4, .padding-right-4;   
-}
-.input{
-    border: 1px solid $gray !important;
+    @extend .padding-left-4, .padding-right-4; 
     &:hover{
-        border: 1px solid $gray;
-        outline: none;
+        &[disabled]{
+            cursor: not-allowed;
+        }
+    }  
+}
+// .input{
+//     border: 1px solid $gray !important;
+//     &:hover{
+//         border: 1px solid $gray;
+//         outline: none;
+//     }
+//     &:focus{
+//         border: 1px solid $gray;
+//         outline: none;  
+//     }
+//     &:focus-visible{
+//         border: 1px solid $gray;
+//         outline: none;  
+//     }
+    
+// }
+
+.input-circle{
+    border-radius:10rem;
+    &>header{
+        padding-left: 1px;
+        border-radius:10rem 0 0 10rem;
     }
-    &:focus{
-        border: 1px solid $gray;
-        outline: none;  
-    }
-    &:focus-visible{
-        border: 1px solid $gray;
-        outline: none;  
+    &>footer{
+        padding-right: 1px;
+        border-radius:0 10rem 10rem 0;
     }
 }
 
@@ -89,6 +107,7 @@ input{
                     line-height:1.5em;
                     display: flex;
                     display: webkit-flex;
+                    width: auto !important;
                     align-items: center;
                     flex-direction: row;
                     padding: 0.25em;
