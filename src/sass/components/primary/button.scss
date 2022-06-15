@@ -110,7 +110,7 @@ button {
     }
 }
 
-@each $key, $color in $topic_range {
+@each $key, $color in $semantic_range {
     @for $i from -4 to 4{
         .btn-#{$key}-#{$i} {
             position:relative;

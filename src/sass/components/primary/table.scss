@@ -5,7 +5,7 @@
 @import "../../base/size";
 @import "../../base/font";
 
-@each $k, $v in $topic_range{
+@each $k, $v in $semantic_range{
     
     @for $i from -4 through 4{
         $co:color.scale($v, $whiteness: (math.abs($i)*20)*1%, $blackness: -(math.abs($i)*20)*1%);

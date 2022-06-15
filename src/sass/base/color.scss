@@ -13,35 +13,13 @@ $gray: #bbbbbb;
 $black: black;
 $white: white;
 
-$colors: (
-  //系统色
-  "white":      $white,
-  "black":      $black,
 
-  //主题色
-  "blue":       $blue,
-  "indigo":     $indigo,
-  "purple":     $purple,
-  
-  //info色
-  "gray":       $gray,
-  //street light色
-  "red":        $red,
-  "green":      $green,
-  "yellow":     $yellow,
-);
 // $color_range:1,2,3,4,500,600,700,800,900;
 //默认色定义:
 $background: $white;
 $textColor: $black;
 
 $main: $indigo;
-
-$main\+1: color.scale($main, $whiteness: 10*1%, $blackness: -10*1%);
-$main\+2: color.scale($main, $whiteness: 20*1%, $blackness: -20*1%);
-$main\+3: color.scale($main, $whiteness: 30*1%, $blackness: -30*1%);
-$main\+4: color.scale($main, $whiteness: 40*1%, $blackness: -40*1%);
-
 $minor: $purple;
 $less: $turquoise; 
 $info: $gray;
@@ -63,19 +41,6 @@ $semantic_range:(
     "warning":$warning,
     "error":$error,
     "success":$success
-);
-
-$topic_range:(
-    "main":$main,
-    "minor":$minor,
-    "less":$turquoise,
-);
-
-$message_range:(
-    "gray":$gray,
-    "warning":$yellow,
-    "error":$red, 
-    "success":$green, 
 );
 
 $positions:(

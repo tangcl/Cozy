@@ -12,18 +12,19 @@
     </head>
     <body>
         <div style="height:100%;width:100%;">
+           
             <div class="x-rotation">
-                <div id="full" style="position:absolute;top:0;left:0;min-width:100%;width:auto">  
+                <div id="full" style="position:absolute;top:0;left:0;min-width:100%;width:100%;">  
                     <div style="background-color:red;width:100%;">100</div>
                     <div style="background-color:blue;width:100%;">100</div>
+                    <div style="background-color:green;width:100%;">100</div>
                 </div>
-                <div style="position:absolute;z-index:10;top:0;left:0;width:100%;height:100%;background-color: transparent;">
-                    <button onclick="check1()">切换1</button>
-                    <button onclick="check2()">切换2</button>
-                    <button onclick="check3()">切换3</button>            
-                </div>
+                <div class="box-center" style="position:absolute;z-index:10;bottom:0;left:0;width:100%;height:2rem;display:flex;background-color: transparent;">
+                    <button  onclick="check1()">1</button>
+                    <button  onclick="check2()">2</button>
+                    <button  onclick="check3()">3</button>            
+                </div>     
             </div>
-                
         </div>
     </body>
     

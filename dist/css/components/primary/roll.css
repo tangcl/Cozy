@@ -1,7 +1,7 @@
 .x-rotation {
   position: relative;
   overflow: hidden;
-  height: 100%;
+  height: inherit;
   width: inherit;
   white-space: nowrap;
 }

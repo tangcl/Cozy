@@ -565,7 +565,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray {
+.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -685,7 +685,7 @@
   background-color: white !important;
 }
 
-.bg-white {
+.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
   background-color: white !important;
 }
 
@@ -805,7 +805,7 @@
   background-color: black !important;
 }
 
-.bg-black {
+.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
   background-color: black !important;
 }
 
@@ -1285,7 +1285,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info {
+.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -1405,7 +1405,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning {
+.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
   background-color: #cccc00 !important;
 }
 
@@ -1525,7 +1525,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error {
+.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
   background-color: #cc0000 !important;
 }
 
@@ -1645,7 +1645,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success {
+.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
   background-color: #00cc00 !important;
 }
 
@@ -1765,7 +1765,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray {
+.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -1885,7 +1885,7 @@
   background-color: white !important;
 }
 
-.bg-white {
+.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
   background-color: white !important;
 }
 
@@ -2005,7 +2005,7 @@
   background-color: black !important;
 }
 
-.bg-black {
+.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
   background-color: black !important;
 }
 
@@ -2485,7 +2485,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info {
+.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -2605,7 +2605,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning {
+.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
   background-color: #cccc00 !important;
 }
 
@@ -2725,7 +2725,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error {
+.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
   background-color: #cc0000 !important;
 }
 
@@ -2845,7 +2845,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success {
+.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
   background-color: #00cc00 !important;
 }
 
@@ -2965,7 +2965,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray {
+.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -3085,7 +3085,7 @@
   background-color: white !important;
 }
 
-.bg-white {
+.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
   background-color: white !important;
 }
 
@@ -3205,7 +3205,7 @@
   background-color: black !important;
 }
 
-.bg-black {
+.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
   background-color: black !important;
 }
 
@@ -3685,7 +3685,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info {
+.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -3805,7 +3805,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning {
+.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
   background-color: #cccc00 !important;
 }
 
@@ -3925,7 +3925,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error {
+.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
   background-color: #cc0000 !important;
 }
 
@@ -4045,7 +4045,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success {
+.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
   background-color: #00cc00 !important;
 }
 
@@ -4165,7 +4165,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray {
+.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -4285,7 +4285,7 @@
   background-color: white !important;
 }
 
-.bg-white {
+.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
   background-color: white !important;
 }
 
@@ -4405,7 +4405,7 @@
   background-color: black !important;
 }
 
-.bg-black {
+.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
   background-color: black !important;
 }
 
@@ -4885,7 +4885,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info {
+.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
   background-color: #bbbbbb !important;
 }
 
@@ -5005,7 +5005,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning {
+.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
   background-color: #cccc00 !important;
 }
 
@@ -5125,7 +5125,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error {
+.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
   background-color: #cc0000 !important;
 }
 
@@ -5245,7 +5245,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success {
+.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
   background-color: #00cc00 !important;
 }
 
@@ -5345,7 +5345,7 @@ button:active {
   border-radius: none !important;
 }
 
-.btn-size-4, .btn-black--4, .btn-white--4, .less-btn-4, .btn-less--4, .minor-btn-4, .btn-minor--4, .main-btn-4, .btn-main--4 {
+.btn-size-4, .success-btn-4, .btn-success--4, .error-btn-4, .btn-error--4, .warning-btn-4, .btn-warning--4, .info-btn-4, .btn-info--4, .less-btn-4, .btn-less--4, .minor-btn-4, .btn-minor--4, .main-btn-4, .btn-main--4, .black-btn-4, .btn-black--4, .white-btn-4, .btn-white--4, .gray-btn-4, .btn-gray--4 {
   height: 1rem !important;
   font-size: 0.5rem;
   line-height: 1.5em;
@@ -5391,7 +5391,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size-3, .btn-black--3, .btn-white--3, .less-btn-3, .btn-less--3, .minor-btn-3, .btn-minor--3, .main-btn-3, .btn-main--3 {
+.btn-size-3, .success-btn-3, .btn-success--3, .error-btn-3, .btn-error--3, .warning-btn-3, .btn-warning--3, .info-btn-3, .btn-info--3, .less-btn-3, .btn-less--3, .minor-btn-3, .btn-minor--3, .main-btn-3, .btn-main--3, .black-btn-3, .btn-black--3, .white-btn-3, .btn-white--3, .gray-btn-3, .btn-gray--3 {
   height: 1.25rem !important;
   font-size: 0.625rem;
   line-height: 1.5em;
@@ -5437,7 +5437,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size-2, .btn-black--2, .btn-white--2, .less-btn-2, .btn-less--2, .minor-btn-2, .btn-minor--2, .main-btn-2, .btn-main--2 {
+.btn-size-2, .success-btn-2, .btn-success--2, .error-btn-2, .btn-error--2, .warning-btn-2, .btn-warning--2, .info-btn-2, .btn-info--2, .less-btn-2, .btn-less--2, .minor-btn-2, .btn-minor--2, .main-btn-2, .btn-main--2, .black-btn-2, .btn-black--2, .white-btn-2, .btn-white--2, .gray-btn-2, .btn-gray--2 {
   height: 1.5rem !important;
   font-size: 0.75rem;
   line-height: 1.5em;
@@ -5483,7 +5483,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size-1, .btn-black--1, .btn-white--1, .less-btn-1, .btn-less--1, .minor-btn-1, .btn-minor--1, .main-btn-1, .btn-main--1 {
+.btn-size-1, .success-btn-1, .btn-success--1, .error-btn-1, .btn-error--1, .warning-btn-1, .btn-warning--1, .info-btn-1, .btn-info--1, .less-btn-1, .btn-less--1, .minor-btn-1, .btn-minor--1, .main-btn-1, .btn-main--1, .black-btn-1, .btn-black--1, .white-btn-1, .btn-white--1, .gray-btn-1, .btn-gray--1 {
   height: 1.75rem !important;
   font-size: 0.875rem;
   line-height: 1.5em;
@@ -5529,7 +5529,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size0, .btn-black, .btn-black-0, .btn-white, .btn-white-0, .less-btn, .btn-less, .less-btn0, .btn-less-0, .minor-btn, .btn-minor, .minor-btn0, .btn-minor-0, .main-btn, .btn-main, .main-btn0, .btn-main-0 {
+.btn-size0, .success-btn, .btn-success, .success-btn0, .btn-success-0, .error-btn, .btn-error, .error-btn0, .btn-error-0, .warning-btn, .btn-warning, .warning-btn0, .btn-warning-0, .info-btn, .btn-info, .info-btn0, .btn-info-0, .less-btn, .btn-less, .less-btn0, .btn-less-0, .minor-btn, .btn-minor, .minor-btn0, .btn-minor-0, .main-btn, .btn-main, .main-btn0, .btn-main-0, .black-btn, .btn-black, .black-btn0, .btn-black-0, .white-btn, .btn-white, .white-btn0, .btn-white-0, .gray-btn, .btn-gray, .gray-btn0, .btn-gray-0 {
   height: 2rem !important;
   font-size: 1rem;
   line-height: 1.5em;
@@ -5603,7 +5603,7 @@ button:active {
   text-align: center;
 }
 
-.btn-size1, .btn-black-1, .btn-white-1, .less-btn1, .btn-less-1, .minor-btn1, .btn-minor-1, .main-btn1, .btn-main-1 {
+.btn-size1, .success-btn1, .btn-success-1, .error-btn1, .btn-error-1, .warning-btn1, .btn-warning-1, .info-btn1, .btn-info-1, .less-btn1, .btn-less-1, .minor-btn1, .btn-minor-1, .main-btn1, .btn-main-1, .black-btn1, .btn-black-1, .white-btn1, .btn-white-1, .gray-btn1, .btn-gray-1 {
   height: 2.25rem !important;
   font-size: 1.125rem;
   line-height: 1.5em;
@@ -5649,7 +5649,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size2, .btn-black-2, .btn-white-2, .less-btn2, .btn-less-2, .minor-btn2, .btn-minor-2, .main-btn2, .btn-main-2 {
+.btn-size2, .success-btn2, .btn-success-2, .error-btn2, .btn-error-2, .warning-btn2, .btn-warning-2, .info-btn2, .btn-info-2, .less-btn2, .btn-less-2, .minor-btn2, .btn-minor-2, .main-btn2, .btn-main-2, .black-btn2, .btn-black-2, .white-btn2, .btn-white-2, .gray-btn2, .btn-gray-2 {
   height: 2.5rem !important;
   font-size: 1.25rem;
   line-height: 1.5em;
@@ -5695,7 +5695,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size3, .btn-black-3, .btn-white-3, .less-btn3, .btn-less-3, .minor-btn3, .btn-minor-3, .main-btn3, .btn-main-3 {
+.btn-size3, .success-btn3, .btn-success-3, .error-btn3, .btn-error-3, .warning-btn3, .btn-warning-3, .info-btn3, .btn-info-3, .less-btn3, .btn-less-3, .minor-btn3, .btn-minor-3, .main-btn3, .btn-main-3, .black-btn3, .btn-black-3, .white-btn3, .btn-white-3, .gray-btn3, .btn-gray-3 {
   height: 2.75rem !important;
   font-size: 1.375rem;
   line-height: 1.5em;
@@ -5785,6 +5785,3111 @@ button:active {
   padding: calc(0.25em - 2px) !important;
   border-top-right-radius: 4em;
   border-end-end-radius: 4em;
+}
+
+.btn-gray--4 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray--4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray--4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray--4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray--4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray--4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray--4[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn-4 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn-4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn-4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn-4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn-4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn-4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn-4[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray--3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray--3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray--3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray--3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray--3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray--3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray--3[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn-3 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray--2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray--2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray--2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray--2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray--2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray--2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray--2[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn-2 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray--1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray--1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray--1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray--1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray--1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray--1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn-1 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn0 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray-1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn1 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray-2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn2 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-gray-3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-gray-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-gray-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-gray-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-gray-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-gray-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-gray-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.gray-btn3 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.gray-btn3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.gray-btn3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.gray-btn3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.gray-btn3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.gray-btn3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.gray-btn3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white--4 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white--4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white--4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white--4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white--4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white--4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white--4[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn-4 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn-4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn-4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn-4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn-4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn-4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn-4[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white--3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white--3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white--3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white--3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white--3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white--3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white--3[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn-3 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white--2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white--2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white--2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white--2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white--2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white--2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white--2[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn-2 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white--1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white--1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white--1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white--1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white--1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white--1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn-1 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn0 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white-1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn1 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white-2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn2 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-white-3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-white-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-white-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-white-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-white-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-white-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-white-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.white-btn3 {
+  position: relative;
+  background-color: white;
+  color: white;
+  border: 1px solid white;
+}
+.white-btn3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.white-btn3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.white-btn3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.white-btn3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.white-btn3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.white-btn3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black--4 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black--4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black--4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black--4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black--4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black--4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black--4[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn-4 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn-4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn-4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn-4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn-4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn-4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn-4[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black--3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black--3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black--3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black--3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black--3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black--3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black--3[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn-3 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black--2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black--2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black--2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black--2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black--2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black--2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black--2[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn-2 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black--1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black--1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black--1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black--1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black--1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black--1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn-1 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn0 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black-1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn1 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black-2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn2 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-black-3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-black-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-black-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-black-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-black-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-black-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-black-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.black-btn3 {
+  position: relative;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.black-btn3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.black-btn3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.black-btn3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.black-btn3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.black-btn3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.black-btn3[disabled]:hover {
+  box-shadow: none;
 }
 
 .btn-main--4 {
@@ -8889,6 +11994,4146 @@ button:active {
   box-shadow: none;
 }
 .less-btn3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info--4 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info--4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info--4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info--4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info--4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info--4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info--4[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn-4 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn-4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn-4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn-4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn-4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn-4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn-4[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info--3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info--3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info--3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info--3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info--3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info--3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info--3[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn-3 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info--2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info--2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info--2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info--2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info--2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info--2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info--2[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn-2 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info--1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info--1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info--1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info--1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info--1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info--1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn-1 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn0 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info-1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn1 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info-2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn2 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-info-3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-info-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-info-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-info-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-info-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-info-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-info-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.info-btn3 {
+  position: relative;
+  background-color: white;
+  color: #bbbbbb;
+  border: 1px solid #bbbbbb;
+}
+.info-btn3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.info-btn3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.info-btn3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.info-btn3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.info-btn3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.info-btn3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning--4 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning--4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning--4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning--4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning--4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning--4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning--4[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn-4 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn-4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn-4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn-4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn-4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn-4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn-4[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning--3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning--3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning--3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning--3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning--3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning--3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning--3[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn-3 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning--2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning--2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning--2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning--2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning--2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning--2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning--2[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn-2 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning--1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning--1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning--1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning--1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning--1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning--1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn-1 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn0 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning-1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn1 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning-2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn2 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-warning-3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-warning-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-warning-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-warning-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-warning-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-warning-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-warning-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.warning-btn3 {
+  position: relative;
+  background-color: white;
+  color: #cccc00;
+  border: 1px solid #cccc00;
+}
+.warning-btn3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.warning-btn3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.warning-btn3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.warning-btn3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.warning-btn3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.warning-btn3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error--4 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error--4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error--4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error--4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error--4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error--4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error--4[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn-4 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn-4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn-4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn-4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn-4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn-4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn-4[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error--3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error--3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error--3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error--3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error--3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error--3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error--3[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn-3 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error--2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error--2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error--2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error--2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error--2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error--2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error--2[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn-2 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error--1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error--1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error--1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error--1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error--1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error--1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn-1 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn0 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error-1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn1 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error-2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn2 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-error-3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-error-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-error-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-error-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-error-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-error-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-error-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.error-btn3 {
+  position: relative;
+  background-color: white;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+}
+.error-btn3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.error-btn3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.error-btn3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.error-btn3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.error-btn3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.error-btn3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success--4 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success--4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success--4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success--4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success--4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success--4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success--4[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn-4 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn-4::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn-4:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn-4:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn-4[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn-4[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn-4[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success--3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success--3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success--3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success--3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success--3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success--3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success--3[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn-3 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success--2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success--2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success--2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success--2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success--2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success--2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success--2[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn-2 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success--1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success--1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success--1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success--1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success--1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success--1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success--1[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn-1 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success-0 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success-0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success-0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success-0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success-0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success-0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success-0[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn0 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn0::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn0:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn0:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn0[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn0[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn0[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success-1 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success-1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success-1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success-1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success-1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success-1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success-1[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn1 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn1::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn1:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn1:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn1[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn1[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn1[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success-2 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success-2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success-2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success-2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success-2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success-2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success-2[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn2 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn2::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn2:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn2:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn2[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn2[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn2[disabled]:hover {
+  box-shadow: none;
+}
+
+.btn-success-3 {
+  position: relative;
+  color: white;
+  border: 1px solid transparent;
+}
+.btn-success-3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn-success-3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.btn-success-3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.btn-success-3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-success-3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.btn-success-3[disabled]:hover {
+  box-shadow: none;
+}
+
+.success-btn3 {
+  position: relative;
+  background-color: white;
+  color: #00cc00;
+  border: 1px solid #00cc00;
+}
+.success-btn3::before {
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0);
+}
+.success-btn3:hover::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.success-btn3:active::before {
+  cursor: pointer;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.success-btn3[disabled]:before {
+  cursor: not-allowed;
+  content: "";
+  top: -1px;
+  left: -1px;
+  position: absolute;
+  border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.success-btn3[disabled] {
+  cursor: not-allowed;
+  border-radius: inherit;
+  box-shadow: none;
+}
+.success-btn3[disabled]:hover {
   box-shadow: none;
 }
 

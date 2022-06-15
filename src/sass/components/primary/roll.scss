@@ -1,8 +1,7 @@
 .x-rotation {
-    position: relative;
-    
+    position: relative;    
     overflow: hidden;
-    height: 100%;
+    height: inherit;
     width: inherit;
     white-space:nowrap;
 }
@@ -12,9 +11,7 @@
 .x-rotation>div{
     // position:absolute;
     height:inherit;
-
     float:left;
-    
     &>div{
         float:left;
         width: 100%;
