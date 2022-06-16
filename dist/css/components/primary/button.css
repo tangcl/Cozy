@@ -565,7 +565,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
+.bg-gray, .btn-gray3, .btn-gray2, .btn-gray1, .btn-gray, .btn-gray0, .btn-gray-1, .btn-gray-2, .btn-gray-3, .btn-gray-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -685,7 +685,7 @@
   background-color: white !important;
 }
 
-.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
+.bg-white, .btn-white3, .btn-white2, .btn-white1, .btn-white, .btn-white0, .btn-white-1, .btn-white-2, .btn-white-3, .btn-white-4 {
   background-color: white !important;
 }
 
@@ -805,7 +805,7 @@
   background-color: black !important;
 }
 
-.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
+.bg-black, .btn-black3, .btn-black2, .btn-black1, .btn-black, .btn-black0, .btn-black-1, .btn-black-2, .btn-black-3, .btn-black-4 {
   background-color: black !important;
 }
 
@@ -925,7 +925,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
+.bg-main, .btn-main3, .btn-main2, .btn-main1, .btn-main, .btn-main0, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4 {
   background-color: #7700cc !important;
 }
 
@@ -1045,7 +1045,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
+.bg-minor, .btn-minor3, .btn-minor2, .btn-minor1, .btn-minor, .btn-minor0, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4 {
   background-color: #cc00cc !important;
 }
 
@@ -1165,7 +1165,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
+.bg-less, .btn-less3, .btn-less2, .btn-less1, .btn-less, .btn-less0, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4 {
   background-color: #00cccc !important;
 }
 
@@ -1285,7 +1285,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
+.bg-info, .btn-info3, .btn-info2, .btn-info1, .btn-info, .btn-info0, .btn-info-1, .btn-info-2, .btn-info-3, .btn-info-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -1405,7 +1405,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
+.bg-warning, .btn-warning3, .btn-warning2, .btn-warning1, .btn-warning, .btn-warning0, .btn-warning-1, .btn-warning-2, .btn-warning-3, .btn-warning-4 {
   background-color: #cccc00 !important;
 }
 
@@ -1525,7 +1525,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
+.bg-error, .btn-error3, .btn-error2, .btn-error1, .btn-error, .btn-error0, .btn-error-1, .btn-error-2, .btn-error-3, .btn-error-4 {
   background-color: #cc0000 !important;
 }
 
@@ -1645,7 +1645,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
+.bg-success, .btn-success3, .btn-success2, .btn-success1, .btn-success, .btn-success0, .btn-success-1, .btn-success-2, .btn-success-3, .btn-success-4 {
   background-color: #00cc00 !important;
 }
 
@@ -1765,7 +1765,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
+.bg-gray, .btn-gray3, .btn-gray2, .btn-gray1, .btn-gray, .btn-gray0, .btn-gray-1, .btn-gray-2, .btn-gray-3, .btn-gray-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -1885,7 +1885,7 @@
   background-color: white !important;
 }
 
-.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
+.bg-white, .btn-white3, .btn-white2, .btn-white1, .btn-white, .btn-white0, .btn-white-1, .btn-white-2, .btn-white-3, .btn-white-4 {
   background-color: white !important;
 }
 
@@ -2005,7 +2005,7 @@
   background-color: black !important;
 }
 
-.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
+.bg-black, .btn-black3, .btn-black2, .btn-black1, .btn-black, .btn-black0, .btn-black-1, .btn-black-2, .btn-black-3, .btn-black-4 {
   background-color: black !important;
 }
 
@@ -2125,7 +2125,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
+.bg-main, .btn-main3, .btn-main2, .btn-main1, .btn-main, .btn-main0, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4 {
   background-color: #7700cc !important;
 }
 
@@ -2245,7 +2245,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
+.bg-minor, .btn-minor3, .btn-minor2, .btn-minor1, .btn-minor, .btn-minor0, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4 {
   background-color: #cc00cc !important;
 }
 
@@ -2365,7 +2365,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
+.bg-less, .btn-less3, .btn-less2, .btn-less1, .btn-less, .btn-less0, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4 {
   background-color: #00cccc !important;
 }
 
@@ -2485,7 +2485,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
+.bg-info, .btn-info3, .btn-info2, .btn-info1, .btn-info, .btn-info0, .btn-info-1, .btn-info-2, .btn-info-3, .btn-info-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -2605,7 +2605,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
+.bg-warning, .btn-warning3, .btn-warning2, .btn-warning1, .btn-warning, .btn-warning0, .btn-warning-1, .btn-warning-2, .btn-warning-3, .btn-warning-4 {
   background-color: #cccc00 !important;
 }
 
@@ -2725,7 +2725,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
+.bg-error, .btn-error3, .btn-error2, .btn-error1, .btn-error, .btn-error0, .btn-error-1, .btn-error-2, .btn-error-3, .btn-error-4 {
   background-color: #cc0000 !important;
 }
 
@@ -2845,7 +2845,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
+.bg-success, .btn-success3, .btn-success2, .btn-success1, .btn-success, .btn-success0, .btn-success-1, .btn-success-2, .btn-success-3, .btn-success-4 {
   background-color: #00cc00 !important;
 }
 
@@ -2965,7 +2965,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
+.bg-gray, .btn-gray3, .btn-gray2, .btn-gray1, .btn-gray, .btn-gray0, .btn-gray-1, .btn-gray-2, .btn-gray-3, .btn-gray-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -3085,7 +3085,7 @@
   background-color: white !important;
 }
 
-.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
+.bg-white, .btn-white3, .btn-white2, .btn-white1, .btn-white, .btn-white0, .btn-white-1, .btn-white-2, .btn-white-3, .btn-white-4 {
   background-color: white !important;
 }
 
@@ -3205,7 +3205,7 @@
   background-color: black !important;
 }
 
-.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
+.bg-black, .btn-black3, .btn-black2, .btn-black1, .btn-black, .btn-black0, .btn-black-1, .btn-black-2, .btn-black-3, .btn-black-4 {
   background-color: black !important;
 }
 
@@ -3325,7 +3325,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
+.bg-main, .btn-main3, .btn-main2, .btn-main1, .btn-main, .btn-main0, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4 {
   background-color: #7700cc !important;
 }
 
@@ -3445,7 +3445,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
+.bg-minor, .btn-minor3, .btn-minor2, .btn-minor1, .btn-minor, .btn-minor0, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4 {
   background-color: #cc00cc !important;
 }
 
@@ -3565,7 +3565,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
+.bg-less, .btn-less3, .btn-less2, .btn-less1, .btn-less, .btn-less0, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4 {
   background-color: #00cccc !important;
 }
 
@@ -3685,7 +3685,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
+.bg-info, .btn-info3, .btn-info2, .btn-info1, .btn-info, .btn-info0, .btn-info-1, .btn-info-2, .btn-info-3, .btn-info-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -3805,7 +3805,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
+.bg-warning, .btn-warning3, .btn-warning2, .btn-warning1, .btn-warning, .btn-warning0, .btn-warning-1, .btn-warning-2, .btn-warning-3, .btn-warning-4 {
   background-color: #cccc00 !important;
 }
 
@@ -3925,7 +3925,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
+.bg-error, .btn-error3, .btn-error2, .btn-error1, .btn-error, .btn-error0, .btn-error-1, .btn-error-2, .btn-error-3, .btn-error-4 {
   background-color: #cc0000 !important;
 }
 
@@ -4045,7 +4045,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
+.bg-success, .btn-success3, .btn-success2, .btn-success1, .btn-success, .btn-success0, .btn-success-1, .btn-success-2, .btn-success-3, .btn-success-4 {
   background-color: #00cc00 !important;
 }
 
@@ -4165,7 +4165,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-gray, .btn-gray-3, .btn-gray-2, .btn-gray-1, .btn-gray, .btn-gray-0, .btn-gray--1, .btn-gray--2, .btn-gray--3, .btn-gray--4 {
+.bg-gray, .btn-gray3, .btn-gray2, .btn-gray1, .btn-gray, .btn-gray0, .btn-gray-1, .btn-gray-2, .btn-gray-3, .btn-gray-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -4285,7 +4285,7 @@
   background-color: white !important;
 }
 
-.bg-white, .btn-white-3, .btn-white-2, .btn-white-1, .btn-white, .btn-white-0, .btn-white--1, .btn-white--2, .btn-white--3, .btn-white--4 {
+.bg-white, .btn-white3, .btn-white2, .btn-white1, .btn-white, .btn-white0, .btn-white-1, .btn-white-2, .btn-white-3, .btn-white-4 {
   background-color: white !important;
 }
 
@@ -4405,7 +4405,7 @@
   background-color: black !important;
 }
 
-.bg-black, .btn-black-3, .btn-black-2, .btn-black-1, .btn-black, .btn-black-0, .btn-black--1, .btn-black--2, .btn-black--3, .btn-black--4 {
+.bg-black, .btn-black3, .btn-black2, .btn-black1, .btn-black, .btn-black0, .btn-black-1, .btn-black-2, .btn-black-3, .btn-black-4 {
   background-color: black !important;
 }
 
@@ -4525,7 +4525,7 @@
   background-color: #7700cc !important;
 }
 
-.bg-main, .btn-main-3, .btn-main-2, .btn-main-1, .btn-main, .btn-main-0, .btn-main--1, .btn-main--2, .btn-main--3, .btn-main--4 {
+.bg-main, .btn-main3, .btn-main2, .btn-main1, .btn-main, .btn-main0, .btn-main-1, .btn-main-2, .btn-main-3, .btn-main-4 {
   background-color: #7700cc !important;
 }
 
@@ -4645,7 +4645,7 @@
   background-color: #cc00cc !important;
 }
 
-.bg-minor, .btn-minor-3, .btn-minor-2, .btn-minor-1, .btn-minor, .btn-minor-0, .btn-minor--1, .btn-minor--2, .btn-minor--3, .btn-minor--4 {
+.bg-minor, .btn-minor3, .btn-minor2, .btn-minor1, .btn-minor, .btn-minor0, .btn-minor-1, .btn-minor-2, .btn-minor-3, .btn-minor-4 {
   background-color: #cc00cc !important;
 }
 
@@ -4765,7 +4765,7 @@
   background-color: #00cccc !important;
 }
 
-.bg-less, .btn-less-3, .btn-less-2, .btn-less-1, .btn-less, .btn-less-0, .btn-less--1, .btn-less--2, .btn-less--3, .btn-less--4 {
+.bg-less, .btn-less3, .btn-less2, .btn-less1, .btn-less, .btn-less0, .btn-less-1, .btn-less-2, .btn-less-3, .btn-less-4 {
   background-color: #00cccc !important;
 }
 
@@ -4885,7 +4885,7 @@
   background-color: #bbbbbb !important;
 }
 
-.bg-info, .btn-info-3, .btn-info-2, .btn-info-1, .btn-info, .btn-info-0, .btn-info--1, .btn-info--2, .btn-info--3, .btn-info--4 {
+.bg-info, .btn-info3, .btn-info2, .btn-info1, .btn-info, .btn-info0, .btn-info-1, .btn-info-2, .btn-info-3, .btn-info-4 {
   background-color: #bbbbbb !important;
 }
 
@@ -5005,7 +5005,7 @@
   background-color: #cccc00 !important;
 }
 
-.bg-warning, .btn-warning-3, .btn-warning-2, .btn-warning-1, .btn-warning, .btn-warning-0, .btn-warning--1, .btn-warning--2, .btn-warning--3, .btn-warning--4 {
+.bg-warning, .btn-warning3, .btn-warning2, .btn-warning1, .btn-warning, .btn-warning0, .btn-warning-1, .btn-warning-2, .btn-warning-3, .btn-warning-4 {
   background-color: #cccc00 !important;
 }
 
@@ -5125,7 +5125,7 @@
   background-color: #cc0000 !important;
 }
 
-.bg-error, .btn-error-3, .btn-error-2, .btn-error-1, .btn-error, .btn-error-0, .btn-error--1, .btn-error--2, .btn-error--3, .btn-error--4 {
+.bg-error, .btn-error3, .btn-error2, .btn-error1, .btn-error, .btn-error0, .btn-error-1, .btn-error-2, .btn-error-3, .btn-error-4 {
   background-color: #cc0000 !important;
 }
 
@@ -5245,7 +5245,7 @@
   background-color: #00cc00 !important;
 }
 
-.bg-success, .btn-success-3, .btn-success-2, .btn-success-1, .btn-success, .btn-success-0, .btn-success--1, .btn-success--2, .btn-success--3, .btn-success--4 {
+.bg-success, .btn-success3, .btn-success2, .btn-success1, .btn-success, .btn-success0, .btn-success-1, .btn-success-2, .btn-success-3, .btn-success-4 {
   background-color: #00cc00 !important;
 }
 
@@ -5345,7 +5345,7 @@ button:active {
   border-radius: none !important;
 }
 
-.btn-size-4, .success-btn-4, .btn-success--4, .error-btn-4, .btn-error--4, .warning-btn-4, .btn-warning--4, .info-btn-4, .btn-info--4, .less-btn-4, .btn-less--4, .minor-btn-4, .btn-minor--4, .main-btn-4, .btn-main--4, .black-btn-4, .btn-black--4, .white-btn-4, .btn-white--4, .gray-btn-4, .btn-gray--4 {
+.btn-size-4, .btn-black--4, .btn-white--4, .success-btn-4, .btn-success-4, .error-btn-4, .btn-error-4, .warning-btn-4, .btn-warning-4, .info-btn-4, .btn-info-4, .less-btn-4, .btn-less-4, .minor-btn-4, .btn-minor-4, .main-btn-4, .btn-main-4, .black-btn-4, .btn-black-4, .white-btn-4, .btn-white-4, .gray-btn-4, .btn-gray-4 {
   height: 1rem !important;
   font-size: 0.5rem;
   line-height: 1.5em;
@@ -5391,7 +5391,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size-3, .success-btn-3, .btn-success--3, .error-btn-3, .btn-error--3, .warning-btn-3, .btn-warning--3, .info-btn-3, .btn-info--3, .less-btn-3, .btn-less--3, .minor-btn-3, .btn-minor--3, .main-btn-3, .btn-main--3, .black-btn-3, .btn-black--3, .white-btn-3, .btn-white--3, .gray-btn-3, .btn-gray--3 {
+.btn-size-3, .btn-black--3, .btn-white--3, .success-btn-3, .btn-success-3, .error-btn-3, .btn-error-3, .warning-btn-3, .btn-warning-3, .info-btn-3, .btn-info-3, .less-btn-3, .btn-less-3, .minor-btn-3, .btn-minor-3, .main-btn-3, .btn-main-3, .black-btn-3, .btn-black-3, .white-btn-3, .btn-white-3, .gray-btn-3, .btn-gray-3 {
   height: 1.25rem !important;
   font-size: 0.625rem;
   line-height: 1.5em;
@@ -5437,7 +5437,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size-2, .success-btn-2, .btn-success--2, .error-btn-2, .btn-error--2, .warning-btn-2, .btn-warning--2, .info-btn-2, .btn-info--2, .less-btn-2, .btn-less--2, .minor-btn-2, .btn-minor--2, .main-btn-2, .btn-main--2, .black-btn-2, .btn-black--2, .white-btn-2, .btn-white--2, .gray-btn-2, .btn-gray--2 {
+.btn-size-2, .btn-black--2, .btn-white--2, .success-btn-2, .btn-success-2, .error-btn-2, .btn-error-2, .warning-btn-2, .btn-warning-2, .info-btn-2, .btn-info-2, .less-btn-2, .btn-less-2, .minor-btn-2, .btn-minor-2, .main-btn-2, .btn-main-2, .black-btn-2, .btn-black-2, .white-btn-2, .btn-white-2, .gray-btn-2, .btn-gray-2 {
   height: 1.5rem !important;
   font-size: 0.75rem;
   line-height: 1.5em;
@@ -5483,7 +5483,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size-1, .success-btn-1, .btn-success--1, .error-btn-1, .btn-error--1, .warning-btn-1, .btn-warning--1, .info-btn-1, .btn-info--1, .less-btn-1, .btn-less--1, .minor-btn-1, .btn-minor--1, .main-btn-1, .btn-main--1, .black-btn-1, .btn-black--1, .white-btn-1, .btn-white--1, .gray-btn-1, .btn-gray--1 {
+.btn-size-1, .btn-black--1, .btn-white--1, .success-btn-1, .btn-success-1, .error-btn-1, .btn-error-1, .warning-btn-1, .btn-warning-1, .info-btn-1, .btn-info-1, .less-btn-1, .btn-less-1, .minor-btn-1, .btn-minor-1, .main-btn-1, .btn-main-1, .black-btn-1, .btn-black-1, .white-btn-1, .btn-white-1, .gray-btn-1, .btn-gray-1 {
   height: 1.75rem !important;
   font-size: 0.875rem;
   line-height: 1.5em;
@@ -5529,7 +5529,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size0, .success-btn, .btn-success, .success-btn0, .btn-success-0, .error-btn, .btn-error, .error-btn0, .btn-error-0, .warning-btn, .btn-warning, .warning-btn0, .btn-warning-0, .info-btn, .btn-info, .info-btn0, .btn-info-0, .less-btn, .btn-less, .less-btn0, .btn-less-0, .minor-btn, .btn-minor, .minor-btn0, .btn-minor-0, .main-btn, .btn-main, .main-btn0, .btn-main-0, .black-btn, .btn-black, .black-btn0, .btn-black-0, .white-btn, .btn-white, .white-btn0, .btn-white-0, .gray-btn, .btn-gray, .gray-btn0, .btn-gray-0 {
+.btn-size0, .btn-black-0, .btn-white-0, .success-btn, .btn-success, .success-btn0, .btn-success0, .error-btn, .btn-error, .error-btn0, .btn-error0, .warning-btn, .btn-warning, .warning-btn0, .btn-warning0, .info-btn, .btn-info, .info-btn0, .btn-info0, .less-btn, .btn-less, .less-btn0, .btn-less0, .minor-btn, .btn-minor, .minor-btn0, .btn-minor0, .main-btn, .btn-main, .main-btn0, .btn-main0, .black-btn, .btn-black, .black-btn0, .btn-black0, .white-btn, .btn-white, .white-btn0, .btn-white0, .gray-btn, .btn-gray, .gray-btn0, .btn-gray0 {
   height: 2rem !important;
   font-size: 1rem;
   line-height: 1.5em;
@@ -5603,7 +5603,7 @@ button:active {
   text-align: center;
 }
 
-.btn-size1, .success-btn1, .btn-success-1, .error-btn1, .btn-error-1, .warning-btn1, .btn-warning-1, .info-btn1, .btn-info-1, .less-btn1, .btn-less-1, .minor-btn1, .btn-minor-1, .main-btn1, .btn-main-1, .black-btn1, .btn-black-1, .white-btn1, .btn-white-1, .gray-btn1, .btn-gray-1 {
+.btn-size1, .btn-black-1, .btn-white-1, .success-btn1, .btn-success1, .error-btn1, .btn-error1, .warning-btn1, .btn-warning1, .info-btn1, .btn-info1, .less-btn1, .btn-less1, .minor-btn1, .btn-minor1, .main-btn1, .btn-main1, .black-btn1, .btn-black1, .white-btn1, .btn-white1, .gray-btn1, .btn-gray1 {
   height: 2.25rem !important;
   font-size: 1.125rem;
   line-height: 1.5em;
@@ -5649,7 +5649,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size2, .success-btn2, .btn-success-2, .error-btn2, .btn-error-2, .warning-btn2, .btn-warning-2, .info-btn2, .btn-info-2, .less-btn2, .btn-less-2, .minor-btn2, .btn-minor-2, .main-btn2, .btn-main-2, .black-btn2, .btn-black-2, .white-btn2, .btn-white-2, .gray-btn2, .btn-gray-2 {
+.btn-size2, .btn-black-2, .btn-white-2, .success-btn2, .btn-success2, .error-btn2, .btn-error2, .warning-btn2, .btn-warning2, .info-btn2, .btn-info2, .less-btn2, .btn-less2, .minor-btn2, .btn-minor2, .main-btn2, .btn-main2, .black-btn2, .btn-black2, .white-btn2, .btn-white2, .gray-btn2, .btn-gray2 {
   height: 2.5rem !important;
   font-size: 1.25rem;
   line-height: 1.5em;
@@ -5695,7 +5695,7 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-size3, .success-btn3, .btn-success-3, .error-btn3, .btn-error-3, .warning-btn3, .btn-warning-3, .info-btn3, .btn-info-3, .less-btn3, .btn-less-3, .minor-btn3, .btn-minor-3, .main-btn3, .btn-main-3, .black-btn3, .btn-black-3, .white-btn3, .btn-white-3, .gray-btn3, .btn-gray-3 {
+.btn-size3, .btn-black-3, .btn-white-3, .success-btn3, .btn-success3, .error-btn3, .btn-error3, .warning-btn3, .btn-warning3, .info-btn3, .btn-info3, .less-btn3, .btn-less3, .minor-btn3, .btn-minor3, .main-btn3, .btn-main3, .black-btn3, .btn-black3, .white-btn3, .btn-white3, .gray-btn3, .btn-gray3 {
   height: 2.75rem !important;
   font-size: 1.375rem;
   line-height: 1.5em;
@@ -5787,12 +5787,12 @@ button:active {
   border-end-end-radius: 4em;
 }
 
-.btn-gray--4 {
+.btn-gray-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray--4::before {
+.btn-gray-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5802,7 +5802,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray--4:hover::before {
+.btn-gray-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5813,7 +5813,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray--4:active::before {
+.btn-gray-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5824,7 +5824,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray--4[disabled]:before {
+.btn-gray-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5835,12 +5835,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray--4[disabled] {
+.btn-gray-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray--4[disabled]:hover {
+.btn-gray-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -5902,12 +5902,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-gray--3 {
+.btn-gray-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray--3::before {
+.btn-gray-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -5917,7 +5917,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray--3:hover::before {
+.btn-gray-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5928,7 +5928,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray--3:active::before {
+.btn-gray-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -5939,7 +5939,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray--3[disabled]:before {
+.btn-gray-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -5950,12 +5950,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray--3[disabled] {
+.btn-gray-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray--3[disabled]:hover {
+.btn-gray-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6017,12 +6017,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-gray--2 {
+.btn-gray-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray--2::before {
+.btn-gray-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6032,7 +6032,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray--2:hover::before {
+.btn-gray-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6043,7 +6043,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray--2:active::before {
+.btn-gray-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6054,7 +6054,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray--2[disabled]:before {
+.btn-gray-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6065,12 +6065,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray--2[disabled] {
+.btn-gray-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray--2[disabled]:hover {
+.btn-gray-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6132,12 +6132,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-gray--1 {
+.btn-gray-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray--1::before {
+.btn-gray-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6147,7 +6147,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray--1:hover::before {
+.btn-gray-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6158,7 +6158,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray--1:active::before {
+.btn-gray-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6169,7 +6169,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray--1[disabled]:before {
+.btn-gray-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6180,12 +6180,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray--1[disabled] {
+.btn-gray-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray--1[disabled]:hover {
+.btn-gray-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6247,12 +6247,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-gray-0 {
+.btn-gray0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray-0::before {
+.btn-gray0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6262,7 +6262,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray-0:hover::before {
+.btn-gray0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6273,7 +6273,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray-0:active::before {
+.btn-gray0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6284,7 +6284,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray-0[disabled]:before {
+.btn-gray0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6295,12 +6295,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray-0[disabled] {
+.btn-gray0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray-0[disabled]:hover {
+.btn-gray0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6477,12 +6477,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-gray-1 {
+.btn-gray1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray-1::before {
+.btn-gray1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6492,7 +6492,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray-1:hover::before {
+.btn-gray1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6503,7 +6503,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray-1:active::before {
+.btn-gray1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6514,7 +6514,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray-1[disabled]:before {
+.btn-gray1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6525,12 +6525,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray-1[disabled] {
+.btn-gray1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray-1[disabled]:hover {
+.btn-gray1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6592,12 +6592,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-gray-2 {
+.btn-gray2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray-2::before {
+.btn-gray2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6607,7 +6607,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray-2:hover::before {
+.btn-gray2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6618,7 +6618,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray-2:active::before {
+.btn-gray2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6629,7 +6629,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray-2[disabled]:before {
+.btn-gray2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6640,12 +6640,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray-2[disabled] {
+.btn-gray2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray-2[disabled]:hover {
+.btn-gray2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6707,12 +6707,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-gray-3 {
+.btn-gray3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-gray-3::before {
+.btn-gray3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6722,7 +6722,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-gray-3:hover::before {
+.btn-gray3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6733,7 +6733,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-gray-3:active::before {
+.btn-gray3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6744,7 +6744,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-gray-3[disabled]:before {
+.btn-gray3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6755,12 +6755,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-gray-3[disabled] {
+.btn-gray3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-gray-3[disabled]:hover {
+.btn-gray3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6822,12 +6822,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white--4 {
+.btn-white-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white--4::before {
+.btn-white-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6837,7 +6837,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white--4:hover::before {
+.btn-white-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6848,7 +6848,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white--4:active::before {
+.btn-white-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6859,7 +6859,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white--4[disabled]:before {
+.btn-white-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6870,12 +6870,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white--4[disabled] {
+.btn-white-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white--4[disabled]:hover {
+.btn-white-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -6937,12 +6937,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white--3 {
+.btn-white-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white--3::before {
+.btn-white-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -6952,7 +6952,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white--3:hover::before {
+.btn-white-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6963,7 +6963,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white--3:active::before {
+.btn-white-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -6974,7 +6974,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white--3[disabled]:before {
+.btn-white-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -6985,12 +6985,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white--3[disabled] {
+.btn-white-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white--3[disabled]:hover {
+.btn-white-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7052,12 +7052,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white--2 {
+.btn-white-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white--2::before {
+.btn-white-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7067,7 +7067,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white--2:hover::before {
+.btn-white-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7078,7 +7078,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white--2:active::before {
+.btn-white-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7089,7 +7089,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white--2[disabled]:before {
+.btn-white-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7100,12 +7100,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white--2[disabled] {
+.btn-white-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white--2[disabled]:hover {
+.btn-white-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7167,12 +7167,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white--1 {
+.btn-white-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white--1::before {
+.btn-white-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7182,7 +7182,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white--1:hover::before {
+.btn-white-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7193,7 +7193,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white--1:active::before {
+.btn-white-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7204,7 +7204,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white--1[disabled]:before {
+.btn-white-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7215,12 +7215,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white--1[disabled] {
+.btn-white-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white--1[disabled]:hover {
+.btn-white-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7282,12 +7282,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white-0 {
+.btn-white0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white-0::before {
+.btn-white0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7297,7 +7297,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-0:hover::before {
+.btn-white0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7308,7 +7308,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-0:active::before {
+.btn-white0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7319,7 +7319,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-0[disabled]:before {
+.btn-white0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7330,12 +7330,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-0[disabled] {
+.btn-white0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-0[disabled]:hover {
+.btn-white0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7512,12 +7512,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white-1 {
+.btn-white1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white-1::before {
+.btn-white1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7527,7 +7527,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-1:hover::before {
+.btn-white1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7538,7 +7538,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-1:active::before {
+.btn-white1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7549,7 +7549,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-1[disabled]:before {
+.btn-white1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7560,12 +7560,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-1[disabled] {
+.btn-white1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-1[disabled]:hover {
+.btn-white1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7627,12 +7627,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white-2 {
+.btn-white2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white-2::before {
+.btn-white2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7642,7 +7642,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-2:hover::before {
+.btn-white2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7653,7 +7653,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-2:active::before {
+.btn-white2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7664,7 +7664,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-2[disabled]:before {
+.btn-white2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7675,12 +7675,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-2[disabled] {
+.btn-white2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-2[disabled]:hover {
+.btn-white2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7742,12 +7742,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-white-3 {
+.btn-white3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-white-3::before {
+.btn-white3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7757,7 +7757,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-white-3:hover::before {
+.btn-white3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7768,7 +7768,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-white-3:active::before {
+.btn-white3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7779,7 +7779,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-white-3[disabled]:before {
+.btn-white3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7790,12 +7790,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-white-3[disabled] {
+.btn-white3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-white-3[disabled]:hover {
+.btn-white3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7857,12 +7857,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black--4 {
+.btn-black-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black--4::before {
+.btn-black-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7872,7 +7872,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black--4:hover::before {
+.btn-black-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7883,7 +7883,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black--4:active::before {
+.btn-black-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7894,7 +7894,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black--4[disabled]:before {
+.btn-black-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -7905,12 +7905,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black--4[disabled] {
+.btn-black-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black--4[disabled]:hover {
+.btn-black-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -7972,12 +7972,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black--3 {
+.btn-black-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black--3::before {
+.btn-black-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -7987,7 +7987,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black--3:hover::before {
+.btn-black-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -7998,7 +7998,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black--3:active::before {
+.btn-black-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8009,7 +8009,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black--3[disabled]:before {
+.btn-black-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8020,12 +8020,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black--3[disabled] {
+.btn-black-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black--3[disabled]:hover {
+.btn-black-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8087,12 +8087,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black--2 {
+.btn-black-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black--2::before {
+.btn-black-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8102,7 +8102,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black--2:hover::before {
+.btn-black-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8113,7 +8113,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black--2:active::before {
+.btn-black-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8124,7 +8124,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black--2[disabled]:before {
+.btn-black-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8135,12 +8135,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black--2[disabled] {
+.btn-black-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black--2[disabled]:hover {
+.btn-black-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8202,12 +8202,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black--1 {
+.btn-black-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black--1::before {
+.btn-black-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8217,7 +8217,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black--1:hover::before {
+.btn-black-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8228,7 +8228,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black--1:active::before {
+.btn-black-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8239,7 +8239,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black--1[disabled]:before {
+.btn-black-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8250,12 +8250,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black--1[disabled] {
+.btn-black-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black--1[disabled]:hover {
+.btn-black-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8317,12 +8317,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black-0 {
+.btn-black0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black-0::before {
+.btn-black0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8332,7 +8332,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black-0:hover::before {
+.btn-black0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8343,7 +8343,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black-0:active::before {
+.btn-black0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8354,7 +8354,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black-0[disabled]:before {
+.btn-black0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8365,12 +8365,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black-0[disabled] {
+.btn-black0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black-0[disabled]:hover {
+.btn-black0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8547,12 +8547,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black-1 {
+.btn-black1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black-1::before {
+.btn-black1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8562,7 +8562,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black-1:hover::before {
+.btn-black1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8573,7 +8573,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black-1:active::before {
+.btn-black1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8584,7 +8584,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black-1[disabled]:before {
+.btn-black1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8595,12 +8595,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black-1[disabled] {
+.btn-black1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black-1[disabled]:hover {
+.btn-black1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8662,12 +8662,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black-2 {
+.btn-black2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black-2::before {
+.btn-black2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8677,7 +8677,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black-2:hover::before {
+.btn-black2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8688,7 +8688,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black-2:active::before {
+.btn-black2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8699,7 +8699,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black-2[disabled]:before {
+.btn-black2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8710,12 +8710,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black-2[disabled] {
+.btn-black2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black-2[disabled]:hover {
+.btn-black2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8777,12 +8777,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-black-3 {
+.btn-black3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-black-3::before {
+.btn-black3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8792,7 +8792,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-black-3:hover::before {
+.btn-black3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8803,7 +8803,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-black-3:active::before {
+.btn-black3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8814,7 +8814,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-black-3[disabled]:before {
+.btn-black3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8825,12 +8825,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-black-3[disabled] {
+.btn-black3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-black-3[disabled]:hover {
+.btn-black3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -8892,12 +8892,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main--4 {
+.btn-main-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main--4::before {
+.btn-main-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -8907,7 +8907,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main--4:hover::before {
+.btn-main-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8918,7 +8918,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main--4:active::before {
+.btn-main-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -8929,7 +8929,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main--4[disabled]:before {
+.btn-main-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -8940,12 +8940,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main--4[disabled] {
+.btn-main-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main--4[disabled]:hover {
+.btn-main-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9007,12 +9007,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main--3 {
+.btn-main-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main--3::before {
+.btn-main-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9022,7 +9022,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main--3:hover::before {
+.btn-main-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9033,7 +9033,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main--3:active::before {
+.btn-main-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9044,7 +9044,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main--3[disabled]:before {
+.btn-main-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9055,12 +9055,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main--3[disabled] {
+.btn-main-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main--3[disabled]:hover {
+.btn-main-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9122,12 +9122,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main--2 {
+.btn-main-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main--2::before {
+.btn-main-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9137,7 +9137,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main--2:hover::before {
+.btn-main-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9148,7 +9148,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main--2:active::before {
+.btn-main-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9159,7 +9159,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main--2[disabled]:before {
+.btn-main-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9170,12 +9170,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main--2[disabled] {
+.btn-main-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main--2[disabled]:hover {
+.btn-main-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9237,12 +9237,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main--1 {
+.btn-main-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main--1::before {
+.btn-main-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9252,7 +9252,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main--1:hover::before {
+.btn-main-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9263,7 +9263,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main--1:active::before {
+.btn-main-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9274,7 +9274,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main--1[disabled]:before {
+.btn-main-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9285,12 +9285,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main--1[disabled] {
+.btn-main-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main--1[disabled]:hover {
+.btn-main-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9352,12 +9352,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main-0 {
+.btn-main0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-0::before {
+.btn-main0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9367,7 +9367,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-0:hover::before {
+.btn-main0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9378,7 +9378,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-0:active::before {
+.btn-main0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9389,7 +9389,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-0[disabled]:before {
+.btn-main0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9400,12 +9400,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-0[disabled] {
+.btn-main0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-0[disabled]:hover {
+.btn-main0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9582,12 +9582,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main-1 {
+.btn-main1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-1::before {
+.btn-main1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9597,7 +9597,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-1:hover::before {
+.btn-main1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9608,7 +9608,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-1:active::before {
+.btn-main1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9619,7 +9619,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-1[disabled]:before {
+.btn-main1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9630,12 +9630,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-1[disabled] {
+.btn-main1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-1[disabled]:hover {
+.btn-main1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9697,12 +9697,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main-2 {
+.btn-main2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-2::before {
+.btn-main2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9712,7 +9712,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-2:hover::before {
+.btn-main2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9723,7 +9723,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-2:active::before {
+.btn-main2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9734,7 +9734,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-2[disabled]:before {
+.btn-main2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9745,12 +9745,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-2[disabled] {
+.btn-main2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-2[disabled]:hover {
+.btn-main2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9812,12 +9812,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-main-3 {
+.btn-main3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-main-3::before {
+.btn-main3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9827,7 +9827,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-main-3:hover::before {
+.btn-main3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9838,7 +9838,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-main-3:active::before {
+.btn-main3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9849,7 +9849,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-main-3[disabled]:before {
+.btn-main3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9860,12 +9860,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-main-3[disabled] {
+.btn-main3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-main-3[disabled]:hover {
+.btn-main3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -9927,12 +9927,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor--4 {
+.btn-minor-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor--4::before {
+.btn-minor-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -9942,7 +9942,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor--4:hover::before {
+.btn-minor-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9953,7 +9953,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor--4:active::before {
+.btn-minor-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -9964,7 +9964,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor--4[disabled]:before {
+.btn-minor-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -9975,12 +9975,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor--4[disabled] {
+.btn-minor-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor--4[disabled]:hover {
+.btn-minor-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10042,12 +10042,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor--3 {
+.btn-minor-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor--3::before {
+.btn-minor-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10057,7 +10057,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor--3:hover::before {
+.btn-minor-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10068,7 +10068,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor--3:active::before {
+.btn-minor-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10079,7 +10079,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor--3[disabled]:before {
+.btn-minor-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -10090,12 +10090,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor--3[disabled] {
+.btn-minor-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor--3[disabled]:hover {
+.btn-minor-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10157,12 +10157,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor--2 {
+.btn-minor-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor--2::before {
+.btn-minor-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10172,7 +10172,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor--2:hover::before {
+.btn-minor-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10183,7 +10183,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor--2:active::before {
+.btn-minor-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10194,7 +10194,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor--2[disabled]:before {
+.btn-minor-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -10205,12 +10205,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor--2[disabled] {
+.btn-minor-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor--2[disabled]:hover {
+.btn-minor-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10272,12 +10272,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor--1 {
+.btn-minor-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor--1::before {
+.btn-minor-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10287,7 +10287,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor--1:hover::before {
+.btn-minor-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10298,7 +10298,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor--1:active::before {
+.btn-minor-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10309,7 +10309,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor--1[disabled]:before {
+.btn-minor-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -10320,12 +10320,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor--1[disabled] {
+.btn-minor-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor--1[disabled]:hover {
+.btn-minor-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10387,12 +10387,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor-0 {
+.btn-minor0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-0::before {
+.btn-minor0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10402,7 +10402,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-0:hover::before {
+.btn-minor0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10413,7 +10413,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-0:active::before {
+.btn-minor0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10424,7 +10424,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-0[disabled]:before {
+.btn-minor0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -10435,12 +10435,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-0[disabled] {
+.btn-minor0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-0[disabled]:hover {
+.btn-minor0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10617,12 +10617,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor-1 {
+.btn-minor1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-1::before {
+.btn-minor1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10632,7 +10632,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-1:hover::before {
+.btn-minor1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10643,7 +10643,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-1:active::before {
+.btn-minor1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10654,7 +10654,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-1[disabled]:before {
+.btn-minor1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -10665,12 +10665,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-1[disabled] {
+.btn-minor1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-1[disabled]:hover {
+.btn-minor1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10732,12 +10732,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor-2 {
+.btn-minor2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-2::before {
+.btn-minor2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10747,7 +10747,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-2:hover::before {
+.btn-minor2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10758,7 +10758,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-2:active::before {
+.btn-minor2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10769,7 +10769,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-2[disabled]:before {
+.btn-minor2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -10780,12 +10780,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-2[disabled] {
+.btn-minor2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-2[disabled]:hover {
+.btn-minor2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10847,12 +10847,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-minor-3 {
+.btn-minor3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-minor-3::before {
+.btn-minor3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10862,7 +10862,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-minor-3:hover::before {
+.btn-minor3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10873,7 +10873,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-minor-3:active::before {
+.btn-minor3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10884,7 +10884,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-minor-3[disabled]:before {
+.btn-minor3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -10895,12 +10895,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-minor-3[disabled] {
+.btn-minor3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-minor-3[disabled]:hover {
+.btn-minor3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -10962,12 +10962,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less--4 {
+.btn-less-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less--4::before {
+.btn-less-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -10977,7 +10977,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less--4:hover::before {
+.btn-less-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10988,7 +10988,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less--4:active::before {
+.btn-less-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -10999,7 +10999,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less--4[disabled]:before {
+.btn-less-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11010,12 +11010,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less--4[disabled] {
+.btn-less-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less--4[disabled]:hover {
+.btn-less-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11077,12 +11077,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less--3 {
+.btn-less-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less--3::before {
+.btn-less-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -11092,7 +11092,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less--3:hover::before {
+.btn-less-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11103,7 +11103,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less--3:active::before {
+.btn-less-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11114,7 +11114,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less--3[disabled]:before {
+.btn-less-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11125,12 +11125,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less--3[disabled] {
+.btn-less-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less--3[disabled]:hover {
+.btn-less-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11192,12 +11192,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less--2 {
+.btn-less-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less--2::before {
+.btn-less-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -11207,7 +11207,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less--2:hover::before {
+.btn-less-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11218,7 +11218,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less--2:active::before {
+.btn-less-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11229,7 +11229,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less--2[disabled]:before {
+.btn-less-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11240,12 +11240,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less--2[disabled] {
+.btn-less-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less--2[disabled]:hover {
+.btn-less-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11307,12 +11307,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less--1 {
+.btn-less-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less--1::before {
+.btn-less-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -11322,7 +11322,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less--1:hover::before {
+.btn-less-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11333,7 +11333,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less--1:active::before {
+.btn-less-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11344,7 +11344,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less--1[disabled]:before {
+.btn-less-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11355,12 +11355,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less--1[disabled] {
+.btn-less-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less--1[disabled]:hover {
+.btn-less-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11422,12 +11422,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less-0 {
+.btn-less0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-0::before {
+.btn-less0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -11437,7 +11437,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-0:hover::before {
+.btn-less0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11448,7 +11448,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-0:active::before {
+.btn-less0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11459,7 +11459,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-0[disabled]:before {
+.btn-less0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11470,12 +11470,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-0[disabled] {
+.btn-less0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-0[disabled]:hover {
+.btn-less0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11652,12 +11652,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less-1 {
+.btn-less1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-1::before {
+.btn-less1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -11667,7 +11667,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-1:hover::before {
+.btn-less1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11678,7 +11678,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-1:active::before {
+.btn-less1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11689,7 +11689,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-1[disabled]:before {
+.btn-less1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11700,12 +11700,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-1[disabled] {
+.btn-less1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-1[disabled]:hover {
+.btn-less1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11767,12 +11767,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less-2 {
+.btn-less2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-2::before {
+.btn-less2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -11782,7 +11782,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-2:hover::before {
+.btn-less2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11793,7 +11793,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-2:active::before {
+.btn-less2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11804,7 +11804,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-2[disabled]:before {
+.btn-less2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11815,12 +11815,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-2[disabled] {
+.btn-less2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-2[disabled]:hover {
+.btn-less2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11882,12 +11882,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-less-3 {
+.btn-less3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-less-3::before {
+.btn-less3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -11897,7 +11897,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-less-3:hover::before {
+.btn-less3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11908,7 +11908,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-less-3:active::before {
+.btn-less3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -11919,7 +11919,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-less-3[disabled]:before {
+.btn-less3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -11930,12 +11930,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-less-3[disabled] {
+.btn-less3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-less-3[disabled]:hover {
+.btn-less3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -11997,12 +11997,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info--4 {
+.btn-info-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info--4::before {
+.btn-info-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12012,7 +12012,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info--4:hover::before {
+.btn-info-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12023,7 +12023,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info--4:active::before {
+.btn-info-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12034,7 +12034,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info--4[disabled]:before {
+.btn-info-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12045,12 +12045,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info--4[disabled] {
+.btn-info-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info--4[disabled]:hover {
+.btn-info-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -12112,12 +12112,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info--3 {
+.btn-info-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info--3::before {
+.btn-info-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12127,7 +12127,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info--3:hover::before {
+.btn-info-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12138,7 +12138,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info--3:active::before {
+.btn-info-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12149,7 +12149,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info--3[disabled]:before {
+.btn-info-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12160,12 +12160,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info--3[disabled] {
+.btn-info-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info--3[disabled]:hover {
+.btn-info-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -12227,12 +12227,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info--2 {
+.btn-info-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info--2::before {
+.btn-info-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12242,7 +12242,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info--2:hover::before {
+.btn-info-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12253,7 +12253,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info--2:active::before {
+.btn-info-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12264,7 +12264,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info--2[disabled]:before {
+.btn-info-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12275,12 +12275,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info--2[disabled] {
+.btn-info-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info--2[disabled]:hover {
+.btn-info-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -12342,12 +12342,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info--1 {
+.btn-info-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info--1::before {
+.btn-info-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12357,7 +12357,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info--1:hover::before {
+.btn-info-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12368,7 +12368,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info--1:active::before {
+.btn-info-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12379,7 +12379,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info--1[disabled]:before {
+.btn-info-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12390,12 +12390,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info--1[disabled] {
+.btn-info-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info--1[disabled]:hover {
+.btn-info-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -12457,12 +12457,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info-0 {
+.btn-info0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info-0::before {
+.btn-info0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12472,7 +12472,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info-0:hover::before {
+.btn-info0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12483,7 +12483,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info-0:active::before {
+.btn-info0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12494,7 +12494,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info-0[disabled]:before {
+.btn-info0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12505,12 +12505,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info-0[disabled] {
+.btn-info0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info-0[disabled]:hover {
+.btn-info0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -12687,12 +12687,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info-1 {
+.btn-info1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info-1::before {
+.btn-info1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12702,7 +12702,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info-1:hover::before {
+.btn-info1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12713,7 +12713,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info-1:active::before {
+.btn-info1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12724,7 +12724,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info-1[disabled]:before {
+.btn-info1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12735,12 +12735,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info-1[disabled] {
+.btn-info1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info-1[disabled]:hover {
+.btn-info1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -12802,12 +12802,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info-2 {
+.btn-info2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info-2::before {
+.btn-info2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12817,7 +12817,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info-2:hover::before {
+.btn-info2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12828,7 +12828,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info-2:active::before {
+.btn-info2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12839,7 +12839,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info-2[disabled]:before {
+.btn-info2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12850,12 +12850,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info-2[disabled] {
+.btn-info2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info-2[disabled]:hover {
+.btn-info2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -12917,12 +12917,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-info-3 {
+.btn-info3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-info-3::before {
+.btn-info3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -12932,7 +12932,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-info-3:hover::before {
+.btn-info3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12943,7 +12943,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-info-3:active::before {
+.btn-info3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -12954,7 +12954,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-info-3[disabled]:before {
+.btn-info3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -12965,12 +12965,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-info-3[disabled] {
+.btn-info3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-info-3[disabled]:hover {
+.btn-info3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13032,12 +13032,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning--4 {
+.btn-warning-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning--4::before {
+.btn-warning-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13047,7 +13047,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning--4:hover::before {
+.btn-warning-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13058,7 +13058,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning--4:active::before {
+.btn-warning-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13069,7 +13069,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning--4[disabled]:before {
+.btn-warning-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -13080,12 +13080,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning--4[disabled] {
+.btn-warning-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning--4[disabled]:hover {
+.btn-warning-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13147,12 +13147,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning--3 {
+.btn-warning-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning--3::before {
+.btn-warning-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13162,7 +13162,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning--3:hover::before {
+.btn-warning-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13173,7 +13173,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning--3:active::before {
+.btn-warning-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13184,7 +13184,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning--3[disabled]:before {
+.btn-warning-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -13195,12 +13195,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning--3[disabled] {
+.btn-warning-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning--3[disabled]:hover {
+.btn-warning-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13262,12 +13262,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning--2 {
+.btn-warning-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning--2::before {
+.btn-warning-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13277,7 +13277,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning--2:hover::before {
+.btn-warning-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13288,7 +13288,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning--2:active::before {
+.btn-warning-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13299,7 +13299,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning--2[disabled]:before {
+.btn-warning-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -13310,12 +13310,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning--2[disabled] {
+.btn-warning-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning--2[disabled]:hover {
+.btn-warning-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13377,12 +13377,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning--1 {
+.btn-warning-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning--1::before {
+.btn-warning-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13392,7 +13392,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning--1:hover::before {
+.btn-warning-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13403,7 +13403,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning--1:active::before {
+.btn-warning-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13414,7 +13414,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning--1[disabled]:before {
+.btn-warning-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -13425,12 +13425,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning--1[disabled] {
+.btn-warning-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning--1[disabled]:hover {
+.btn-warning-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13492,12 +13492,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning-0 {
+.btn-warning0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning-0::before {
+.btn-warning0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13507,7 +13507,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning-0:hover::before {
+.btn-warning0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13518,7 +13518,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning-0:active::before {
+.btn-warning0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13529,7 +13529,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning-0[disabled]:before {
+.btn-warning0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -13540,12 +13540,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning-0[disabled] {
+.btn-warning0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning-0[disabled]:hover {
+.btn-warning0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13722,12 +13722,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning-1 {
+.btn-warning1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning-1::before {
+.btn-warning1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13737,7 +13737,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning-1:hover::before {
+.btn-warning1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13748,7 +13748,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning-1:active::before {
+.btn-warning1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13759,7 +13759,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning-1[disabled]:before {
+.btn-warning1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -13770,12 +13770,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning-1[disabled] {
+.btn-warning1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning-1[disabled]:hover {
+.btn-warning1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13837,12 +13837,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning-2 {
+.btn-warning2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning-2::before {
+.btn-warning2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13852,7 +13852,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning-2:hover::before {
+.btn-warning2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13863,7 +13863,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning-2:active::before {
+.btn-warning2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13874,7 +13874,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning-2[disabled]:before {
+.btn-warning2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -13885,12 +13885,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning-2[disabled] {
+.btn-warning2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning-2[disabled]:hover {
+.btn-warning2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -13952,12 +13952,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-warning-3 {
+.btn-warning3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-warning-3::before {
+.btn-warning3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -13967,7 +13967,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-warning-3:hover::before {
+.btn-warning3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13978,7 +13978,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-warning-3:active::before {
+.btn-warning3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -13989,7 +13989,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-warning-3[disabled]:before {
+.btn-warning3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14000,12 +14000,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-warning-3[disabled] {
+.btn-warning3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-warning-3[disabled]:hover {
+.btn-warning3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14067,12 +14067,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error--4 {
+.btn-error-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error--4::before {
+.btn-error-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -14082,7 +14082,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error--4:hover::before {
+.btn-error-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14093,7 +14093,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error--4:active::before {
+.btn-error-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14104,7 +14104,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error--4[disabled]:before {
+.btn-error-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14115,12 +14115,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error--4[disabled] {
+.btn-error-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error--4[disabled]:hover {
+.btn-error-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14182,12 +14182,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error--3 {
+.btn-error-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error--3::before {
+.btn-error-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -14197,7 +14197,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error--3:hover::before {
+.btn-error-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14208,7 +14208,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error--3:active::before {
+.btn-error-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14219,7 +14219,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error--3[disabled]:before {
+.btn-error-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14230,12 +14230,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error--3[disabled] {
+.btn-error-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error--3[disabled]:hover {
+.btn-error-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14297,12 +14297,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error--2 {
+.btn-error-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error--2::before {
+.btn-error-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -14312,7 +14312,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error--2:hover::before {
+.btn-error-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14323,7 +14323,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error--2:active::before {
+.btn-error-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14334,7 +14334,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error--2[disabled]:before {
+.btn-error-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14345,12 +14345,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error--2[disabled] {
+.btn-error-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error--2[disabled]:hover {
+.btn-error-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14412,12 +14412,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error--1 {
+.btn-error-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error--1::before {
+.btn-error-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -14427,7 +14427,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error--1:hover::before {
+.btn-error-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14438,7 +14438,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error--1:active::before {
+.btn-error-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14449,7 +14449,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error--1[disabled]:before {
+.btn-error-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14460,12 +14460,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error--1[disabled] {
+.btn-error-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error--1[disabled]:hover {
+.btn-error-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14527,12 +14527,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error-0 {
+.btn-error0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error-0::before {
+.btn-error0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -14542,7 +14542,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error-0:hover::before {
+.btn-error0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14553,7 +14553,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error-0:active::before {
+.btn-error0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14564,7 +14564,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error-0[disabled]:before {
+.btn-error0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14575,12 +14575,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error-0[disabled] {
+.btn-error0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error-0[disabled]:hover {
+.btn-error0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14757,12 +14757,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error-1 {
+.btn-error1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error-1::before {
+.btn-error1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -14772,7 +14772,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error-1:hover::before {
+.btn-error1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14783,7 +14783,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error-1:active::before {
+.btn-error1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14794,7 +14794,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error-1[disabled]:before {
+.btn-error1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14805,12 +14805,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error-1[disabled] {
+.btn-error1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error-1[disabled]:hover {
+.btn-error1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14872,12 +14872,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error-2 {
+.btn-error2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error-2::before {
+.btn-error2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -14887,7 +14887,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error-2:hover::before {
+.btn-error2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14898,7 +14898,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error-2:active::before {
+.btn-error2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -14909,7 +14909,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error-2[disabled]:before {
+.btn-error2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -14920,12 +14920,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error-2[disabled] {
+.btn-error2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error-2[disabled]:hover {
+.btn-error2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -14987,12 +14987,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-error-3 {
+.btn-error3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-error-3::before {
+.btn-error3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15002,7 +15002,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-error-3:hover::before {
+.btn-error3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15013,7 +15013,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-error-3:active::before {
+.btn-error3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15024,7 +15024,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-error-3[disabled]:before {
+.btn-error3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15035,12 +15035,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-error-3[disabled] {
+.btn-error3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-error-3[disabled]:hover {
+.btn-error3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -15102,12 +15102,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success--4 {
+.btn-success-4 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success--4::before {
+.btn-success-4::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15117,7 +15117,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success--4:hover::before {
+.btn-success-4:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15128,7 +15128,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success--4:active::before {
+.btn-success-4:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15139,7 +15139,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success--4[disabled]:before {
+.btn-success-4[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15150,12 +15150,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success--4[disabled] {
+.btn-success-4[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success--4[disabled]:hover {
+.btn-success-4[disabled]:hover {
   box-shadow: none;
 }
 
@@ -15217,12 +15217,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success--3 {
+.btn-success-3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success--3::before {
+.btn-success-3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15232,7 +15232,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success--3:hover::before {
+.btn-success-3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15243,7 +15243,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success--3:active::before {
+.btn-success-3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15254,7 +15254,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success--3[disabled]:before {
+.btn-success-3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15265,12 +15265,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success--3[disabled] {
+.btn-success-3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success--3[disabled]:hover {
+.btn-success-3[disabled]:hover {
   box-shadow: none;
 }
 
@@ -15332,12 +15332,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success--2 {
+.btn-success-2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success--2::before {
+.btn-success-2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15347,7 +15347,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success--2:hover::before {
+.btn-success-2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15358,7 +15358,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success--2:active::before {
+.btn-success-2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15369,7 +15369,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success--2[disabled]:before {
+.btn-success-2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15380,12 +15380,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success--2[disabled] {
+.btn-success-2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success--2[disabled]:hover {
+.btn-success-2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -15447,12 +15447,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success--1 {
+.btn-success-1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success--1::before {
+.btn-success-1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15462,7 +15462,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success--1:hover::before {
+.btn-success-1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15473,7 +15473,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success--1:active::before {
+.btn-success-1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15484,7 +15484,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success--1[disabled]:before {
+.btn-success-1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15495,12 +15495,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success--1[disabled] {
+.btn-success-1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success--1[disabled]:hover {
+.btn-success-1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -15562,12 +15562,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success-0 {
+.btn-success0 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success-0::before {
+.btn-success0::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15577,7 +15577,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success-0:hover::before {
+.btn-success0:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15588,7 +15588,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success-0:active::before {
+.btn-success0:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15599,7 +15599,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success-0[disabled]:before {
+.btn-success0[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15610,12 +15610,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success-0[disabled] {
+.btn-success0[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success-0[disabled]:hover {
+.btn-success0[disabled]:hover {
   box-shadow: none;
 }
 
@@ -15792,12 +15792,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success-1 {
+.btn-success1 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success-1::before {
+.btn-success1::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15807,7 +15807,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success-1:hover::before {
+.btn-success1:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15818,7 +15818,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success-1:active::before {
+.btn-success1:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15829,7 +15829,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success-1[disabled]:before {
+.btn-success1[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15840,12 +15840,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success-1[disabled] {
+.btn-success1[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success-1[disabled]:hover {
+.btn-success1[disabled]:hover {
   box-shadow: none;
 }
 
@@ -15907,12 +15907,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success-2 {
+.btn-success2 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success-2::before {
+.btn-success2::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -15922,7 +15922,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success-2:hover::before {
+.btn-success2:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15933,7 +15933,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success-2:active::before {
+.btn-success2:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -15944,7 +15944,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success-2[disabled]:before {
+.btn-success2[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -15955,12 +15955,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success-2[disabled] {
+.btn-success2[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success-2[disabled]:hover {
+.btn-success2[disabled]:hover {
   box-shadow: none;
 }
 
@@ -16022,12 +16022,12 @@ button:active {
   box-shadow: none;
 }
 
-.btn-success-3 {
+.btn-success3 {
   position: relative;
   color: white;
   border: 1px solid transparent;
 }
-.btn-success-3::before {
+.btn-success3::before {
   content: "";
   top: -1px;
   left: -1px;
@@ -16037,7 +16037,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
-.btn-success-3:hover::before {
+.btn-success3:hover::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -16048,7 +16048,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.05);
 }
-.btn-success-3:active::before {
+.btn-success3:active::before {
   cursor: pointer;
   content: "";
   top: -1px;
@@ -16059,7 +16059,7 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.1);
 }
-.btn-success-3[disabled]:before {
+.btn-success3[disabled]:before {
   cursor: not-allowed;
   content: "";
   top: -1px;
@@ -16070,12 +16070,12 @@ button:active {
   height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
-.btn-success-3[disabled] {
+.btn-success3[disabled] {
   cursor: not-allowed;
   border-radius: inherit;
   box-shadow: none;
 }
-.btn-success-3[disabled]:hover {
+.btn-success3[disabled]:hover {
   box-shadow: none;
 }
 

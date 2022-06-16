@@ -114,34 +114,34 @@ u, ins,.u, .ins {
         }   
     } 
 }
-//定义字体颜色级别
-@each $key, $color in $semantic_range {
-    @for $range from 1 to 10 {
-        //生成颜色相关匹配色。
-        @if $range  < 4{
-            $whitens: 4-$range;
-            $co:color.scale($color, $whiteness: ($whitens*30)*1%, $blackness: -($whitens*30)*1%);
-            .font-#{$key}#{$range}{
-                color: $co  !important;
-            }
-        }
-        @if $range > 4{
-            $blackns: $range - 4;
-            .font-#{$key}#{$range}{
-                color: color.scale($color, $blackness: $blackns*20*1%)  !important;
-            }
-        }
-        @if $range == 4 {
-            .font-#{$key}#{$range}{
-                color: $color  !important;
-            }
-            .font-#{$key}{
-                color: $color  !important;
-            }
+// //定义字体颜色级别
+// @each $key, $color in $semantic_range {
+//     @for $range from 1 to 10 {
+//         //生成颜色相关匹配色。
+//         @if $range  < 4{
+//             $whitens: 4-$range;
+//             $co:color.scale($color, $whiteness: ($whitens*30)*1%, $blackness: -($whitens*30)*1%);
+//             .font-#{$key}#{$range}{
+//                 color: $co  !important;
+//             }
+//         }
+//         @if $range > 4{
+//             $blackns: $range - 4;
+//             .font-#{$key}#{$range}{
+//                 color: color.scale($color, $blackness: $blackns*20*1%)  !important;
+//             }
+//         }
+//         @if $range == 4 {
+//             .font-#{$key}#{$range}{
+//                 color: $color  !important;
+//             }
+//             .font-#{$key}{
+//                 color: $color  !important;
+//             }
             
-        }
-    }
-}
+//         }
+//     }
+// }
 
 @each $key, $color in $semantic_range {
     @for $range from -4 through 4 {

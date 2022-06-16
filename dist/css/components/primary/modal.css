@@ -55,7 +55,7 @@
     width: 0%;
   }
   100% {
-    width: 100%;
+    width: 20%;
   }
 }
 @keyframes modal-height {
@@ -80,6 +80,7 @@
 .modal-left > .modal-content {
   box-shadow: 1px 1px 10px 0px #bbbbbb;
   background-color: white;
+  height: 100%;
   animation: modal-keyframe 1s;
 }
 
