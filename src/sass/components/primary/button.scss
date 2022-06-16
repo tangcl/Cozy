@@ -41,7 +41,7 @@ button {
         height: $height !important;
         font-size: $font-size;
         line-height: 1.5em;
-        padding: $font-size/4 $font-size; 
+        padding: calc($font-size/4) $font-size; 
     }
     .btn-cicle#{$i}{
         width: $height !important;

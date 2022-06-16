@@ -13,7 +13,7 @@
   border-style: dotted;
 }
 
-.padding-4, .card > footer, .card > .content, .card > header {
+.padding-4, .card > footer, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -417,7 +417,7 @@
   box-shadow: 0 0 8px 0 #bbbbbb inset;
 }
 .box-shadow-4:active {
-  box-shadow: 0 0 2px 0 #bbbbbb inset;
+  box-shadow: 0 0 -2px 0 #bbbbbb inset;
 }
 
 .border-radius-4 {
@@ -428,7 +428,7 @@
   box-shadow: 0 0 6px 0 #bbbbbb inset;
 }
 .box-shadow-3:active {
-  box-shadow: 0 0 1.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1.5px 0 #bbbbbb inset;
 }
 
 .border-radius-3 {
@@ -439,7 +439,7 @@
   box-shadow: 0 0 4px 0 #bbbbbb inset;
 }
 .box-shadow-2:active {
-  box-shadow: 0 0 1px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1px 0 #bbbbbb inset;
 }
 
 .border-radius-2 {
@@ -450,17 +450,17 @@
   box-shadow: 0 0 2px 0 #bbbbbb inset;
 }
 .box-shadow-1:active {
-  box-shadow: 0 0 0.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -0.5px 0 #bbbbbb inset;
 }
 
 .border-radius-1 {
   border-radius: 0px;
 }
 
-.box-shadow, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
+.box-shadow, .card > footer, .card > header, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
   box-shadow: 0 0 2px 0 #bbbbbb;
 }
-.box-shadow:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
+.box-shadow:active, .card > footer:active, .card > header:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
   box-shadow: 0 0 1px 0 #bbbbbb;
 }
 
@@ -17289,7 +17289,7 @@ button:active {
   border-style: dotted;
 }
 
-.padding-4, .card > footer, .card > .content, .card > header {
+.padding-4, .card > footer, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -17693,7 +17693,7 @@ button:active {
   box-shadow: 0 0 8px 0 #bbbbbb inset;
 }
 .box-shadow-4:active {
-  box-shadow: 0 0 2px 0 #bbbbbb inset;
+  box-shadow: 0 0 -2px 0 #bbbbbb inset;
 }
 
 .border-radius-4 {
@@ -17704,7 +17704,7 @@ button:active {
   box-shadow: 0 0 6px 0 #bbbbbb inset;
 }
 .box-shadow-3:active {
-  box-shadow: 0 0 1.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1.5px 0 #bbbbbb inset;
 }
 
 .border-radius-3 {
@@ -17715,7 +17715,7 @@ button:active {
   box-shadow: 0 0 4px 0 #bbbbbb inset;
 }
 .box-shadow-2:active {
-  box-shadow: 0 0 1px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1px 0 #bbbbbb inset;
 }
 
 .border-radius-2 {
@@ -17726,17 +17726,17 @@ button:active {
   box-shadow: 0 0 2px 0 #bbbbbb inset;
 }
 .box-shadow-1:active {
-  box-shadow: 0 0 0.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -0.5px 0 #bbbbbb inset;
 }
 
 .border-radius-1 {
   border-radius: 0px;
 }
 
-.box-shadow, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
+.box-shadow, .card > footer, .card > header, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
   box-shadow: 0 0 2px 0 #bbbbbb;
 }
-.box-shadow:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
+.box-shadow:active, .card > footer:active, .card > header:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
   box-shadow: 0 0 1px 0 #bbbbbb;
 }
 
@@ -23989,7 +23989,7 @@ label {
   border-style: dotted;
 }
 
-.padding-4, .card > footer, .card > .content, .card > header {
+.padding-4, .card > footer, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -24393,7 +24393,7 @@ label {
   box-shadow: 0 0 8px 0 #bbbbbb inset;
 }
 .box-shadow-4:active {
-  box-shadow: 0 0 2px 0 #bbbbbb inset;
+  box-shadow: 0 0 -2px 0 #bbbbbb inset;
 }
 
 .border-radius-4 {
@@ -24404,7 +24404,7 @@ label {
   box-shadow: 0 0 6px 0 #bbbbbb inset;
 }
 .box-shadow-3:active {
-  box-shadow: 0 0 1.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1.5px 0 #bbbbbb inset;
 }
 
 .border-radius-3 {
@@ -24415,7 +24415,7 @@ label {
   box-shadow: 0 0 4px 0 #bbbbbb inset;
 }
 .box-shadow-2:active {
-  box-shadow: 0 0 1px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1px 0 #bbbbbb inset;
 }
 
 .border-radius-2 {
@@ -24426,17 +24426,17 @@ label {
   box-shadow: 0 0 2px 0 #bbbbbb inset;
 }
 .box-shadow-1:active {
-  box-shadow: 0 0 0.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -0.5px 0 #bbbbbb inset;
 }
 
 .border-radius-1 {
   border-radius: 0px;
 }
 
-.box-shadow, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
+.box-shadow, .card > footer, .card > header, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
   box-shadow: 0 0 2px 0 #bbbbbb;
 }
-.box-shadow:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
+.box-shadow:active, .card > footer:active, .card > header:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
   box-shadow: 0 0 1px 0 #bbbbbb;
 }
 
@@ -33827,7 +33827,7 @@ input:hover[disabled] {
   border-style: dotted;
 }
 
-.padding-4, .card > footer, .card > .content, .card > header {
+.padding-4, .card > footer, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -34231,7 +34231,7 @@ input:hover[disabled] {
   box-shadow: 0 0 8px 0 #bbbbbb inset;
 }
 .box-shadow-4:active {
-  box-shadow: 0 0 2px 0 #bbbbbb inset;
+  box-shadow: 0 0 -2px 0 #bbbbbb inset;
 }
 
 .border-radius-4 {
@@ -34242,7 +34242,7 @@ input:hover[disabled] {
   box-shadow: 0 0 6px 0 #bbbbbb inset;
 }
 .box-shadow-3:active {
-  box-shadow: 0 0 1.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1.5px 0 #bbbbbb inset;
 }
 
 .border-radius-3 {
@@ -34253,7 +34253,7 @@ input:hover[disabled] {
   box-shadow: 0 0 4px 0 #bbbbbb inset;
 }
 .box-shadow-2:active {
-  box-shadow: 0 0 1px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1px 0 #bbbbbb inset;
 }
 
 .border-radius-2 {
@@ -34264,17 +34264,17 @@ input:hover[disabled] {
   box-shadow: 0 0 2px 0 #bbbbbb inset;
 }
 .box-shadow-1:active {
-  box-shadow: 0 0 0.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -0.5px 0 #bbbbbb inset;
 }
 
 .border-radius-1 {
   border-radius: 0px;
 }
 
-.box-shadow, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
+.box-shadow, .card > footer, .card > header, .card, table > thead, .table-success4 > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-success-4 > thead, .table-error4 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-error-4 > thead, .table-warning4 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-warning-4 > thead, .table-info4 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-info-4 > thead, .table-less4 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-less-4 > thead, .table-minor4 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-minor-4 > thead, .table-main4 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-main-4 > thead, .table-black4 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-black-4 > thead, .table-white4 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-white-4 > thead, .table-gray4 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, .table-gray-4 > thead {
   box-shadow: 0 0 2px 0 #bbbbbb;
 }
-.box-shadow:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
+.box-shadow:active, .card > footer:active, .card > header:active, .card:active, table > thead:active, .table-success4 > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-success-4 > thead:active, .table-error4 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-error-4 > thead:active, .table-warning4 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-warning-4 > thead:active, .table-info4 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-info-4 > thead:active, .table-less4 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-less-4 > thead:active, .table-minor4 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-minor-4 > thead:active, .table-main4 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-main-4 > thead:active, .table-black4 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-black-4 > thead:active, .table-white4 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-white-4 > thead:active, .table-gray4 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, .table-gray-4 > thead:active {
   box-shadow: 0 0 1px 0 #bbbbbb;
 }
 
@@ -42027,7 +42027,7 @@ u, ins, .u, .ins {
   line-height: 1.5em;
 }
 
-.font-size, .card > .content, table > tbody, table > thead, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead {
+.font-size, .card > section, table > tbody, table > thead, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead {
   font-size: 1rem;
   line-height: 1.5em;
 }
@@ -44375,7 +44375,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   border-style: dotted;
 }
 
-.padding-4, .card > footer, .card > .content, .card > header {
+.padding-4, .card > footer, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -44779,7 +44779,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   box-shadow: 0 0 8px 0 #bbbbbb inset;
 }
 .box-shadow-4:active {
-  box-shadow: 0 0 2px 0 #bbbbbb inset;
+  box-shadow: 0 0 -2px 0 #bbbbbb inset;
 }
 
 .border-radius-4 {
@@ -44790,7 +44790,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   box-shadow: 0 0 6px 0 #bbbbbb inset;
 }
 .box-shadow-3:active {
-  box-shadow: 0 0 1.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1.5px 0 #bbbbbb inset;
 }
 
 .border-radius-3 {
@@ -44801,7 +44801,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   box-shadow: 0 0 4px 0 #bbbbbb inset;
 }
 .box-shadow-2:active {
-  box-shadow: 0 0 1px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1px 0 #bbbbbb inset;
 }
 
 .border-radius-2 {
@@ -44812,17 +44812,17 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   box-shadow: 0 0 2px 0 #bbbbbb inset;
 }
 .box-shadow-1:active {
-  box-shadow: 0 0 0.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -0.5px 0 #bbbbbb inset;
 }
 
 .border-radius-1 {
   border-radius: 0px;
 }
 
-.box-shadow, .card, .table-gray-4 > thead, .table-gray-3 > thead, .table-gray-2 > thead, .table-gray-1 > thead, .table-gray > thead, .table-gray1 > thead, .table-gray2 > thead, .table-gray3 > thead, .table-gray4 > thead, .table-white-4 > thead, .table-white-3 > thead, .table-white-2 > thead, .table-white-1 > thead, .table-white > thead, .table-white1 > thead, .table-white2 > thead, .table-white3 > thead, .table-white4 > thead, .table-black-4 > thead, .table-black-3 > thead, .table-black-2 > thead, .table-black-1 > thead, .table-black > thead, .table-black1 > thead, .table-black2 > thead, .table-black3 > thead, .table-black4 > thead, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead, .table-info-4 > thead, .table-info-3 > thead, .table-info-2 > thead, .table-info-1 > thead, .table-info > thead, .table-info1 > thead, .table-info2 > thead, .table-info3 > thead, .table-info4 > thead, .table-warning-4 > thead, .table-warning-3 > thead, .table-warning-2 > thead, .table-warning-1 > thead, .table-warning > thead, .table-warning1 > thead, .table-warning2 > thead, .table-warning3 > thead, .table-warning4 > thead, .table-error-4 > thead, .table-error-3 > thead, .table-error-2 > thead, .table-error-1 > thead, .table-error > thead, .table-error1 > thead, .table-error2 > thead, .table-error3 > thead, .table-error4 > thead, .table-success-4 > thead, .table-success-3 > thead, .table-success-2 > thead, .table-success-1 > thead, .table-success > thead, .table-success1 > thead, .table-success2 > thead, .table-success3 > thead, .table-success4 > thead, table > thead {
+.box-shadow, .card > footer, .card > header, .card, .table-gray-4 > thead, .table-gray-3 > thead, .table-gray-2 > thead, .table-gray-1 > thead, .table-gray > thead, .table-gray1 > thead, .table-gray2 > thead, .table-gray3 > thead, .table-gray4 > thead, .table-white-4 > thead, .table-white-3 > thead, .table-white-2 > thead, .table-white-1 > thead, .table-white > thead, .table-white1 > thead, .table-white2 > thead, .table-white3 > thead, .table-white4 > thead, .table-black-4 > thead, .table-black-3 > thead, .table-black-2 > thead, .table-black-1 > thead, .table-black > thead, .table-black1 > thead, .table-black2 > thead, .table-black3 > thead, .table-black4 > thead, .table-main-4 > thead, .table-main-3 > thead, .table-main-2 > thead, .table-main-1 > thead, .table-main > thead, .table-main1 > thead, .table-main2 > thead, .table-main3 > thead, .table-main4 > thead, .table-minor-4 > thead, .table-minor-3 > thead, .table-minor-2 > thead, .table-minor-1 > thead, .table-minor > thead, .table-minor1 > thead, .table-minor2 > thead, .table-minor3 > thead, .table-minor4 > thead, .table-less-4 > thead, .table-less-3 > thead, .table-less-2 > thead, .table-less-1 > thead, .table-less > thead, .table-less1 > thead, .table-less2 > thead, .table-less3 > thead, .table-less4 > thead, .table-info-4 > thead, .table-info-3 > thead, .table-info-2 > thead, .table-info-1 > thead, .table-info > thead, .table-info1 > thead, .table-info2 > thead, .table-info3 > thead, .table-info4 > thead, .table-warning-4 > thead, .table-warning-3 > thead, .table-warning-2 > thead, .table-warning-1 > thead, .table-warning > thead, .table-warning1 > thead, .table-warning2 > thead, .table-warning3 > thead, .table-warning4 > thead, .table-error-4 > thead, .table-error-3 > thead, .table-error-2 > thead, .table-error-1 > thead, .table-error > thead, .table-error1 > thead, .table-error2 > thead, .table-error3 > thead, .table-error4 > thead, .table-success-4 > thead, .table-success-3 > thead, .table-success-2 > thead, .table-success-1 > thead, .table-success > thead, .table-success1 > thead, .table-success2 > thead, .table-success3 > thead, .table-success4 > thead, table > thead {
   box-shadow: 0 0 2px 0 #bbbbbb;
 }
-.box-shadow:active, .card:active, .table-gray-4 > thead:active, .table-gray-3 > thead:active, .table-gray-2 > thead:active, .table-gray-1 > thead:active, .table-gray > thead:active, .table-gray1 > thead:active, .table-gray2 > thead:active, .table-gray3 > thead:active, .table-gray4 > thead:active, .table-white-4 > thead:active, .table-white-3 > thead:active, .table-white-2 > thead:active, .table-white-1 > thead:active, .table-white > thead:active, .table-white1 > thead:active, .table-white2 > thead:active, .table-white3 > thead:active, .table-white4 > thead:active, .table-black-4 > thead:active, .table-black-3 > thead:active, .table-black-2 > thead:active, .table-black-1 > thead:active, .table-black > thead:active, .table-black1 > thead:active, .table-black2 > thead:active, .table-black3 > thead:active, .table-black4 > thead:active, .table-main-4 > thead:active, .table-main-3 > thead:active, .table-main-2 > thead:active, .table-main-1 > thead:active, .table-main > thead:active, .table-main1 > thead:active, .table-main2 > thead:active, .table-main3 > thead:active, .table-main4 > thead:active, .table-minor-4 > thead:active, .table-minor-3 > thead:active, .table-minor-2 > thead:active, .table-minor-1 > thead:active, .table-minor > thead:active, .table-minor1 > thead:active, .table-minor2 > thead:active, .table-minor3 > thead:active, .table-minor4 > thead:active, .table-less-4 > thead:active, .table-less-3 > thead:active, .table-less-2 > thead:active, .table-less-1 > thead:active, .table-less > thead:active, .table-less1 > thead:active, .table-less2 > thead:active, .table-less3 > thead:active, .table-less4 > thead:active, .table-info-4 > thead:active, .table-info-3 > thead:active, .table-info-2 > thead:active, .table-info-1 > thead:active, .table-info > thead:active, .table-info1 > thead:active, .table-info2 > thead:active, .table-info3 > thead:active, .table-info4 > thead:active, .table-warning-4 > thead:active, .table-warning-3 > thead:active, .table-warning-2 > thead:active, .table-warning-1 > thead:active, .table-warning > thead:active, .table-warning1 > thead:active, .table-warning2 > thead:active, .table-warning3 > thead:active, .table-warning4 > thead:active, .table-error-4 > thead:active, .table-error-3 > thead:active, .table-error-2 > thead:active, .table-error-1 > thead:active, .table-error > thead:active, .table-error1 > thead:active, .table-error2 > thead:active, .table-error3 > thead:active, .table-error4 > thead:active, .table-success-4 > thead:active, .table-success-3 > thead:active, .table-success-2 > thead:active, .table-success-1 > thead:active, .table-success > thead:active, .table-success1 > thead:active, .table-success2 > thead:active, .table-success3 > thead:active, .table-success4 > thead:active, table > thead:active {
+.box-shadow:active, .card > footer:active, .card > header:active, .card:active, .table-gray-4 > thead:active, .table-gray-3 > thead:active, .table-gray-2 > thead:active, .table-gray-1 > thead:active, .table-gray > thead:active, .table-gray1 > thead:active, .table-gray2 > thead:active, .table-gray3 > thead:active, .table-gray4 > thead:active, .table-white-4 > thead:active, .table-white-3 > thead:active, .table-white-2 > thead:active, .table-white-1 > thead:active, .table-white > thead:active, .table-white1 > thead:active, .table-white2 > thead:active, .table-white3 > thead:active, .table-white4 > thead:active, .table-black-4 > thead:active, .table-black-3 > thead:active, .table-black-2 > thead:active, .table-black-1 > thead:active, .table-black > thead:active, .table-black1 > thead:active, .table-black2 > thead:active, .table-black3 > thead:active, .table-black4 > thead:active, .table-main-4 > thead:active, .table-main-3 > thead:active, .table-main-2 > thead:active, .table-main-1 > thead:active, .table-main > thead:active, .table-main1 > thead:active, .table-main2 > thead:active, .table-main3 > thead:active, .table-main4 > thead:active, .table-minor-4 > thead:active, .table-minor-3 > thead:active, .table-minor-2 > thead:active, .table-minor-1 > thead:active, .table-minor > thead:active, .table-minor1 > thead:active, .table-minor2 > thead:active, .table-minor3 > thead:active, .table-minor4 > thead:active, .table-less-4 > thead:active, .table-less-3 > thead:active, .table-less-2 > thead:active, .table-less-1 > thead:active, .table-less > thead:active, .table-less1 > thead:active, .table-less2 > thead:active, .table-less3 > thead:active, .table-less4 > thead:active, .table-info-4 > thead:active, .table-info-3 > thead:active, .table-info-2 > thead:active, .table-info-1 > thead:active, .table-info > thead:active, .table-info1 > thead:active, .table-info2 > thead:active, .table-info3 > thead:active, .table-info4 > thead:active, .table-warning-4 > thead:active, .table-warning-3 > thead:active, .table-warning-2 > thead:active, .table-warning-1 > thead:active, .table-warning > thead:active, .table-warning1 > thead:active, .table-warning2 > thead:active, .table-warning3 > thead:active, .table-warning4 > thead:active, .table-error-4 > thead:active, .table-error-3 > thead:active, .table-error-2 > thead:active, .table-error-1 > thead:active, .table-error > thead:active, .table-error1 > thead:active, .table-error2 > thead:active, .table-error3 > thead:active, .table-error4 > thead:active, .table-success-4 > thead:active, .table-success-3 > thead:active, .table-success-2 > thead:active, .table-success-1 > thead:active, .table-success > thead:active, .table-success1 > thead:active, .table-success2 > thead:active, .table-success3 > thead:active, .table-success4 > thead:active, table > thead:active {
   box-shadow: 0 0 1px 0 #bbbbbb;
 }
 
@@ -49747,7 +49747,7 @@ u, ins, .u, .ins {
   line-height: 1.5em;
 }
 
-.font-size, .card > .content, .table-gray > thead, .table-gray > tbody, .table-white > thead, .table-white > tbody, .table-black > thead, .table-black > tbody, .table-main > thead, .table-main > tbody, .table-minor > thead, .table-minor > tbody, .table-less > thead, .table-less > tbody, .table-info > thead, .table-info > tbody, .table-warning > thead, .table-warning > tbody, .table-error > thead, .table-error > tbody, .table-success > thead, .table-success > tbody, table > thead, table > tbody {
+.font-size, .card > section, .table-gray > thead, .table-gray > tbody, .table-white > thead, .table-white > tbody, .table-black > thead, .table-black > tbody, .table-main > thead, .table-main > tbody, .table-minor > thead, .table-minor > tbody, .table-less > thead, .table-less > tbody, .table-info > thead, .table-info > tbody, .table-warning > thead, .table-warning > tbody, .table-error > thead, .table-error > tbody, .table-success > thead, .table-success > tbody, table > thead, table > tbody {
   font-size: 1rem;
   line-height: 1.5em;
 }
@@ -50302,18 +50302,21 @@ u, ins, .u, .ins {
 
 .card {
   width: 100%;
-  height: 100%;
+  height: inherit;
   display: flex;
   display: -webkit-flex;
+  box-sizing: border-box;
   flex-direction: column;
 }
 .card > header {
+  height: 3rem;
   display: flex;
   display: -webkit-flex;
   flex-direction: row;
   justify-content: left;
+  align-items: center;
 }
-.card > .content {
+.card > section {
   height: 100%;
   width: 100%;
   box-sizing: border-box;
@@ -50322,11 +50325,18 @@ u, ins, .u, .ins {
   flex-direction: column;
 }
 .card > footer {
+  height: 3rem;
   flex-direction: row;
   display: flex;
   display: -webkit-flex;
-  flex-direction: row;
   justify-content: left;
+  align-items: center;
+}
+.card > footer > * {
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  align-content: center;
 }
 
 /*# sourceMappingURL=index.css.map */

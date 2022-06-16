@@ -2,10 +2,11 @@
 @import "../../base/font";
 
 .card{
-    width: 100%;
-    height: 100%;
-    display: flex; //flex 类型的box,希望子元素能获得自动平均分配功能
+    width:100%;
+    height:inherit;
+    display: flex;
     display: -webkit-flex;
+    box-sizing: border-box;
     flex-direction: column;
     @extend .box-shadow;
     @extend .border-gray;
@@ -13,15 +14,17 @@
         @extend .font-size1;
         @extend .padding-4;
         @extend .border-gray-bottom;
+        @extend .box-shadow;
+        height: 3rem;
         display: flex;
         display: -webkit-flex;
         flex-direction: row;
         justify-content:left;
+        align-items:center;
     }
-    &>.content{
-        height:100%;
+    &>section{
+        height: 100%;       
         width: 100%;
-        @extend .padding-4;
         @extend .font-size;
         box-sizing: border-box;
         display: flex;
@@ -32,10 +35,18 @@
         @extend .font-size1;
         @extend .padding-4;
         @extend .border-gray-top;
+        @extend .box-shadow;
+        height: 3rem;
         flex-direction: row;
         display: flex;
         display: -webkit-flex;
-        flex-direction: row;
-        justify-content:left;
+        justify-content: left;
+        align-items:center;
+        &>*{
+            display: flex;
+            display: -webkit-flex;
+            flex-direction: column;
+            align-content: center;
+        }
     }
 }

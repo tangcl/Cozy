@@ -10,7 +10,7 @@
   border-style: dotted;
 }
 
-.padding-4, .card > footer, .card > .content, .card > header {
+.padding-4, .card > footer, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -414,7 +414,7 @@
   box-shadow: 0 0 8px 0 #bbbbbb inset;
 }
 .box-shadow-4:active {
-  box-shadow: 0 0 2px 0 #bbbbbb inset;
+  box-shadow: 0 0 -2px 0 #bbbbbb inset;
 }
 
 .border-radius-4 {
@@ -425,7 +425,7 @@
   box-shadow: 0 0 6px 0 #bbbbbb inset;
 }
 .box-shadow-3:active {
-  box-shadow: 0 0 1.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1.5px 0 #bbbbbb inset;
 }
 
 .border-radius-3 {
@@ -436,7 +436,7 @@
   box-shadow: 0 0 4px 0 #bbbbbb inset;
 }
 .box-shadow-2:active {
-  box-shadow: 0 0 1px 0 #bbbbbb inset;
+  box-shadow: 0 0 -1px 0 #bbbbbb inset;
 }
 
 .border-radius-2 {
@@ -447,17 +447,17 @@
   box-shadow: 0 0 2px 0 #bbbbbb inset;
 }
 .box-shadow-1:active {
-  box-shadow: 0 0 0.5px 0 #bbbbbb inset;
+  box-shadow: 0 0 -0.5px 0 #bbbbbb inset;
 }
 
 .border-radius-1 {
   border-radius: 0px;
 }
 
-.box-shadow, .card {
+.box-shadow, .card > footer, .card > header, .card {
   box-shadow: 0 0 2px 0 #bbbbbb;
 }
-.box-shadow:active, .card:active {
+.box-shadow:active, .card > footer:active, .card > header:active, .card:active {
   box-shadow: 0 0 1px 0 #bbbbbb;
 }
 
@@ -5382,7 +5382,7 @@ u, ins, .u, .ins {
   line-height: 1.5em;
 }
 
-.font-size, .card > .content {
+.font-size, .card > section {
   font-size: 1rem;
   line-height: 1.5em;
 }
@@ -5937,18 +5937,21 @@ u, ins, .u, .ins {
 
 .card {
   width: 100%;
-  height: 100%;
+  height: inherit;
   display: flex;
   display: -webkit-flex;
+  box-sizing: border-box;
   flex-direction: column;
 }
 .card > header {
+  height: 3rem;
   display: flex;
   display: -webkit-flex;
   flex-direction: row;
   justify-content: left;
+  align-items: center;
 }
-.card > .content {
+.card > section {
   height: 100%;
   width: 100%;
   box-sizing: border-box;
@@ -5957,11 +5960,18 @@ u, ins, .u, .ins {
   flex-direction: column;
 }
 .card > footer {
+  height: 3rem;
   flex-direction: row;
   display: flex;
   display: -webkit-flex;
-  flex-direction: row;
   justify-content: left;
+  align-items: center;
+}
+.card > footer > * {
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  align-content: center;
 }
 
 /*# sourceMappingURL=card.css.map */

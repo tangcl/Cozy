@@ -11,6 +11,10 @@ html,body{
     // overflow: hidden !important;
     @extend .font-family-sans  !optional;
 }
+img {
+    width: 100%;
+    height: 100%;
+}
 // body::-webkit-scrollbar {
     // width: 0px;
     // background: transparent; /* Disable scrollbar Chrome/Safari/Webkit */
@@ -70,8 +74,7 @@ html,body{
     margin:0;
     padding:0;
     font-size:$fontsize;
-    width:100%;
-    height:100%;
+    
     box-sizing: border-box;
     // scrollbar-width: none;
     // -ms-overflow-style: none;
@@ -79,11 +82,11 @@ html,body{
     @extend .font-family-sans  !optional;
 
     border:none;
-    box-sizing: border-box;
     margin:0;
     display: flex;    
     display: -webkit-flex;
     background-color: white;
+    width:100%;
     height:inherit;
     overflow-y: auto;
     scrollbar-color: #aaa #f6f6f6;
@@ -120,6 +123,10 @@ html,body{
             background-color: #888;
         }
     }
+}
+.box-left{
+    justify-content: left;
+    align-items:center;
 }
 .box-center{
     justify-content: center;

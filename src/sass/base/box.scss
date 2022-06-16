@@ -18,7 +18,7 @@ $fontsize:16px;
 @for $i from -4 through 4{
     $divide: 1em + $i * 0.125;
     .padding#{$i} {
-        padding: $divide/2 $divide !important;
+        padding: calc($divide/2) $divide !important;
     }
     .padding-left#{$i} {
         padding-left: $divide !important;
@@ -27,10 +27,10 @@ $fontsize:16px;
         padding-right: $divide !important;
     }
     .padding-top#{$i} {
-        padding-top: $divide/2 !important;
+        padding-top: calc($divide/2) !important;
     }
     .padding-bottom#{$i} {
-        padding-bottom: $divide/2 !important;
+        padding-bottom: calc($divide/2) !important;
     }
     
     @if $i == 0 {
@@ -57,7 +57,7 @@ $fontsize:16px;
 @for $i from -4 through 4{
     $divide: 1em + $i * 0.125;
     .margin#{$i} {
-        margin: $divide/2 $divide !important;
+        margin: calc($divide/2) $divide !important;
     }
     .margin-left#{$i} {
         margin-left: $divide !important;
@@ -66,10 +66,10 @@ $fontsize:16px;
         margin-right: $divide !important;
     }
     .margin-top#{$i} {
-        margin-top: $divide/2 !important;
+        margin-top: calc($divide/2) !important;
     }
     .margin-bottom#{$i} {
-        margin-bottom: $divide/2 !important;
+        margin-bottom: calc($divide/2) !important;
     }
     @if $i == 0 {
         .margin {
@@ -95,7 +95,7 @@ $fontsize:16px;
         .box-shadow#{$i} {
             box-shadow: 0 0 math.abs($i)*2px 0 $gray inset;
             &:active{
-                box-shadow: 0 0 math.abs($i/2)*1px 0 $gray inset;
+                box-shadow: 0 0 calc($i/2*1px) 0 $gray inset;
             }
         }
         .border-radius#{$i} {
@@ -117,7 +117,7 @@ $fontsize:16px;
         .box-shadow#{$i} {
             box-shadow: 0 0 $i*2px 0 $gray;
             &:active{
-                box-shadow: 0 0 $i/2*1px 0 $gray;
+                box-shadow: 0 0 calc($i/2*1px) 0 $gray;
             }
         }
         .border-radius#{$i} {
