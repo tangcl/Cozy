@@ -10,7 +10,7 @@
   border-style: dotted;
 }
 
-.padding-4 {
+.padding-4, .card > footer, .card > .content, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -130,7 +130,7 @@
   padding-bottom: 0.5em !important;
 }
 
-.padding1, .card > footer {
+.padding1 {
   padding: 0.5625em 1.125em !important;
 }
 
@@ -150,7 +150,7 @@
   padding-bottom: 0.5625em !important;
 }
 
-.padding2, .card > header {
+.padding2 {
   padding: 0.625em 1.25em !important;
 }
 
@@ -190,7 +190,7 @@
   padding-bottom: 0.6875em !important;
 }
 
-.padding4, .card > content {
+.padding4 {
   padding: 0.75em 1.5em !important;
 }
 
@@ -5382,17 +5382,17 @@ u, ins, .u, .ins {
   line-height: 1.5em;
 }
 
-.font-size, .card > content {
+.font-size, .card > .content {
   font-size: 1rem;
   line-height: 1.5em;
 }
 
-.font-size1, .card > footer {
+.font-size1, .card > footer, .card > header {
   font-size: 1.125rem;
   line-height: 1.5em;
 }
 
-.font-size2, .card > header {
+.font-size2 {
   font-size: 1.25rem;
   line-height: 1.5em;
 }
@@ -5948,9 +5948,10 @@ u, ins, .u, .ins {
   flex-direction: row;
   justify-content: left;
 }
-.card > content {
+.card > .content {
   height: 100%;
   width: 100%;
+  box-sizing: border-box;
   display: flex;
   display: -webkit-flex;
   flex-direction: column;

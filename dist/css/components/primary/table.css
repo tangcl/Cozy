@@ -10354,7 +10354,7 @@ u, ins, .u, .ins {
   padding: 0.25em 0.5rem;
 }
 table {
-  width: 100%;
+  width: inherit;
   margin: 0;
   padding: 0;
   border-collapse: collapse;

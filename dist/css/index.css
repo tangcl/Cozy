@@ -13,7 +13,7 @@
   border-style: dotted;
 }
 
-.padding-4 {
+.padding-4, .card > footer, .card > .content, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -133,7 +133,7 @@
   padding-bottom: 0.5em !important;
 }
 
-.padding1, .card > footer {
+.padding1 {
   padding: 0.5625em 1.125em !important;
 }
 
@@ -153,7 +153,7 @@
   padding-bottom: 0.5625em !important;
 }
 
-.padding2, .card > header {
+.padding2 {
   padding: 0.625em 1.25em !important;
 }
 
@@ -193,7 +193,7 @@
   padding-bottom: 0.6875em !important;
 }
 
-.padding4, .card > content {
+.padding4 {
   padding: 0.75em 1.5em !important;
 }
 
@@ -17289,7 +17289,7 @@ button:active {
   border-style: dotted;
 }
 
-.padding-4 {
+.padding-4, .card > footer, .card > .content, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -17409,7 +17409,7 @@ button:active {
   padding-bottom: 0.5em !important;
 }
 
-.padding1, .card > footer {
+.padding1 {
   padding: 0.5625em 1.125em !important;
 }
 
@@ -17429,7 +17429,7 @@ button:active {
   padding-bottom: 0.5625em !important;
 }
 
-.padding2, .card > header {
+.padding2 {
   padding: 0.625em 1.25em !important;
 }
 
@@ -17469,7 +17469,7 @@ button:active {
   padding-bottom: 0.6875em !important;
 }
 
-.padding4, .card > content {
+.padding4 {
   padding: 0.75em 1.5em !important;
 }
 
@@ -23989,7 +23989,7 @@ label {
   border-style: dotted;
 }
 
-.padding-4 {
+.padding-4, .card > footer, .card > .content, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -24109,7 +24109,7 @@ label {
   padding-bottom: 0.5em !important;
 }
 
-.padding1, .card > footer {
+.padding1 {
   padding: 0.5625em 1.125em !important;
 }
 
@@ -24129,7 +24129,7 @@ label {
   padding-bottom: 0.5625em !important;
 }
 
-.padding2, .card > header {
+.padding2 {
   padding: 0.625em 1.25em !important;
 }
 
@@ -24169,7 +24169,7 @@ label {
   padding-bottom: 0.6875em !important;
 }
 
-.padding4, .card > content {
+.padding4 {
   padding: 0.75em 1.5em !important;
 }
 
@@ -33827,7 +33827,7 @@ input:hover[disabled] {
   border-style: dotted;
 }
 
-.padding-4 {
+.padding-4, .card > footer, .card > .content, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -33947,7 +33947,7 @@ input:hover[disabled] {
   padding-bottom: 0.5em !important;
 }
 
-.padding1, .card > footer {
+.padding1 {
   padding: 0.5625em 1.125em !important;
 }
 
@@ -33967,7 +33967,7 @@ input:hover[disabled] {
   padding-bottom: 0.5625em !important;
 }
 
-.padding2, .card > header {
+.padding2 {
   padding: 0.625em 1.25em !important;
 }
 
@@ -34007,7 +34007,7 @@ input:hover[disabled] {
   padding-bottom: 0.6875em !important;
 }
 
-.padding4, .card > content {
+.padding4 {
   padding: 0.75em 1.5em !important;
 }
 
@@ -42027,17 +42027,17 @@ u, ins, .u, .ins {
   line-height: 1.5em;
 }
 
-.font-size, .card > content, table > tbody, table > thead, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead {
+.font-size, .card > .content, table > tbody, table > thead, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead {
   font-size: 1rem;
   line-height: 1.5em;
 }
 
-.font-size1, .card > footer, .table-success1 > tbody, .table-success1 > thead, .table-error1 > tbody, .table-error1 > thead, .table-warning1 > tbody, .table-warning1 > thead, .table-info1 > tbody, .table-info1 > thead, .table-less1 > tbody, .table-less1 > thead, .table-minor1 > tbody, .table-minor1 > thead, .table-main1 > tbody, .table-main1 > thead, .table-black1 > tbody, .table-black1 > thead, .table-white1 > tbody, .table-white1 > thead, .table-gray1 > tbody, .table-gray1 > thead {
+.font-size1, .card > footer, .card > header, .table-success1 > tbody, .table-success1 > thead, .table-error1 > tbody, .table-error1 > thead, .table-warning1 > tbody, .table-warning1 > thead, .table-info1 > tbody, .table-info1 > thead, .table-less1 > tbody, .table-less1 > thead, .table-minor1 > tbody, .table-minor1 > thead, .table-main1 > tbody, .table-main1 > thead, .table-black1 > tbody, .table-black1 > thead, .table-white1 > tbody, .table-white1 > thead, .table-gray1 > tbody, .table-gray1 > thead {
   font-size: 1.125rem;
   line-height: 1.5em;
 }
 
-.font-size2, .card > header, .table-success2 > tbody, .table-success2 > thead, .table-error2 > tbody, .table-error2 > thead, .table-warning2 > tbody, .table-warning2 > thead, .table-info2 > tbody, .table-info2 > thead, .table-less2 > tbody, .table-less2 > thead, .table-minor2 > tbody, .table-minor2 > thead, .table-main2 > tbody, .table-main2 > thead, .table-black2 > tbody, .table-black2 > thead, .table-white2 > tbody, .table-white2 > thead, .table-gray2 > tbody, .table-gray2 > thead {
+.font-size2, .table-success2 > tbody, .table-success2 > thead, .table-error2 > tbody, .table-error2 > thead, .table-warning2 > tbody, .table-warning2 > thead, .table-info2 > tbody, .table-info2 > thead, .table-less2 > tbody, .table-less2 > thead, .table-minor2 > tbody, .table-minor2 > thead, .table-main2 > tbody, .table-main2 > thead, .table-black2 > tbody, .table-black2 > thead, .table-white2 > tbody, .table-white2 > thead, .table-gray2 > tbody, .table-gray2 > thead {
   font-size: 1.25rem;
   line-height: 1.5em;
 }
@@ -44171,7 +44171,7 @@ u, ins, .u, .ins {
   padding: 0.25em 0.5rem;
 }
 table {
-  width: 100%;
+  width: inherit;
   margin: 0;
   padding: 0;
   border-collapse: collapse;
@@ -44375,7 +44375,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   border-style: dotted;
 }
 
-.padding-4 {
+.padding-4, .card > footer, .card > .content, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -44495,7 +44495,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   padding-bottom: 0.5em !important;
 }
 
-.padding1, .card > footer {
+.padding1 {
   padding: 0.5625em 1.125em !important;
 }
 
@@ -44515,7 +44515,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   padding-bottom: 0.5625em !important;
 }
 
-.padding2, .card > header {
+.padding2 {
   padding: 0.625em 1.25em !important;
 }
 
@@ -44555,7 +44555,7 @@ p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[p
   padding-bottom: 0.6875em !important;
 }
 
-.padding4, .card > content {
+.padding4 {
   padding: 0.75em 1.5em !important;
 }
 
@@ -49747,17 +49747,17 @@ u, ins, .u, .ins {
   line-height: 1.5em;
 }
 
-.font-size, .card > content, .table-gray > thead, .table-gray > tbody, .table-white > thead, .table-white > tbody, .table-black > thead, .table-black > tbody, .table-main > thead, .table-main > tbody, .table-minor > thead, .table-minor > tbody, .table-less > thead, .table-less > tbody, .table-info > thead, .table-info > tbody, .table-warning > thead, .table-warning > tbody, .table-error > thead, .table-error > tbody, .table-success > thead, .table-success > tbody, table > thead, table > tbody {
+.font-size, .card > .content, .table-gray > thead, .table-gray > tbody, .table-white > thead, .table-white > tbody, .table-black > thead, .table-black > tbody, .table-main > thead, .table-main > tbody, .table-minor > thead, .table-minor > tbody, .table-less > thead, .table-less > tbody, .table-info > thead, .table-info > tbody, .table-warning > thead, .table-warning > tbody, .table-error > thead, .table-error > tbody, .table-success > thead, .table-success > tbody, table > thead, table > tbody {
   font-size: 1rem;
   line-height: 1.5em;
 }
 
-.font-size1, .card > footer, .table-gray1 > thead, .table-gray1 > tbody, .table-white1 > thead, .table-white1 > tbody, .table-black1 > thead, .table-black1 > tbody, .table-main1 > thead, .table-main1 > tbody, .table-minor1 > thead, .table-minor1 > tbody, .table-less1 > thead, .table-less1 > tbody, .table-info1 > thead, .table-info1 > tbody, .table-warning1 > thead, .table-warning1 > tbody, .table-error1 > thead, .table-error1 > tbody, .table-success1 > thead, .table-success1 > tbody {
+.font-size1, .card > footer, .card > header, .table-gray1 > thead, .table-gray1 > tbody, .table-white1 > thead, .table-white1 > tbody, .table-black1 > thead, .table-black1 > tbody, .table-main1 > thead, .table-main1 > tbody, .table-minor1 > thead, .table-minor1 > tbody, .table-less1 > thead, .table-less1 > tbody, .table-info1 > thead, .table-info1 > tbody, .table-warning1 > thead, .table-warning1 > tbody, .table-error1 > thead, .table-error1 > tbody, .table-success1 > thead, .table-success1 > tbody {
   font-size: 1.125rem;
   line-height: 1.5em;
 }
 
-.font-size2, .card > header, .table-gray2 > thead, .table-gray2 > tbody, .table-white2 > thead, .table-white2 > tbody, .table-black2 > thead, .table-black2 > tbody, .table-main2 > thead, .table-main2 > tbody, .table-minor2 > thead, .table-minor2 > tbody, .table-less2 > thead, .table-less2 > tbody, .table-info2 > thead, .table-info2 > tbody, .table-warning2 > thead, .table-warning2 > tbody, .table-error2 > thead, .table-error2 > tbody, .table-success2 > thead, .table-success2 > tbody {
+.font-size2, .table-gray2 > thead, .table-gray2 > tbody, .table-white2 > thead, .table-white2 > tbody, .table-black2 > thead, .table-black2 > tbody, .table-main2 > thead, .table-main2 > tbody, .table-minor2 > thead, .table-minor2 > tbody, .table-less2 > thead, .table-less2 > tbody, .table-info2 > thead, .table-info2 > tbody, .table-warning2 > thead, .table-warning2 > tbody, .table-error2 > thead, .table-error2 > tbody, .table-success2 > thead, .table-success2 > tbody {
   font-size: 1.25rem;
   line-height: 1.5em;
 }
@@ -50313,9 +50313,10 @@ u, ins, .u, .ins {
   flex-direction: row;
   justify-content: left;
 }
-.card > content {
+.card > .content {
   height: 100%;
   width: 100%;
+  box-sizing: border-box;
   display: flex;
   display: -webkit-flex;
   flex-direction: column;
