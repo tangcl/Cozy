@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="../../../css/index.css">
+        <style>
+                body{
+                    padding:2rem;
+                }
+            </style>
+    </head>
+    <body>
+        <div class="box-center" style="position:absolute;z-index:10;bottom:0;left:0;width:100%;height:2rem;display:flex;background-color: transparent;">
+            <a  href="#a">1</a>
+            <a  href="#b">2</a>
+            <a  href="#c">3</a>            
+        </div>
+        <div style="height:100%;width:100%;">
+           
+            <div class="x-rotation">
+                <div id="full" style="position:absolute;top:0;left:0;min-width:100%;width:100%;">  
+                    <div id="a" style="background-color:red;width:100%;">100</div>
+                    <div id="b" style="background-color:blue;width:100%;">100</div>
+                    <div id="c" style="background-color:green;width:100%;">100</div>
+                </div>
+                     
+            </div>
+        </div>
+    </body>
+    
+    <script>
+        function check1(){
+            document.getElementById("full").setAttribute("style","height:100%;width:100%;background-color:red;position:absolute;top:0;transition: all .5s;");
+        }
+        function check2(){
+            document.getElementById("full").setAttribute("style","height:100%;width:100%;background-color:red;position:absolute;top:-100%;transition: all .5s;");
+        }
+        function check3(){
+            document.getElementById("full").setAttribute("style","height:100%;width:100%;background-color:red;position:absolute;top:-200%;transition: all .5s;");
+        }
+    </script>
+</html>
