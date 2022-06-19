@@ -17277,6 +17277,124 @@ button:active {
   background-color: white;
 }
 
+.line-right {
+  border-top: 1px solid;
+  position: relative;
+  display: flex;
+  height: 1rem;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+.line-right > span {
+  position: absolute;
+  display: block;
+  right: 2em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  top: calc(-100% + 0.25rem);
+  background-color: white;
+}
+
+.split-gray {
+  border-right: 1px solid #bbbbbb;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-white {
+  border-right: 1px solid white;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-black {
+  border-right: 1px solid black;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-main {
+  border-right: 1px solid #7700cc;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-minor {
+  border-right: 1px solid #cc00cc;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-less {
+  border-right: 1px solid #00cccc;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-info {
+  border-right: 1px solid #bbbbbb;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-warning {
+  border-right: 1px solid #cccc00;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-error {
+  border-right: 1px solid #cc0000;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
+.split-success {
+  border-right: 1px solid #00cc00;
+  position: relative;
+  display: flex;
+  height: inherit;
+  width: 1px;
+  font-size: 1rem;
+  margin: 0.2rem;
+}
+
 .border-none {
   border: none;
 }

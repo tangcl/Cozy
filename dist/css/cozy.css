@@ -8890,7 +8890,7 @@ img {
   display: -webkit-flex;
   width: 100%;
   height: 100%;
-  overflow-y: auto;
+  overflow-y: hidden;
   scrollbar-color: #aaa #f6f6f6;
   scrollbar-width: thin;
 }

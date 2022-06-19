@@ -51,3 +51,33 @@
         background-color: $background;
     }
 }
+
+.line-right{
+    border-top:1px solid ;
+    position:relative;
+    display: flex;
+    height:1rem;
+    font-size: 1rem;
+    margin: .2rem;
+    &>span{
+        position:absolute;
+        display: block;
+        right: 2em;
+        padding-left:1rem;
+        padding-right:1rem;
+        top:calc(-100% + 0.25rem);
+        background-color: $background;
+    }
+}
+
+@each $key, $color in $semantic_range {
+    .split-#{$key} {
+        border-right:1px solid $color;
+        position:relative;
+        display: flex;
+        height: inherit;
+        width:1px;
+        font-size: 1rem;
+        margin: .2rem;
+    }
+}
