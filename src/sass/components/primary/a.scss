@@ -1,0 +1,118 @@
+@use "sass:color";
+@use "sass:math";
+@import "../../base/color";
+@import "../../base/box";
+a {
+    text-decoration: none;
+    box-sizing: border-box;
+    border: 0px solid transparent; //默认按钮没有边框
+    text-align: center;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    //单行超出.支持定宽button
+    overflow: hidden;
+    display:inline;
+    height: auto !important;
+    &>*{
+        align-items: center;
+        justify-content: center;
+    }
+    &:hover{
+        cursor:pointer;
+        color: $main;
+    }
+    &:active{
+        cursor:pointer;
+        color: $main;
+    }
+    &[href]{
+        text-decoration: none;
+    }    
+}
+
+
+@for $i from -4 through 4{
+    $divide: $i * 0.125; 
+    $font-size:(1 + $divide) * 1rem;
+    $height: $font-size * 2;
+    .a-size#{$i}{
+        // width: $width !important;
+        height: $height !important;
+        font-size: $font-size;
+        line-height: 1.5em;
+        padding: calc($font-size/4) $font-size; 
+    }
+    @if $i == 0{
+        $divide: 0; 
+        $height: (1 + $divide) * 1rem*2;
+        .a-size{
+            // width: $width !important;
+            height: $height !important;
+            font-size: $font-size;
+            line-height: 1.5em;
+            padding: $i*0.05rem $i*0.1rem; 
+        }
+    }
+}
+
+@each $key, $color in $semantic_range {
+    @for $i from -4 to 4{
+        .a-#{$key}-active{
+            color: $color;
+        }
+        .a-#{$key}#{$i} {
+            color: $black;
+            border: 1px solid transparent;
+            
+            &:hover{
+                cursor:pointer;
+                color: color.scale($color, $whiteness: (math.abs($i)*10)*1%);
+            }
+            &:active{
+                cursor:pointer;
+                color: color.scale($color, $whiteness: (math.abs($i)*20)*1%);
+            }
+            &[disabled]{
+                cursor:not-allowed;
+                color: $gray;
+            }
+            &[disabled]{
+                cursor:not-allowed;
+                color: $gray;
+                &:hover{
+                    box-shadow: none;
+                    color: $gray;
+                }
+            }
+        }
+        
+        @if $i == 0{
+            .a-#{$key} {
+                color: $color;
+                border: 1px solid transparent;
+                
+                &:hover{
+                    cursor:pointer;
+                    color: color.scale($color, $whiteness: (math.abs($i)*20)*1%);
+                }
+                &:active{
+                    cursor:pointer;
+                    color: color.scale($color, $whiteness: (math.abs($i)*20)*1%);
+                }
+                &[disabled]{
+                    cursor:not-allowed;
+                    color: $gray;
+                }
+                &[disabled]{
+                    cursor:not-allowed;
+                    color: $gray;
+                    &:hover{
+                        box-shadow: none;
+                        color: $gray;
+                    }
+                }   
+            }
+        }
+    }
+}
