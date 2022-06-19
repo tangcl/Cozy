@@ -5,21 +5,21 @@ p[placeholder], li[placeholder], img[placeholder], svg[placeholder]{
     min-height: 1em;
     vertical-align: middle;
     cursor: wait !important;
-    @extend .bg-gray-1;
+    // @extend .bg-info-1;
     color: $gray !important;
     border-color: $gray !important;
     border-radius: 0;
     animation: placeholder-key 5s;
     &:hover {
         cursor: wait !important;
-        @extend .bg-gray-1;
+        // @extend .bg-info-1;
         border-color: $gray !important;
         border-radius: 0;
     }
     &::before{
         content: '';
         cursor: wait !important;
-        @extend .bg-gray-1;
+        // @extend .bg-info-1;
         position: absolute;
         border-color: $gray !important;
         border-radius: 0;

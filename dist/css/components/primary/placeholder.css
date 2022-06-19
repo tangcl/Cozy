@@ -1,18 +1,37 @@
-/* Error: The target selector was not found.
- * Use "@extend .bg-gray-1 !optional" to avoid this error.
- *   ,
- * 8 |     @extend .bg-gray-1;
- *   |     ^^^^^^^^^^^^^^^^^^
- *   '
- *   src\sass\components\primary\placeholder.scss 8:5  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: 'Error: The target selector was not found.\aUse "@extend .bg-gray-1 !optional" to avoid this error.\a   \2577 \a 8 \2502      @extend .bg-gray-1;\d\a   \2502      ^^^^^^^^^^^^^^^^^^\a   \2575 \a   src\\sass\\components\\primary\\placeholder.scss 8:5  root stylesheet';
+p[placeholder], li[placeholder], img[placeholder], svg[placeholder] {
+  position: relative;
+  min-height: 1em;
+  vertical-align: middle;
+  cursor: wait !important;
+  color: #bbbbbb !important;
+  border-color: #bbbbbb !important;
+  border-radius: 0;
+  animation: placeholder-key 5s;
 }
+p[placeholder]:hover, li[placeholder]:hover, img[placeholder]:hover, svg[placeholder]:hover {
+  cursor: wait !important;
+  border-color: #bbbbbb !important;
+  border-radius: 0;
+}
+p[placeholder]::before, li[placeholder]::before, img[placeholder]::before, svg[placeholder]::before {
+  content: "";
+  cursor: wait !important;
+  position: absolute;
+  border-color: #bbbbbb !important;
+  border-radius: 0;
+  animation: placeholder-key 5s ease-in-out infinite;
+}
+
+@keyframes placeholder-key {
+  50% {
+    opacity: 0.6;
+  }
+  0% {
+    opacity: 8;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/*# sourceMappingURL=placeholder.css.map */

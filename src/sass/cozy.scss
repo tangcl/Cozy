@@ -7,13 +7,13 @@ $fontsize:16px;
     background-color: transparent;
     min-height: auto;
 }
-@import 'base/size';
+
 @import 'base/color';
-@import 'layout/container';
+@import 'base/size';
 @import 'base/font';
 @import 'base/box';
 @import 'base/icon';
-
+@import 'layout/container';
 
 
 

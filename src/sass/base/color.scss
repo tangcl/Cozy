@@ -13,8 +13,6 @@ $gray: #bbbbbb;
 $black: black;
 $white: white;
 
-
-// $color_range:1,2,3,4,500,600,700,800,900;
 //默认色定义:
 $background: $white;
 $textColor: $black;
@@ -42,6 +40,7 @@ $semantic_range:(
     "error":$error,
     "success":$success
 );
+
 
 $positions:(
     "left": "left",
