@@ -74,20 +74,20 @@ u, ins,.u, .ins {
     @if $size < 0 {
         .font-size#{$size}{
             font-size: (1 - $divide) * 1rem;
-            line-height: 1.5em;
+            // line-height: 1.5em;
         }
         
     }
     @if $size > 0 {
         .font-size#{$size}{
             font-size: (1 + $divide) * 1rem;
-            line-height: 1.5em;
+            // line-height: 1.5em;
         }
     }
     @if $size == 0{
-        .font-size{
+        .font-size .font-size0{
             font-size: 1rem;
-            line-height: 1.5em;
+            // line-height: 1.5em;
         }
     }
 }

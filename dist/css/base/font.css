@@ -49,47 +49,38 @@ u, ins, .u, .ins {
 
 .font-size-4 {
   font-size: 0.5rem;
-  line-height: 1.5em;
 }
 
 .font-size-3 {
   font-size: 0.625rem;
-  line-height: 1.5em;
 }
 
 .font-size-2 {
   font-size: 0.75rem;
-  line-height: 1.5em;
 }
 
 .font-size-1 {
   font-size: 0.875rem;
-  line-height: 1.5em;
 }
 
-.font-size {
+.font-size .font-size0 {
   font-size: 1rem;
-  line-height: 1.5em;
 }
 
 .font-size1 {
   font-size: 1.125rem;
-  line-height: 1.5em;
 }
 
 .font-size2 {
   font-size: 1.25rem;
-  line-height: 1.5em;
 }
 
 .font-size3 {
   font-size: 1.375rem;
-  line-height: 1.5em;
 }
 
 .font-size4 {
   font-size: 1.5rem;
-  line-height: 1.5em;
 }
 
 .font-space-1 {

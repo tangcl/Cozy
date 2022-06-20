@@ -8192,47 +8192,38 @@ u, ins, .u, .ins {
 
 .font-size-4, .table-success-4 > tbody, .table-success-4 > thead, .table-error-4 > tbody, .table-error-4 > thead, .table-warning-4 > tbody, .table-warning-4 > thead, .table-info-4 > tbody, .table-info-4 > thead, .table-less-4 > tbody, .table-less-4 > thead, .table-minor-4 > tbody, .table-minor-4 > thead, .table-main-4 > tbody, .table-main-4 > thead, .table-black-4 > tbody, .table-black-4 > thead, .table-white-4 > tbody, .table-white-4 > thead, .table-gray-4 > tbody, .table-gray-4 > thead {
   font-size: 0.5rem;
-  line-height: 1.5em;
 }
 
 .font-size-3, .table-success-3 > tbody, .table-success-3 > thead, .table-error-3 > tbody, .table-error-3 > thead, .table-warning-3 > tbody, .table-warning-3 > thead, .table-info-3 > tbody, .table-info-3 > thead, .table-less-3 > tbody, .table-less-3 > thead, .table-minor-3 > tbody, .table-minor-3 > thead, .table-main-3 > tbody, .table-main-3 > thead, .table-black-3 > tbody, .table-black-3 > thead, .table-white-3 > tbody, .table-white-3 > thead, .table-gray-3 > tbody, .table-gray-3 > thead {
   font-size: 0.625rem;
-  line-height: 1.5em;
 }
 
 .font-size-2, .table-success-2 > tbody, .table-success-2 > thead, .table-error-2 > tbody, .table-error-2 > thead, .table-warning-2 > tbody, .table-warning-2 > thead, .table-info-2 > tbody, .table-info-2 > thead, .table-less-2 > tbody, .table-less-2 > thead, .table-minor-2 > tbody, .table-minor-2 > thead, .table-main-2 > tbody, .table-main-2 > thead, .table-black-2 > tbody, .table-black-2 > thead, .table-white-2 > tbody, .table-white-2 > thead, .table-gray-2 > tbody, .table-gray-2 > thead {
   font-size: 0.75rem;
-  line-height: 1.5em;
 }
 
 .font-size-1, .table-success-1 > tbody, .table-success-1 > thead, .table-error-1 > tbody, .table-error-1 > thead, .table-warning-1 > tbody, .table-warning-1 > thead, .table-info-1 > tbody, .table-info-1 > thead, .table-less-1 > tbody, .table-less-1 > thead, .table-minor-1 > tbody, .table-minor-1 > thead, .table-main-1 > tbody, .table-main-1 > thead, .table-black-1 > tbody, .table-black-1 > thead, .table-white-1 > tbody, .table-white-1 > thead, .table-gray-1 > tbody, .table-gray-1 > thead {
   font-size: 0.875rem;
-  line-height: 1.5em;
 }
 
-.font-size, table > tbody, table > thead, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead {
+.font-size .font-size0, table > tbody .font-size0, table > thead .font-size0, .table-success > tbody .font-size0, .table-success > thead .font-size0, .table-error > tbody .font-size0, .table-error > thead .font-size0, .table-warning > tbody .font-size0, .table-warning > thead .font-size0, .table-info > tbody .font-size0, .table-info > thead .font-size0, .table-less > tbody .font-size0, .table-less > thead .font-size0, .table-minor > tbody .font-size0, .table-minor > thead .font-size0, .table-main > tbody .font-size0, .table-main > thead .font-size0, .table-black > tbody .font-size0, .table-black > thead .font-size0, .table-white > tbody .font-size0, .table-white > thead .font-size0, .table-gray > tbody .font-size0, .table-gray > thead .font-size0 {
   font-size: 1rem;
-  line-height: 1.5em;
 }
 
 .font-size1, .table-success1 > tbody, .table-success1 > thead, .table-error1 > tbody, .table-error1 > thead, .table-warning1 > tbody, .table-warning1 > thead, .table-info1 > tbody, .table-info1 > thead, .table-less1 > tbody, .table-less1 > thead, .table-minor1 > tbody, .table-minor1 > thead, .table-main1 > tbody, .table-main1 > thead, .table-black1 > tbody, .table-black1 > thead, .table-white1 > tbody, .table-white1 > thead, .table-gray1 > tbody, .table-gray1 > thead {
   font-size: 1.125rem;
-  line-height: 1.5em;
 }
 
 .font-size2, .table-success2 > tbody, .table-success2 > thead, .table-error2 > tbody, .table-error2 > thead, .table-warning2 > tbody, .table-warning2 > thead, .table-info2 > tbody, .table-info2 > thead, .table-less2 > tbody, .table-less2 > thead, .table-minor2 > tbody, .table-minor2 > thead, .table-main2 > tbody, .table-main2 > thead, .table-black2 > tbody, .table-black2 > thead, .table-white2 > tbody, .table-white2 > thead, .table-gray2 > tbody, .table-gray2 > thead {
   font-size: 1.25rem;
-  line-height: 1.5em;
 }
 
 .font-size3, .table-success3 > tbody, .table-success3 > thead, .table-error3 > tbody, .table-error3 > thead, .table-warning3 > tbody, .table-warning3 > thead, .table-info3 > tbody, .table-info3 > thead, .table-less3 > tbody, .table-less3 > thead, .table-minor3 > tbody, .table-minor3 > thead, .table-main3 > tbody, .table-main3 > thead, .table-black3 > tbody, .table-black3 > thead, .table-white3 > tbody, .table-white3 > thead, .table-gray3 > tbody, .table-gray3 > thead {
   font-size: 1.375rem;
-  line-height: 1.5em;
 }
 
 .font-size4, .table-success4 > tbody, .table-success4 > thead, .table-error4 > tbody, .table-error4 > thead, .table-warning4 > tbody, .table-warning4 > thead, .table-info4 > tbody, .table-info4 > thead, .table-less4 > tbody, .table-less4 > thead, .table-minor4 > tbody, .table-minor4 > thead, .table-main4 > tbody, .table-main4 > thead, .table-black4 > tbody, .table-black4 > thead, .table-white4 > tbody, .table-white4 > thead, .table-gray4 > tbody, .table-gray4 > thead {
   font-size: 1.5rem;
-  line-height: 1.5em;
 }
 
 .font-space-1 {
