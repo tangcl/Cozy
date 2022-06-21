@@ -85,7 +85,7 @@ u, ins,.u, .ins {
 
 @for $letter from 1 to 10 {
     $letterns : ($letter - 4) * 0.1rem;
-        .font-space-#{$letter}{
+    .font-space-#{$letter}{
             letter-spacing: $letterns;
     }
     @if $letter == 4{
@@ -95,13 +95,14 @@ u, ins,.u, .ins {
     }
 } 
 //定义字体粗细
-@for $font-weight from 1 to 9{
-    .font-weight-#{$font-weight} {
-        font-weight: $font-weight * 100 !important;
+@for $font-weight from -3 through 3{
+    $weight: (4 + $font-weight) * 100;
+    .font-weight#{$font-weight} {
+        font-weight: $weight !important;
     }
-    @if $font-weight == 4{
+    @if $font-weight == 0{
         .font-weight {
-            font-weight: $font-weight * 100 !important;
+            font-weight: $weight !important;
         }   
     } 
 }

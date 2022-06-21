@@ -5442,7 +5442,7 @@ u, ins, .u, .ins {
   letter-spacing: 0.5rem;
 }
 
-.font-weight-1 {
+.font-weight-3 {
   font-weight: 100 !important;
 }
 
@@ -5450,11 +5450,11 @@ u, ins, .u, .ins {
   font-weight: 200 !important;
 }
 
-.font-weight-3 {
+.font-weight-1 {
   font-weight: 300 !important;
 }
 
-.font-weight-4 {
+.font-weight0 {
   font-weight: 400 !important;
 }
 
@@ -5462,20 +5462,16 @@ u, ins, .u, .ins {
   font-weight: 400 !important;
 }
 
-.font-weight-5 {
+.font-weight1 {
   font-weight: 500 !important;
 }
 
-.font-weight-6 {
+.font-weight2 {
   font-weight: 600 !important;
 }
 
-.font-weight-7 {
+.font-weight3 {
   font-weight: 700 !important;
-}
-
-.font-weight-8 {
-  font-weight: 800 !important;
 }
 
 .font-gray-4 {
