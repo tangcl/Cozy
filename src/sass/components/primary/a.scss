@@ -71,6 +71,7 @@ a {
             @extend .bg-#{$key};
             color: $white;
             @extend .font-size#{$i};
+            margin: 0 auto;
             // border: 1px solid transparent;
             // @extend .btn-size#{$i};
             &::before {
@@ -146,6 +147,35 @@ a {
                 }
             }
         }
+        $width: (1 + $i * 0.125) * 1rem;
+        .a-circle-#{$key}#{$i} {
+            display:block;
+            position:relative;
+            
+            color: $white;
+            // @extend .font-size#{$i};
+            width: $width !important;
+            height: $width !important;
+            background-color: $color;
+            border: 1px solid $color;
+            overflow: none;
+            border-radius: 10rem;
+            margin: 0 auto;
+        }
+        .circle-a-#{$key}#{$i} {
+            display:block;
+            position:relative;
+            
+            color: $white;
+            // @extend .font-size#{$i};
+            width: $width !important;
+            height: $width !important;
+            @extend .border-#{$key}#{$i};
+            overflow: none;
+            border-radius: 10rem;
+            margin: 0 auto;
+        }
+        
         @if $i == 0{
             .a-#{$key} {
                 position:relative;
@@ -224,6 +254,33 @@ a {
                         box-shadow: none;
                     }
                 }
+            }
+            .a-circle-#{$key} {
+                display:block;
+                position:relative;
+                
+                color: $white;
+                // @extend .font-size#{$i};
+                width: $width !important;
+                height: $width !important;
+                @extend .bg-#{$key}#{$i};
+                @extend .border-#{$key}#{$i};
+                overflow: none;
+                border-radius: 10rem;
+                margin: 0 auto;
+            }
+            .circle-a-#{$key} {
+                display:block;
+                position:relative;
+                
+                color: $white;
+                // @extend .font-size#{$i};
+                width: $width !important;
+                height: $width !important;
+                @extend .border-#{$key}#{$i};
+                overflow: none;
+                border-radius: 10rem;
+                margin: 0 auto;
             }   
         }
     }

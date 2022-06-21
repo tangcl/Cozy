@@ -8206,7 +8206,11 @@ u, ins, .u, .ins {
   font-size: 0.875rem;
 }
 
-.font-size .font-size0, table > tbody .font-size0, table > thead .font-size0, .table-success > tbody .font-size0, .table-success > thead .font-size0, .table-error > tbody .font-size0, .table-error > thead .font-size0, .table-warning > tbody .font-size0, .table-warning > thead .font-size0, .table-info > tbody .font-size0, .table-info > thead .font-size0, .table-less > tbody .font-size0, .table-less > thead .font-size0, .table-minor > tbody .font-size0, .table-minor > thead .font-size0, .table-main > tbody .font-size0, .table-main > thead .font-size0, .table-black > tbody .font-size0, .table-black > thead .font-size0, .table-white > tbody .font-size0, .table-white > thead .font-size0, .table-gray > tbody .font-size0, .table-gray > thead .font-size0 {
+.font-size0 {
+  font-size: 1rem;
+}
+
+.font-size, table > tbody, table > thead, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead {
   font-size: 1rem;
 }
 

@@ -5378,7 +5378,11 @@ u, ins, .u, .ins {
   font-size: 0.875rem;
 }
 
-.font-size .font-size0, .card > section .font-size0 {
+.font-size0 {
+  font-size: 1rem;
+}
+
+.font-size, .card > section {
   font-size: 1rem;
 }
 
