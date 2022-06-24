@@ -1,77 +1,7 @@
 @import "../../base/color";
-.line-left{
-    border-top:1px solid $gray;
-    position:relative;
-    display: flex;
-    height:1rem;
-    font-size: 1rem;
-    margin: .2rem;
-    &>span{
-        position:absolute;
-        display: block;
-        left: 2em;
-        padding-left:1rem;
-        padding-right:1rem;
-        top:calc(-100% + 0.25rem);
-        background-color: $background;
-    }
-}
-.line-center{
-    border-top:1px solid $gray;
-    position:relative;
-    display: flex;
-    height:1rem;
-    font-size: 1rem;
-    align-items:center;
-    justify-content: center;
-    margin: .2rem;
-    &>span{
-        position:absolute;
-        display: block;
-        padding-left:1rem;
-        padding-right:1rem;
-        top:calc(-100% + 0.25rem);
-        background-color: $background;
-    }
-}
-.line-right{
-    border-top:1px solid ;
-    position:relative;
-    display: flex;
-    height:1rem;
-    font-size: 1rem;
-    margin: .2rem;
-    &>span{
-        position:absolute;
-        display: block;
-        right: 2em;
-        padding-left:1rem;
-        padding-right:1rem;
-        top:calc(-100% + 0.25rem);
-        background-color: $background;
-    }
-}
-
-.line-right{
-    border-top:1px solid ;
-    position:relative;
-    display: flex;
-    height:1rem;
-    font-size: 1rem;
-    margin: .2rem;
-    &>span{
-        position:absolute;
-        display: block;
-        right: 2em;
-        padding-left:1rem;
-        padding-right:1rem;
-        top:calc(-100% + 0.25rem);
-        background-color: $background;
-    }
-}
-
+//逻辑：设置一个高度为字体一半的div,使用div的下边界border,在父div没有padding情况下，也可以保证字体正常输出显示
 @each $key, $color in $semantic_range {
-    .split-#{$key} {
+    .vline-#{$key} {
         border-right:1px solid $color;
         position:relative;
         display: flex;
@@ -81,3 +11,131 @@
         margin: .2rem;
     }
 }
+
+@for $i from -3 through 3 {
+    // $top: calc(-1 * calc(calc(1rem + $i*0.125rem)/2));
+    $font-size: calc(1rem + $i*0.125rem);
+    .line-left#{$i} {
+        position:relative;
+        display: flex;
+        height: calc($font-size/2);
+        border-bottom: 1px solid $gray;
+        justify-content: left;
+        &>span{
+            position:absolute;
+            display: block;
+            margin-left:calc($font-size*2);
+            padding-left:calc($font-size/2);
+            padding-right:calc($font-size/2);
+            top: 0;
+            line-height: $font-size;
+            width: auto;
+            font-size: $font-size;
+            background-color: $background;
+        }
+    }
+    @if $i == 0{
+        .line-left {
+            position:relative;
+            display: flex;
+            height: calc($font-size/2);
+            border-bottom: 1px solid $gray;
+            justify-content: left;
+            &>span{
+                position:absolute;
+                display: block;
+                margin-left:calc($font-size*2);
+                padding-left:calc($font-size/2);
+                padding-right:calc($font-size/2);
+                top: 0;
+                line-height: $font-size;
+                width: auto;
+                font-size: $font-size;
+                background-color: $background;
+            }
+        }       
+    }
+
+    .line-center#{$i} {
+        position:relative;
+        display: flex;
+        height: calc($font-size/2);
+        border-bottom: 1px solid $gray;
+        justify-content: center;
+        &>span{
+            position:absolute;
+            display: block;
+            margin: 0 auto;
+            padding-left:calc($font-size/2);
+            padding-right:calc($font-size/2);
+            top: 0;
+            line-height: $font-size;
+            width: auto;
+            font-size: $font-size;
+            background-color: $background;
+        }
+    }
+    @if $i == 0{
+        .line-center {
+            position:relative;
+            display: flex;
+            height: calc($font-size/2);
+            border-bottom: 1px solid $gray;
+            justify-content: center;
+            &>span{
+                position:absolute;
+                display: block;
+                margin: 0 auto;
+                padding-left:calc($font-size/2);
+                padding-right:calc($font-size/2);
+                top: 0;
+                line-height: $font-size;
+                width: auto;
+                font-size: $font-size;
+                background-color: $background;
+            }
+        }       
+    }
+    .line-right#{$i} {
+        position:relative;
+        display: flex;
+        height: calc($font-size/2);
+        border-bottom: 1px solid $gray;
+        justify-content: right;
+        &>span{
+            position:absolute;
+            display: block;
+            margin-right:calc($font-size*2);
+            padding-left:calc($font-size/2);
+            padding-right:calc($font-size/2);
+            top: 0;
+            line-height: $font-size;
+            width: auto;
+            font-size: $font-size;
+            background-color: $background;
+        }
+    }
+    @if $i == 0{
+        .line-right {
+            position:relative;
+            display: flex;
+            height: calc($font-size/2);
+            border-bottom: 1px solid $gray;
+            justify-content: right;
+            &>span{
+                position:absolute;
+                display: block;
+                margin-right:calc($font-size*2);
+                padding-left:calc($font-size/2);
+                padding-right:calc($font-size/2);
+                top: 0;
+                line-height: $font-size;
+                width: auto;
+                font-size: $font-size;
+                background-color: $background;
+            }
+        }       
+    }
+}
+
+

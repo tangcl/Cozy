@@ -5794,8 +5794,12 @@ button:active {
 }
 .btn-gray-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray-4:hover::before {
@@ -5905,8 +5909,12 @@ button:active {
 }
 .btn-gray-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray-3:hover::before {
@@ -6016,8 +6024,12 @@ button:active {
 }
 .btn-gray-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray-2:hover::before {
@@ -6127,8 +6139,12 @@ button:active {
 }
 .btn-gray-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray-1:hover::before {
@@ -6238,8 +6254,12 @@ button:active {
 }
 .btn-gray0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray0:hover::before {
@@ -6343,13 +6363,18 @@ button:active {
 }
 
 .btn-gray {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-gray::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray:hover::before {
@@ -6459,8 +6484,12 @@ button:active {
 }
 .btn-gray1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray1:hover::before {
@@ -6570,8 +6599,12 @@ button:active {
 }
 .btn-gray2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray2:hover::before {
@@ -6681,8 +6714,12 @@ button:active {
 }
 .btn-gray3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-gray3:hover::before {
@@ -6792,8 +6829,12 @@ button:active {
 }
 .btn-white-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white-4:hover::before {
@@ -6903,8 +6944,12 @@ button:active {
 }
 .btn-white-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white-3:hover::before {
@@ -7014,8 +7059,12 @@ button:active {
 }
 .btn-white-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white-2:hover::before {
@@ -7125,8 +7174,12 @@ button:active {
 }
 .btn-white-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white-1:hover::before {
@@ -7236,8 +7289,12 @@ button:active {
 }
 .btn-white0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white0:hover::before {
@@ -7341,13 +7398,18 @@ button:active {
 }
 
 .btn-white {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-white::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white:hover::before {
@@ -7457,8 +7519,12 @@ button:active {
 }
 .btn-white1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white1:hover::before {
@@ -7568,8 +7634,12 @@ button:active {
 }
 .btn-white2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white2:hover::before {
@@ -7679,8 +7749,12 @@ button:active {
 }
 .btn-white3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-white3:hover::before {
@@ -7790,8 +7864,12 @@ button:active {
 }
 .btn-black-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black-4:hover::before {
@@ -7901,8 +7979,12 @@ button:active {
 }
 .btn-black-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black-3:hover::before {
@@ -8012,8 +8094,12 @@ button:active {
 }
 .btn-black-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black-2:hover::before {
@@ -8123,8 +8209,12 @@ button:active {
 }
 .btn-black-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black-1:hover::before {
@@ -8234,8 +8324,12 @@ button:active {
 }
 .btn-black0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black0:hover::before {
@@ -8339,13 +8433,18 @@ button:active {
 }
 
 .btn-black {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-black::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black:hover::before {
@@ -8455,8 +8554,12 @@ button:active {
 }
 .btn-black1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black1:hover::before {
@@ -8566,8 +8669,12 @@ button:active {
 }
 .btn-black2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black2:hover::before {
@@ -8677,8 +8784,12 @@ button:active {
 }
 .btn-black3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-black3:hover::before {
@@ -8788,8 +8899,12 @@ button:active {
 }
 .btn-main-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main-4:hover::before {
@@ -8899,8 +9014,12 @@ button:active {
 }
 .btn-main-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main-3:hover::before {
@@ -9010,8 +9129,12 @@ button:active {
 }
 .btn-main-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main-2:hover::before {
@@ -9121,8 +9244,12 @@ button:active {
 }
 .btn-main-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main-1:hover::before {
@@ -9232,8 +9359,12 @@ button:active {
 }
 .btn-main0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main0:hover::before {
@@ -9337,13 +9468,18 @@ button:active {
 }
 
 .btn-main {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-main::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main:hover::before {
@@ -9453,8 +9589,12 @@ button:active {
 }
 .btn-main1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main1:hover::before {
@@ -9564,8 +9704,12 @@ button:active {
 }
 .btn-main2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main2:hover::before {
@@ -9675,8 +9819,12 @@ button:active {
 }
 .btn-main3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-main3:hover::before {
@@ -9786,8 +9934,12 @@ button:active {
 }
 .btn-minor-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor-4:hover::before {
@@ -9897,8 +10049,12 @@ button:active {
 }
 .btn-minor-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor-3:hover::before {
@@ -10008,8 +10164,12 @@ button:active {
 }
 .btn-minor-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor-2:hover::before {
@@ -10119,8 +10279,12 @@ button:active {
 }
 .btn-minor-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor-1:hover::before {
@@ -10230,8 +10394,12 @@ button:active {
 }
 .btn-minor0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor0:hover::before {
@@ -10335,13 +10503,18 @@ button:active {
 }
 
 .btn-minor {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-minor::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor:hover::before {
@@ -10451,8 +10624,12 @@ button:active {
 }
 .btn-minor1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor1:hover::before {
@@ -10562,8 +10739,12 @@ button:active {
 }
 .btn-minor2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor2:hover::before {
@@ -10673,8 +10854,12 @@ button:active {
 }
 .btn-minor3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-minor3:hover::before {
@@ -10784,8 +10969,12 @@ button:active {
 }
 .btn-less-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less-4:hover::before {
@@ -10895,8 +11084,12 @@ button:active {
 }
 .btn-less-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less-3:hover::before {
@@ -11006,8 +11199,12 @@ button:active {
 }
 .btn-less-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less-2:hover::before {
@@ -11117,8 +11314,12 @@ button:active {
 }
 .btn-less-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less-1:hover::before {
@@ -11228,8 +11429,12 @@ button:active {
 }
 .btn-less0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less0:hover::before {
@@ -11333,13 +11538,18 @@ button:active {
 }
 
 .btn-less {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-less::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less:hover::before {
@@ -11449,8 +11659,12 @@ button:active {
 }
 .btn-less1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less1:hover::before {
@@ -11560,8 +11774,12 @@ button:active {
 }
 .btn-less2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less2:hover::before {
@@ -11671,8 +11889,12 @@ button:active {
 }
 .btn-less3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-less3:hover::before {
@@ -11782,8 +12004,12 @@ button:active {
 }
 .btn-info-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info-4:hover::before {
@@ -11893,8 +12119,12 @@ button:active {
 }
 .btn-info-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info-3:hover::before {
@@ -12004,8 +12234,12 @@ button:active {
 }
 .btn-info-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info-2:hover::before {
@@ -12115,8 +12349,12 @@ button:active {
 }
 .btn-info-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info-1:hover::before {
@@ -12226,8 +12464,12 @@ button:active {
 }
 .btn-info0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info0:hover::before {
@@ -12331,13 +12573,18 @@ button:active {
 }
 
 .btn-info {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-info::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info:hover::before {
@@ -12447,8 +12694,12 @@ button:active {
 }
 .btn-info1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info1:hover::before {
@@ -12558,8 +12809,12 @@ button:active {
 }
 .btn-info2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info2:hover::before {
@@ -12669,8 +12924,12 @@ button:active {
 }
 .btn-info3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-info3:hover::before {
@@ -12780,8 +13039,12 @@ button:active {
 }
 .btn-warning-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning-4:hover::before {
@@ -12891,8 +13154,12 @@ button:active {
 }
 .btn-warning-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning-3:hover::before {
@@ -13002,8 +13269,12 @@ button:active {
 }
 .btn-warning-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning-2:hover::before {
@@ -13113,8 +13384,12 @@ button:active {
 }
 .btn-warning-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning-1:hover::before {
@@ -13224,8 +13499,12 @@ button:active {
 }
 .btn-warning0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning0:hover::before {
@@ -13329,13 +13608,18 @@ button:active {
 }
 
 .btn-warning {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-warning::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning:hover::before {
@@ -13445,8 +13729,12 @@ button:active {
 }
 .btn-warning1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning1:hover::before {
@@ -13556,8 +13844,12 @@ button:active {
 }
 .btn-warning2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning2:hover::before {
@@ -13667,8 +13959,12 @@ button:active {
 }
 .btn-warning3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-warning3:hover::before {
@@ -13778,8 +14074,12 @@ button:active {
 }
 .btn-error-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error-4:hover::before {
@@ -13889,8 +14189,12 @@ button:active {
 }
 .btn-error-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error-3:hover::before {
@@ -14000,8 +14304,12 @@ button:active {
 }
 .btn-error-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error-2:hover::before {
@@ -14111,8 +14419,12 @@ button:active {
 }
 .btn-error-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error-1:hover::before {
@@ -14222,8 +14534,12 @@ button:active {
 }
 .btn-error0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error0:hover::before {
@@ -14327,13 +14643,18 @@ button:active {
 }
 
 .btn-error {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-error::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error:hover::before {
@@ -14443,8 +14764,12 @@ button:active {
 }
 .btn-error1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error1:hover::before {
@@ -14554,8 +14879,12 @@ button:active {
 }
 .btn-error2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error2:hover::before {
@@ -14665,8 +14994,12 @@ button:active {
 }
 .btn-error3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-error3:hover::before {
@@ -14776,8 +15109,12 @@ button:active {
 }
 .btn-success-4::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success-4:hover::before {
@@ -14887,8 +15224,12 @@ button:active {
 }
 .btn-success-3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success-3:hover::before {
@@ -14998,8 +15339,12 @@ button:active {
 }
 .btn-success-2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success-2:hover::before {
@@ -15109,8 +15454,12 @@ button:active {
 }
 .btn-success-1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success-1:hover::before {
@@ -15220,8 +15569,12 @@ button:active {
 }
 .btn-success0::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success0:hover::before {
@@ -15325,13 +15678,18 @@ button:active {
 }
 
 .btn-success {
+  position: relative;
   color: white;
   border: 1px solid transparent;
 }
 .btn-success::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success:hover::before {
@@ -15441,8 +15799,12 @@ button:active {
 }
 .btn-success1::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success1:hover::before {
@@ -15552,8 +15914,12 @@ button:active {
 }
 .btn-success2::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success2:hover::before {
@@ -15663,8 +16029,12 @@ button:active {
 }
 .btn-success3::before {
   content: "";
+  top: -1px;
+  left: -1px;
   position: absolute;
   border-radius: inherit;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
   background-color: rgba(0, 0, 0, 0);
 }
 .btn-success3:hover::before {

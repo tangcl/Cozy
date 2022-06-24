@@ -1,0 +1,61 @@
+@import "../../base/color";
+@import "../../base/box";
+
+//高度自行定义，或者使用父容器限制。
+textarea{
+    font-size: 1rem;
+    line-height: 1.5em;
+    width: 100%;
+    height: 100%;
+    border: 1px solid $gray;
+    outline: none;
+    @extend .padding-left-4, .padding-right-4; 
+    resize: none;
+    box-sizing:border-box;
+    &:hover{
+        &[disabled]{
+            cursor: not-allowed;
+        }
+    }  
+}
+
+@for $i from -4 through 4{
+    @each $key, $value in $semantic_range {
+        $range: $i* 0.125rem;
+        .textarea-#{$key}#{$i}{
+            // position:relative;
+            font-size: 1rem + $range;
+            line-height: 1.5em;            
+            border: 1px solid $value !important;
+            &:hover{
+                border: 1px solid $value;
+            }
+            &:active{
+                border: 1px solid $value;
+            }
+            &:focus-visible{
+                border: 1px solid $value;
+                outline: none;  
+            }
+        }
+
+        @if $i == 0 {
+            .textarea-#{$key}{
+                // position:relative;
+                font-size: 1rem;
+                line-height: 1.5em;            
+                border: 1px solid $value !important;
+                &:hover{
+                    border: 1px solid $value;
+                }
+                &:active{
+                    border: 1px solid $value;
+                }
+                &:focus-visible{
+                    border: 1px solid $value;
+                    outline: none;  
+                }
+            }
+        }
+    }
+}
