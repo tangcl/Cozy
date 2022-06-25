@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"bubble.css"}
+{"version":3,"sourceRoot":"","sources":["../../../../src/sass/components/primary/bubble.scss","../../../../src/sass/base/color.scss"],"names":[],"mappings":"AAGA;EACI;;AACA;EACI;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA,kBCjBH;EDkBG,OCPA;;;ADWR;EACI;EACA;EACA;;AACA;EAGI;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA,kBCtCH;EDuCG,OC5BA","file":"bubble.css"}

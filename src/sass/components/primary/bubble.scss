@@ -1,3 +1,44 @@
 @import "../../base/color";
 
 //鼠标经过，弹出更多消息提示。
+.btn-bubble{
+    position: relative;
+    &>span{
+        position: absolute;
+        top: 0;
+        right: 0;
+        display: block;
+        width: auto;
+        min-width: 12px;
+        height: 12px;
+        padding: 0;
+        padding-left: 1px;
+        padding-right: 1px;
+        font-size: 12px;
+        line-height: 12px;
+        border-radius: 6px;
+        background-color: $error;
+        color: $white;
+    }    
+}
+
+.a-bubble{
+    position: relative;
+    display: block;
+    text-align: left;
+    &>span{
+        // position:fixed;
+        // width: 100%;
+        min-width: 1rem;
+        text-align: center;
+        float: right;
+        box-sizing: content-box;
+        height: 16px;
+        line-height: 16px;
+        font-size: 12px;
+        padding: 2px;
+        border-radius: 1rem;
+        background-color: $error;
+        color: $white;
+    }   
+}

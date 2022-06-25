@@ -63,7 +63,7 @@ input{
                 flex-direction: row;
                 padding: 0.25em;
                 color: $value;
-                @extend .bg-gray-4;
+                @extend .bg-gray;
             }
             &>input{
                 width: 100%;
@@ -113,7 +113,7 @@ input{
                     flex-direction: row;
                     padding: 0.25em;
                     color: $value;
-                    @extend .bg-gray-4;
+                    @extend .bg-gray;
                 }
                 &>input{
                     width: 100%;

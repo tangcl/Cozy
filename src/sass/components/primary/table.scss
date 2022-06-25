@@ -35,22 +35,17 @@
                 &>tbody{
                     padding-top:8px;
                     @extend .font-size;
-                    // @extend .border-#{$k};
-                    // &>tr>td{
-                    //     padding:.25em .5rem;
-                    // }
                     &>tr>td:not(:first-child){
-                        // background-color:red;
-                        @extend .border-gray-left-4;
+                        border-right: 1px solid #eee;
                     }
                     &>tr {
-                        @extend .border-gray-4;
+                        border-bottom: 1px solid #eee;
                         &:hover{
-                            @extend .bg-#{$k}-3;
+                            background-color: #bbb;
                         }
                     }
                     &>tr:nth-child(even){
-                        @extend .bg-gray-4;
+                        background-color: #eee;
                     }
                     
                 }
@@ -83,23 +78,23 @@
                     @extend .font-size#{$i};
                     // @extend .border-#{$k};
                     &>tr:not(:first-child){
-                        @extend .border-#{$k}-bottom;
+                        border-bottom: 1px solid #eee;
                     }
                     &>tr>td{
                         padding:.25em .5rem;
                     }
                     &>tr>td:first-child{
                         // background-color:red;
-                        @extend .border-#{$k}-left;
+                        border-left: 1px solid #eee;
                     }
                     &>tr {
-                        @extend .border-gray-4;
+                        border-bottom: 1px solid #eee;
                         &:hover{
-                            @extend .bg-#{$k}-3;
+                            background-color:#eee;
                         }
                     }
                     &:nth-child(even){
-                        @extend .bg-gray-4;
+                        background-color:#ccc;
                     }
                 }
             }
@@ -141,16 +136,17 @@ border-collapse: collapse;
     // }
     &>tr>td:not(:first-child){
         // background-color:red;
-        @extend .border-gray-left-4;
+        @extend .border-gray-left;
     }
     &>tr {
-        @extend .border-gray-4;
+        @extend .border-gray;
         &:hover{
-            @extend .bg-gray-2;
+            background-color: #bbb;
         }
     }
     &>tr:nth-child(even){
-        @extend .bg-gray-4;
+        background-color: #ccc;
+        
     }
     
 }

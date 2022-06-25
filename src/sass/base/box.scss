@@ -130,57 +130,17 @@ $fontsize:16px;
 }
 @each $p, $v in $positions{
     @each $key, $color in $semantic_range {
-        @for $i from -4 through 4 {
-            //生成颜色相关匹配色。
-            @if $i  < 0{
-                $co:color.scale($color, $whiteness: (math.abs($i)*20)*1%, $blackness: -(math.abs($i)*20)*1%);
-                .bg-#{$key}#{$i} {
-                    background-color: $co !important;
-                }
-                .border-#{$key}#{$i}{
-                    // border-color: $co;
-                    border: 1px solid $co;
-                }
-                .border-#{$key}-#{$v}#{$i}{
-                    // border-color: $co;
-                    border-#{$v}: 1px solid $co;
-                }
-            }
-            @if $i > 0 {
-                $co: color.scale($color, $blackness: $i*20*1%);
-                .bg-#{$key}#{$i} {
-                    background-color: $co  !important;
-                }
-                .border-#{$key}#{$i}{
-                    border: 1px solid $co;
-                }
-                .border-#{$key}-#{$v}#{$i}{
-                    // border-color: $co;
-                    border-#{$v}: 1px solid $co;
-                }
-            }
-            @if $i == 0 {
-                .bg-#{$key}#{$i} {
-                    background-color: $color  !important;
-                }
-                .bg-#{$key} {
-                    background-color: $color  !important;
-                }
-                .border-#{$key}#{$i}{
-                    border: 1px solid $color !important;
-                }
-                .border-#{$key}{
-                    border: 1px solid $color !important;
-                }
-                .border-#{$key}-#{$v}#{$i}{
-                    // border-color: $co;
-                    border-#{$v}: 1px solid $color !important;
-                }
-                .border-#{$key}-#{$v}{
-                    // border-color: $co;
-                    border-#{$v}: 1px solid $color !important;
-                }
-            }
+        //生成颜色相关匹配色。
+        .bg-#{$key} {
+            background-color: $color !important;
+        }
+        .border-#{$key}{
+            // border-color: $co;
+            border: 1px solid $color;
+        }
+        .border-#{$key}-#{$v}{
+            // border-color: $co;
+            border-#{$v}: 1px solid $color;
         }
     }    
 }
