@@ -20,6 +20,7 @@ img {
 .center {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .right {
@@ -35,6 +36,7 @@ img {
 .middle, .y {
   display: flex;
   align-items: center;
+  justify-content: space-around;
 }
 
 .bottom {

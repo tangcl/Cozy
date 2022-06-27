@@ -1,5 +1,5 @@
 .border-none {
-  border: none;
+  border: none !important;
 }
 
 .border-style-solid {
@@ -1127,6 +1127,7 @@ button:active {
 }
 
 .btn-square {
+  display: block;
   width: 2rem !important;
   height: 2rem !important;
   font-size: 1rem;

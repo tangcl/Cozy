@@ -5,7 +5,7 @@
 @import "./color";
 $fontsize:16px;
 .border-none{
-    border:none;
+    border:none !important;
 }
 .border-style-solid{
     border-style: solid;

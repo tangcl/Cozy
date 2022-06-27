@@ -5,7 +5,6 @@
     flex-direction: column;
     justify-content: flex-start;
     align-content: top;
-    padding:.25rem;
     &>header{
         
         padding-bottom: .5rem;
@@ -37,7 +36,7 @@
     align-items:center;
     &>.modal-content{
         box-shadow: 1px 1px 10px 0px $gray;
-        background-color: $background;
+        // background-color: $background;
     }
 }
 
@@ -85,7 +84,7 @@
     // animation: modal-keyframes 10s;
     &>.modal-content{
         box-shadow: 1px 1px 10px 0px $gray;
-        background-color: $background;
+        // background-color: $background;
         height: 100%;
         animation: modal-keyframe 1s;
     }
@@ -105,7 +104,7 @@
     // animation: modal-keyframes 10s;
     &>.modal-content{
         box-shadow: 1px 1px 10px 0px $gray;
-        background-color: $background;
+        // background-color: $background;
         animation: modal-keyframe 1s;
     }
 }
@@ -123,7 +122,7 @@
     // animation: modal-keyframes 10s;
     &>.modal-content{
         box-shadow: 1px 1px 10px 0px $gray;
-        background-color: $background;
+        // background-color: $background;
         animation: modal-height 1s;
     }
 }

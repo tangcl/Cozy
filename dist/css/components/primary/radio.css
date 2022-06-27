@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .border-none {
-  border: none;
+  border: none !important;
 }
 
 .border-style-solid {

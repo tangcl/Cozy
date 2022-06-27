@@ -1,5 +1,5 @@
 .border-none {
-  border: none;
+  border: none !important;
 }
 
 .border-style-solid {
@@ -363,10 +363,10 @@
   border-radius: 0px;
 }
 
-.box-shadow, table > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead {
+.box-shadow, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, table > thead {
   box-shadow: 0 0 2px 0 #bbbbbb;
 }
-.box-shadow:active, table > thead:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active {
+.box-shadow:active, .table-success3 > thead:active, .table-success2 > thead:active, .table-success1 > thead:active, .table-success > thead:active, .table-success-1 > thead:active, .table-success-2 > thead:active, .table-success-3 > thead:active, .table-error3 > thead:active, .table-error2 > thead:active, .table-error1 > thead:active, .table-error > thead:active, .table-error-1 > thead:active, .table-error-2 > thead:active, .table-error-3 > thead:active, .table-warning3 > thead:active, .table-warning2 > thead:active, .table-warning1 > thead:active, .table-warning > thead:active, .table-warning-1 > thead:active, .table-warning-2 > thead:active, .table-warning-3 > thead:active, .table-info3 > thead:active, .table-info2 > thead:active, .table-info1 > thead:active, .table-info > thead:active, .table-info-1 > thead:active, .table-info-2 > thead:active, .table-info-3 > thead:active, .table-less3 > thead:active, .table-less2 > thead:active, .table-less1 > thead:active, .table-less > thead:active, .table-less-1 > thead:active, .table-less-2 > thead:active, .table-less-3 > thead:active, .table-minor3 > thead:active, .table-minor2 > thead:active, .table-minor1 > thead:active, .table-minor > thead:active, .table-minor-1 > thead:active, .table-minor-2 > thead:active, .table-minor-3 > thead:active, .table-main3 > thead:active, .table-main2 > thead:active, .table-main1 > thead:active, .table-main > thead:active, .table-main-1 > thead:active, .table-main-2 > thead:active, .table-main-3 > thead:active, .table-black3 > thead:active, .table-black2 > thead:active, .table-black1 > thead:active, .table-black > thead:active, .table-black-1 > thead:active, .table-black-2 > thead:active, .table-black-3 > thead:active, .table-white3 > thead:active, .table-white2 > thead:active, .table-white1 > thead:active, .table-white > thead:active, .table-white-1 > thead:active, .table-white-2 > thead:active, .table-white-3 > thead:active, .table-gray3 > thead:active, .table-gray2 > thead:active, .table-gray1 > thead:active, .table-gray > thead:active, .table-gray-1 > thead:active, .table-gray-2 > thead:active, .table-gray-3 > thead:active, table > thead:active {
   box-shadow: 0 0 1px 0 #bbbbbb;
 }
 
@@ -411,15 +411,15 @@
   border-radius: 100rem;
 }
 
-.bg-gray, table > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead {
+.bg-gray, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, table > thead {
   background-color: #bbbbbb !important;
 }
 
-.border-gray, table > tbody > tr, table > thead, table, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray > thead, .table-gray, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
+.border-gray, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
   border: 1px solid #bbbbbb;
 }
 
-.border-gray-left, table > tbody > tr > td:not(:first-child) {
+.border-gray-left {
   border-left: 1px solid #bbbbbb;
 }
 
@@ -427,7 +427,7 @@
   background-color: white !important;
 }
 
-.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white > thead, .table-white, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
+.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
   border: 1px solid white;
 }
 
@@ -439,7 +439,7 @@
   background-color: black !important;
 }
 
-.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black > thead, .table-black, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
+.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
   border: 1px solid black;
 }
 
@@ -451,7 +451,7 @@
   background-color: #7700cc !important;
 }
 
-.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main > thead, .table-main, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
+.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
   border: 1px solid #7700cc;
 }
 
@@ -463,7 +463,7 @@
   background-color: #cc00cc !important;
 }
 
-.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor > thead, .table-minor, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
+.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
   border: 1px solid #cc00cc;
 }
 
@@ -475,7 +475,7 @@
   background-color: #00cccc !important;
 }
 
-.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less > thead, .table-less, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
+.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
   border: 1px solid #00cccc;
 }
 
@@ -487,7 +487,7 @@
   background-color: #bbbbbb !important;
 }
 
-.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info > thead, .table-info, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
+.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
   border: 1px solid #bbbbbb;
 }
 
@@ -499,7 +499,7 @@
   background-color: #cccc00 !important;
 }
 
-.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning > thead, .table-warning, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
+.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
   border: 1px solid #cccc00;
 }
 
@@ -511,7 +511,7 @@
   background-color: #cc0000 !important;
 }
 
-.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error > thead, .table-error, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
+.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
   border: 1px solid #cc0000;
 }
 
@@ -523,7 +523,7 @@
   background-color: #00cc00 !important;
 }
 
-.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success > thead, .table-success, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
+.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
   border: 1px solid #00cc00;
 }
 
@@ -531,11 +531,11 @@
   border-left: 1px solid #00cc00;
 }
 
-.bg-gray, table > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead {
+.bg-gray, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, table > thead {
   background-color: #bbbbbb !important;
 }
 
-.border-gray, table > tbody > tr, table > thead, table, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray > thead, .table-gray, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
+.border-gray, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
   border: 1px solid #bbbbbb;
 }
 
@@ -547,7 +547,7 @@
   background-color: white !important;
 }
 
-.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white > thead, .table-white, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
+.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
   border: 1px solid white;
 }
 
@@ -559,7 +559,7 @@
   background-color: black !important;
 }
 
-.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black > thead, .table-black, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
+.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
   border: 1px solid black;
 }
 
@@ -571,7 +571,7 @@
   background-color: #7700cc !important;
 }
 
-.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main > thead, .table-main, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
+.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
   border: 1px solid #7700cc;
 }
 
@@ -583,7 +583,7 @@
   background-color: #cc00cc !important;
 }
 
-.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor > thead, .table-minor, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
+.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
   border: 1px solid #cc00cc;
 }
 
@@ -595,7 +595,7 @@
   background-color: #00cccc !important;
 }
 
-.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less > thead, .table-less, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
+.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
   border: 1px solid #00cccc;
 }
 
@@ -607,7 +607,7 @@
   background-color: #bbbbbb !important;
 }
 
-.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info > thead, .table-info, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
+.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
   border: 1px solid #bbbbbb;
 }
 
@@ -619,7 +619,7 @@
   background-color: #cccc00 !important;
 }
 
-.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning > thead, .table-warning, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
+.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
   border: 1px solid #cccc00;
 }
 
@@ -631,7 +631,7 @@
   background-color: #cc0000 !important;
 }
 
-.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error > thead, .table-error, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
+.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
   border: 1px solid #cc0000;
 }
 
@@ -643,7 +643,7 @@
   background-color: #00cc00 !important;
 }
 
-.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success > thead, .table-success, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
+.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
   border: 1px solid #00cc00;
 }
 
@@ -651,11 +651,11 @@
   border-right: 1px solid #00cc00;
 }
 
-.bg-gray, table > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead {
+.bg-gray, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, table > thead {
   background-color: #bbbbbb !important;
 }
 
-.border-gray, table > tbody > tr, table > thead, table, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray > thead, .table-gray, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
+.border-gray, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
   border: 1px solid #bbbbbb;
 }
 
@@ -667,7 +667,7 @@
   background-color: white !important;
 }
 
-.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white > thead, .table-white, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
+.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
   border: 1px solid white;
 }
 
@@ -679,7 +679,7 @@
   background-color: black !important;
 }
 
-.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black > thead, .table-black, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
+.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
   border: 1px solid black;
 }
 
@@ -691,7 +691,7 @@
   background-color: #7700cc !important;
 }
 
-.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main > thead, .table-main, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
+.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
   border: 1px solid #7700cc;
 }
 
@@ -703,7 +703,7 @@
   background-color: #cc00cc !important;
 }
 
-.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor > thead, .table-minor, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
+.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
   border: 1px solid #cc00cc;
 }
 
@@ -715,7 +715,7 @@
   background-color: #00cccc !important;
 }
 
-.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less > thead, .table-less, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
+.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
   border: 1px solid #00cccc;
 }
 
@@ -727,7 +727,7 @@
   background-color: #bbbbbb !important;
 }
 
-.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info > thead, .table-info, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
+.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
   border: 1px solid #bbbbbb;
 }
 
@@ -739,7 +739,7 @@
   background-color: #cccc00 !important;
 }
 
-.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning > thead, .table-warning, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
+.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
   border: 1px solid #cccc00;
 }
 
@@ -751,7 +751,7 @@
   background-color: #cc0000 !important;
 }
 
-.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error > thead, .table-error, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
+.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
   border: 1px solid #cc0000;
 }
 
@@ -763,7 +763,7 @@
   background-color: #00cc00 !important;
 }
 
-.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success > thead, .table-success, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
+.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
   border: 1px solid #00cc00;
 }
 
@@ -771,15 +771,15 @@
   border-top: 1px solid #00cc00;
 }
 
-.bg-gray, table > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead {
+.bg-gray, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, table > thead {
   background-color: #bbbbbb !important;
 }
 
-.border-gray, table > tbody > tr, table > thead, table, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray > thead, .table-gray, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
+.border-gray, .table-gray3 > thead, .table-gray3, .table-gray2 > thead, .table-gray2, .table-gray1 > thead, .table-gray1, .table-gray-1 > thead, .table-gray-1, .table-gray-2 > thead, .table-gray-2, .table-gray-3 > thead, .table-gray-3 {
   border: 1px solid #bbbbbb;
 }
 
-.border-gray-bottom {
+.border-gray-bottom, table > tbody > tr {
   border-bottom: 1px solid #bbbbbb;
 }
 
@@ -787,7 +787,7 @@
   background-color: white !important;
 }
 
-.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white > thead, .table-white, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
+.border-white, .table-white3 > thead, .table-white3, .table-white2 > thead, .table-white2, .table-white1 > thead, .table-white1, .table-white-1 > thead, .table-white-1, .table-white-2 > thead, .table-white-2, .table-white-3 > thead, .table-white-3 {
   border: 1px solid white;
 }
 
@@ -799,7 +799,7 @@
   background-color: black !important;
 }
 
-.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black > thead, .table-black, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
+.border-black, .table-black3 > thead, .table-black3, .table-black2 > thead, .table-black2, .table-black1 > thead, .table-black1, .table-black-1 > thead, .table-black-1, .table-black-2 > thead, .table-black-2, .table-black-3 > thead, .table-black-3 {
   border: 1px solid black;
 }
 
@@ -811,7 +811,7 @@
   background-color: #7700cc !important;
 }
 
-.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main > thead, .table-main, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
+.border-main, .table-main3 > thead, .table-main3, .table-main2 > thead, .table-main2, .table-main1 > thead, .table-main1, .table-main-1 > thead, .table-main-1, .table-main-2 > thead, .table-main-2, .table-main-3 > thead, .table-main-3 {
   border: 1px solid #7700cc;
 }
 
@@ -823,7 +823,7 @@
   background-color: #cc00cc !important;
 }
 
-.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor > thead, .table-minor, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
+.border-minor, .table-minor3 > thead, .table-minor3, .table-minor2 > thead, .table-minor2, .table-minor1 > thead, .table-minor1, .table-minor-1 > thead, .table-minor-1, .table-minor-2 > thead, .table-minor-2, .table-minor-3 > thead, .table-minor-3 {
   border: 1px solid #cc00cc;
 }
 
@@ -835,7 +835,7 @@
   background-color: #00cccc !important;
 }
 
-.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less > thead, .table-less, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
+.border-less, .table-less3 > thead, .table-less3, .table-less2 > thead, .table-less2, .table-less1 > thead, .table-less1, .table-less-1 > thead, .table-less-1, .table-less-2 > thead, .table-less-2, .table-less-3 > thead, .table-less-3 {
   border: 1px solid #00cccc;
 }
 
@@ -847,7 +847,7 @@
   background-color: #bbbbbb !important;
 }
 
-.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info > thead, .table-info, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
+.border-info, .table-info3 > thead, .table-info3, .table-info2 > thead, .table-info2, .table-info1 > thead, .table-info1, .table-info-1 > thead, .table-info-1, .table-info-2 > thead, .table-info-2, .table-info-3 > thead, .table-info-3 {
   border: 1px solid #bbbbbb;
 }
 
@@ -859,7 +859,7 @@
   background-color: #cccc00 !important;
 }
 
-.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning > thead, .table-warning, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
+.border-warning, .table-warning3 > thead, .table-warning3, .table-warning2 > thead, .table-warning2, .table-warning1 > thead, .table-warning1, .table-warning-1 > thead, .table-warning-1, .table-warning-2 > thead, .table-warning-2, .table-warning-3 > thead, .table-warning-3 {
   border: 1px solid #cccc00;
 }
 
@@ -871,7 +871,7 @@
   background-color: #cc0000 !important;
 }
 
-.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error > thead, .table-error, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
+.border-error, .table-error3 > thead, .table-error3, .table-error2 > thead, .table-error2, .table-error1 > thead, .table-error1, .table-error-1 > thead, .table-error-1, .table-error-2 > thead, .table-error-2, .table-error-3 > thead, .table-error-3 {
   border: 1px solid #cc0000;
 }
 
@@ -883,7 +883,7 @@
   background-color: #00cc00 !important;
 }
 
-.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success > thead, .table-success, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
+.border-success, .table-success3 > thead, .table-success3, .table-success2 > thead, .table-success2, .table-success1 > thead, .table-success1, .table-success-1 > thead, .table-success-1, .table-success-2 > thead, .table-success-2, .table-success-3 > thead, .table-success-3 {
   border: 1px solid #00cc00;
 }
 
@@ -3784,7 +3784,7 @@ u, ins, .u, .ins {
   font-size: 1rem;
 }
 
-.font-size, table > tbody, table > thead, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead {
+.font-size, .table-success > tbody, .table-success > thead, .table-error > tbody, .table-error > thead, .table-warning > tbody, .table-warning > thead, .table-info > tbody, .table-info > thead, .table-less > tbody, .table-less > thead, .table-minor > tbody, .table-minor > thead, .table-main > tbody, .table-main > thead, .table-black > tbody, .table-black > thead, .table-white > tbody, .table-white > thead, .table-gray > tbody, .table-gray > thead, table > tbody, table > thead {
   font-size: 1rem;
 }
 
@@ -3920,7 +3920,7 @@ u, ins, .u, .ins {
   color: white;
 }
 
-.font-white, table > thead, .table-success > thead, .table-error > thead, .table-warning > thead, .table-info > thead, .table-less > thead, .table-minor > thead, .table-main > thead, .table-black > thead, .table-white > thead, .table-gray > thead {
+.font-white, .table-success > thead, .table-error > thead, .table-warning > thead, .table-info > thead, .table-less > thead, .table-minor > thead, .table-main > thead, .table-black > thead, .table-white > thead, .table-gray > thead, table > thead {
   color: white;
 }
 
@@ -4232,7 +4232,7 @@ u, ins, .u, .ins {
   opacity: 1 !important;
 }
 
-.text-align-left, table > thead, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead {
+.text-align-left, .table-success3 > thead, .table-success2 > thead, .table-success1 > thead, .table-success > thead, .table-success-1 > thead, .table-success-2 > thead, .table-success-3 > thead, .table-error3 > thead, .table-error2 > thead, .table-error1 > thead, .table-error > thead, .table-error-1 > thead, .table-error-2 > thead, .table-error-3 > thead, .table-warning3 > thead, .table-warning2 > thead, .table-warning1 > thead, .table-warning > thead, .table-warning-1 > thead, .table-warning-2 > thead, .table-warning-3 > thead, .table-info3 > thead, .table-info2 > thead, .table-info1 > thead, .table-info > thead, .table-info-1 > thead, .table-info-2 > thead, .table-info-3 > thead, .table-less3 > thead, .table-less2 > thead, .table-less1 > thead, .table-less > thead, .table-less-1 > thead, .table-less-2 > thead, .table-less-3 > thead, .table-minor3 > thead, .table-minor2 > thead, .table-minor1 > thead, .table-minor > thead, .table-minor-1 > thead, .table-minor-2 > thead, .table-minor-3 > thead, .table-main3 > thead, .table-main2 > thead, .table-main1 > thead, .table-main > thead, .table-main-1 > thead, .table-main-2 > thead, .table-main-3 > thead, .table-black3 > thead, .table-black2 > thead, .table-black1 > thead, .table-black > thead, .table-black-1 > thead, .table-black-2 > thead, .table-black-3 > thead, .table-white3 > thead, .table-white2 > thead, .table-white1 > thead, .table-white > thead, .table-white-1 > thead, .table-white-2 > thead, .table-white-3 > thead, .table-gray3 > thead, .table-gray2 > thead, .table-gray1 > thead, .table-gray > thead, .table-gray-1 > thead, .table-gray-2 > thead, .table-gray-3 > thead, table > thead {
   text-align: left;
 }
 
@@ -4244,6 +4244,32 @@ u, ins, .u, .ins {
   text-align: right;
 }
 
+table {
+  width: inherit;
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse;
+  border: 1px solid #eee;
+}
+table > thead > tr > th:not(:first-child) {
+  border-left: 1px solid #eee;
+}
+table > thead > tr > th {
+  padding: 0.25em 0.5rem;
+}
+table > tbody {
+  padding-top: 8px;
+}
+table > tbody > tr > td:not(:first-child) {
+  border-left: 1px solid #eee;
+}
+table > tbody > tr:hover {
+  background-color: #bbb;
+}
+table > tbody > tr:nth-child(even) {
+  background-color: #eee;
+}
+
 .table-gray-3 {
   width: 100%;
   margin: 0;
@@ -4251,7 +4277,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-gray-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e4e4e4;
+  border-left: 1px solid #eee;
 }
 .table-gray-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4265,7 +4291,7 @@ u, ins, .u, .ins {
 .table-gray-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-gray-3 > tbody > tr > td:first-child {
+.table-gray-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-gray-3 > tbody > tr {
@@ -4275,7 +4301,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-gray-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-gray-2 {
@@ -4285,7 +4311,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-gray-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d6d6d6;
+  border-left: 1px solid #eee;
 }
 .table-gray-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4299,7 +4325,7 @@ u, ins, .u, .ins {
 .table-gray-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-gray-2 > tbody > tr > td:first-child {
+.table-gray-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-gray-2 > tbody > tr {
@@ -4309,7 +4335,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-gray-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-gray-1 {
@@ -4319,7 +4345,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-gray-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #c9c9c9;
+  border-left: 1px solid #eee;
 }
 .table-gray-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4333,7 +4359,7 @@ u, ins, .u, .ins {
 .table-gray-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-gray-1 > tbody > tr > td:first-child {
+.table-gray-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-gray-1 > tbody > tr {
@@ -4343,7 +4369,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-gray-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-gray {
@@ -4351,9 +4377,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-gray > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #bbbbbb;
+  border-left: 1px solid #eee;
 }
 .table-gray > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4362,7 +4389,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-gray > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-gray > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -4381,7 +4408,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-gray1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #c9c9c9;
+  border-left: 1px solid #eee;
 }
 .table-gray1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4395,7 +4422,7 @@ u, ins, .u, .ins {
 .table-gray1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-gray1 > tbody > tr > td:first-child {
+.table-gray1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-gray1 > tbody > tr {
@@ -4405,7 +4432,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-gray1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-gray2 {
@@ -4415,7 +4442,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-gray2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d6d6d6;
+  border-left: 1px solid #eee;
 }
 .table-gray2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4429,7 +4456,7 @@ u, ins, .u, .ins {
 .table-gray2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-gray2 > tbody > tr > td:first-child {
+.table-gray2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-gray2 > tbody > tr {
@@ -4439,7 +4466,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-gray2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-gray3 {
@@ -4449,7 +4476,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-gray3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e4e4e4;
+  border-left: 1px solid #eee;
 }
 .table-gray3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4463,7 +4490,7 @@ u, ins, .u, .ins {
 .table-gray3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-gray3 > tbody > tr > td:first-child {
+.table-gray3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-gray3 > tbody > tr {
@@ -4473,7 +4500,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-gray3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-white-3 {
@@ -4483,7 +4510,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-white-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid white;
+  border-left: 1px solid #eee;
 }
 .table-white-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4497,7 +4524,7 @@ u, ins, .u, .ins {
 .table-white-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-white-3 > tbody > tr > td:first-child {
+.table-white-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-white-3 > tbody > tr {
@@ -4507,7 +4534,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-white-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-white-2 {
@@ -4517,7 +4544,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-white-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid white;
+  border-left: 1px solid #eee;
 }
 .table-white-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4531,7 +4558,7 @@ u, ins, .u, .ins {
 .table-white-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-white-2 > tbody > tr > td:first-child {
+.table-white-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-white-2 > tbody > tr {
@@ -4541,7 +4568,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-white-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-white-1 {
@@ -4551,7 +4578,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-white-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid white;
+  border-left: 1px solid #eee;
 }
 .table-white-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4565,7 +4592,7 @@ u, ins, .u, .ins {
 .table-white-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-white-1 > tbody > tr > td:first-child {
+.table-white-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-white-1 > tbody > tr {
@@ -4575,7 +4602,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-white-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-white {
@@ -4583,9 +4610,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-white > thead > tr > th:not(:first-child) {
-  border-left: 1px solid white;
+  border-left: 1px solid #eee;
 }
 .table-white > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4594,7 +4622,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-white > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-white > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -4613,7 +4641,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-white1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid white;
+  border-left: 1px solid #eee;
 }
 .table-white1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4627,7 +4655,7 @@ u, ins, .u, .ins {
 .table-white1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-white1 > tbody > tr > td:first-child {
+.table-white1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-white1 > tbody > tr {
@@ -4637,7 +4665,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-white1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-white2 {
@@ -4647,7 +4675,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-white2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid white;
+  border-left: 1px solid #eee;
 }
 .table-white2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4661,7 +4689,7 @@ u, ins, .u, .ins {
 .table-white2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-white2 > tbody > tr > td:first-child {
+.table-white2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-white2 > tbody > tr {
@@ -4671,7 +4699,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-white2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-white3 {
@@ -4681,7 +4709,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-white3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid white;
+  border-left: 1px solid #eee;
 }
 .table-white3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4695,7 +4723,7 @@ u, ins, .u, .ins {
 .table-white3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-white3 > tbody > tr > td:first-child {
+.table-white3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-white3 > tbody > tr {
@@ -4705,7 +4733,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-white3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-black-3 {
@@ -4715,7 +4743,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-black-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #999999;
+  border-left: 1px solid #eee;
 }
 .table-black-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4729,7 +4757,7 @@ u, ins, .u, .ins {
 .table-black-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-black-3 > tbody > tr > td:first-child {
+.table-black-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-black-3 > tbody > tr {
@@ -4739,7 +4767,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-black-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-black-2 {
@@ -4749,7 +4777,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-black-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #666666;
+  border-left: 1px solid #eee;
 }
 .table-black-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4763,7 +4791,7 @@ u, ins, .u, .ins {
 .table-black-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-black-2 > tbody > tr > td:first-child {
+.table-black-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-black-2 > tbody > tr {
@@ -4773,7 +4801,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-black-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-black-1 {
@@ -4783,7 +4811,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-black-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #333333;
+  border-left: 1px solid #eee;
 }
 .table-black-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4797,7 +4825,7 @@ u, ins, .u, .ins {
 .table-black-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-black-1 > tbody > tr > td:first-child {
+.table-black-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-black-1 > tbody > tr {
@@ -4807,7 +4835,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-black-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-black {
@@ -4815,9 +4843,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-black > thead > tr > th:not(:first-child) {
-  border-left: 1px solid black;
+  border-left: 1px solid #eee;
 }
 .table-black > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4826,7 +4855,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-black > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-black > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -4845,7 +4874,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-black1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #333333;
+  border-left: 1px solid #eee;
 }
 .table-black1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4859,7 +4888,7 @@ u, ins, .u, .ins {
 .table-black1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-black1 > tbody > tr > td:first-child {
+.table-black1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-black1 > tbody > tr {
@@ -4869,7 +4898,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-black1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-black2 {
@@ -4879,7 +4908,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-black2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #666666;
+  border-left: 1px solid #eee;
 }
 .table-black2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4893,7 +4922,7 @@ u, ins, .u, .ins {
 .table-black2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-black2 > tbody > tr > td:first-child {
+.table-black2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-black2 > tbody > tr {
@@ -4903,7 +4932,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-black2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-black3 {
@@ -4913,7 +4942,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-black3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #999999;
+  border-left: 1px solid #eee;
 }
 .table-black3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4927,7 +4956,7 @@ u, ins, .u, .ins {
 .table-black3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-black3 > tbody > tr > td:first-child {
+.table-black3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-black3 > tbody > tr {
@@ -4937,7 +4966,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-black3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-main-3 {
@@ -4947,7 +4976,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-main-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #c999eb;
+  border-left: 1px solid #eee;
 }
 .table-main-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4961,7 +4990,7 @@ u, ins, .u, .ins {
 .table-main-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-main-3 > tbody > tr > td:first-child {
+.table-main-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-main-3 > tbody > tr {
@@ -4971,7 +5000,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-main-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-main-2 {
@@ -4981,7 +5010,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-main-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #ad66e0;
+  border-left: 1px solid #eee;
 }
 .table-main-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -4995,7 +5024,7 @@ u, ins, .u, .ins {
 .table-main-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-main-2 > tbody > tr > td:first-child {
+.table-main-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-main-2 > tbody > tr {
@@ -5005,7 +5034,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-main-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-main-1 {
@@ -5015,7 +5044,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-main-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #9233d6;
+  border-left: 1px solid #eee;
 }
 .table-main-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5029,7 +5058,7 @@ u, ins, .u, .ins {
 .table-main-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-main-1 > tbody > tr > td:first-child {
+.table-main-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-main-1 > tbody > tr {
@@ -5039,7 +5068,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-main-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-main {
@@ -5047,9 +5076,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-main > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #7700cc;
+  border-left: 1px solid #eee;
 }
 .table-main > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5058,7 +5088,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-main > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-main > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -5077,7 +5107,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-main1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #9233d6;
+  border-left: 1px solid #eee;
 }
 .table-main1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5091,7 +5121,7 @@ u, ins, .u, .ins {
 .table-main1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-main1 > tbody > tr > td:first-child {
+.table-main1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-main1 > tbody > tr {
@@ -5101,7 +5131,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-main1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-main2 {
@@ -5111,7 +5141,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-main2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #ad66e0;
+  border-left: 1px solid #eee;
 }
 .table-main2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5125,7 +5155,7 @@ u, ins, .u, .ins {
 .table-main2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-main2 > tbody > tr > td:first-child {
+.table-main2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-main2 > tbody > tr {
@@ -5135,7 +5165,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-main2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-main3 {
@@ -5145,7 +5175,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-main3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #c999eb;
+  border-left: 1px solid #eee;
 }
 .table-main3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5159,7 +5189,7 @@ u, ins, .u, .ins {
 .table-main3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-main3 > tbody > tr > td:first-child {
+.table-main3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-main3 > tbody > tr {
@@ -5169,7 +5199,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-main3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-minor-3 {
@@ -5179,7 +5209,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-minor-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #eb99eb;
+  border-left: 1px solid #eee;
 }
 .table-minor-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5193,7 +5223,7 @@ u, ins, .u, .ins {
 .table-minor-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-minor-3 > tbody > tr > td:first-child {
+.table-minor-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-minor-3 > tbody > tr {
@@ -5203,7 +5233,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-minor-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-minor-2 {
@@ -5213,7 +5243,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-minor-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e066e0;
+  border-left: 1px solid #eee;
 }
 .table-minor-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5227,7 +5257,7 @@ u, ins, .u, .ins {
 .table-minor-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-minor-2 > tbody > tr > td:first-child {
+.table-minor-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-minor-2 > tbody > tr {
@@ -5237,7 +5267,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-minor-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-minor-1 {
@@ -5247,7 +5277,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-minor-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d633d6;
+  border-left: 1px solid #eee;
 }
 .table-minor-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5261,7 +5291,7 @@ u, ins, .u, .ins {
 .table-minor-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-minor-1 > tbody > tr > td:first-child {
+.table-minor-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-minor-1 > tbody > tr {
@@ -5271,7 +5301,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-minor-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-minor {
@@ -5279,9 +5309,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-minor > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #cc00cc;
+  border-left: 1px solid #eee;
 }
 .table-minor > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5290,7 +5321,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-minor > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-minor > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -5309,7 +5340,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-minor1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d633d6;
+  border-left: 1px solid #eee;
 }
 .table-minor1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5323,7 +5354,7 @@ u, ins, .u, .ins {
 .table-minor1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-minor1 > tbody > tr > td:first-child {
+.table-minor1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-minor1 > tbody > tr {
@@ -5333,7 +5364,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-minor1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-minor2 {
@@ -5343,7 +5374,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-minor2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e066e0;
+  border-left: 1px solid #eee;
 }
 .table-minor2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5357,7 +5388,7 @@ u, ins, .u, .ins {
 .table-minor2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-minor2 > tbody > tr > td:first-child {
+.table-minor2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-minor2 > tbody > tr {
@@ -5367,7 +5398,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-minor2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-minor3 {
@@ -5377,7 +5408,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-minor3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #eb99eb;
+  border-left: 1px solid #eee;
 }
 .table-minor3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5391,7 +5422,7 @@ u, ins, .u, .ins {
 .table-minor3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-minor3 > tbody > tr > td:first-child {
+.table-minor3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-minor3 > tbody > tr {
@@ -5401,7 +5432,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-minor3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-less-3 {
@@ -5411,7 +5442,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-less-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #99ebeb;
+  border-left: 1px solid #eee;
 }
 .table-less-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5425,7 +5456,7 @@ u, ins, .u, .ins {
 .table-less-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-less-3 > tbody > tr > td:first-child {
+.table-less-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-less-3 > tbody > tr {
@@ -5435,7 +5466,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-less-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-less-2 {
@@ -5445,7 +5476,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-less-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #66e0e0;
+  border-left: 1px solid #eee;
 }
 .table-less-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5459,7 +5490,7 @@ u, ins, .u, .ins {
 .table-less-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-less-2 > tbody > tr > td:first-child {
+.table-less-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-less-2 > tbody > tr {
@@ -5469,7 +5500,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-less-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-less-1 {
@@ -5479,7 +5510,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-less-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #33d6d6;
+  border-left: 1px solid #eee;
 }
 .table-less-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5493,7 +5524,7 @@ u, ins, .u, .ins {
 .table-less-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-less-1 > tbody > tr > td:first-child {
+.table-less-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-less-1 > tbody > tr {
@@ -5503,7 +5534,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-less-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-less {
@@ -5511,9 +5542,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-less > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #00cccc;
+  border-left: 1px solid #eee;
 }
 .table-less > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5522,7 +5554,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-less > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-less > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -5541,7 +5573,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-less1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #33d6d6;
+  border-left: 1px solid #eee;
 }
 .table-less1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5555,7 +5587,7 @@ u, ins, .u, .ins {
 .table-less1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-less1 > tbody > tr > td:first-child {
+.table-less1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-less1 > tbody > tr {
@@ -5565,7 +5597,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-less1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-less2 {
@@ -5575,7 +5607,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-less2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #66e0e0;
+  border-left: 1px solid #eee;
 }
 .table-less2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5589,7 +5621,7 @@ u, ins, .u, .ins {
 .table-less2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-less2 > tbody > tr > td:first-child {
+.table-less2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-less2 > tbody > tr {
@@ -5599,7 +5631,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-less2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-less3 {
@@ -5609,7 +5641,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-less3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #99ebeb;
+  border-left: 1px solid #eee;
 }
 .table-less3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5623,7 +5655,7 @@ u, ins, .u, .ins {
 .table-less3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-less3 > tbody > tr > td:first-child {
+.table-less3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-less3 > tbody > tr {
@@ -5633,7 +5665,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-less3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-info-3 {
@@ -5643,7 +5675,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-info-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e4e4e4;
+  border-left: 1px solid #eee;
 }
 .table-info-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5657,7 +5689,7 @@ u, ins, .u, .ins {
 .table-info-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-info-3 > tbody > tr > td:first-child {
+.table-info-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-info-3 > tbody > tr {
@@ -5667,7 +5699,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-info-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-info-2 {
@@ -5677,7 +5709,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-info-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d6d6d6;
+  border-left: 1px solid #eee;
 }
 .table-info-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5691,7 +5723,7 @@ u, ins, .u, .ins {
 .table-info-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-info-2 > tbody > tr > td:first-child {
+.table-info-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-info-2 > tbody > tr {
@@ -5701,7 +5733,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-info-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-info-1 {
@@ -5711,7 +5743,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-info-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #c9c9c9;
+  border-left: 1px solid #eee;
 }
 .table-info-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5725,7 +5757,7 @@ u, ins, .u, .ins {
 .table-info-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-info-1 > tbody > tr > td:first-child {
+.table-info-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-info-1 > tbody > tr {
@@ -5735,7 +5767,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-info-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-info {
@@ -5743,9 +5775,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-info > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #bbbbbb;
+  border-left: 1px solid #eee;
 }
 .table-info > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5754,7 +5787,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-info > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-info > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -5773,7 +5806,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-info1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #c9c9c9;
+  border-left: 1px solid #eee;
 }
 .table-info1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5787,7 +5820,7 @@ u, ins, .u, .ins {
 .table-info1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-info1 > tbody > tr > td:first-child {
+.table-info1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-info1 > tbody > tr {
@@ -5797,7 +5830,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-info1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-info2 {
@@ -5807,7 +5840,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-info2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d6d6d6;
+  border-left: 1px solid #eee;
 }
 .table-info2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5821,7 +5854,7 @@ u, ins, .u, .ins {
 .table-info2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-info2 > tbody > tr > td:first-child {
+.table-info2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-info2 > tbody > tr {
@@ -5831,7 +5864,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-info2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-info3 {
@@ -5841,7 +5874,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-info3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e4e4e4;
+  border-left: 1px solid #eee;
 }
 .table-info3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5855,7 +5888,7 @@ u, ins, .u, .ins {
 .table-info3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-info3 > tbody > tr > td:first-child {
+.table-info3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-info3 > tbody > tr {
@@ -5865,7 +5898,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-info3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-warning-3 {
@@ -5875,7 +5908,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-warning-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #ebeb99;
+  border-left: 1px solid #eee;
 }
 .table-warning-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5889,7 +5922,7 @@ u, ins, .u, .ins {
 .table-warning-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-warning-3 > tbody > tr > td:first-child {
+.table-warning-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-warning-3 > tbody > tr {
@@ -5899,7 +5932,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-warning-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-warning-2 {
@@ -5909,7 +5942,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-warning-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e0e066;
+  border-left: 1px solid #eee;
 }
 .table-warning-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5923,7 +5956,7 @@ u, ins, .u, .ins {
 .table-warning-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-warning-2 > tbody > tr > td:first-child {
+.table-warning-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-warning-2 > tbody > tr {
@@ -5933,7 +5966,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-warning-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-warning-1 {
@@ -5943,7 +5976,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-warning-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d6d633;
+  border-left: 1px solid #eee;
 }
 .table-warning-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5957,7 +5990,7 @@ u, ins, .u, .ins {
 .table-warning-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-warning-1 > tbody > tr > td:first-child {
+.table-warning-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-warning-1 > tbody > tr {
@@ -5967,7 +6000,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-warning-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-warning {
@@ -5975,9 +6008,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-warning > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #cccc00;
+  border-left: 1px solid #eee;
 }
 .table-warning > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -5986,7 +6020,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-warning > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-warning > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -6005,7 +6039,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-warning1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d6d633;
+  border-left: 1px solid #eee;
 }
 .table-warning1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6019,7 +6053,7 @@ u, ins, .u, .ins {
 .table-warning1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-warning1 > tbody > tr > td:first-child {
+.table-warning1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-warning1 > tbody > tr {
@@ -6029,7 +6063,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-warning1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-warning2 {
@@ -6039,7 +6073,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-warning2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e0e066;
+  border-left: 1px solid #eee;
 }
 .table-warning2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6053,7 +6087,7 @@ u, ins, .u, .ins {
 .table-warning2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-warning2 > tbody > tr > td:first-child {
+.table-warning2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-warning2 > tbody > tr {
@@ -6063,7 +6097,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-warning2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-warning3 {
@@ -6073,7 +6107,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-warning3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #ebeb99;
+  border-left: 1px solid #eee;
 }
 .table-warning3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6087,7 +6121,7 @@ u, ins, .u, .ins {
 .table-warning3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-warning3 > tbody > tr > td:first-child {
+.table-warning3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-warning3 > tbody > tr {
@@ -6097,7 +6131,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-warning3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-error-3 {
@@ -6107,7 +6141,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-error-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #eb9999;
+  border-left: 1px solid #eee;
 }
 .table-error-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6121,7 +6155,7 @@ u, ins, .u, .ins {
 .table-error-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-error-3 > tbody > tr > td:first-child {
+.table-error-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-error-3 > tbody > tr {
@@ -6131,7 +6165,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-error-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-error-2 {
@@ -6141,7 +6175,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-error-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e06666;
+  border-left: 1px solid #eee;
 }
 .table-error-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6155,7 +6189,7 @@ u, ins, .u, .ins {
 .table-error-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-error-2 > tbody > tr > td:first-child {
+.table-error-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-error-2 > tbody > tr {
@@ -6165,7 +6199,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-error-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-error-1 {
@@ -6175,7 +6209,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-error-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d63333;
+  border-left: 1px solid #eee;
 }
 .table-error-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6189,7 +6223,7 @@ u, ins, .u, .ins {
 .table-error-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-error-1 > tbody > tr > td:first-child {
+.table-error-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-error-1 > tbody > tr {
@@ -6199,7 +6233,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-error-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-error {
@@ -6207,9 +6241,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-error > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #cc0000;
+  border-left: 1px solid #eee;
 }
 .table-error > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6218,7 +6253,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-error > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-error > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -6237,7 +6272,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-error1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #d63333;
+  border-left: 1px solid #eee;
 }
 .table-error1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6251,7 +6286,7 @@ u, ins, .u, .ins {
 .table-error1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-error1 > tbody > tr > td:first-child {
+.table-error1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-error1 > tbody > tr {
@@ -6261,7 +6296,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-error1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-error2 {
@@ -6271,7 +6306,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-error2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #e06666;
+  border-left: 1px solid #eee;
 }
 .table-error2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6285,7 +6320,7 @@ u, ins, .u, .ins {
 .table-error2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-error2 > tbody > tr > td:first-child {
+.table-error2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-error2 > tbody > tr {
@@ -6295,7 +6330,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-error2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-error3 {
@@ -6305,7 +6340,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-error3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #eb9999;
+  border-left: 1px solid #eee;
 }
 .table-error3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6319,7 +6354,7 @@ u, ins, .u, .ins {
 .table-error3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-error3 > tbody > tr > td:first-child {
+.table-error3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-error3 > tbody > tr {
@@ -6329,7 +6364,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-error3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-success-3 {
@@ -6339,7 +6374,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-success-3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #99eb99;
+  border-left: 1px solid #eee;
 }
 .table-success-3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6353,7 +6388,7 @@ u, ins, .u, .ins {
 .table-success-3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-success-3 > tbody > tr > td:first-child {
+.table-success-3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-success-3 > tbody > tr {
@@ -6363,7 +6398,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-success-3 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-success-2 {
@@ -6373,7 +6408,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-success-2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #66e066;
+  border-left: 1px solid #eee;
 }
 .table-success-2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6387,7 +6422,7 @@ u, ins, .u, .ins {
 .table-success-2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-success-2 > tbody > tr > td:first-child {
+.table-success-2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-success-2 > tbody > tr {
@@ -6397,7 +6432,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-success-2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-success-1 {
@@ -6407,7 +6442,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-success-1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #33d633;
+  border-left: 1px solid #eee;
 }
 .table-success-1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6421,7 +6456,7 @@ u, ins, .u, .ins {
 .table-success-1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-success-1 > tbody > tr > td:first-child {
+.table-success-1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-success-1 > tbody > tr {
@@ -6431,7 +6466,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-success-1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-success {
@@ -6439,9 +6474,10 @@ u, ins, .u, .ins {
   margin: 0;
   padding: 0;
   border-collapse: collapse;
+  border: 1px solid #eee;
 }
 .table-success > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #00cc00;
+  border-left: 1px solid #eee;
 }
 .table-success > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6450,7 +6486,7 @@ u, ins, .u, .ins {
   padding-top: 8px;
 }
 .table-success > tbody > tr > td:not(:first-child) {
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .table-success > tbody > tr {
   border-bottom: 1px solid #eee;
@@ -6469,7 +6505,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-success1 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #33d633;
+  border-left: 1px solid #eee;
 }
 .table-success1 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6483,7 +6519,7 @@ u, ins, .u, .ins {
 .table-success1 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-success1 > tbody > tr > td:first-child {
+.table-success1 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-success1 > tbody > tr {
@@ -6493,7 +6529,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-success1 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-success2 {
@@ -6503,7 +6539,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-success2 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #66e066;
+  border-left: 1px solid #eee;
 }
 .table-success2 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6517,7 +6553,7 @@ u, ins, .u, .ins {
 .table-success2 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-success2 > tbody > tr > td:first-child {
+.table-success2 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-success2 > tbody > tr {
@@ -6527,7 +6563,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-success2 > tbody:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .table-success3 {
@@ -6537,7 +6573,7 @@ u, ins, .u, .ins {
   border-collapse: collapse;
 }
 .table-success3 > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #99eb99;
+  border-left: 1px solid #eee;
 }
 .table-success3 > thead > tr > th {
   padding: 0.25em 0.5rem;
@@ -6551,7 +6587,7 @@ u, ins, .u, .ins {
 .table-success3 > tbody > tr > td {
   padding: 0.25em 0.5rem;
 }
-.table-success3 > tbody > tr > td:first-child {
+.table-success3 > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
 }
 .table-success3 > tbody > tr {
@@ -6561,29 +6597,7 @@ u, ins, .u, .ins {
   background-color: #eee;
 }
 .table-success3 > tbody:nth-child(even) {
-  background-color: #ccc;
-}
-
-table {
-  width: inherit;
-  margin: 0;
-  padding: 0;
-  border-collapse: collapse;
-}
-table > thead > tr > th:not(:first-child) {
-  border-left: 1px solid #bbbbbb;
-}
-table > thead > tr > th {
-  padding: 0.25em 0.5rem;
-}
-table > tbody {
-  padding-top: 8px;
-}
-table > tbody > tr:hover {
-  background-color: #bbb;
-}
-table > tbody > tr:nth-child(even) {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 /*# sourceMappingURL=table.css.map */

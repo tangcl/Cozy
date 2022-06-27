@@ -5,6 +5,55 @@
 @import "../../base/size";
 @import "../../base/font";
 
+    
+table{
+    width: inherit;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;        
+    border: 1px solid #eee;
+    &>thead{
+        @extend .text-align-left;
+        @extend .bg-gray;
+        @extend .font-size;
+        @extend .font-white;
+        @extend .box-shadow;
+        // @extend .border-gray;
+        
+        &>tr>th:not(:first-child) {
+            border-left:1px solid #eee;
+        }
+        
+        &>tr>th{
+            padding:.25em .5rem;
+        }
+    }
+    &>tbody{
+        padding-top:8px;
+        @extend .font-size;
+        // @extend .border-#{$k};
+        // &>tr>td{
+        //     padding:.25em .5rem;
+        // }
+        &>tr>td:not(:first-child){
+            // background-color:red;
+            border-left:1px solid #eee;
+        }
+        &>tr {
+            @extend .border-gray-bottom;
+            &:hover{
+                background-color: #bbb;
+            }
+        }
+        &>tr:nth-child(even){
+            background-color: #eee;
+            
+        }
+        
+    }
+}
+    
+    
 @each $k, $v in $semantic_range{
     
     @for $i from -3 through 3{
@@ -15,17 +64,17 @@
                 margin:0;
                 padding:0;
                 border-collapse: collapse;        
-                @extend .border-#{$k};
+                border: 1px solid #eee;
                 &>thead{
                     @extend .text-align-left;
                     @extend .bg-#{$k};
                     @extend .font-size;
                     @extend .font-white;
                     @extend .box-shadow;
-                    @extend .border-#{$k};
+                    // @extend .border-#{$k};
                     
                     &>tr>th:not(:first-child) {
-                        border-left:1px solid $co;
+                        border-left:1px solid #eee;
                     }
                     
                     &>tr>th{
@@ -36,7 +85,7 @@
                     padding-top:8px;
                     @extend .font-size;
                     &>tr>td:not(:first-child){
-                        border-right: 1px solid #eee;
+                        border-left: 1px solid #eee;
                     }
                     &>tr {
                         border-bottom: 1px solid #eee;
@@ -66,7 +115,7 @@
                     @extend .border-#{$k};
                     
                     &>tr>th:not(:first-child) {
-                        border-left:1px solid $co;
+                        border-left:1px solid #eee;
                     }
                     
                     &>tr>th{
@@ -83,7 +132,7 @@
                     &>tr>td{
                         padding:.25em .5rem;
                     }
-                    &>tr>td:first-child{
+                    &>tr>td:not(:first-child){
                         // background-color:red;
                         border-left: 1px solid #eee;
                     }
@@ -94,7 +143,7 @@
                         }
                     }
                     &:nth-child(even){
-                        background-color:#ccc;
+                        background-color:#eee;
                     }
                 }
             }
@@ -103,52 +152,3 @@
 }
 
 
-
-    
-table{
-width: inherit;
-margin:0;
-padding:0;
-border-collapse: collapse;        
-@extend .border-gray;
-&>thead{
-    @extend .text-align-left;
-    @extend .bg-gray;
-    @extend .font-size;
-    @extend .font-white;
-    @extend .box-shadow;
-    @extend .border-gray;
-    
-    &>tr>th:not(:first-child) {
-        border-left:1px solid $gray;
-    }
-    
-    &>tr>th{
-        padding:.25em .5rem;
-    }
-}
-&>tbody{
-    padding-top:8px;
-    @extend .font-size;
-    // @extend .border-#{$k};
-    // &>tr>td{
-    //     padding:.25em .5rem;
-    // }
-    &>tr>td:not(:first-child){
-        // background-color:red;
-        @extend .border-gray-left;
-    }
-    &>tr {
-        @extend .border-gray;
-        &:hover{
-            background-color: #bbb;
-        }
-    }
-    &>tr:nth-child(even){
-        background-color: #ccc;
-        
-    }
-    
-}
-}
-    

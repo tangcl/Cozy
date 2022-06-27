@@ -1,5 +1,5 @@
 .border-none {
-  border: none;
+  border: none !important;
 }
 
 .border-style-solid {
@@ -10,7 +10,7 @@
   border-style: dotted;
 }
 
-.padding-3, .card > footer, .card > header {
+.padding-3, .card > footer {
   padding: 0.175em 0.35em !important;
 }
 
@@ -90,7 +90,7 @@
   padding-bottom: 0.25em !important;
 }
 
-.padding {
+.padding, .card > header {
   padding: 0.25em 0.5em !important;
 }
 
@@ -659,7 +659,7 @@
   border: 1px solid #bbbbbb;
 }
 
-.border-gray-top, .card > footer {
+.border-gray-top {
   border-top: 1px solid #bbbbbb;
 }
 
@@ -779,7 +779,7 @@
   border: 1px solid #bbbbbb;
 }
 
-.border-gray-bottom, .card > header {
+.border-gray-bottom {
   border-bottom: 1px solid #bbbbbb;
 }
 
@@ -1418,41 +1418,48 @@ u, ins, .u, .ins {
 
 .card {
   width: 100%;
-  height: inherit;
+  height: 100%;
   display: flex;
   display: -webkit-flex;
   box-sizing: border-box;
   flex-direction: column;
+  background-color: white;
 }
 .card > header {
-  height: 3rem;
   display: flex;
   display: -webkit-flex;
   flex-direction: row;
   justify-content: left;
   align-items: center;
+}
+.card > header > *:first-child {
+  float: left;
+}
+.card > header > *:last-child {
+  float: right;
 }
 .card > section {
   height: 100%;
   width: 100%;
   box-sizing: border-box;
-  display: flex;
-  display: -webkit-flex;
-  flex-direction: column;
+  border: none;
+  overflow: hidden;
+}
+.card > section > * {
+  border: none;
 }
 .card > footer {
-  height: 3rem;
   flex-direction: row;
   display: flex;
   display: -webkit-flex;
   justify-content: left;
   align-items: center;
 }
-.card > footer > * {
-  display: flex;
-  display: -webkit-flex;
-  flex-direction: column;
-  align-content: center;
+.card > footer > *:first-child {
+  float: left;
+}
+.card > footer > *:last-child {
+  float: right;
 }
 
 /*# sourceMappingURL=card.css.map */
