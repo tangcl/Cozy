@@ -16,13 +16,15 @@ label {
             -webkit-appearance: none;
             appearance: none;
             height:1rem;
+            width: 1rem;
             padding:0;
             border: 1px solid $gray;
-            box-sizing: content-box;
+            box-sizing: border-box;
             display: block;
             align-content: center;
             
         }
+        
         &>input[type=radio]:hover{
             border-color: $color;
         }
@@ -67,9 +69,10 @@ label {
             -webkit-appearance: none;
             appearance: none;
             height:1rem;
+            width: 1rem;
             padding:0;
             border: 1px solid $gray;
-            box-sizing: content-box;
+            box-sizing: border-box;
             display: block;
             align-content: center;
             

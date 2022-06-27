@@ -15,7 +15,8 @@ a {
     //单行超出.支持定宽button
     overflow: hidden;
     display:inline;
-    height: auto !important;
+    // height: auto !important;
+    
     &>*{
         align-items: center;
         justify-content: center;
@@ -30,6 +31,7 @@ a {
     }
     &[href]{
         text-decoration: none;
+        // line-height: 100%;
     }
     &[disabled]{
         cursor:not-allowed;
@@ -42,13 +44,13 @@ a {
 }
 
 
-@for $i from -4 through 4{
-    $divide: $i * 0.125; 
+@for $i from -3 through 3{
+    $divide: $i * 0.1; 
     $font-size:(1 + $divide) * 1rem;
     .a-size#{$i}{
         // width: $width !important;
         font-size: $font-size;
-        line-height: 2.1em;
+        line-height: 1.5em;
         @extend .padding#{$i}; 
     }
     @if $i == 0{
@@ -58,14 +60,18 @@ a {
             // width: $width !important;
             height: $height !important;
             font-size: $font-size;
-            line-height: 2.1em;
+            line-height: 1.5em;
             @extend .padding#{$i};
+            
         }
     }
 }
 
 @each $key, $color in $semantic_range {
-    @for $i from -4 through 4{
+    @for $i from -3 through 3{
+        $divide: $i * 0.1; 
+        $font-size:(1 + $divide) * 1rem;
+        $height: $font-size * 2;
         .a-#{$key}#{$i} {
             position:relative;
             @extend .bg-#{$key};
@@ -74,6 +80,7 @@ a {
             margin: 0 auto;
             // border: 1px solid transparent;
             @extend .a-size#{$i};
+            height: $height;
             &::before {
                 content: "";
                 top: -1px;
@@ -131,6 +138,7 @@ a {
             position:relative;
             @extend .font-size#{$i};
             @extend .a-size#{$i};
+            height: $height;
             &:hover{
                 cursor:pointer;
                 color: color.scale($color, $whiteness: (math.abs($i)*10)*1%);
@@ -148,7 +156,7 @@ a {
                 }
             }
         }
-        $width: (1 + $i * 0.125) * 1rem;
+        $width: (1 + $i * 0.1) * 1rem;
         .a-circle-#{$key}#{$i} {
             display:block;
             position:relative;
@@ -184,6 +192,7 @@ a {
                 color: $white;
                 // border: 1px solid transparent;
                 @extend .a-size#{$i};
+                height: $height;
                 &::before {
                     content: "";
                     top: -1px;
@@ -287,56 +296,3 @@ a {
         }
     }
 }
-
-// @each $key, $color in $semantic_range {
-//     @for $i from -4 to 4{
-//         .a-#{$key}-active{
-//             color: $color;
-//         }
-//         .a-#{$key}#{$i} {
-//             color: $black;
-//             border: 1px solid transparent;
-            
-//             &:hover{
-//                 cursor:pointer;
-//                 color: color.scale($color, $whiteness: (math.abs($i)*10)*1%);
-//             }
-//             &:active{
-//                 cursor:pointer;
-//                 color: color.scale($color, $whiteness: (math.abs($i)*20)*1%);
-//             }
-//             &[disabled]{
-//                 cursor:not-allowed;
-//                 color: $gray;
-//                 &:hover{
-//                     box-shadow: none;
-//                     color: $gray;
-//                 }
-//             }
-//         }
-        
-//         @if $i == 0{
-//             .a-#{$key} {
-//                 color: $color;
-//                 border: 1px solid transparent;
-                
-//                 &:hover{
-//                     cursor:pointer;
-//                     color: color.scale($color, $whiteness: (math.abs($i)*20)*1%);
-//                 }
-//                 &:active{
-//                     cursor:pointer;
-//                     color: color.scale($color, $whiteness: (math.abs($i)*20)*1%);
-//                 }
-//                 &[disabled]{
-//                     cursor:not-allowed;
-//                     color: $gray;
-//                     &:hover{
-//                         box-shadow: none;
-//                         color: $gray;
-//                     }
-//                 }   
-//             }
-//         }
-//     }
-// }

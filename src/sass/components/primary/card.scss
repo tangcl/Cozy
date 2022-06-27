@@ -12,7 +12,7 @@
     @extend .border-gray;
     &>header{
         @extend .font-size1;
-        @extend .padding-4;
+        @extend .padding-3;
         @extend .border-gray-bottom;
         @extend .box-shadow;
         height: 3rem;
@@ -33,7 +33,7 @@
     }
     &>footer{
         @extend .font-size1;
-        @extend .padding-4;
+        @extend .padding-3;
         @extend .border-gray-top;
         @extend .box-shadow;
         height: 3rem;

@@ -10,284 +10,224 @@
   border-style: dotted;
 }
 
-.padding-4 {
-  padding: 0.25em 0.5em !important;
-}
-
-.padding-left-4, .input-success4 > input, .input-error4 > input, .input-warning4 > input, .input-info4 > input, .input-less4 > input, .input-minor4 > input, .input-main4 > input, .input-black4 > input, .input-white4 > input, .input-gray4 > input, .input-success3 > input, .input-error3 > input, .input-warning3 > input, .input-info3 > input, .input-less3 > input, .input-minor3 > input, .input-main3 > input, .input-black3 > input, .input-white3 > input, .input-gray3 > input, .input-success2 > input, .input-error2 > input, .input-warning2 > input, .input-info2 > input, .input-less2 > input, .input-minor2 > input, .input-main2 > input, .input-black2 > input, .input-white2 > input, .input-gray2 > input, .input-success1 > input, .input-error1 > input, .input-warning1 > input, .input-info1 > input, .input-less1 > input, .input-minor1 > input, .input-main1 > input, .input-black1 > input, .input-white1 > input, .input-gray1 > input, .input-success > input, .input-success0 > input, .input-error > input, .input-error0 > input, .input-warning > input, .input-warning0 > input, .input-info > input, .input-info0 > input, .input-less > input, .input-less0 > input, .input-minor > input, .input-minor0 > input, .input-main > input, .input-main0 > input, .input-black > input, .input-black0 > input, .input-white > input, .input-white0 > input, .input-gray > input, .input-gray0 > input, .input-success-1 > input, .input-error-1 > input, .input-warning-1 > input, .input-info-1 > input, .input-less-1 > input, .input-minor-1 > input, .input-main-1 > input, .input-black-1 > input, .input-white-1 > input, .input-gray-1 > input, .input-success-2 > input, .input-error-2 > input, .input-warning-2 > input, .input-info-2 > input, .input-less-2 > input, .input-minor-2 > input, .input-main-2 > input, .input-black-2 > input, .input-white-2 > input, .input-gray-2 > input, .input-success-3 > input, .input-error-3 > input, .input-warning-3 > input, .input-info-3 > input, .input-less-3 > input, .input-minor-3 > input, .input-main-3 > input, .input-black-3 > input, .input-white-3 > input, .input-gray-3 > input, .input-success-4 > input, .input-error-4 > input, .input-warning-4 > input, .input-info-4 > input, .input-less-4 > input, .input-minor-4 > input, .input-main-4 > input, .input-black-4 > input, .input-white-4 > input, .input-gray-4 > input, input {
-  padding-left: 0.5em !important;
-}
-
-.padding-right-4, .input-success4 > input, .input-error4 > input, .input-warning4 > input, .input-info4 > input, .input-less4 > input, .input-minor4 > input, .input-main4 > input, .input-black4 > input, .input-white4 > input, .input-gray4 > input, .input-success3 > input, .input-error3 > input, .input-warning3 > input, .input-info3 > input, .input-less3 > input, .input-minor3 > input, .input-main3 > input, .input-black3 > input, .input-white3 > input, .input-gray3 > input, .input-success2 > input, .input-error2 > input, .input-warning2 > input, .input-info2 > input, .input-less2 > input, .input-minor2 > input, .input-main2 > input, .input-black2 > input, .input-white2 > input, .input-gray2 > input, .input-success1 > input, .input-error1 > input, .input-warning1 > input, .input-info1 > input, .input-less1 > input, .input-minor1 > input, .input-main1 > input, .input-black1 > input, .input-white1 > input, .input-gray1 > input, .input-success > input, .input-success0 > input, .input-error > input, .input-error0 > input, .input-warning > input, .input-warning0 > input, .input-info > input, .input-info0 > input, .input-less > input, .input-less0 > input, .input-minor > input, .input-minor0 > input, .input-main > input, .input-main0 > input, .input-black > input, .input-black0 > input, .input-white > input, .input-white0 > input, .input-gray > input, .input-gray0 > input, .input-success-1 > input, .input-error-1 > input, .input-warning-1 > input, .input-info-1 > input, .input-less-1 > input, .input-minor-1 > input, .input-main-1 > input, .input-black-1 > input, .input-white-1 > input, .input-gray-1 > input, .input-success-2 > input, .input-error-2 > input, .input-warning-2 > input, .input-info-2 > input, .input-less-2 > input, .input-minor-2 > input, .input-main-2 > input, .input-black-2 > input, .input-white-2 > input, .input-gray-2 > input, .input-success-3 > input, .input-error-3 > input, .input-warning-3 > input, .input-info-3 > input, .input-less-3 > input, .input-minor-3 > input, .input-main-3 > input, .input-black-3 > input, .input-white-3 > input, .input-gray-3 > input, .input-success-4 > input, .input-error-4 > input, .input-warning-4 > input, .input-info-4 > input, .input-less-4 > input, .input-minor-4 > input, .input-main-4 > input, .input-black-4 > input, .input-white-4 > input, .input-gray-4 > input, input {
-  padding-right: 0.5em !important;
-}
-
-.padding-top-4 {
-  padding-top: 0.25em !important;
-}
-
-.padding-bottom-4 {
-  padding-bottom: 0.25em !important;
-}
-
 .padding-3 {
-  padding: 0.3125em 0.625em !important;
+  padding: 0.175em 0.35em !important;
 }
 
-.padding-left-3 {
-  padding-left: 0.625em !important;
+.padding-left-3, .input-success3 > input, .input-error3 > input, .input-warning3 > input, .input-info3 > input, .input-less3 > input, .input-minor3 > input, .input-main3 > input, .input-black3 > input, .input-white3 > input, .input-gray3 > input, .input-success2 > input, .input-error2 > input, .input-warning2 > input, .input-info2 > input, .input-less2 > input, .input-minor2 > input, .input-main2 > input, .input-black2 > input, .input-white2 > input, .input-gray2 > input, .input-success1 > input, .input-error1 > input, .input-warning1 > input, .input-info1 > input, .input-less1 > input, .input-minor1 > input, .input-main1 > input, .input-black1 > input, .input-white1 > input, .input-gray1 > input, .input-success > input, .input-success0 > input, .input-error > input, .input-error0 > input, .input-warning > input, .input-warning0 > input, .input-info > input, .input-info0 > input, .input-less > input, .input-less0 > input, .input-minor > input, .input-minor0 > input, .input-main > input, .input-main0 > input, .input-black > input, .input-black0 > input, .input-white > input, .input-white0 > input, .input-gray > input, .input-gray0 > input, .input-success-1 > input, .input-error-1 > input, .input-warning-1 > input, .input-info-1 > input, .input-less-1 > input, .input-minor-1 > input, .input-main-1 > input, .input-black-1 > input, .input-white-1 > input, .input-gray-1 > input, .input-success-2 > input, .input-error-2 > input, .input-warning-2 > input, .input-info-2 > input, .input-less-2 > input, .input-minor-2 > input, .input-main-2 > input, .input-black-2 > input, .input-white-2 > input, .input-gray-2 > input, .input-success-3 > input, .input-error-3 > input, .input-warning-3 > input, .input-info-3 > input, .input-less-3 > input, .input-minor-3 > input, .input-main-3 > input, .input-black-3 > input, .input-white-3 > input, .input-gray-3 > input, input {
+  padding-left: 0.35em !important;
 }
 
-.padding-right-3 {
-  padding-right: 0.625em !important;
+.padding-right-3, .input-success3 > input, .input-error3 > input, .input-warning3 > input, .input-info3 > input, .input-less3 > input, .input-minor3 > input, .input-main3 > input, .input-black3 > input, .input-white3 > input, .input-gray3 > input, .input-success2 > input, .input-error2 > input, .input-warning2 > input, .input-info2 > input, .input-less2 > input, .input-minor2 > input, .input-main2 > input, .input-black2 > input, .input-white2 > input, .input-gray2 > input, .input-success1 > input, .input-error1 > input, .input-warning1 > input, .input-info1 > input, .input-less1 > input, .input-minor1 > input, .input-main1 > input, .input-black1 > input, .input-white1 > input, .input-gray1 > input, .input-success > input, .input-success0 > input, .input-error > input, .input-error0 > input, .input-warning > input, .input-warning0 > input, .input-info > input, .input-info0 > input, .input-less > input, .input-less0 > input, .input-minor > input, .input-minor0 > input, .input-main > input, .input-main0 > input, .input-black > input, .input-black0 > input, .input-white > input, .input-white0 > input, .input-gray > input, .input-gray0 > input, .input-success-1 > input, .input-error-1 > input, .input-warning-1 > input, .input-info-1 > input, .input-less-1 > input, .input-minor-1 > input, .input-main-1 > input, .input-black-1 > input, .input-white-1 > input, .input-gray-1 > input, .input-success-2 > input, .input-error-2 > input, .input-warning-2 > input, .input-info-2 > input, .input-less-2 > input, .input-minor-2 > input, .input-main-2 > input, .input-black-2 > input, .input-white-2 > input, .input-gray-2 > input, .input-success-3 > input, .input-error-3 > input, .input-warning-3 > input, .input-info-3 > input, .input-less-3 > input, .input-minor-3 > input, .input-main-3 > input, .input-black-3 > input, .input-white-3 > input, .input-gray-3 > input, input {
+  padding-right: 0.35em !important;
 }
 
 .padding-top-3 {
-  padding-top: 0.3125em !important;
+  padding-top: 0.175em !important;
 }
 
 .padding-bottom-3 {
-  padding-bottom: 0.3125em !important;
+  padding-bottom: 0.175em !important;
 }
 
 .padding-2 {
-  padding: 0.375em 0.75em !important;
+  padding: 0.2em 0.4em !important;
 }
 
 .padding-left-2 {
-  padding-left: 0.75em !important;
+  padding-left: 0.4em !important;
 }
 
 .padding-right-2 {
-  padding-right: 0.75em !important;
+  padding-right: 0.4em !important;
 }
 
 .padding-top-2 {
-  padding-top: 0.375em !important;
+  padding-top: 0.2em !important;
 }
 
 .padding-bottom-2 {
-  padding-bottom: 0.375em !important;
+  padding-bottom: 0.2em !important;
 }
 
 .padding-1 {
-  padding: 0.4375em 0.875em !important;
+  padding: 0.225em 0.45em !important;
 }
 
 .padding-left-1 {
-  padding-left: 0.875em !important;
+  padding-left: 0.45em !important;
 }
 
 .padding-right-1 {
-  padding-right: 0.875em !important;
+  padding-right: 0.45em !important;
 }
 
 .padding-top-1 {
-  padding-top: 0.4375em !important;
+  padding-top: 0.225em !important;
 }
 
 .padding-bottom-1 {
-  padding-bottom: 0.4375em !important;
+  padding-bottom: 0.225em !important;
 }
 
 .padding0 {
-  padding: 0.5em 1em !important;
+  padding: 0.25em 0.5em !important;
 }
 
 .padding-left0 {
-  padding-left: 1em !important;
+  padding-left: 0.5em !important;
 }
 
 .padding-right0 {
-  padding-right: 1em !important;
+  padding-right: 0.5em !important;
 }
 
 .padding-top0 {
-  padding-top: 0.5em !important;
+  padding-top: 0.25em !important;
 }
 
 .padding-bottom0 {
-  padding-bottom: 0.5em !important;
+  padding-bottom: 0.25em !important;
 }
 
 .padding {
-  padding: 0.5em 1em !important;
+  padding: 0.25em 0.5em !important;
 }
 
 .padding-left {
-  padding-left: 1em !important;
+  padding-left: 0.5 !important;
 }
 
 .padding-right {
-  padding-right: 1em !important;
+  padding-right: 0.5em !important;
 }
 
 .padding-top {
-  padding-top: 0.5em !important;
+  padding-top: 0.25em !important;
 }
 
 .padding-bottom {
-  padding-bottom: 0.5em !important;
+  padding-bottom: 0.25em !important;
 }
 
 .padding1 {
-  padding: 0.5625em 1.125em !important;
+  padding: 0.275em 0.55em !important;
 }
 
 .padding-left1 {
-  padding-left: 1.125em !important;
+  padding-left: 0.55em !important;
 }
 
 .padding-right1 {
-  padding-right: 1.125em !important;
+  padding-right: 0.55em !important;
 }
 
 .padding-top1 {
-  padding-top: 0.5625em !important;
+  padding-top: 0.275em !important;
 }
 
 .padding-bottom1 {
-  padding-bottom: 0.5625em !important;
+  padding-bottom: 0.275em !important;
 }
 
 .padding2 {
-  padding: 0.625em 1.25em !important;
+  padding: 0.3em 0.6em !important;
 }
 
 .padding-left2 {
-  padding-left: 1.25em !important;
+  padding-left: 0.6em !important;
 }
 
 .padding-right2 {
-  padding-right: 1.25em !important;
+  padding-right: 0.6em !important;
 }
 
 .padding-top2 {
-  padding-top: 0.625em !important;
+  padding-top: 0.3em !important;
 }
 
 .padding-bottom2 {
-  padding-bottom: 0.625em !important;
+  padding-bottom: 0.3em !important;
 }
 
 .padding3 {
-  padding: 0.6875em 1.375em !important;
+  padding: 0.325em 0.65em !important;
 }
 
 .padding-left3 {
-  padding-left: 1.375em !important;
+  padding-left: 0.65em !important;
 }
 
 .padding-right3 {
-  padding-right: 1.375em !important;
+  padding-right: 0.65em !important;
 }
 
 .padding-top3 {
-  padding-top: 0.6875em !important;
+  padding-top: 0.325em !important;
 }
 
 .padding-bottom3 {
-  padding-bottom: 0.6875em !important;
-}
-
-.padding4 {
-  padding: 0.75em 1.5em !important;
-}
-
-.padding-left4 {
-  padding-left: 1.5em !important;
-}
-
-.padding-right4 {
-  padding-right: 1.5em !important;
-}
-
-.padding-top4 {
-  padding-top: 0.75em !important;
-}
-
-.padding-bottom4 {
-  padding-bottom: 0.75em !important;
-}
-
-.margin-4 {
-  margin: 0.25em 0.5em !important;
-}
-
-.margin-left-4 {
-  margin-left: 0.5em !important;
-}
-
-.margin-right-4 {
-  margin-right: 0.5em !important;
-}
-
-.margin-top-4 {
-  margin-top: 0.25em !important;
-}
-
-.margin-bottom-4 {
-  margin-bottom: 0.25em !important;
+  padding-bottom: 0.325em !important;
 }
 
 .margin-3 {
-  margin: 0.3125em 0.625em !important;
+  margin: 0.35em 0.7em !important;
 }
 
 .margin-left-3 {
-  margin-left: 0.625em !important;
+  margin-left: 0.7em !important;
 }
 
 .margin-right-3 {
-  margin-right: 0.625em !important;
+  margin-right: 0.7em !important;
 }
 
 .margin-top-3 {
-  margin-top: 0.3125em !important;
+  margin-top: 0.35em !important;
 }
 
 .margin-bottom-3 {
-  margin-bottom: 0.3125em !important;
+  margin-bottom: 0.35em !important;
 }
 
 .margin-2 {
-  margin: 0.375em 0.75em !important;
+  margin: 0.4em 0.8em !important;
 }
 
 .margin-left-2 {
-  margin-left: 0.75em !important;
+  margin-left: 0.8em !important;
 }
 
 .margin-right-2 {
-  margin-right: 0.75em !important;
+  margin-right: 0.8em !important;
 }
 
 .margin-top-2 {
-  margin-top: 0.375em !important;
+  margin-top: 0.4em !important;
 }
 
 .margin-bottom-2 {
-  margin-bottom: 0.375em !important;
+  margin-bottom: 0.4em !important;
 }
 
 .margin-1 {
-  margin: 0.4375em 0.875em !important;
+  margin: 0.45em 0.9em !important;
 }
 
 .margin-left-1 {
-  margin-left: 0.875em !important;
+  margin-left: 0.9em !important;
 }
 
 .margin-right-1 {
-  margin-right: 0.875em !important;
+  margin-right: 0.9em !important;
 }
 
 .margin-top-1 {
-  margin-top: 0.4375em !important;
+  margin-top: 0.45em !important;
 }
 
 .margin-bottom-1 {
-  margin-bottom: 0.4375em !important;
+  margin-bottom: 0.45em !important;
 }
 
 .margin0 {
@@ -331,94 +271,63 @@
 }
 
 .margin1 {
-  margin: 0.5625em 1.125em !important;
+  margin: 0.55em 1.1em !important;
 }
 
 .margin-left1 {
-  margin-left: 1.125em !important;
+  margin-left: 1.1em !important;
 }
 
 .margin-right1 {
-  margin-right: 1.125em !important;
+  margin-right: 1.1em !important;
 }
 
 .margin-top1 {
-  margin-top: 0.5625em !important;
+  margin-top: 0.55em !important;
 }
 
 .margin-bottom1 {
-  margin-bottom: 0.5625em !important;
+  margin-bottom: 0.55em !important;
 }
 
 .margin2 {
-  margin: 0.625em 1.25em !important;
+  margin: 0.6em 1.2em !important;
 }
 
 .margin-left2 {
-  margin-left: 1.25em !important;
+  margin-left: 1.2em !important;
 }
 
 .margin-right2 {
-  margin-right: 1.25em !important;
+  margin-right: 1.2em !important;
 }
 
 .margin-top2 {
-  margin-top: 0.625em !important;
+  margin-top: 0.6em !important;
 }
 
 .margin-bottom2 {
-  margin-bottom: 0.625em !important;
+  margin-bottom: 0.6em !important;
 }
 
 .margin3 {
-  margin: 0.6875em 1.375em !important;
+  margin: 0.65em 1.3em !important;
 }
 
 .margin-left3 {
-  margin-left: 1.375em !important;
+  margin-left: 1.3em !important;
 }
 
 .margin-right3 {
-  margin-right: 1.375em !important;
+  margin-right: 1.3em !important;
 }
 
 .margin-top3 {
-  margin-top: 0.6875em !important;
+  margin-top: 0.65em !important;
 }
 
 .margin-bottom3 {
-  margin-bottom: 0.6875em !important;
-}
-
-.margin4 {
-  margin: 0.75em 1.5em !important;
-}
-
-.margin-left4 {
-  margin-left: 1.5em !important;
-}
-
-.margin-right4 {
-  margin-right: 1.5em !important;
-}
-
-.margin-top4 {
-  margin-top: 0.75em !important;
-}
-
-.margin-bottom4 {
-  margin-bottom: 0.75em !important;
-}
-
-.box-shadow-4 {
-  box-shadow: 0 0 8px 0 #bbbbbb inset;
-}
-.box-shadow-4:active {
-  box-shadow: 0 0 -2px 0 #bbbbbb inset;
-}
-
-.border-radius-4 {
-  border-radius: 0px;
+  margin-bottom: 0.65em !important;
 }
 
 .box-shadow-3 {
@@ -498,22 +407,11 @@
   border-radius: 6px;
 }
 
-.box-shadow4 {
-  box-shadow: 0 0 8px 0 #bbbbbb;
-}
-.box-shadow4:active {
-  box-shadow: 0 0 2px 0 #bbbbbb;
-}
-
-.border-radius4 {
-  border-radius: 8px;
-}
-
 .border-radius-pill {
   border-radius: 100rem;
 }
 
-.bg-gray, .input-success4 > header, .input-error4 > header, .input-warning4 > header, .input-info4 > header, .input-less4 > header, .input-minor4 > header, .input-main4 > header, .input-black4 > header, .input-white4 > header, .input-gray4 > header, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header, .input-success-4 > header, .input-error-4 > header, .input-warning-4 > header, .input-info-4 > header, .input-less-4 > header, .input-minor-4 > header, .input-main-4 > header, .input-black-4 > header, .input-white-4 > header, .input-gray-4 > header {
+.bg-gray, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header {
   background-color: #bbbbbb !important;
 }
 
@@ -633,7 +531,7 @@
   border-left: 1px solid #00cc00;
 }
 
-.bg-gray, .input-success4 > header, .input-error4 > header, .input-warning4 > header, .input-info4 > header, .input-less4 > header, .input-minor4 > header, .input-main4 > header, .input-black4 > header, .input-white4 > header, .input-gray4 > header, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header, .input-success-4 > header, .input-error-4 > header, .input-warning-4 > header, .input-info-4 > header, .input-less-4 > header, .input-minor-4 > header, .input-main-4 > header, .input-black-4 > header, .input-white-4 > header, .input-gray-4 > header {
+.bg-gray, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header {
   background-color: #bbbbbb !important;
 }
 
@@ -753,7 +651,7 @@
   border-right: 1px solid #00cc00;
 }
 
-.bg-gray, .input-success4 > header, .input-error4 > header, .input-warning4 > header, .input-info4 > header, .input-less4 > header, .input-minor4 > header, .input-main4 > header, .input-black4 > header, .input-white4 > header, .input-gray4 > header, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header, .input-success-4 > header, .input-error-4 > header, .input-warning-4 > header, .input-info-4 > header, .input-less-4 > header, .input-minor-4 > header, .input-main-4 > header, .input-black-4 > header, .input-white-4 > header, .input-gray-4 > header {
+.bg-gray, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header {
   background-color: #bbbbbb !important;
 }
 
@@ -873,7 +771,7 @@
   border-top: 1px solid #00cc00;
 }
 
-.bg-gray, .input-success4 > header, .input-error4 > header, .input-warning4 > header, .input-info4 > header, .input-less4 > header, .input-minor4 > header, .input-main4 > header, .input-black4 > header, .input-white4 > header, .input-gray4 > header, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header, .input-success-4 > header, .input-error-4 > header, .input-warning-4 > header, .input-info-4 > header, .input-less-4 > header, .input-minor-4 > header, .input-main-4 > header, .input-black-4 > header, .input-white-4 > header, .input-gray-4 > header {
+.bg-gray, .input-success3 > header, .input-error3 > header, .input-warning3 > header, .input-info3 > header, .input-less3 > header, .input-minor3 > header, .input-main3 > header, .input-black3 > header, .input-white3 > header, .input-gray3 > header, .input-success2 > header, .input-error2 > header, .input-warning2 > header, .input-info2 > header, .input-less2 > header, .input-minor2 > header, .input-main2 > header, .input-black2 > header, .input-white2 > header, .input-gray2 > header, .input-success1 > header, .input-error1 > header, .input-warning1 > header, .input-info1 > header, .input-less1 > header, .input-minor1 > header, .input-main1 > header, .input-black1 > header, .input-white1 > header, .input-gray1 > header, .input-success > header, .input-success0 > header, .input-error > header, .input-error0 > header, .input-warning > header, .input-warning0 > header, .input-info > header, .input-info0 > header, .input-less > header, .input-less0 > header, .input-minor > header, .input-minor0 > header, .input-main > header, .input-main0 > header, .input-black > header, .input-black0 > header, .input-white > header, .input-white0 > header, .input-gray > header, .input-gray0 > header, .input-success-1 > header, .input-error-1 > header, .input-warning-1 > header, .input-info-1 > header, .input-less-1 > header, .input-minor-1 > header, .input-main-1 > header, .input-black-1 > header, .input-white-1 > header, .input-gray-1 > header, .input-success-2 > header, .input-error-2 > header, .input-warning-2 > header, .input-info-2 > header, .input-less-2 > header, .input-minor-2 > header, .input-main-2 > header, .input-black-2 > header, .input-white-2 > header, .input-gray-2 > header, .input-success-3 > header, .input-error-3 > header, .input-warning-3 > header, .input-info-3 > header, .input-less-3 > header, .input-minor-3 > header, .input-main-3 > header, .input-black-3 > header, .input-white-3 > header, .input-gray-3 > header {
   background-color: #bbbbbb !important;
 }
 
@@ -1016,458 +914,8 @@ input:hover[disabled] {
   border-radius: 0 10rem 10rem 0;
 }
 
-.input-gray-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #bbbbbb !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-gray-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #bbbbbb;
-}
-.input-gray-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #bbbbbb;
-}
-.input-gray-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #bbbbbb;
-}
-.input-gray-4:hover {
-  border: 1px solid #bbbbbb;
-}
-.input-gray-4:active {
-  border: 1px solid #bbbbbb;
-}
-.input-gray-4:focus-visible {
-  border: 1px solid #bbbbbb;
-  outline: none;
-}
-
-.input-white-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid white !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-white-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: white;
-}
-.input-white-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: white;
-}
-.input-white-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: white;
-}
-.input-white-4:hover {
-  border: 1px solid white;
-}
-.input-white-4:active {
-  border: 1px solid white;
-}
-.input-white-4:focus-visible {
-  border: 1px solid white;
-  outline: none;
-}
-
-.input-black-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid black !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-black-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: black;
-}
-.input-black-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: black;
-}
-.input-black-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: black;
-}
-.input-black-4:hover {
-  border: 1px solid black;
-}
-.input-black-4:active {
-  border: 1px solid black;
-}
-.input-black-4:focus-visible {
-  border: 1px solid black;
-  outline: none;
-}
-
-.input-main-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #7700cc !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-main-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #7700cc;
-}
-.input-main-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #7700cc;
-}
-.input-main-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #7700cc;
-}
-.input-main-4:hover {
-  border: 1px solid #7700cc;
-}
-.input-main-4:active {
-  border: 1px solid #7700cc;
-}
-.input-main-4:focus-visible {
-  border: 1px solid #7700cc;
-  outline: none;
-}
-
-.input-minor-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #cc00cc !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-minor-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #cc00cc;
-}
-.input-minor-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #cc00cc;
-}
-.input-minor-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #cc00cc;
-}
-.input-minor-4:hover {
-  border: 1px solid #cc00cc;
-}
-.input-minor-4:active {
-  border: 1px solid #cc00cc;
-}
-.input-minor-4:focus-visible {
-  border: 1px solid #cc00cc;
-  outline: none;
-}
-
-.input-less-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #00cccc !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-less-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #00cccc;
-}
-.input-less-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #00cccc;
-}
-.input-less-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #00cccc;
-}
-.input-less-4:hover {
-  border: 1px solid #00cccc;
-}
-.input-less-4:active {
-  border: 1px solid #00cccc;
-}
-.input-less-4:focus-visible {
-  border: 1px solid #00cccc;
-  outline: none;
-}
-
-.input-info-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #bbbbbb !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-info-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #bbbbbb;
-}
-.input-info-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #bbbbbb;
-}
-.input-info-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #bbbbbb;
-}
-.input-info-4:hover {
-  border: 1px solid #bbbbbb;
-}
-.input-info-4:active {
-  border: 1px solid #bbbbbb;
-}
-.input-info-4:focus-visible {
-  border: 1px solid #bbbbbb;
-  outline: none;
-}
-
-.input-warning-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #cccc00 !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-warning-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #cccc00;
-}
-.input-warning-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #cccc00;
-}
-.input-warning-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #cccc00;
-}
-.input-warning-4:hover {
-  border: 1px solid #cccc00;
-}
-.input-warning-4:active {
-  border: 1px solid #cccc00;
-}
-.input-warning-4:focus-visible {
-  border: 1px solid #cccc00;
-  outline: none;
-}
-
-.input-error-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #cc0000 !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-error-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #cc0000;
-}
-.input-error-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #cc0000;
-}
-.input-error-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #cc0000;
-}
-.input-error-4:hover {
-  border: 1px solid #cc0000;
-}
-.input-error-4:active {
-  border: 1px solid #cc0000;
-}
-.input-error-4:focus-visible {
-  border: 1px solid #cc0000;
-  outline: none;
-}
-
-.input-success-4 {
-  font-size: 0.5rem;
-  line-height: 1.5em;
-  border: 1px solid #00cc00 !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-success-4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #00cc00;
-}
-.input-success-4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #00cc00;
-}
-.input-success-4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #00cc00;
-}
-.input-success-4:hover {
-  border: 1px solid #00cc00;
-}
-.input-success-4:active {
-  border: 1px solid #00cc00;
-}
-.input-success-4:focus-visible {
-  border: 1px solid #00cc00;
-  outline: none;
-}
-
 .input-gray-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -1512,7 +960,7 @@ input:hover[disabled] {
 }
 
 .input-white-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid white !important;
   display: flex;
@@ -1557,7 +1005,7 @@ input:hover[disabled] {
 }
 
 .input-black-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid black !important;
   display: flex;
@@ -1602,7 +1050,7 @@ input:hover[disabled] {
 }
 
 .input-main-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #7700cc !important;
   display: flex;
@@ -1647,7 +1095,7 @@ input:hover[disabled] {
 }
 
 .input-minor-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #cc00cc !important;
   display: flex;
@@ -1692,7 +1140,7 @@ input:hover[disabled] {
 }
 
 .input-less-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #00cccc !important;
   display: flex;
@@ -1737,7 +1185,7 @@ input:hover[disabled] {
 }
 
 .input-info-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -1782,7 +1230,7 @@ input:hover[disabled] {
 }
 
 .input-warning-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #cccc00 !important;
   display: flex;
@@ -1827,7 +1275,7 @@ input:hover[disabled] {
 }
 
 .input-error-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #cc0000 !important;
   display: flex;
@@ -1872,7 +1320,7 @@ input:hover[disabled] {
 }
 
 .input-success-3 {
-  font-size: 0.625rem;
+  font-size: 0.7rem;
   line-height: 1.5em;
   border: 1px solid #00cc00 !important;
   display: flex;
@@ -1917,7 +1365,7 @@ input:hover[disabled] {
 }
 
 .input-gray-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -1962,7 +1410,7 @@ input:hover[disabled] {
 }
 
 .input-white-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid white !important;
   display: flex;
@@ -2007,7 +1455,7 @@ input:hover[disabled] {
 }
 
 .input-black-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid black !important;
   display: flex;
@@ -2052,7 +1500,7 @@ input:hover[disabled] {
 }
 
 .input-main-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #7700cc !important;
   display: flex;
@@ -2097,7 +1545,7 @@ input:hover[disabled] {
 }
 
 .input-minor-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #cc00cc !important;
   display: flex;
@@ -2142,7 +1590,7 @@ input:hover[disabled] {
 }
 
 .input-less-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #00cccc !important;
   display: flex;
@@ -2187,7 +1635,7 @@ input:hover[disabled] {
 }
 
 .input-info-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -2232,7 +1680,7 @@ input:hover[disabled] {
 }
 
 .input-warning-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #cccc00 !important;
   display: flex;
@@ -2277,7 +1725,7 @@ input:hover[disabled] {
 }
 
 .input-error-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #cc0000 !important;
   display: flex;
@@ -2322,7 +1770,7 @@ input:hover[disabled] {
 }
 
 .input-success-2 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.5em;
   border: 1px solid #00cc00 !important;
   display: flex;
@@ -2367,7 +1815,7 @@ input:hover[disabled] {
 }
 
 .input-gray-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -2412,7 +1860,7 @@ input:hover[disabled] {
 }
 
 .input-white-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid white !important;
   display: flex;
@@ -2457,7 +1905,7 @@ input:hover[disabled] {
 }
 
 .input-black-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid black !important;
   display: flex;
@@ -2502,7 +1950,7 @@ input:hover[disabled] {
 }
 
 .input-main-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #7700cc !important;
   display: flex;
@@ -2547,7 +1995,7 @@ input:hover[disabled] {
 }
 
 .input-minor-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #cc00cc !important;
   display: flex;
@@ -2592,7 +2040,7 @@ input:hover[disabled] {
 }
 
 .input-less-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #00cccc !important;
   display: flex;
@@ -2637,7 +2085,7 @@ input:hover[disabled] {
 }
 
 .input-info-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -2682,7 +2130,7 @@ input:hover[disabled] {
 }
 
 .input-warning-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #cccc00 !important;
   display: flex;
@@ -2727,7 +2175,7 @@ input:hover[disabled] {
 }
 
 .input-error-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #cc0000 !important;
   display: flex;
@@ -2772,7 +2220,7 @@ input:hover[disabled] {
 }
 
 .input-success-1 {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   line-height: 1.5em;
   border: 1px solid #00cc00 !important;
   display: flex;
@@ -3717,7 +3165,7 @@ input:hover[disabled] {
 }
 
 .input-gray1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -3762,7 +3210,7 @@ input:hover[disabled] {
 }
 
 .input-white1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid white !important;
   display: flex;
@@ -3807,7 +3255,7 @@ input:hover[disabled] {
 }
 
 .input-black1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid black !important;
   display: flex;
@@ -3852,7 +3300,7 @@ input:hover[disabled] {
 }
 
 .input-main1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #7700cc !important;
   display: flex;
@@ -3897,7 +3345,7 @@ input:hover[disabled] {
 }
 
 .input-minor1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #cc00cc !important;
   display: flex;
@@ -3942,7 +3390,7 @@ input:hover[disabled] {
 }
 
 .input-less1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #00cccc !important;
   display: flex;
@@ -3987,7 +3435,7 @@ input:hover[disabled] {
 }
 
 .input-info1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -4032,7 +3480,7 @@ input:hover[disabled] {
 }
 
 .input-warning1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #cccc00 !important;
   display: flex;
@@ -4077,7 +3525,7 @@ input:hover[disabled] {
 }
 
 .input-error1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #cc0000 !important;
   display: flex;
@@ -4122,7 +3570,7 @@ input:hover[disabled] {
 }
 
 .input-success1 {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
   border: 1px solid #00cc00 !important;
   display: flex;
@@ -4167,7 +3615,7 @@ input:hover[disabled] {
 }
 
 .input-gray2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -4212,7 +3660,7 @@ input:hover[disabled] {
 }
 
 .input-white2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid white !important;
   display: flex;
@@ -4257,7 +3705,7 @@ input:hover[disabled] {
 }
 
 .input-black2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid black !important;
   display: flex;
@@ -4302,7 +3750,7 @@ input:hover[disabled] {
 }
 
 .input-main2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #7700cc !important;
   display: flex;
@@ -4347,7 +3795,7 @@ input:hover[disabled] {
 }
 
 .input-minor2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #cc00cc !important;
   display: flex;
@@ -4392,7 +3840,7 @@ input:hover[disabled] {
 }
 
 .input-less2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #00cccc !important;
   display: flex;
@@ -4437,7 +3885,7 @@ input:hover[disabled] {
 }
 
 .input-info2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -4482,7 +3930,7 @@ input:hover[disabled] {
 }
 
 .input-warning2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #cccc00 !important;
   display: flex;
@@ -4527,7 +3975,7 @@ input:hover[disabled] {
 }
 
 .input-error2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #cc0000 !important;
   display: flex;
@@ -4572,7 +4020,7 @@ input:hover[disabled] {
 }
 
 .input-success2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.5em;
   border: 1px solid #00cc00 !important;
   display: flex;
@@ -4617,7 +4065,7 @@ input:hover[disabled] {
 }
 
 .input-gray3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -4662,7 +4110,7 @@ input:hover[disabled] {
 }
 
 .input-white3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid white !important;
   display: flex;
@@ -4707,7 +4155,7 @@ input:hover[disabled] {
 }
 
 .input-black3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid black !important;
   display: flex;
@@ -4752,7 +4200,7 @@ input:hover[disabled] {
 }
 
 .input-main3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #7700cc !important;
   display: flex;
@@ -4797,7 +4245,7 @@ input:hover[disabled] {
 }
 
 .input-minor3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #cc00cc !important;
   display: flex;
@@ -4842,7 +4290,7 @@ input:hover[disabled] {
 }
 
 .input-less3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #00cccc !important;
   display: flex;
@@ -4887,7 +4335,7 @@ input:hover[disabled] {
 }
 
 .input-info3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #bbbbbb !important;
   display: flex;
@@ -4932,7 +4380,7 @@ input:hover[disabled] {
 }
 
 .input-warning3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #cccc00 !important;
   display: flex;
@@ -4977,7 +4425,7 @@ input:hover[disabled] {
 }
 
 .input-error3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #cc0000 !important;
   display: flex;
@@ -5022,7 +4470,7 @@ input:hover[disabled] {
 }
 
 .input-success3 {
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   line-height: 1.5em;
   border: 1px solid #00cc00 !important;
   display: flex;
@@ -5062,456 +4510,6 @@ input:hover[disabled] {
   border: 1px solid #00cc00;
 }
 .input-success3:focus-visible {
-  border: 1px solid #00cc00;
-  outline: none;
-}
-
-.input-gray4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #bbbbbb !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-gray4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #bbbbbb;
-}
-.input-gray4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #bbbbbb;
-}
-.input-gray4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #bbbbbb;
-}
-.input-gray4:hover {
-  border: 1px solid #bbbbbb;
-}
-.input-gray4:active {
-  border: 1px solid #bbbbbb;
-}
-.input-gray4:focus-visible {
-  border: 1px solid #bbbbbb;
-  outline: none;
-}
-
-.input-white4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid white !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-white4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: white;
-}
-.input-white4 > input {
-  width: 100%;
-  border: none;
-  caret-color: white;
-}
-.input-white4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: white;
-}
-.input-white4:hover {
-  border: 1px solid white;
-}
-.input-white4:active {
-  border: 1px solid white;
-}
-.input-white4:focus-visible {
-  border: 1px solid white;
-  outline: none;
-}
-
-.input-black4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid black !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-black4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: black;
-}
-.input-black4 > input {
-  width: 100%;
-  border: none;
-  caret-color: black;
-}
-.input-black4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: black;
-}
-.input-black4:hover {
-  border: 1px solid black;
-}
-.input-black4:active {
-  border: 1px solid black;
-}
-.input-black4:focus-visible {
-  border: 1px solid black;
-  outline: none;
-}
-
-.input-main4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #7700cc !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-main4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #7700cc;
-}
-.input-main4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #7700cc;
-}
-.input-main4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #7700cc;
-}
-.input-main4:hover {
-  border: 1px solid #7700cc;
-}
-.input-main4:active {
-  border: 1px solid #7700cc;
-}
-.input-main4:focus-visible {
-  border: 1px solid #7700cc;
-  outline: none;
-}
-
-.input-minor4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #cc00cc !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-minor4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #cc00cc;
-}
-.input-minor4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #cc00cc;
-}
-.input-minor4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #cc00cc;
-}
-.input-minor4:hover {
-  border: 1px solid #cc00cc;
-}
-.input-minor4:active {
-  border: 1px solid #cc00cc;
-}
-.input-minor4:focus-visible {
-  border: 1px solid #cc00cc;
-  outline: none;
-}
-
-.input-less4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #00cccc !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-less4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #00cccc;
-}
-.input-less4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #00cccc;
-}
-.input-less4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #00cccc;
-}
-.input-less4:hover {
-  border: 1px solid #00cccc;
-}
-.input-less4:active {
-  border: 1px solid #00cccc;
-}
-.input-less4:focus-visible {
-  border: 1px solid #00cccc;
-  outline: none;
-}
-
-.input-info4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #bbbbbb !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-info4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #bbbbbb;
-}
-.input-info4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #bbbbbb;
-}
-.input-info4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #bbbbbb;
-}
-.input-info4:hover {
-  border: 1px solid #bbbbbb;
-}
-.input-info4:active {
-  border: 1px solid #bbbbbb;
-}
-.input-info4:focus-visible {
-  border: 1px solid #bbbbbb;
-  outline: none;
-}
-
-.input-warning4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #cccc00 !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-warning4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #cccc00;
-}
-.input-warning4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #cccc00;
-}
-.input-warning4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #cccc00;
-}
-.input-warning4:hover {
-  border: 1px solid #cccc00;
-}
-.input-warning4:active {
-  border: 1px solid #cccc00;
-}
-.input-warning4:focus-visible {
-  border: 1px solid #cccc00;
-  outline: none;
-}
-
-.input-error4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #cc0000 !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-error4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #cc0000;
-}
-.input-error4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #cc0000;
-}
-.input-error4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #cc0000;
-}
-.input-error4:hover {
-  border: 1px solid #cc0000;
-}
-.input-error4:active {
-  border: 1px solid #cc0000;
-}
-.input-error4:focus-visible {
-  border: 1px solid #cc0000;
-  outline: none;
-}
-
-.input-success4 {
-  font-size: 1.5rem;
-  line-height: 1.5em;
-  border: 1px solid #00cc00 !important;
-  display: flex;
-  display: webkit-flex;
-}
-.input-success4 > header {
-  font-size: inherit;
-  line-height: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  width: auto !important;
-  align-items: center;
-  flex-direction: row;
-  padding: 0.25em;
-  color: #00cc00;
-}
-.input-success4 > input {
-  width: 100%;
-  border: none;
-  caret-color: #00cc00;
-}
-.input-success4 > footer {
-  font-size: inherit;
-  line-height: 1.5em;
-  padding: 0.25em;
-  width: 1.5em;
-  display: flex;
-  display: webkit-flex;
-  align-items: center;
-  flex-direction: row;
-  color: #00cc00;
-}
-.input-success4:hover {
-  border: 1px solid #00cc00;
-}
-.input-success4:active {
-  border: 1px solid #00cc00;
-}
-.input-success4:focus-visible {
   border: 1px solid #00cc00;
   outline: none;
 }

@@ -9,7 +9,7 @@ textarea{
     height: 100%;
     border: 1px solid $gray;
     outline: none;
-    @extend .padding-left-4, .padding-right-4; 
+    @extend .padding-left-3, .padding-right-3; 
     resize: none;
     box-sizing:border-box;
     &:hover{
@@ -19,9 +19,9 @@ textarea{
     }  
 }
 
-@for $i from -4 through 4{
+@for $i from -3 through 3{
     @each $key, $value in $semantic_range {
-        $range: $i* 0.125rem;
+        $range: $i* 0.1rem;
         .textarea-#{$key}#{$i}{
             // position:relative;
             font-size: 1rem + $range;

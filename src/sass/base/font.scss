@@ -69,8 +69,8 @@ u, ins,.u, .ins {
 
 
 
-@for $size from -4 through 4{
-    $divide: $size * 0.125;
+@for $size from -3 through 3{
+    $divide: $size * 0.1;
     .font-size#{$size}{
         font-size: (1 + $divide) * 1rem;
         // line-height: 1.5em;
@@ -136,7 +136,7 @@ u, ins,.u, .ins {
 // }
 
 @each $key, $color in $semantic_range {
-    @for $range from -4 through 4 {
+    @for $range from -3 through 3 {
         //生成颜色相关匹配色。
         @if $range  < 0{
             .font-#{$key}#{$range} {

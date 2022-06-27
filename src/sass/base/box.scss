@@ -15,47 +15,46 @@ $fontsize:16px;
 }
 //基础属性,一个格子
 
-@for $i from -4 through 4{
-    $divide: 1em + $i * 0.125;
+@for $i from -3 through 3{
+    $divide: 1em + $i * 0.1;
     .padding#{$i} {
-        padding: calc($divide/2) $divide !important;
+        padding: calc($divide/4) calc($divide/2) !important;
     }
     .padding-left#{$i} {
-        padding-left: $divide !important;
+        padding-left: calc($divide/2) !important;
     }
     .padding-right#{$i} {
-        padding-right: $divide !important;
+        padding-right: calc($divide/2) !important;
     }
     .padding-top#{$i} {
-        padding-top: calc($divide/2) !important;
+        padding-top: calc($divide/4) !important;
     }
     .padding-bottom#{$i} {
-        padding-bottom: calc($divide/2) !important;
+        padding-bottom: calc($divide/4) !important;
     }
     
     @if $i == 0 {
         .padding {
-            padding: 0.5em 1em !important;
-            
+            padding: calc($divide/4) calc($divide/2) !important;
         }
         .padding-left {
-            padding-left: 1em !important;
+            padding-left: 0.5 !important;
         }
         .padding-right {
-            padding-right: 1em !important;
+            padding-right: 0.5em !important;
         }
         .padding-top {
-            padding-top: 0.5em !important;
+            padding-top: 0.25em !important;
         }
         .padding-bottom {
-            padding-bottom: 0.5em !important;
+            padding-bottom: 0.25em !important;
         }       
     }
 }
 
 
-@for $i from -4 through 4{
-    $divide: 1em + $i * 0.125;
+@for $i from -3 through 3{
+    $divide: 1em + $i * 0.1;
     .margin#{$i} {
         margin: calc($divide/2) $divide !important;
     }
@@ -90,7 +89,7 @@ $fontsize:16px;
     }
 }
 //shadow
-@for $i from -4 through 4{
+@for $i from -3 through 3{
     @if $i < 0 {
         .box-shadow#{$i} {
             box-shadow: 0 0 math.abs($i)*2px 0 $gray inset;
