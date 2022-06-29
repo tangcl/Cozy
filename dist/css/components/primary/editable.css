@@ -1,0 +1,264 @@
+body {
+  counter-reset: section;
+}
+
+.cozy-edit {
+  width: calc(100% - 2rem);
+  caret-color: green;
+}
+.cozy-edit::before {
+  width: 2rem;
+  height: 100%;
+  background-color: #eee;
+  content: " ";
+}
+.cozy-edit > * {
+  margin-left: 2rem;
+}
+.cozy-edit:focus {
+  border: none;
+  outline: none;
+}
+.cozy-edit > p, .cozy-edit > div {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > p::before, .cozy-edit > div::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+  content: "";
+  color: #eee;
+}
+.cozy-edit > p:hover, .cozy-edit > div:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > p::after, .cozy-edit > div::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+}
+.cozy-edit > h1 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h1::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h1";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h1:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h1::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h2 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h2::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h2";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h2:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h2::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h3 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h3::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h3";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h3:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h3::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h4 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h4::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h4";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h4:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h4::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h5 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h5::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h5";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h5:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h5::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h6 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h6::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h6";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h6:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h6::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+
+/*# sourceMappingURL=editable.css.map */

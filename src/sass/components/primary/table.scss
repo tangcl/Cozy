@@ -7,7 +7,7 @@
 
     
 table{
-    width: inherit;
+    width: 100%;
     margin:0;
     padding:0;
     border-collapse: collapse;        
@@ -41,13 +41,9 @@ table{
         }
         &>tr {
             @extend .border-gray-bottom;
-            &:hover{
-                background-color: #bbb;
-            }
         }
         &>tr:nth-child(even){
             background-color: #eee;
-            
         }
         
     }

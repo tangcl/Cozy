@@ -4245,7 +4245,7 @@ u, ins, .u, .ins {
 }
 
 table {
-  width: inherit;
+  width: 100%;
   margin: 0;
   padding: 0;
   border-collapse: collapse;
@@ -4262,9 +4262,6 @@ table > tbody {
 }
 table > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
-}
-table > tbody > tr:hover {
-  background-color: #bbb;
 }
 table > tbody > tr:nth-child(even) {
   background-color: #eee;

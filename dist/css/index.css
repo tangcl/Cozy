@@ -23094,7 +23094,7 @@ u, ins, .u, .ins {
 }
 
 table {
-  width: inherit;
+  width: 100%;
   margin: 0;
   padding: 0;
   border-collapse: collapse;
@@ -23111,9 +23111,6 @@ table > tbody {
 }
 table > tbody > tr > td:not(:first-child) {
   border-left: 1px solid #eee;
-}
-table > tbody > tr:hover {
-  background-color: #bbb;
 }
 table > tbody > tr:nth-child(even) {
   background-color: #eee;
@@ -25479,20 +25476,6 @@ table > tbody > tr:nth-child(even) {
   justify-content: flex-start;
   align-content: top;
 }
-.modal-content > header {
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid #aaa;
-  font-size: 1.1rem;
-}
-.modal-content > section {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-.modal-content > footer {
-  padding-top: 0.5rem;
-  border-top: 1px solid #aaa;
-  font-size: 1.1rem;
-}
 
 .modal-center {
   position: absolute;
@@ -25506,7 +25489,8 @@ table > tbody > tr:nth-child(even) {
   align-items: center;
 }
 .modal-center > .modal-content {
-  box-shadow: 1px 1px 10px 0px #bbbbbb;
+  box-shadow: 0px 0px 1px 1px #ddd;
+  animation: modal-keyframe 1s;
 }
 
 .show-modal {
@@ -25550,8 +25534,7 @@ table > tbody > tr:nth-child(even) {
   align-items: center;
 }
 .modal-left > .modal-content {
-  box-shadow: 1px 1px 10px 0px #bbbbbb;
-  height: 100%;
+  box-shadow: 0px 0px 1px 1px #ddd;
   animation: modal-keyframe 1s;
 }
 
@@ -25567,7 +25550,7 @@ table > tbody > tr:nth-child(even) {
   align-items: center;
 }
 .modal-right > .modal-content {
-  box-shadow: 1px 1px 10px 0px #bbbbbb;
+  box-shadow: 0px 0px 1px 1px #ddd;
   animation: modal-keyframe 1s;
 }
 
@@ -25583,7 +25566,7 @@ table > tbody > tr:nth-child(even) {
   align-items: flex-end;
 }
 .modal-bottom > .modal-content {
-  box-shadow: 1px 1px 10px 0px #bbbbbb;
+  box-shadow: 0px 0px 1px 1px #ddd;
   animation: modal-height 1s;
 }
 
@@ -50527,6 +50510,269 @@ textarea:hover[disabled] {
 .textarea-success3:focus-visible {
   border: 1px solid #00cc00;
   outline: none;
+}
+
+body {
+  counter-reset: section;
+}
+
+.cozy-edit {
+  width: calc(100% - 2rem);
+  caret-color: green;
+}
+.cozy-edit::before {
+  width: 2rem;
+  height: 100%;
+  background-color: #eee;
+  content: " ";
+}
+.cozy-edit > * {
+  margin-left: 2rem;
+}
+.cozy-edit:focus {
+  border: none;
+  outline: none;
+}
+.cozy-edit > p, .cozy-edit > div {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > p::before, .cozy-edit > div::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+  content: "";
+  color: #eee;
+}
+.cozy-edit > p:hover, .cozy-edit > div:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > p::after, .cozy-edit > div::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+}
+.cozy-edit > h1 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h1::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h1";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h1:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h1::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h2 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h2::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h2";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h2:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h2::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h3 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h3::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h3";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h3:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h3::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h4 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h4::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h4";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h4:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h4::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h5 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h5::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h5";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h5:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h5::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
+}
+.cozy-edit > h6 {
+  position: relative;
+  z-index: 10;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.cozy-edit > h6::before {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  content: "h6";
+  color: #eee;
+  font-weight: 100;
+}
+.cozy-edit > h6:hover {
+  border-bottom: 1px solid #eee;
+}
+.cozy-edit > h6::after {
+  position: absolute;
+  top: 0;
+  right: -2rem;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: center;
+  counter-increment: section;
+  color: #bbb;
+  content: counter(section);
+  font-weight: 100;
 }
 
 /*# sourceMappingURL=index.css.map */
